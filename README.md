@@ -31,6 +31,11 @@ Relatório descritivo e público sobre **o que os candidatos a governador dizem,
 
 ![Mapa do descompasso](outputs/figures/15_mapa_descompasso.png)
 
+## Para ler rápido
+
+- [Sumário executivo (6 páginas, PDF)](publicacoes/sumario_executivo_pt.pdf)
+- [One-page em português (PDF)](publicacoes/one_page_pt.pdf) · [One-page in English (PDF)](publicacoes/one_page_en.pdf)
+
 ## Método em uma página
 
 1. **Coleta** (TSE, dados abertos): cadastro, situação da candidatura e planos em PDF; universo = deferidos com plano. PDFs escaneados passam por OCR (Tesseract).
