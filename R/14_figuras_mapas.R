@@ -9,8 +9,8 @@ suppressPackageStartupMessages({library(ggplot2); library(patchwork); library(ge
 tab <- function(n) fread(file.path(DIR_TAB, n), encoding = "UTF-8")
 al  <- tab("t15_alinhamento_uf.csv"); ex <- tab("t13_exposicao_uf_tipo.csv"); uf_t <- tab("t03_por_uf.csv")
 mun <- fread(here::here("config", "municipios_por_uf.csv"), encoding = "UTF-8")
-ROT_T <- c(hidro = "Enchente e alagamento", seca = "Seca e estiagem", fogo = "Queimadas e incêndios")
-COR_T <- setNames(c(COR$s1, COR$s2, COR$s3), ROT_T)
+ROT_T <- c(hidro = "Enchente e alagamento", seca = "Seca e estiagem", fogo = "Queimadas e incêndios", movimento_massa = "Deslizamento e erosão")
+COR_T <- setNames(c(COR$s1, COR$s2, COR$s3, COR$s7), ROT_T)
 
 g <- read_state(year = 2020, simplified = TRUE, showProgress = FALSE)
 g <- merge(g, al[, .(uf, tipo_principal, pct_cita_principal)], by.x = "abbrev_state", by.y = "uf", all.x = TRUE)
