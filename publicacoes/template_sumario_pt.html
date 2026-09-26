@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="utf-8"><title>Risco e desastre nos planos de governo (2026): sumário executivo</title>
+<link rel="stylesheet" href="estilo_pub.css"></head><body>
+
+<!-- 1. CAPA -->
+<section class="page cover">
+  <div class="arte1"></div><div class="arte2"></div><div class="arte3"></div>
+  <div class="in">
+    <span class="selo">Sumário executivo · Relatório descritivo</span>
+    <h1>Risco e desastre nos planos de governo dos candidatos a governador</h1>
+    <div class="sub">O que {{N}} candidatos dizem, e deixam de dizer, sobre enchentes, secas, queimadas e deslizamentos, antes das eleições de 2026.</div>
+  </div>
+  <div class="autor"><b>Anderson Henrique</b><br>
+    Doutor em Ciência Política (UFPE) · Pós-doutorado, CEM/USP, com apoio da FAPESP<br>
+    Pesquisador colaborador, Ipea · INCT QualiGov<br>
+    Coleta congelada em {{DATA_COLETA}} · {{ANO}}</div>
+  <div class="kpis-capa">
+    <div><div class="n">{{P_MENCAO}}%</div><div class="l">mencionam risco ou desastre no plano</div></div>
+    <div><div class="n">{{P_ACAO}}%</div><div class="l">têm ação concreta na maior parte das passagens</div></div>
+    <div><div class="n">{{N_META}}</div><div class="l">ligam a ação a meta, prazo, indicador ou orçamento</div></div>
+    <div><div class="n">{{N_PROM}}</div><div class="l">prometem um valor em reais para o tema</div></div>
+  </div>
+</section>
+
+<!-- 2. POR QUE IMPORTA E O QUE FIZEMOS -->
+<section class="page">
+  <div class="topbar"><span><b>Risco e desastre nos planos de governo (2026)</b> · Sumário executivo</span><span>Henrique, A.</span></div>
+  <h2><span class="num">1</span> Por que olhar os planos</h2>
+  <p class="lead">O governador é um ator central antes, durante e depois de cada desastre. O plano de governo é o documento público em que a promessa fica registrada, e quase ninguém o lê por esse ângulo.</p>
+  <div class="grid2">
+    <div class="card azul"><h3>A pergunta</h3><p><b>O que os candidatos a governador dizem, e deixam de dizer, sobre risco e desastre em seus planos de governo?</b></p><p>Medimos a presença do tema, as fases do ciclo de gestão de risco, os tipos de desastre e o grau de concretude, da menção genérica à ação com meta, prazo, indicador ou orçamento.</p></div>
+    <div class="card"><h3>Por que importa</h3><p>Pesquisas mostram que o eleitor tende a premiar o socorro depois do desastre mais do que a prevenção antes dele. Saber o que se promete antes de governar dá uma linha de base para cobrar depois da posse.</p></div>
+  </div>
+  <h3 style="margin-top:6mm">O universo</h3>
+  <div class="funil">
+    <div style="background:#0b2e5b;width:100%">{{N_GOV}} candidaturas a governador registradas nas 27 UFs</div>
+    <div style="background:#1f6fb2;width:88%">{{N_DEF}} com candidatura deferida</div>
+    <div style="background:#1baf7a;width:80%">{{N}} com plano de governo registrado (universo analisado)</div>
+  </div>
+  <h2 style="margin-top:6mm"><span class="num">2</span> Como fizemos</h2>
+  <div class="passos">
+    <div class="passo"><span class="k">1</span><b>Coleta</b>Planos em PDF, cadastro e situação da candidatura no TSE, congelados em {{DATA_COLETA}}; OCR nos escaneados.</div>
+    <div class="passo"><span class="k">2</span><b>Passagens</b>Um dicionário de risco e desastre seleciona frases; cada uma, com a vizinha, vira uma passagem.</div>
+    <div class="passo"><span class="k">3</span><b>Leitura por IA local</b>Dois modelos abertos, no computador do autor, aplicam um codebook em cinco dimensões, com o pacote acR.</div>
+    <div class="passo"><span class="k">4</span><b>Checagem</b>Concordância entre os modelos e revisão manual das passagens de maior concretude.</div>
+  </div>
+  <div class="grid2">
+    <div class="card"><h3>Cruzamentos</h3><p>Região, estado, partido e campo político, governadores em exercício, tamanho do plano e o histórico de desastres de cada estado (Atlas Digital de Desastres, MIDR/S2iD, 2013 a 2025).</p></div>
+    <div class="card"><h3>O que este relatório não é</h3><p>Não avalia a qualidade das políticas nem infere intenções. A ausência de menção não significa omissão deliberada: os planos variam de centenas a dezenas de milhares de palavras.</p></div>
+  </div>
+  <div class="foot">Fonte: planos de governo (TSE), coleta de {{DATA_COLETA}}.</div><div class="pg">2</div>
+</section>
+
+<!-- 3. O QUE OS PLANOS DIZEM -->
+<section class="page">
+  <div class="topbar"><span><b>Risco e desastre nos planos de governo (2026)</b> · Sumário executivo</span><span>Henrique, A.</span></div>
+  <h2><span class="num">3</span> O que os planos dizem</h2>
+  <p class="lead">O tema é quase consensual como menção e raro como compromisso verificável.</p>
+  <div class="grid3" style="margin-bottom:4mm">
+    <div class="card navy"><div class="n">{{N_MENCAO}}</div><div class="rot">de {{N}} candidatos ({{P_MENCAO}}%) mencionam risco ou desastre</div></div>
+    <div class="card"><div class="n">{{N_NADA}}</div><div class="rot">não têm nenhuma menção ao tema</div></div>
+    <div class="card verde"><div class="n">{{N_CICLO}}</div><div class="rot">cobrem prevenção, resposta e recuperação juntas</div></div>
+  </div>
+  <div class="fig"><div class="tit-fig">Maior nível de tratamento do tema por candidato</div><img src="../outputs/figures/01_perfil_nacional.png"><div class="cap">Fonte: planos de governo (TSE); classificação por modelos de linguagem.</div></div>
+  <p style="margin-top:3.5mm">O degrau mais numeroso é o de quem <b>menciona</b> o tema sem que a ação predomine ({{N_MENCIONA}} candidatos). Só {{N_ACAO}} têm ação concreta em metade ou mais das passagens, e {{N_META}} associam essa ação a meta, prazo, indicador ou orçamento.</p>
+  <div class="grid2" style="margin-top:3mm">
+    <div>
+      <div class="fig"><div class="tit-fig">Fases do ciclo citadas (% dos candidatos)</div><img src="../outputs/figures/03_fases_op.png"></div>
+    </div>
+    <div>
+      <h3 style="margin-top:0">Os planos olham para antes do desastre</h3>
+      <p>Prevenção e preparação aparecem em <b>{{P_PREV}}%</b> dos candidatos, contra {{P_RESP}}% de resposta e {{P_REC}}% de recuperação. Só {{P_CICLO}}% cobrem o ciclo inteiro.</p>
+      <p>As enchentes são o tipo de desastre mais citado ({{P_HIDRO}}%), seguidas da seca ({{P_SECA}}%) e das queimadas ({{P_FOGO}}%). Metade fala de desastres em geral, sem dizer qual.</p>
+    </div>
+  </div>
+  <div class="foot">Fonte: planos de governo (TSE); classificação por modelos de linguagem.</div><div class="pg">3</div>
+</section>
+
+<!-- 4. FALAR NAO E PROMETER -->
+<section class="page">
+  <div class="topbar"><span><b>Risco e desastre nos planos de governo (2026)</b> · Sumário executivo</span><span>Henrique, A.</span></div>
+  <h2><span class="num">4</span> Falar não é prometer</h2>
+  <p class="lead">Menos de 1% das passagens sobre o tema traz ação com meta, prazo, indicador ou orçamento.</p>
+  <div class="grid2">
+    <div class="fig"><div class="tit-fig">Especificidade das passagens (0 a 4)</div><img src="../outputs/figures/05_concretude_op.png"></div>
+    <div class="fig"><div class="tit-fig">O que acompanha as propostas (% dos que mencionam)</div><img src="../outputs/figures/06_ancoragem_op.png"></div>
+  </div>
+  <p style="margin-top:3.5mm">Das {{N_JANELAS}} passagens relevantes, {{PE1}}% descrevem o problema, {{PE2}}% são diretrizes sem ação identificável e {{PE3}}% são ação concreta. Os elementos que permitem <b>cobrar</b> uma promessa são os menos frequentes: meta quantificada ({{P_METAQ}}%), prazo ({{P_PRAZO}}%) e valor ou orçamento ({{P_ORC}}%).</p>
+  <div class="grid2" style="margin-top:3mm">
+    <div class="card ouro"><h3>Quanto dinheiro se promete</h3>
+      <p>Só <b>{{N_PROM}} candidatos</b> põem um valor em reais na própria promessa:</p>
+      <table class="mini"><tr><td>Tarcísio (SP)</td><td><b>R$ 25 bilhões</b> até 2029, em adaptação</td></tr><tr><td>Carlos Machado (SP)</td><td><b>R$ 1,5 bilhão</b> para Defesa Civil e bombeiros</td></tr><tr><td>Ben Mendes (MG)</td><td><b>R$ 300 a 520 milhões</b> em quatro anos</td></tr></table>
+      <p class="citar" style="margin-top:2mm">Os demais valores encontrados são balanço, crítica, dano registrado ou outro tema.</p></div>
+    <div class="card azul"><h3>Proposta, balanço e crítica se misturam</h3>
+      <p>O plano pode dizer "executamos", "os governos não fizeram" ou "vamos construir", e as três frases têm objeto concreto. Por isso revisamos à mão as passagens de nível mais alto: {{N_REB}} de {{N_REV}} foram rebaixadas por serem balanço ou crítica.</p>
+      <p>Entre os governadores em exercício, {{P_TV_INC}}% das passagens concretas trazem verbo de ação no passado, contra {{P_TV_NAO}}% nos demais.</p></div>
+  </div>
+  <h3>Quem fala como</h3>
+  <table class="mini"><tr><th style="width:30%">Registro</th><th>Exemplo (trecho do plano)</th></tr>
+  <tr><td><b>Meta e indicador</b> · Rafael Fonteles (PT-PI)</td><td>"Garantir que 100% dos municípios prioritários possuam plano de contingência atualizado."</td></tr>
+  <tr><td><b>Diretriz sem ação</b> · Marconi Perillo (PSDB-GO)</td><td>"Municípios e comunidades precisarão estar mais preparados para eventos climáticos extremos."</td></tr>
+  <tr><td><b>Balanço</b> · Raquel Lyra (PSD-PE)</td><td>"Executamos em Jardim Monte Verde a maior obra de proteção de encostas do Brasil."</td></tr></table>
+  <div class="foot">Fonte: planos de governo (TSE); classificação por modelos de linguagem e revisão manual.</div><div class="pg">4</div>
+</section>
+
+<!-- 5. TERRITORIO E CAMPO -->
+<section class="page">
+  <div class="topbar"><span><b>Risco e desastre nos planos de governo (2026)</b> · Sumário executivo</span><span>Henrique, A.</span></div>
+  <h2><span class="num">5</span> Território, campo político e tamanho do plano</h2>
+  <p class="lead">O plano nem sempre fala do desastre que o estado sofre.</p>
+  <div class="fig"><div class="tit-fig">O desastre que mais atinge cada estado e a proporção de candidatos que o citam</div><div style="width:74%;margin:0 auto"><img src="../outputs/figures/15_mapa_descompasso.png"></div><div class="cap">Fonte: Atlas Digital de Desastres (S2iD/MIDR, 2013 a 2025) e planos de governo (TSE). DF* tem só 16 registros.</div></div>
+  <div class="grid2" style="margin-top:3.5mm">
+    <div class="card">
+      <h3>O descompasso</h3>
+      <p>Em média, {{P_CITA_PRINC}}% dos candidatos citam o principal tipo de desastre do seu estado. No Piauí, a seca é <b>{{PI_SHARE}}%</b> dos registros, mas só <b>{{PI_CITA}}%</b> dos candidatos a citam; no Rio Grande do Sul, todos citam enchente.</p>
+      <p>{{N_NC}} candidatos não citam o principal desastre do próprio estado.</p>
+    </div>
+    <div class="card verde">
+      <h3>Quem mais sofre não promete mais</h3>
+      <p>A intensidade dos desastres de cada estado não se associa à concretude dos planos (correlação de Spearman de <b>{{RHO}}</b>, ou seja, praticamente nula).</p>
+    </div>
+  </div>
+  <div class="grid2" style="margin-top:3.5mm">
+    <div class="card azul">
+      <h3>Tamanho do plano</h3>
+      <p>Decide <b>se</b> o tema aparece: de {{P_ME_5MIL}}% nos planos com menos de 5 mil palavras a {{P_ME_20MIL}}% nos de mais de 20 mil. {{N_CURTOS}} planos têm menos de 2.000 palavras.</p>
+    </div>
+    <div class="card ouro">
+      <h3>Campo político</h3>
+      <p>Na extrema-esquerda, {{P_ME_EE}}% mencionam o tema, contra {{P_ME_DIR}}% na direita e extrema-direita e 100% na esquerda e centro-esquerda, em parte por planos mais enxutos. <b>A concretude não muda</b> entre campos.</p>
+    </div>
+  </div>
+  <div class="card" style="margin-top:3.5mm"><h3>Governadores em exercício</h3><p>Todos os {{N_INC}} mencionam o tema e {{P_INC_ACAO}}% têm ação concreta predominante, contra {{P_NAOINC_ACAO}}% dos demais, mas seus planos são mais longos e trazem mais balanço, e por isso a diferença não deve ser lida como efeito do cargo.</p></div>
+  <div class="foot">Fonte: planos de governo (TSE); Atlas Digital de Desastres (S2iD/MIDR).</div><div class="pg">5</div>
+</section>
+
+<!-- 6. CUIDADOS, PERGUNTAS E TRANSPARENCIA -->
+<section class="page">
+  <div class="topbar"><span><b>Risco e desastre nos planos de governo (2026)</b> · Sumário executivo</span><span>Henrique, A.</span></div>
+  <h2><span class="num">6</span> Como ler com cuidado</h2>
+  <div class="grid2">
+    <div class="card"><h3>Consistência não é acerto</h3><p>A classificação não foi validada por codificação humana. A concordância entre os dois modelos é boa para tipos de desastre e aceitável para relevância (alfa de Krippendorff de {{ALFA_REL}}), mas fraca para a concretude ({{ALFA_ESP}}), que deve ser lida como estimativa.</p></div>
+    <div class="card"><h3>Poucos casos por estado</h3><p>Cada UF tem de 4 a 10 candidatos, e cada partido, menos. Os percentuais são retratos dos candidatos de 2026, e não tendências do estado ou do partido.</p></div>
+    <div class="card"><h3>Ausência não é omissão</h3><p>O candidato pode tratar do tema em outros espaços da campanha, ou com outras palavras, que o dicionário capta só em parte.</p></div>
+    <div class="card"><h3>Exposição é registro</h3><p>O Atlas reúne registros feitos pelos municípios: estados que notificam mais aparecem mais expostos.</p></div>
+  </div>
+  <h2 style="margin-top:6mm">Perguntas para acompanhar a campanha</h2>
+  <div class="grid3">
+    <div class="card azul"><b>Qual é a meta?</b><p style="margin-top:1mm">Que ação de prevenção o candidato promete, com que meta, prazo e orçamento?</p></div>
+    <div class="card azul"><b>É o desastre do estado?</b><p style="margin-top:1mm">O plano fala do desastre que mais atinge o estado, e não só de "eventos extremos"?</p></div>
+    <div class="card azul"><b>É proposta ou balanço?</b><p style="margin-top:1mm">A frase diz o que será feito, ou apenas o que já se fez ou o que o outro não fez?</p></div>
+  </div>
+  <h2 style="margin-top:6mm">Transparência e replicação</h2>
+  <div class="grid2">
+    <div class="card"><h3>Código aberto</h3><p>Código, codebook, tabelas e figuras: <a href="{{REPO}}">{{REPO_CURTO}}</a>. A leitura dos planos usa o pacote <b>acR</b>, de autoria do pesquisador e disponível no CRAN.</p></div>
+    <div class="card"><h3>Uso de inteligência artificial</h3><p>Dois modelos abertos (<i>gpt-oss-20b</i> e <i>gemma-4-26b</i>) rodaram localmente como instrumento de medida. O Claude apoiou código e versões preliminares de texto. Pergunta, codebook, revisão manual e interpretação são do autor.</p></div>
+  </div>
+  <p class="citar" style="margin-top:4mm"><b>Como citar.</b> HENRIQUE, A. <i>Risco e desastre nos planos de governo dos candidatos a governador (2026)</i>. Sumário executivo. {{ANO}}. Disponível em: {{REPO}}. Versão completa do relatório disponível no repositório. Documento técnico não revisado por pares; as opiniões são do autor e não representam posição das instituições a que se vincula.</p>
+  <div class="foot">andersonheri@gmail.com · ORCID 0000-0002-1842-2725</div><div class="pg">6</div>
+</section>
+</body></html>

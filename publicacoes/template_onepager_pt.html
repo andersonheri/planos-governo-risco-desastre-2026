@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="pt-BR"><head><meta charset="utf-8"><title>Risco e desastre nos planos de governo (2026): one-page</title>
+<link rel="stylesheet" href="estilo_pub.css"></head><body>
+<section class="page one">
+  <div class="head"><div class="arte"></div>
+    <h1>Risco e desastre nos planos de governo dos candidatos a governador (2026)</h1>
+    <div class="sub">O que {{N}} candidatos dizem, e deixam de dizer, sobre enchentes, secas, queimadas e deslizamentos. Análise de conteúdo com IA local e o pacote acR.</div>
+  </div>
+  <div class="corpo">
+    <div class="kpis">
+      <div class="card navy"><div class="n">{{P_MENCAO}}%</div><div class="rot">mencionam risco ou desastre</div></div>
+      <div class="card"><div class="n">{{P_ACAO}}%</div><div class="rot">têm ação concreta na maior parte das passagens</div></div>
+      <div class="card ouro"><div class="n">{{N_META}}</div><div class="rot">ligam a ação a meta, prazo ou orçamento</div></div>
+      <div class="card verde"><div class="n">{{N_PROM}}</div><div class="rot">prometem valor em reais para o tema</div></div>
+    </div>
+    <div class="fig"><div class="tit-fig">O desastre que mais atinge cada estado e quantos candidatos o citam</div><img src="../outputs/figures/15_mapa_descompasso.png"></div>
+    <div class="grid2" style="margin-top:4mm;grid-template-columns:1.05fr 1fr">
+      <div class="fig"><div class="tit-fig">Quanto cada candidato trata do tema</div><img src="../outputs/figures/01_perfil_nacional_op.png"></div>
+      <div class="card azul" style="font-size:9.6pt">
+        <h3 style="font-size:11pt">O que os planos mostram</h3>
+        <ul class="b" style="margin:0">
+          <li><b>Menção sem promessa.</b> Só {{PE4}}% das passagens trazem ação com meta, prazo, indicador ou orçamento.</li>
+          <li><b>Antes do desastre.</b> Prevenção e preparação em {{P_PREV}}% dos candidatos; resposta em {{P_RESP}}%; recuperação em {{P_REC}}%.</li>
+          <li><b>O plano não segue o desastre.</b> No Piauí, a seca é {{PI_SHARE}}% dos registros, mas só {{PI_CITA}}% dos candidatos a citam. Quem mais sofre não promete mais (Spearman {{RHO}}).</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div class="rodape"><span><b>Anderson Henrique</b> · CEM/USP (FAPESP) · Ipea · INCT QualiGov · UFPE</span><span>Planos de governo (TSE, coleta de {{DATA_COLETA}}) · Atlas Digital de Desastres (MIDR/S2iD) · Código: {{REPO_CURTO}}</span></div>
+</section>
+</body></html>

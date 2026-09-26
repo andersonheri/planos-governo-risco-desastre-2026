@@ -1,0 +1,87 @@
+/* Estilo dos materiais de divulgacao (sumario executivo e one-page). A4, cartoes arredondados, numeros grandes. */
+:root {
+  --navy: #0b2e5b; --azul: #1f6fb2; --azul-claro: #dbe9f6; --verde: #1baf7a; --ouro: #eda100; --laranja: #eb6834;
+  --tinta: #1b2733; --cinza: #5a6673; --fundo: #f4f6f9; --linha: #d9dee5;
+}
+@page { size: A4; margin: 0; }
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; background: #fff; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+body { font-family: "Segoe UI", Calibri, Arial, sans-serif; color: var(--tinta); font-size: 10.2pt; line-height: 1.4; }
+h1, h2, h3 { font-family: Georgia, "Times New Roman", serif; margin: 0; color: var(--navy); line-height: 1.15; }
+.page { width: 210mm; height: 297mm; padding: 14mm 16mm 20mm 16mm; position: relative; overflow: hidden; page-break-after: always; break-after: page; background: #fff; }
+.page:last-child { page-break-after: auto; break-after: auto; }
+.topbar { display: flex; justify-content: space-between; align-items: center; font-size: 8.4pt; color: var(--cinza); border-bottom: 1.4px solid var(--linha); padding-bottom: 3mm; margin-bottom: 6mm; letter-spacing: .02em; }
+.topbar b { color: var(--navy); }
+.pg { position: absolute; bottom: 8mm; right: 16mm; font-size: 8.4pt; color: var(--cinza); }
+.foot { position: absolute; bottom: 8mm; left: 16mm; font-size: 8pt; color: var(--cinza); }
+
+/* capa */
+.cover { background: linear-gradient(155deg, #071f40 0%, #0b2e5b 55%, #14508f 100%); color: #fff; padding: 0; }
+.cover .arte1 { position: absolute; width: 150mm; height: 150mm; border-radius: 50%; background: rgba(27,175,122,.18); right: -55mm; top: -40mm; }
+.cover .arte2 { position: absolute; width: 90mm; height: 90mm; border-radius: 50%; background: rgba(237,161,0,.22); right: 20mm; top: 92mm; }
+.cover .arte3 { position: absolute; width: 60mm; height: 60mm; border-radius: 50%; border: 5px solid rgba(255,255,255,.18); left: -18mm; bottom: 70mm; }
+.cover .in { position: relative; padding: 22mm 18mm 0 18mm; }
+.cover .selo { display: inline-block; font-size: 9pt; letter-spacing: .16em; text-transform: uppercase; background: rgba(255,255,255,.14); padding: 2mm 4mm; border-radius: 20px; }
+.cover h1 { color: #fff; font-size: 33pt; margin: 14mm 0 5mm 0; max-width: 150mm; }
+.cover .sub { font-size: 13.5pt; max-width: 140mm; color: #d6e4f5; }
+.cover .autor { position: absolute; left: 18mm; bottom: 64mm; font-size: 10pt; color: #dbe7f6; line-height: 1.55; max-width: 120mm; }
+.cover .autor b { color: #fff; font-size: 13pt; }
+.kpis-capa { position: absolute; left: 18mm; right: 18mm; bottom: 16mm; display: flex; gap: 4mm; }
+.kpis-capa > div { flex: 1; background: rgba(255,255,255,.1); border: 1px solid rgba(255,255,255,.22); border-radius: 4mm; padding: 4mm; }
+.kpis-capa .n { font-family: Georgia, serif; font-size: 26pt; color: #fff; line-height: 1; }
+.kpis-capa .l { font-size: 8.6pt; color: #cfe0f3; margin-top: 1.5mm; }
+
+/* blocos */
+h2 { font-size: 20pt; margin-bottom: 2.5mm; }
+h2 .num { color: var(--verde); }
+h3 { font-size: 12.5pt; margin: 4mm 0 1.5mm 0; }
+.lead { font-size: 12pt; color: var(--cinza); margin-bottom: 5mm; }
+p { margin: 0 0 2.6mm 0; }
+.grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 5mm; }
+.grid3 { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 4mm; }
+.card { background: var(--fundo); border-radius: 4mm; padding: 4.5mm 5mm; border: 1px solid var(--linha); }
+.card.azul { background: var(--azul-claro); border-color: #bcd3ea; }
+.card.navy { background: var(--navy); color: #fff; border-color: var(--navy); }
+.card.navy h3, .card.navy .n { color: #fff; }
+.card.ouro { background: #fff5dc; border-color: #f0dba0; }
+.card.verde { background: #e3f6ee; border-color: #b6e5d1; }
+.card h3 { margin-top: 0; }
+.n { font-family: Georgia, serif; font-size: 27pt; color: var(--navy); line-height: 1; }
+.n small { font-size: 13pt; }
+.rot { font-size: 9.2pt; color: var(--cinza); margin-top: 1mm; }
+.card.navy .rot { color: #cfe0f3; }
+.fig { background: #fcfcfb; border: 1px solid var(--linha); border-radius: 3mm; padding: 2.5mm; }
+.fig img { width: 100%; display: block; }
+.fig .cap { font-size: 8.2pt; color: var(--cinza); margin-top: 1.5mm; }
+.tit-fig { font-size: 9.6pt; font-weight: 600; color: var(--navy); margin-bottom: 1.5mm; }
+ul.b { margin: 0 0 2.5mm 0; padding-left: 5mm; }
+ul.b li { margin-bottom: 1.6mm; }
+.passos { display: grid; grid-template-columns: repeat(4, 1fr); gap: 3mm; margin: 3mm 0 4mm 0; }
+.passo { background: #fff; border: 1px solid var(--linha); border-top: 4px solid var(--azul); border-radius: 3mm; padding: 3mm; font-size: 9.4pt; }
+.passo b { display: block; color: var(--navy); font-size: 10.4pt; margin-bottom: 1mm; }
+.passo .k { display: inline-block; width: 6.5mm; height: 6.5mm; border-radius: 50%; background: var(--azul); color: #fff; text-align: center; line-height: 6.5mm; font-size: 9pt; margin-bottom: 1.5mm; }
+.funil { display: flex; flex-direction: column; gap: 2mm; align-items: flex-start; margin: 3mm 0 5mm 0; }
+.funil div { border-radius: 2mm; padding: 2mm 3.5mm; color: #fff; font-size: 10pt; white-space: nowrap; }
+.tag { display: inline-block; font-size: 8.4pt; padding: .6mm 2.4mm; border-radius: 10px; background: var(--azul-claro); color: var(--navy); margin-right: 1.5mm; }
+.barra { height: 4.6mm; border-radius: 2mm; background: var(--azul); }
+table.mini { border-collapse: collapse; width: 100%; font-size: 9.2pt; }
+table.mini th, table.mini td { border-bottom: 1px solid var(--linha); padding: 1.4mm 1.6mm; text-align: left; vertical-align: top; }
+table.mini th { color: var(--navy); border-bottom: 2px solid var(--navy); }
+.citar { font-size: 8.8pt; color: var(--cinza); }
+a { color: var(--azul); text-decoration: none; }
+
+/* one-page */
+.one { padding: 0; }
+.one .head { background: linear-gradient(120deg, #071f40, #0b2e5b 60%, #14508f); color: #fff; padding: 11mm 14mm 8mm 14mm; position: relative; overflow: hidden; }
+.one .head .arte { position: absolute; width: 70mm; height: 70mm; border-radius: 50%; background: rgba(27,175,122,.22); right: -14mm; top: -26mm; }
+.one .head h1 { color: #fff; font-size: 22pt; max-width: 150mm; position: relative; }
+.one .head .sub { color: #d6e4f5; font-size: 10.6pt; margin-top: 2mm; max-width: 150mm; position: relative; }
+.one .corpo { padding: 6mm 14mm 0 14mm; }
+.one .kpis { display: grid; grid-template-columns: repeat(4, 1fr); gap: 3.5mm; margin-bottom: 4.5mm; }
+.one .kpis .card { padding: 3.2mm 4mm; }
+.one .kpis .n { font-size: 24pt; }
+.one .achados { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 3.5mm; margin-top: 4mm; }
+.one .achados .card { padding: 3.4mm 4mm; font-size: 9.3pt; }
+.one .achados h3 { font-size: 10.6pt; margin-bottom: 1mm; }
+.one .rodape { position: absolute; left: 0; right: 0; bottom: 0; background: var(--navy); color: #cfe0f3; padding: 4mm 14mm; font-size: 8pt; display: flex; justify-content: space-between; gap: 6mm; }
+.one .rodape b { color: #fff; }

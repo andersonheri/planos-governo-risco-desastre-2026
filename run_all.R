@@ -15,7 +15,7 @@ passos <- c(
   if (RODAR_DOWNLOAD) c("02_base_candidatos.R", "03_extrair_texto.R", "03b_ocr_escaneados.R", "04_trechos_dicionario.R", "04b_janelas.R"),
   "05_codebooks.R", if (RODAR_LLM) "06_classificar_llm.R",
   "07_ancoragem_regras.R", "08_consolidar.R", "09_analises.R", "10_figuras.R",
-  "11_exposicao.R", "12_figuras_exposicao.R", "13_quem_fala.R", "14_figuras_mapas.R", "15_extras.R")
+  "11_exposicao.R", "12_figuras_exposicao.R", "13_quem_fala.R", "14_figuras_mapas.R", "15_extras.R", "16_publicacoes.R")
 
 for (p in passos) {
   cat("\n=== ", p, " ===\n", sep = "")

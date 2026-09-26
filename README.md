@@ -68,6 +68,7 @@ Candidatos_gov/
 │   ├── 13_quem_fala.R              # destaques, verbos no passado e anexo dos 172 candidatos
 │   ├── 14_figuras_mapas.R          # mapa do descompasso e cruzamento exposição x concretude (quadrantes)
 │   ├── 15_extras.R                 # impressão digital dos planos, quem não cita o desastre do estado, expressões por campo
+│   ├── 16_publicacoes.R            # sumário executivo e one-page (PT e EN) a partir dos templates de publicacoes/
 │   ├── dicionario.R                # dicionário de termos de risco e desastre
 │   └── tema_graficos.R             # tema e paletas dos gráficos
 ├── config/
@@ -83,6 +84,11 @@ Candidatos_gov/
 ├── outputs/
 │   ├── tables/                     # tabelas finais e rótulos consolidados (versionados, pequenos)
 │   └── figures/                    # figuras em PNG usadas no relatório (versionadas)
+├── publicacoes/
+│   ├── sumario_executivo_pt.pdf    # sumário executivo de 6 páginas
+│   ├── one_page_pt.pdf             # one-page em português
+│   ├── one_page_en.pdf             # one-page em inglês
+│   └── template_*.html, estilo_pub.css   # templates e estilo (HTML para PDF)
 └── relatorios/
     ├── relatorio_final.qmd         # relatório em Quarto (HTML e PDF)
     ├── estilo.css                  # estilo do HTML (título em cima, fonte embaixo, tabelas com linhas)

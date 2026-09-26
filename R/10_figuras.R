@@ -45,7 +45,7 @@ d <- P[, .N, by = perfil][, pct := 100 * N / sum(N)]
 d <- merge(data.table(perfil = factor(NIVEIS_PERFIL, levels = NIVEIS_PERFIL)), d, by = "perfil", all.x = TRUE)[is.na(N), `:=`(N = 0L, pct = 0)]
 p <- ggplot(d, aes(x = pct, y = factor(perfil, levels = rev(NIVEIS_PERFIL)), fill = perfil)) +
   geom_col(width = 0.6) + geom_text(aes(label = paste0(N, " (", pct(pct), ")")), hjust = -0.1, colour = COR$ink2, size = 5) +
-  scale_fill_manual(values = COR_PERFIL, guide = "none") + scale_x_continuous(expand = expansion(mult = c(0, 0.22))) +
+  scale_fill_manual(values = COR_PERFIL, guide = "none") + scale_x_continuous(expand = expansion(mult = c(0, 0.45))) +
   labs(x = NULL, y = NULL) +
   theme_risco_h(15) + theme(axis.text.x = element_blank(), panel.grid.major.x = element_blank())
 salvar_fig(p, "01_perfil_nacional.png", h = 3.6)
@@ -58,7 +58,7 @@ f <- tab("t07_fases.csv"); f <- f[item != "nenhuma"]
 f[, rot := ROT[item]]
 p <- ggplot(f, aes(x = pct_candidatos, y = reorder(rot, pct_candidatos))) +
   geom_col(fill = COR$s1, width = 0.6) + geom_text(aes(label = paste0(candidatos, " (", pct(pct_candidatos), ")")), hjust = -0.1, colour = COR$ink2, size = 5) +
-  scale_x_continuous(expand = expansion(mult = c(0, 0.25))) + labs(x = NULL, y = NULL) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.45))) + labs(x = NULL, y = NULL) +
   theme_risco_h(15) + theme(axis.text.x = element_blank(), panel.grid.major.x = element_blank())
 salvar_fig(p, "03_fases_ciclo.png", h = 3)
 
@@ -66,7 +66,7 @@ salvar_fig(p, "03_fases_ciclo.png", h = 3)
 a <- tab("t08_ameacas.csv"); a[, rot := ROT[item]]
 p <- ggplot(a, aes(x = pct_candidatos, y = reorder(rot, pct_candidatos))) +
   geom_col(fill = COR$s1, width = 0.6) + geom_text(aes(label = paste0(candidatos, " (", pct(pct_candidatos), ")")), hjust = -0.1, colour = COR$ink2, size = 5) +
-  scale_x_continuous(expand = expansion(mult = c(0, 0.25))) + labs(x = NULL, y = NULL) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.45))) + labs(x = NULL, y = NULL) +
   theme_risco_h(15) + theme(axis.text.x = element_blank(), panel.grid.major.x = element_blank())
 salvar_fig(p, "04_tipos_ameaca.png", h = 4.4)
 
@@ -89,7 +89,7 @@ rot_a <- c(orgao = "Nomeia órgão responsável", prazo = "Cita prazo ou ano", i
 an[, rot := rot_a[elemento]]
 p <- ggplot(an, aes(x = pct_candidatos_com_mencao, y = reorder(rot, pct_candidatos_com_mencao))) +
   geom_col(fill = COR$s1, width = 0.6) + geom_text(aes(label = pct(pct_candidatos_com_mencao)), hjust = -0.1, colour = COR$ink2, size = 5) +
-  scale_x_continuous(expand = expansion(mult = c(0, 0.2))) + labs(x = NULL, y = NULL) +
+  scale_x_continuous(expand = expansion(mult = c(0, 0.4))) + labs(x = NULL, y = NULL) +
   theme_risco_h(15) + theme(axis.text.x = element_blank(), panel.grid.major.x = element_blank())
 salvar_fig(p, "06_ancoragem.png", h = 3)
 
@@ -130,7 +130,7 @@ if (file.exists(file.path(DIR_TAB, "concordancia_modelos.csv"))) {
   p <- ggplot(cc, aes(x = alpha_krippendorff, y = reorder(rot, alpha_krippendorff), colour = faixa)) +
     geom_vline(xintercept = c(0.67, 0.80), colour = COR$axis, linetype = "dashed", linewidth = 0.4) +
     geom_point(size = 3) + scale_colour_manual(values = c(COR$s3, COR$s4, COR$s2)) +
-    labs(x = "Alfa de Krippendorff", y = NULL) + theme_risco_h(15)
+    labs(x = "Alfa de Krippendorff", y = NULL) + theme_risco_h(15) + guides(colour = guide_legend(nrow = 3))
   salvar_fig(p, "10_concordancia_modelos.png", h = 5)
 }
 
