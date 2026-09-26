@@ -1,4 +1,4 @@
-# 11_exposicao.R -- exposicao historica a desastres por UF (Atlas Digital de Desastres /
+# 05_exposicao.R -- exposicao historica a desastres por UF (Atlas Digital de Desastres /
 # S2iD, MIDR) x tipos de desastre citados nos planos.
 #
 # Fonte: data/raw/atlas_desastres/BD_Atlas_1991_2025_v1.1_2026.08.06_Consolidado.csv

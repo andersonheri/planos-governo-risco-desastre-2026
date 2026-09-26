@@ -1,3 +1,4 @@
+# (antigo 06_classificar_llm.R; roda so com RODAR_LLM=1 e o LM Studio aberto)
 # 06_classificar_llm.R -- classifica trechos com ac_qual_code() (acR) usando
 # um modelo local do LM Studio. Retomavel: grava um RDS por lote e pula o que
 # ja foi feito.

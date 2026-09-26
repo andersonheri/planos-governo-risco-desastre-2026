@@ -56,26 +56,18 @@ Candidatos_gov/
 ├── _quarto.yml                     # projeto Quarto (renderiza o relatório)
 ├── R/
 │   ├── 00_setup.R                  # pacotes, caminhos, parâmetros do estudo e formatadores
-│   ├── 01_baixar_dados.R           # baixa candidatos e os 27 ZIPs de planos do TSE; grava manifesto com sha256
-│   ├── 02_base_candidatos.R        # monta a base de governadores (cadastro + situação) e o índice de PDFs
-│   ├── 03_extrair_texto.R          # extrai o texto dos PDFs (pdftotext) e consolida um texto por candidato
-│   ├── 03b_ocr_escaneados.R        # OCR (Tesseract) dos planos escaneados
-│   ├── 04_trechos_dicionario.R     # aplica o dicionário de risco e desastre (presença e densidade)
-│   ├── 04b_janelas.R               # monta as janelas (frase do termo ± 1 frase) e marca a frase focal
-│   ├── 05_codebooks.R              # codebooks do acR (relevância, fase, ameaça, especificidade, ancoragem)
-│   ├── 06_classificar_llm.R        # classificação com ac_qual_code() e modelo local (LM Studio); retomável
-│   ├── 07_ancoragem_regras.R       # órgão, orçamento, meta, prazo e indicador por regras textuais
-│   ├── 08_consolidar.R             # consolida rótulos, mede a concordância entre modelos, gera indicadores
-│   ├── 09_analises.R               # base analítica por candidato e tabelas do relatório (t01 a t12)
-│   ├── 10_figuras.R                # figuras de perfil, fases, ameaças, concretude, ancoragem e mapa por UF
-│   ├── 11_exposicao.R              # exposição histórica a desastres por UF (Atlas/S2iD) x tipos citados
-│   ├── 12_figuras_exposicao.R      # figuras da seção de exposição (heatmaps, ranking, registros por ano)
-│   ├── 13_quem_fala.R              # destaques, verbos no passado e anexo dos 172 candidatos
-│   ├── 14_figuras_mapas.R          # mapa do descompasso e cruzamento exposição x concretude (quadrantes)
-│   ├── 15_extras.R                 # impressão digital dos planos, quem não cita o desastre do estado, expressões por campo
-│   ├── 16_publicacoes.R            # sumário executivo e one-page (PT e EN) a partir dos templates de publicacoes/
-│   ├── dicionario.R                # dicionário de termos de risco e desastre
-│   └── tema_graficos.R             # tema e paletas dos gráficos
+│   ├── 01_coleta_e_texto.R         # download (TSE), base de candidatos, extração do texto dos PDFs e OCR
+│   ├── 02_janelas_e_codebook.R     # dicionário, janelas (frase focal), codebooks do acR, ancoragem e codebook/*.md
+│   ├── 03_classificar_llm.R        # classificação com ac_qual_code() e modelo local (LM Studio); retomável
+│   ├── 04_consolidar_analises.R    # consolida rótulos, concordância entre modelos, base analítica e tabelas t01 a t12
+│   ├── 05_exposicao.R              # exposição histórica a desastres por UF (Atlas/S2iD) x tipos citados
+│   ├── 06_quem_fala.R              # destaques, verbos no passado e anexo dos 172 candidatos
+│   ├── 07_figuras.R                # todas as figuras: perfil, exposição, mapas, impressão digital, termos por campo
+│   ├── 08_publicacoes.R            # sumário executivo e one-page (PT e EN) a partir dos templates de publicacoes/
+│   ├── dicionario.R                # dicionário de termos de risco e desastre e regras de ancoragem (ajudante)
+│   └── tema_graficos.R             # tema e paletas dos gráficos (ajudante)
+├── codebook/
+│   └── codebook_v0.8.md            # documentação legível do codebook (definições e exemplos reais; gerado pelo script 02)
 ├── config/
 │   ├── partidos_campos.csv         # classificação dos partidos (Bolognesi et al., 2023, e do autor)
 │   ├── municipios_por_uf.csv       # número de municípios por UF
@@ -113,8 +105,8 @@ install.packages("acR")   # disponível no CRAN (versão de desenvolvimento: rem
 ```
 
 - **Só o relatório** (usa os arquivos já incluídos em `outputs/` e `data/processed/`): `quarto render relatorios/relatorio_final.qmd` (ou `relatorios/renderizar.bat`, no Windows).
-- **Pipeline sem download nem LLM:** abrir o `.Rproj` e rodar `source("run_all.R")`.
-- **Pipeline completo:** `RODAR_DOWNLOAD=1 RODAR_LLM=1 RENDERIZAR=1` antes de rodar `run_all.R`. O download baixa cerca de 400 MB (TSE e Atlas Digital de Desastres), e a classificação exige o LM Studio em `localhost:1234` e leva horas. Cada arquivo baixado tem `sha256` registrado no manifesto da coleta.
+- **Pipeline leve** (sem coleta nem LLM): abrir o `.Rproj` e rodar `source("run_all.R")`, que refaz consolidação, análises, exposição, figuras, sumário e one-pages.
+- **Pipeline completo:** ligue as etapas pesadas por variável de ambiente antes de rodar `run_all.R`, por exemplo `Sys.setenv(RODAR_COLETA = "1", RODAR_DOWNLOAD = "1", RODAR_LLM = "1", RENDERIZAR = "1")`. O download baixa cerca de 400 MB (TSE e Atlas Digital de Desastres), e a classificação exige o LM Studio em `localhost:1234` e leva horas. Cada arquivo baixado tem `sha256` registrado no manifesto da coleta.
 
 ## Limitações que importam
 

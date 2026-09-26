@@ -29,3 +29,23 @@ FRACOS <- c("vulnerabilidade", "resiliencia", "drenagem", "galeria pluvial", "er
             "nivel do mar", "incendios", "desertificac", "contingencia", "alerta",
             "calamitos", "risco social", "riscos ambientais", "risco ambiental")
 REGEX_FRACO <- paste(FRACOS, collapse = "|")
+
+# ---- ancoragem por regras (antigo 07_ancoragem_regras.R) ------------------------------------------------
+# Elementos detectados na frase focal: orcamento, meta_quantificada, prazo, indicador e orgao.
+# No piloto os dois modelos concordaram pouco em detecta-los; regras sao deterministicas e reprodutiveis.
+REGRAS_ANC <- list(
+  orcamento = "r\\$|[0-9][0-9.,]* (milhoes?|bilhoes?|mil) de reais|[0-9][0-9.,]* (milhoes?|bilhoes?)\\b|orcamento (proprio|de|do|estadual)|fundo estadual de",
+  meta_quantificada = "\\b[0-9]+([.,][0-9]+)?\\s?%|\\b[0-9]{1,3}([.][0-9]{3})*\\s+(sirenes?|pluviometros?|estacoes|municipios|familias|unidades|obras|barragens|km|hectares|casas|moradias|reservatorios|cisternas|equipes)|percentual|por cento",
+  prazo = "\\b20[2-4][0-9]\\b|ate o? ?ano|em [0-9]+ (anos|meses)|primeiro ano|primeiros? [0-9]+ (dias|meses)|curto prazo|medio prazo|longo prazo|ate (o fim|final) do (mandato|governo)",
+  indicador = "indicador(es)?|monitorament|taxa de|metas? de|painel|avaliacao (anual|periodica)|linha de base",
+  orgao = "secretaria|defesa civil|cemaden|corpo de bombeiros|bombeiros|instituto|agencia|superintendencia|companhia|autarquia|fundacao|conselho|comite|centro (estadual|de monitoramento|de gerenciamento)"
+)
+
+ancoragem_regras <- function(textos) {
+  n <- normalizar(textos)
+  out <- as.data.table(sapply(REGRAS_ANC, function(rx) grepl(rx, n, perl = TRUE)))
+  setnames(out, paste0("anc_", names(REGRAS_ANC)))
+  out[, n_elementos_anc := rowSums(.SD)]
+  out
+}
+

@@ -1,4 +1,4 @@
-# 16_publicacoes.R -- sumario executivo (6 paginas) e one-page (PT e EN) em HTML + PDF.
+# 08_publicacoes.R -- sumario executivo (6 paginas) e one-page (PT e EN) em HTML + PDF.
 # Preenche os templates de publicacoes/ com os numeros das tabelas e converte para PDF com o Edge (headless).
 # Saidas: publicacoes/sumario_executivo_pt.pdf, one_page_pt.pdf, one_page_en.pdf (+ HTML) e figuras *_en.png.
 

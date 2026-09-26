@@ -648,7 +648,7 @@ Como um governador em exercício tem uma obra a mostrar, esperamos mais balanço
 tabela(tverb[order(-incumbente), .(`Candidatos` = ifelse(incumbente, "Governadores em exercício (aprox.)", "Demais candidatos"), `Passagens concretas` = passagens_concretas,
                                     `Com verbo de ação no passado` = com_passado, `% com verbo de ação no passado` = fmt_pct(pct, 1))],
        "t_tempo", "Passagens concretas com verbo de ação no pretérito, governadores em exercício e demais candidatos, 2026.",
-       fonte = "Planos de governo dos candidatos a governador (TSE); classificação por modelos de linguagem e regra textual sobre a frase focal (R/13_quem_fala.R).",
+       fonte = "Planos de governo dos candidatos a governador (TSE); classificação por modelos de linguagem e regra textual sobre a frase focal (R/06_quem_fala.R).",
        larg = c(0.36, NA, NA, NA), align = c("l", "r", "r", "r"))
 ```
 
@@ -1052,7 +1052,7 @@ Três passos ampliariam a confiança e o alcance dos resultados: uma validação
 
 # Transparência, replicabilidade e uso de inteligência artificial {.unnumbered}
 
-**Replicabilidade.** O código, o codebook, as tabelas derivadas, os exemplos e este relatório estão em um repositório público, para que qualquer pessoa possa refazer a coleta, a classificação e as análises: <https://github.com/andersonheri/planos-governo-risco-desastre-2026>. O pipeline está em scripts numerados (`R/00` a `R/14`), cada arquivo baixado tem seu `sha256` registrado no manifesto da coleta, e os dados de origem são públicos (TSE e Atlas Digital de Desastres). A classificação por modelos de linguagem foi feita com o pacote **acR**, desenvolvido pelo autor e também aberto (<https://github.com/andersonheri/acR>), de modo que o fluxo de codificação pode ser reaproveitado em outros corpora e codebooks.
+**Replicabilidade.** O código, o codebook, as tabelas derivadas, os exemplos e este relatório estão em um repositório público, para que qualquer pessoa possa refazer a coleta, a classificação e as análises: <https://github.com/andersonheri/planos-governo-risco-desastre-2026>. O pipeline está em scripts numerados (`R/00` a `R/08`), cada arquivo baixado tem seu `sha256` registrado no manifesto da coleta, e os dados de origem são públicos (TSE e Atlas Digital de Desastres). A classificação por modelos de linguagem foi feita com o pacote **acR**, desenvolvido pelo autor e também aberto (<https://github.com/andersonheri/acR>), de modo que o fluxo de codificação pode ser reaproveitado em outros corpora e codebooks.
 
 **Declaração sobre o uso de inteligência artificial.** Usamos inteligência artificial de duas formas, com funções e limites distintos.
 
@@ -1220,7 +1220,7 @@ Os estados no topo são aqueles em que os candidatos, em média, citam os tipos 
 
 # Anexo E. Codebook completo {.unnumbered}
 
-O codebook usado (versão v0.8, `R/05_codebooks.R`) é o mesmo para os dois modelos. Além das definições da @sec-codebook, valem as seguintes regras. **Relevância**, decisão em ordem: se o trecho contém qualquer expressão ligada a risco climático, evento extremo, adaptação climática, vulnerabilidade a eventos climáticos, Defesa Civil, desastre, calamidade ou emergência de origem natural, enchente, inundação, alagamento, cheia, seca, estiagem, deslizamento, queimada, incêndio florestal, área de risco, risco de rompimento de barragem, gestão de riscos, alerta, sirene ou contingência, é relevante, mesmo que breve; se nenhuma dessas ideias aparece e o trecho fala de mudança ou emergência climática, transição ecológica, economia verde ou resiliência climática de forma geral, é agenda climática geral; caso contrário, não é relevante. **Fase**, prevenção e preparação formam uma só categoria, e a adaptação exige menção explícita à mudança do clima ou à vulnerabilidade a eventos climáticos. **Ameaça**, "desastres em geral" só se marca quando nenhum tipo específico é citado, e mudança climática sem evento não é ameaça. **Especificidade**, só a frase focal é julgada, metas e valores de outros temas são ignorados e, na dúvida entre dois níveis, escolhe-se o menor.
+O codebook usado (versão v0.8, `R/02_janelas_e_codebook.R` e `codebook/codebook_v0.8.md`) é o mesmo para os dois modelos. Além das definições da @sec-codebook, valem as seguintes regras. **Relevância**, decisão em ordem: se o trecho contém qualquer expressão ligada a risco climático, evento extremo, adaptação climática, vulnerabilidade a eventos climáticos, Defesa Civil, desastre, calamidade ou emergência de origem natural, enchente, inundação, alagamento, cheia, seca, estiagem, deslizamento, queimada, incêndio florestal, área de risco, risco de rompimento de barragem, gestão de riscos, alerta, sirene ou contingência, é relevante, mesmo que breve; se nenhuma dessas ideias aparece e o trecho fala de mudança ou emergência climática, transição ecológica, economia verde ou resiliência climática de forma geral, é agenda climática geral; caso contrário, não é relevante. **Fase**, prevenção e preparação formam uma só categoria, e a adaptação exige menção explícita à mudança do clima ou à vulnerabilidade a eventos climáticos. **Ameaça**, "desastres em geral" só se marca quando nenhum tipo específico é citado, e mudança climática sem evento não é ameaça. **Especificidade**, só a frase focal é julgada, metas e valores de outros temas são ignorados e, na dúvida entre dois níveis, escolhe-se o menor.
 
 ```{r anexo-e1}
 #| output: asis
@@ -1233,7 +1233,7 @@ Os exemplos são reais, mas a classificação de cada um pode mudar entre os doi
 ```{r anexo-e2}
 #| output: asis
 tabela(qcb(cbex[dimensao == "Ancoragem (regras)"]), "q_ancor", "Codebook, dimensão ancoragem (detecção por regras textuais na frase focal): definição e exemplo real de cada elemento.",
-       fonte = "Regras textuais do estudo (R/07_ancoragem_regras.R) e planos de governo dos candidatos a governador (TSE).", tipo = "Quadro", larg = c(0.15, 0.32, 0.43))
+       fonte = "Regras textuais do estudo (REGRAS_ANC em R/dicionario.R) e planos de governo dos candidatos a governador (TSE).", tipo = "Quadro", larg = c(0.15, 0.32, 0.43))
 ```
 
 A ancoragem por regras é conservadora, e valores, prazos e metas escritos por extenso, sem algarismos ou palavras-chave, podem passar despercebidos.

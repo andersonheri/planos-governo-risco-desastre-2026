@@ -1,4 +1,4 @@
-# 13_quem_fala.R -- tabelas da secao "Quem fala e como fala" e dos anexos do relatorio.
+# 06_quem_fala.R -- tabelas da secao "Quem fala e como fala" e dos anexos do relatorio.
 # Saidas (outputs/tables/): t17_destaques.csv, t18_tempo_verbal.csv, t19_anexo_candidatos.csv.
 #
 # Tempo verbal: indicador APROXIMADO por regra textual. Marca a frase focal que traz verbo de
