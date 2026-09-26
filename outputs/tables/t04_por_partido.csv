@@ -1,27 +1,27 @@
 SG_PARTIDO,categoria_artigo,campo,n,com_mencao,pct_mencao,pct_so_clima,pct_acao,pct_meta,pct_ciclo_completo,pct_adaptacao,dens_mediana,palavras_mediana
 UP,extrema-esquerda,extrema-esquerda,17,9,52.9,0,23.5,0,0,11.8,0.25,3707
 PSTU,extrema-esquerda,extrema-esquerda,14,11,78.6,0,21.4,0,21.4,28.6,0.22,11196
-PL,direita,direita e extrema-direita,13,12,92.3,0,38.5,0,15.4,46.2,0.5,10963
-PSD,direita,direita e extrema-direita,12,10,83.3,8.3,25,0,25,58.3,0.37,11640
+PL,direita,direita,13,12,92.3,0,38.5,0,15.4,46.2,0.5,10963
+PSD,direita,direita,12,10,83.3,8.3,25,0,25,58.3,0.37,11640
 PT,esquerda,esquerda e centro-esquerda,12,12,100,0,41.7,8.3,16.7,75,0.33,16739
 PCO,extrema-esquerda,extrema-esquerda,11,0,0,0,0,0,0,0,0,2577
-MDB,direita,direita e extrema-direita,9,9,100,0,66.7,0,55.6,66.7,0.38,18250
-MISSÃO,extrema-direita,direita e extrema-direita,9,9,100,0,33.3,0,11.1,22.2,0.25,15775
-PSDB,direita,direita e extrema-direita,9,8,88.9,0,44.4,0,11.1,55.6,0.28,10597
+MDB,direita,direita,9,9,100,0,66.7,0,55.6,66.7,0.38,18250
+MISSÃO,extrema-direita,extrema-direita,9,9,100,0,33.3,0,11.1,22.2,0.25,15775
+PSDB,direita,direita,9,8,88.9,0,44.4,0,11.1,55.6,0.28,10597
 PSOL,extrema-esquerda,extrema-esquerda,9,7,77.8,11.1,66.7,11.1,0,33.3,0.35,5774
-REPUBLICANOS,direita,direita e extrema-direita,7,7,100,0,71.4,14.3,28.6,71.4,0.56,12688
-DC,direita,direita e extrema-direita,6,3,50,0,16.7,0,0,16.7,0.07,3383
-NOVO,direita,direita e extrema-direita,6,5,83.3,0,50,16.7,16.7,16.7,0.19,12083
-UNIÃO,direita,direita e extrema-direita,6,6,100,0,83.3,0,16.7,66.7,0.27,14815
-PP,direita,direita e extrema-direita,5,5,100,0,40,0,20,60,0.44,15205
+REPUBLICANOS,direita,direita,7,7,100,0,71.4,14.3,28.6,71.4,0.56,12688
+DC,direita,direita,6,3,50,0,16.7,0,0,16.7,0.07,3383
+NOVO,direita,direita,6,5,83.3,0,50,16.7,16.7,16.7,0.19,12083
+UNIÃO,direita,direita,6,6,100,0,83.3,0,16.7,66.7,0.27,14815
+PP,direita,direita,5,5,100,0,40,0,20,60,0.44,15205
 PSB,centro-esquerda,esquerda e centro-esquerda,5,5,100,0,60,0,20,80,0.56,12434
 PCB,extrema-esquerda,extrema-esquerda,4,1,25,0,0,0,0,25,0,9888
-AGIR,direita,direita e extrema-direita,3,1,33.3,0,0,0,0,0,0,885
-DEMOCRATA,direita,direita e extrema-direita,3,0,0,0,0,0,0,0,0,2010
+AGIR,direita,direita,3,1,33.3,0,0,0,0,0,0,885
+DEMOCRATA,direita,direita,3,0,0,0,0,0,0,0,0,2010
 MOBILIZA,centro-direita,centro e centro-direita,3,2,66.7,0,33.3,0,33.3,33.3,0.24,8577
 PDT,centro-esquerda,esquerda e centro-esquerda,3,3,100,0,0,0,100,66.7,1.49,16161
-PRD,extrema-direita,direita e extrema-direita,2,1,50,0,50,0,0,50,0.54,6136
+PRD,extrema-direita,extrema-direita,2,1,50,0,50,0,0,50,0.54,6136
 AVANTE,centro-direita,centro e centro-direita,1,1,100,0,0,0,0,100,0.25,19635
-PODE,direita,direita e extrema-direita,1,0,0,100,0,0,0,0,0,19646
+PODE,direita,direita,1,0,0,100,0,0,0,0,0,19646
 REDE,centro,centro e centro-direita,1,1,100,0,0,0,0,100,1.85,9704
 SOLIDARIEDADE,centro-direita,centro e centro-direita,1,0,0,0,0,0,0,0,0,3475

@@ -2,14 +2,17 @@ campo,perfil_n,perfil,n
 centro e centro-direita,1,Sem menção,2
 centro e centro-direita,3,Menciona risco e desastre,3
 centro e centro-direita,4,Propõe ação concreta,1
-direita e extrema-direita,1,Sem menção,13
-direita e extrema-direita,2,Só agenda climática geral,2
-direita e extrema-direita,3,Menciona risco e desastre,38
-direita e extrema-direita,4,Propõe ação concreta,36
-direita e extrema-direita,5,"Ação com meta, prazo ou orçamento",2
+direita,1,Sem menção,12
+direita,2,Só agenda climática geral,2
+direita,3,Menciona risco e desastre,32
+direita,4,Propõe ação concreta,32
+direita,5,"Ação com meta, prazo ou orçamento",2
 esquerda e centro-esquerda,3,Menciona risco e desastre,12
 esquerda e centro-esquerda,4,Propõe ação concreta,7
 esquerda e centro-esquerda,5,"Ação com meta, prazo ou orçamento",1
+extrema-direita,1,Sem menção,1
+extrema-direita,3,Menciona risco e desastre,6
+extrema-direita,4,Propõe ação concreta,4
 extrema-esquerda,1,Sem menção,26
 extrema-esquerda,2,Só agenda climática geral,1
 extrema-esquerda,3,Menciona risco e desastre,15

@@ -76,10 +76,10 @@ tot <- txt[, .(termo = names(TERMOS), pct_total = sapply(TERMOS, function(r) 100
 res <- merge(res, tot, by = "termo")
 fwrite(res, file.path(DIR_TAB, "t23_termos_por_campo.csv"))
 res[, termo := factor(termo, levels = tot[order(pct_total), termo])]
-res[, campo := factor(campo, levels = c("extrema-esquerda", "esquerda e centro-esquerda", "direita e extrema-direita"),
-                      labels = c("Extrema-esquerda", "Esquerda e centro-esquerda", "Direita e extrema-direita"))]
+res[, campo := factor(campo, levels = c("extrema-esquerda", "esquerda e centro-esquerda", "direita", "extrema-direita"),
+                      labels = c("Extrema-esquerda", "Esquerda e centro-esquerda", "Direita", "Extrema-direita"))]
 p <- ggplot(res, aes(x = pct, y = termo, fill = campo)) + geom_col(position = position_dodge(width = 0.8), width = 0.75) +
-  scale_fill_manual(values = c(COR$s1, COR$s4, COR$s7), name = NULL) + guides(fill = guide_legend(nrow = 2, reverse = TRUE)) +
+  scale_fill_manual(values = c(COR$s1, COR$s4, COR$s7, COR$s3), name = NULL) + guides(fill = guide_legend(nrow = 2, reverse = TRUE)) +
   scale_x_continuous(labels = function(x) paste0(x, "%"), expand = expansion(mult = c(0, 0.05))) +
   labs(x = "% das passagens do campo que trazem a expressão", y = NULL) + theme_risco_h(15)
 salvar_fig(p, "17_termos_por_campo.png", w = 9, h = 9)

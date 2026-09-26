@@ -1,11 +1,11 @@
 candidato,partido,uf,campo,passagens,pct_acao,palavras,incumbente,grupo
-DU PEREIRA,DC,TO,direita e extrema-direita,6,83.3,11742,FALSE,maiores
+DU PEREIRA,DC,TO,direita,6,83.3,11742,FALSE,maiores
 RAFAEL FONTELES,PT,PI,esquerda e centro-esquerda,6,83.3,13092,TRUE,maiores
-HILDON CHAVES,UNIÃO,RO,direita e extrema-direita,5,80,31117,FALSE,maiores
+HILDON CHAVES,UNIÃO,RO,direita,5,80,31117,FALSE,maiores
 JERÔNIMO RODRIGUES,PT,BA,esquerda e centro-esquerda,5,80,15715,FALSE,maiores
-MARCOS ROGÉRIO,PL,RO,direita e extrema-direita,5,80,43784,FALSE,maiores
-DELEGADO HUGGO,MISSÃO,CE,direita e extrema-direita,7,0,12785,FALSE,menores
-MARCONI PERILLO,PSDB,GO,direita e extrema-direita,7,0,24694,FALSE,menores
+MARCOS ROGÉRIO,PL,RO,direita,5,80,43784,FALSE,maiores
+DELEGADO HUGGO,MISSÃO,CE,extrema-direita,7,0,12785,FALSE,menores
+MARCONI PERILLO,PSDB,GO,direita,7,0,24694,FALSE,menores
 VIVIAN MENDES,UP,SP,extrema-esquerda,7,0,23300,FALSE,menores
-WILDER MORAIS,PL,GO,direita e extrema-direita,6,0,16716,FALSE,menores
+WILDER MORAIS,PL,GO,direita,6,0,16716,FALSE,menores
 ZÉ BATISTA,PSTU,CE,extrema-esquerda,6,0,16062,FALSE,menores

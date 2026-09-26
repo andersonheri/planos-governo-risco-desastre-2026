@@ -208,7 +208,7 @@ alfa   <- function(it) conc[item == it, alpha_krippendorff]
 vd <- function(x) format(round(unname(x), 2), decimal.mark = ",", nsmall = 2)
 pt <- function(p) if (p < 0.001) "p < 0,001" else paste0("p = ", format(round(p, 3), decimal.mark = ","))
 rot_campo <- c("extrema-esquerda" = "Extrema-esquerda", "esquerda e centro-esquerda" = "Esquerda e centro-esquerda",
-               "centro e centro-direita" = "Centro e centro-direita", "direita e extrema-direita" = "Direita e extrema-direita")
+               "centro e centro-direita" = "Centro e centro-direita", "direita" = "Direita", "extrema-direita" = "Extrema-direita")
 ```
 
 ::: {.content-visible when-format="html"}
@@ -388,7 +388,7 @@ As categorias mais consistentes são os tipos de ameaça específicos, como quei
 ## Outras variáveis e limitações de coleta
 
 - A exposição a desastres vem do Atlas Digital de Desastres no Brasil (Ministério da Integração e do Desenvolvimento Regional, com base no S2iD), com registros de 2013 a 2025, e mede os desastres registrados pelos municípios, e não o risco físico.
-- O campo político do partido segue a classificação de Bolognesi, Ribeiro e Codato (2023), em sete categorias, agregadas por nós em quatro grupos. Partidos renomeados foram associados aos seus antecessores. UP (extrema-esquerda), Missão e PRD (extrema-direita) e Democrata e União Brasil (direita) foram classificados por nós, por terem sido criados ou fundidos depois da pesquisa que fundamenta o artigo, e o PSD segue o artigo (direita) (@sec-campo e Anexo C).
+- O campo político do partido segue a classificação de Bolognesi, Ribeiro e Codato (2023), em sete categorias, agregadas por nós em cinco grupos. Partidos renomeados foram associados aos seus antecessores. UP (extrema-esquerda), Missão e PRD (extrema-direita) e Democrata e União Brasil (direita) foram classificados por nós, por terem sido criados ou fundidos depois da pesquisa que fundamenta o artigo, e o PSD segue o artigo (direita) (@sec-campo e Anexo C).
 - O dado aberto não traz a condição de candidato à reeleição. Usamos como aproximação a ocupação declarada ao TSE ("governador"), que também captura vices que assumiram o cargo (`r sum(P$incumbente)` candidatos).
 - A situação da candidatura muda ao longo da campanha, e os resultados refletem o estado de `r format(DATA_CONGELAMENTO, "%d/%m/%Y")`.
 - Planos escaneados dependem da qualidade do OCR.
@@ -542,7 +542,7 @@ d <- dest[, .(Grupo = ifelse(grupo == "maiores", "Maiores", "Menores"), Candidat
               Campo = rot_campo[campo], Passagens = passagens, `% com ação concreta` = fmt_pct(pct_acao, 0), Palavras = fmt_n(palavras))]
 tabela(d, "t_destaques", "Cinco maiores e cinco menores proporções de passagens com ação concreta, entre candidatos com cinco ou mais passagens relevantes, 2026.",
        fonte = "Planos de governo dos candidatos a governador (TSE); classificação por modelos de linguagem. * Governador em exercício (aproximação pela ocupação declarada).",
-       larg = c(0.10, 0.22, 0.12, 0.18, NA, NA, NA), align = c("l", "l", "l", "l", "r", "r", "r"))
+       larg = c(0.12, 0.20, 0.17, 0.18, NA, NA, NA), align = c("l", "l", "l", "l", "r", "r", "r"))
 ```
 
 Os dois grupos reúnem candidatos de campos diferentes, e o tamanho do plano não os separa, com medianas de `r fmt_n(median(dest[grupo == "maiores", palavras]))` palavras entre os maiores e de `r fmt_n(median(dest[grupo == "menores", palavras]))` entre os menores. O contraste está no modo de escrever: quem está no topo tende a converter o tema em programa com nome, responsável e meta, como o Piauí Preventivo, de Rafael Fonteles (PT-PI), enquanto quem está na base repete a necessidade de "prevenção" e de "preparação" sem dizer o que será feito, como veremos no caso de Marconi Perillo (PSDB-GO).
@@ -558,10 +558,10 @@ tabela(m5[, .(Candidato = paste0(NM_URNA_CANDIDATO, ifelse(incumbente, "*", ""))
               Passagens = n_janelas_relevantes, `% com ação concreta` = fmt_pct(pct_acao_concreta, 0), Palavras = fmt_n(palavras))],
        "t_meta", "Candidatos com ação concreta predominante e ao menos uma passagem com meta, prazo, indicador ou orçamento, 2026.",
        fonte = "Planos de governo dos candidatos a governador (TSE); classificação por modelos de linguagem, com revisão manual das passagens de nível 4. * Governador em exercício (aproximação).",
-       larg = c(0.24, 0.14, 0.24, NA, NA, NA), align = c("l", "l", "l", "r", "r", "r"))
+       larg = c(0.23, 0.20, 0.21, NA, NA, NA), align = c("l", "l", "l", "r", "r", "r"))
 ```
 
-São `r nrow(m5)` candidatos de `r length(unique(m5$campo))` campos diferentes, dos quais `r sum(m5$incumbente)` são governadores em exercício, e a mediana de extensão dos planos (`r fmt_n(median(m5$palavras))` palavras) se compara à mediana nacional (`r fmt_n(med_pal)`). Como o degrau exige, além da meta, que a ação predomine nas passagens do candidato, o grupo é pequeno por construção, e a lista deve ser lida como o topo de uma escala, e não como um ranking de qualidade das políticas.
+São `r nrow(m5)` candidatos de `r length(unique(m5$campo))` campos diferentes, dos quais `r sum(m5$incumbente)` são governadores em exercício, e a mediana de extensão dos planos (`r fmt_n(median(m5$palavras))` palavras) se compara à mediana nacional (`r fmt_n(med_pal)`). Como o degrau exige, além da meta, que a ação predomine nas passagens do candidato, um deles, Professor Roberio Paulino (PSOL-RN), chega ao degrau com uma única passagem, sobre um programa habitacional com meta de 50 mil moradias em que as áreas de risco são apenas critério de prioridade, e é o caso mais frágil da lista; o grupo é pequeno por construção, e a lista deve ser lida como o topo de uma escala, e não como um ranking de qualidade das políticas.
 
 ## Proposta com meta, prazo e indicador
 
@@ -833,20 +833,20 @@ Os registros são **administrativos e feitos pelos municípios**, de modo que me
 
 ## Como classificamos os partidos
 
-A posição ideológica dos partidos segue **Bolognesi, Ribeiro e Codato (2023)**, que classificam os partidos brasileiros em sete categorias (extrema-esquerda, esquerda, centro-esquerda, centro, centro-direita, direita e extrema-direita) a partir da nota média atribuída por cientistas políticos em uma escala de 0 a 10 (pesquisa UFPR/ABCP de 2018). Como o artigo é de 2018, associamos os partidos que mudaram de nome ao antecessor (por exemplo, PL ao antigo PR, Republicanos ao PRB, Agir ao PTC, Mobiliza ao PMN) e classificamos por conta própria os que resultaram de fusão ou foram criados depois. **União Brasil** (DEM + PSL) foi classificado como direita e **PRD** (PTB + Patriota) como extrema-direita. **UP, Missão e Democrata não existiam na pesquisa**, e os classificamos como extrema-esquerda, extrema-direita e direita, respectivamente. O PSD segue o artigo (direita). As classificações nossas, que não constam do artigo, aparecem com asterisco no Anexo C, que traz também a tabela completa. Como há poucos candidatos por partido, agregamos as sete categorias em quatro grupos, mantendo a categoria original nas tabelas.
+A posição ideológica dos partidos segue **Bolognesi, Ribeiro e Codato (2023)**, que classificam os partidos brasileiros em sete categorias (extrema-esquerda, esquerda, centro-esquerda, centro, centro-direita, direita e extrema-direita) a partir da nota média atribuída por cientistas políticos em uma escala de 0 a 10 (pesquisa UFPR/ABCP de 2018). Como o artigo é de 2018, associamos os partidos que mudaram de nome ao antecessor (por exemplo, PL ao antigo PR, Republicanos ao PRB, Agir ao PTC, Mobiliza ao PMN) e classificamos por conta própria os que resultaram de fusão ou foram criados depois. **União Brasil** (DEM + PSL) foi classificado como direita e **PRD** (PTB + Patriota) como extrema-direita. **UP, Missão e Democrata não existiam na pesquisa**, e os classificamos como extrema-esquerda, extrema-direita e direita, respectivamente. O PSD segue o artigo (direita). As classificações nossas, que não constam do artigo, aparecem com asterisco no Anexo C, que traz também a tabela completa. Como há poucos candidatos por partido, agregamos as sete categorias em cinco grupos, mantendo a categoria original nas tabelas. A extrema-esquerda e a extrema-direita ficam em grupos próprios, para não misturar posições opostas do espectro com as posições moderadas, e o centro e a centro-direita, com poucos candidatos, formam um grupo só.
 
 ## Perfil dos planos por campo
 
-A figura a seguir agrupa os candidatos nos quatro campos políticos e mostra, dentro de cada campo, a distribuição pelos cinco degraus do perfil.
+A figura a seguir agrupa os candidatos nos cinco campos políticos e mostra, dentro de cada campo, a distribuição pelos cinco degraus do perfil.
 
 ```{r fig-campo}
 #| output: asis
 figura("f_campo", "07_perfil_por_campo.png", "Perfil dos planos por campo político (percentual dos candidatos do grupo em cada degrau), 2026.",
-       fonte = "Planos de governo dos candidatos a governador (TSE); classificação de Bolognesi, Ribeiro e Codato (2023), com grupos agregados e partidos novos classificados pelo autor.")
+       fonte = "Planos de governo dos candidatos a governador (TSE); classificação de Bolognesi, Ribeiro e Codato (2023), com grupos agregados (extrema-esquerda e extrema-direita separadas) e partidos novos classificados pelo autor.")
 ```
 
 ```{r campo-analise}
-GD <- "direita e extrema-direita"; GE <- "esquerda e centro-esquerda"; GX <- "extrema-esquerda"; GC <- "centro e centro-direita"
+GD <- "direita"; GXD <- "extrema-direita"; GE <- "esquerda e centro-esquerda"; GX <- "extrema-esquerda"; GC <- "centro e centro-direita"
 gcp    <- function(g, v) campo[campo == g][[v]]
 curto_g <- P[, .(pc = 100 * mean(plano_curto)), by = campo]; pcurto <- function(g) curto_g[campo == g, pc]
 ord7 <- c("extrema-esquerda", "esquerda", "centro-esquerda", "centro", "centro-direita", "direita", "extrema-direita")
@@ -871,7 +871,7 @@ cx <- P[categoria_artigo == "extrema-direita"]
 
 ### O tamanho dos planos varia entre campos
 
-Antes de comparar campos, um fato sobre o próprio material, que é um achado. **Os planos da extrema-esquerda são muito mais enxutos que os dos demais campos.** A mediana é de `r fmt_n(gcp(GX, "palavras_mediana"))` palavras, e `r fmt_pct(pcurto(GX), 0)`% dos planos têm menos de `r fmt_n(LIMIAR_PLANO_CURTO)` palavras. Na direita e extrema-direita, a mediana é de `r fmt_n(gcp(GD, "palavras_mediana"))` palavras (`r fmt_pct(pcurto(GD), 0)`% de planos curtos), e na esquerda e centro-esquerda, de `r fmt_n(gcp(GE, "palavras_mediana"))` (`r fmt_pct(pcurto(GE), 0)`%). A **extrema-direita não é mais enxuta**, pois os `r nrow(cx)` candidatos de Missão e PRD têm mediana de `r fmt_n(median(cx$palavras))` palavras e nenhum plano curto. Esse contraste importa porque o tamanho do plano é o melhor preditor de o tema aparecer (@sec-tamanho). A `r ref("Figura", "f_campo")` e a `r ref("Tabela", "t_categorias")` mostram o perfil por campo e por categoria original.
+Antes de comparar campos, um fato sobre o próprio material, que é um achado. **Os planos da extrema-esquerda são muito mais enxutos que os dos demais campos.** A mediana é de `r fmt_n(gcp(GX, "palavras_mediana"))` palavras, e `r fmt_pct(pcurto(GX), 0)`% dos planos têm menos de `r fmt_n(LIMIAR_PLANO_CURTO)` palavras. Na direita, a mediana é de `r fmt_n(gcp(GD, "palavras_mediana"))` palavras (`r fmt_pct(pcurto(GD), 0)`% de planos curtos), e na esquerda e centro-esquerda, de `r fmt_n(gcp(GE, "palavras_mediana"))` (`r fmt_pct(pcurto(GE), 0)`%). A **extrema-direita não é mais enxuta**, pois os `r nrow(cx)` candidatos de Missão e PRD têm mediana de `r fmt_n(gcp(GXD, "palavras_mediana"))` palavras e `r fmt_pct(pcurto(GXD), 0)`% de planos curtos. Esse contraste importa porque o tamanho do plano é o melhor preditor de o tema aparecer (@sec-tamanho). A `r ref("Figura", "f_campo")` e a `r ref("Tabela", "t_categorias")` mostram o perfil por campo e por categoria original.
 
 ```{r tab-categorias}
 #| output: asis
@@ -887,13 +887,13 @@ Desagregada nas sete categorias, a tabela mostra que os planos curtos e a menor 
 
 ### A diferença ideológica na presença do tema
 
-A presença do tema não é uniforme no espectro. **Na extrema-esquerda, `r fmt_pct(gcp(GX, "pct_mencao"), 0)`% dos candidatos mencionam risco e desastre, contra `r fmt_pct(gcp(GD, "pct_mencao"), 0)`% na direita e extrema-direita e 100% na esquerda e centro-esquerda.** Como essa diferença se confunde com o tamanho dos planos, a testamos de duas formas, por regressão logística da presença do tema, com a direita e extrema-direita como referência. **Sem controle pelo tamanho**, a chance de mencionar o tema na extrema-esquerda é `r fmt_pct(100 * (1 - ee_sem["or"]), 0)`% menor (razão de chances de `r vd(ee_sem["or"])`; `r ic(ee_sem)`; `r pt(ee_sem["p"])`). **Controlando pelo tamanho** (logaritmo do número de palavras), a diferença diminui, mas **não desaparece**, com razão de chances de `r vd(ee_com["or"])` (`r ic(ee_com)`; `r pt(ee_com["p"])`). Parte da menor presença se deve, portanto, aos planos mais curtos, mas não toda, e mesmo entre planos de extensão semelhante os candidatos da extrema-esquerda têm menos chance de mencionar o tema.
+A presença do tema não é uniforme no espectro. **Na extrema-esquerda, `r fmt_pct(gcp(GX, "pct_mencao"), 0)`% dos candidatos mencionam risco e desastre, contra `r fmt_pct(gcp(GD, "pct_mencao"), 0)`% na direita, `r fmt_pct(gcp(GXD, "pct_mencao"), 0)`% na extrema-direita e 100% na esquerda e centro-esquerda.** Como essa diferença se confunde com o tamanho dos planos, a testamos de duas formas, por regressão logística da presença do tema, com a direita como referência. **Sem controle pelo tamanho**, a chance de mencionar o tema na extrema-esquerda é `r fmt_pct(100 * (1 - ee_sem["or"]), 0)`% menor (razão de chances de `r vd(ee_sem["or"])`; `r ic(ee_sem)`; `r pt(ee_sem["p"])`). **Controlando pelo tamanho** (logaritmo do número de palavras), a diferença diminui, mas **não desaparece**, com razão de chances de `r vd(ee_com["or"])` (`r ic(ee_com)`; `r pt(ee_com["p"])`). Parte da menor presença se deve, portanto, aos planos mais curtos, mas não toda, e mesmo entre planos de extensão semelhante os candidatos da extrema-esquerda têm menos chance de mencionar o tema.
 
 **A categoria, porém, não é homogênea.** Entre os partidos de extrema-esquerda, mencionam o tema `r frase_ee`. PSTU e PSOL estão no patamar da direita. A média baixa vem sobretudo de **PCO e UP**, que têm planos curtos (medianas de `r fmt_n(part[SG_PARTIDO == "PCO", palavras_mediana])` e `r fmt_n(part[SG_PARTIDO == "UP", palavras_mediana])` palavras), e do **PCB**, cujos planos não são curtos (mediana de `r fmt_n(part[SG_PARTIDO == "PCB", palavras_mediana])` palavras), mas onde apenas `r part[SG_PARTIDO == "PCB", com_mencao]` de `r part[SG_PARTIDO == "PCB", n]` candidatos mencionam o tema. A diferença é, portanto, de partidos específicos, e não de um comportamento comum a toda a categoria, e com 4 a 17 candidatos por partido isso deve ser lido com cautela.
 
-**Esquerda e centro-esquerda (PT, PSB e PDT).** Todos os `r gcp(GE, "n")` candidatos mencionam o tema, e seus planos são os mais longos (mediana de `r fmt_n(gcp(GE, "palavras_mediana"))` palavras). A distância para a direita e extrema-direita, de 100% para `r fmt_pct(gcp(GD, "pct_mencao"), 0)`%, está no limite da significância estatística (teste exato de Fisher, `r pt(p_fisher_esq)`), e não foi possível estimá-la com controle pelo tamanho, porque a ausência de qualquer candidato sem menção impede o ajuste do modelo. **Extrema-direita** (Missão e PRD): `r fmt_pct(100 * mean(cx$presenca), 0)`% mencionam o tema, semelhante à direita. O grupo de centro e centro-direita tem apenas `r gcp(GC, "n")` candidatos, e nada se pode concluir sobre ele.
+**Esquerda e centro-esquerda (PT, PSB e PDT).** Todos os `r gcp(GE, "n")` candidatos mencionam o tema, e seus planos são os mais longos (mediana de `r fmt_n(gcp(GE, "palavras_mediana"))` palavras). A distância para a direita, de 100% para `r fmt_pct(gcp(GD, "pct_mencao"), 0)`%, está no limite da significância estatística (teste exato de Fisher, `r pt(p_fisher_esq)`), e não foi possível estimá-la com controle pelo tamanho, porque a ausência de qualquer candidato sem menção impede o ajuste do modelo. **Extrema-direita** (Missão e PRD): `r fmt_pct(100 * mean(cx$presenca), 0)`% mencionam o tema, um patamar parecido com o da direita e bem acima do da extrema-esquerda, de modo que a menor presença do tema não é um traço das pontas do espectro, e sim da extrema-esquerda. O grupo de centro e centro-direita tem apenas `r gcp(GC, "n")` candidatos, e nada se pode concluir sobre ele.
 
-**Quanto à concretude, não há diferença ideológica detectável.** A proporção de candidatos com ação concreta predominante é de `r fmt_pct(gcp(GE, "pct_acao"), 0)`% na esquerda e centro-esquerda, `r fmt_pct(gcp(GD, "pct_acao"), 0)`% na direita e extrema-direita e `r fmt_pct(gcp(GX, "pct_acao"), 0)`% na extrema-esquerda (sobre todos os candidatos de cada grupo). Entre os que mencionam o tema, nenhuma diferença entre campos é estatisticamente significativa quando se controla pelo tamanho do plano (menor valor de p entre os campos: `r format(round(p_acao_min, 2), decimal.mark = ",")`). O que varia entre os campos é **se** o tema aparece, e não **como** ele é tratado quando aparece. Os casos da @sec-quem confirmam esse ponto, pois os planos que mais e os que menos prometem ação concreta reúnem candidatos de campos opostos.
+**Quanto à concretude, não há diferença ideológica detectável.** A proporção de candidatos com ação concreta predominante é de `r fmt_pct(gcp(GE, "pct_acao"), 0)`% na esquerda e centro-esquerda, `r fmt_pct(gcp(GD, "pct_acao"), 0)`% na direita, `r fmt_pct(gcp(GXD, "pct_acao"), 0)`% na extrema-direita e `r fmt_pct(gcp(GX, "pct_acao"), 0)`% na extrema-esquerda (sobre todos os candidatos de cada grupo). Entre os que mencionam o tema, nenhuma diferença entre campos é estatisticamente significativa quando se controla pelo tamanho do plano (menor valor de p entre os campos: `r format(round(p_acao_min, 2), decimal.mark = ",")`). O que varia entre os campos é **se** o tema aparece, e não **como** ele é tratado quando aparece. Os casos da @sec-quem confirmam esse ponto, pois os planos que mais e os que menos prometem ação concreta reúnem candidatos de campos opostos.
 
 ### Como interpretar
 
@@ -901,7 +901,7 @@ Estes resultados **descrevem o conteúdo dos planos** e não permitem atribuir c
 
 ## O vocabulário de cada campo
 
-Para ver como os campos falam, e não só se falam, medimos em que proporção das passagens sobre risco e desastre de cada campo aparece uma série de expressões de interesse. O gráfico usa barras agrupadas, e as expressões estão ordenadas da mais à menos frequente no conjunto. O centro e a centro-direita, com um único plano relevante, ficaram de fora.
+Para ver como os campos falam, e não só se falam, medimos em que proporção das passagens sobre risco e desastre de cada campo aparece uma série de expressões de interesse. O gráfico usa barras agrupadas, e as expressões estão ordenadas da mais à menos frequente no conjunto. O centro e a centro-direita, com poucos candidatos, ficaram de fora.
 
 ```{r fig-termos}
 #| output: asis
@@ -913,7 +913,7 @@ figura("f_termos", "17_termos_por_campo.png", "Expressões nas passagens sobre r
 tv <- function(t, c) tm23[termo == t & campo == c, pct]
 ```
 
-Três leituras se destacam (`r ref("Figura", "f_termos")`). A primeira é que a **Defesa Civil** aparece em proporções parecidas nos três campos (de `r fmt_pct(tv("Defesa Civil", "extrema-esquerda"), 0)`% a `r fmt_pct(tv("Defesa Civil", "direita e extrema-direita"), 0)`% das passagens), ou seja, não é uma bandeira de um campo. A segunda é a **resiliência**, que aparece em `r fmt_pct(tv("Resiliência", "direita e extrema-direita"), 0)`% das passagens da direita e da extrema-direita, contra `r fmt_pct(tv("Resiliência", "extrema-esquerda"), 0)`% na extrema-esquerda, uma diferença que sugere que a palavra pertence mais ao vocabulário de gestão do que ao de denúncia. A terceira é o contraste da extrema-esquerda, que fala mais de **enchente, alagamento e inundação** (`r fmt_pct(tv("Enchente, alagamento, inundação", "extrema-esquerda"), 0)`%, contra `r fmt_pct(tv("Enchente, alagamento, inundação", "direita e extrema-direita"), 0)`% na direita) e de **áreas de risco** (`r fmt_pct(tv("Áreas de risco", "extrema-esquerda"), 0)`%, contra `r fmt_pct(tv("Áreas de risco", "direita e extrema-direita"), 0)`%), e menos de adaptação climática, o que combina com um discurso centrado no diagnóstico do desastre vivido e nas populações em áreas de risco, e menos nos instrumentos de gestão. A esquerda e a centro-esquerda lideram em **adaptação climática** e em **mudança ou emergência climática**, o que indica uma abordagem mais ligada à agenda do clima. Como as passagens são poucas em cada campo (de `r tm23[campo == "extrema-esquerda", unique(n)]` a `r tm23[campo == "direita e extrema-direita", unique(n)]`), essas diferenças descrevem o que os planos dizem, e não permitem atribuir causas.
+Três leituras se destacam (`r ref("Figura", "f_termos")`). A primeira é que a **Defesa Civil** aparece em proporções parecidas nos quatro campos (de `r fmt_pct(tv("Defesa Civil", "extrema-esquerda"), 0)`% a `r fmt_pct(tv("Defesa Civil", "direita"), 0)`% das passagens), ou seja, não é uma bandeira de um campo. A segunda é a **resiliência**, que aparece em `r fmt_pct(tv("Resiliência", "direita"), 0)`% das passagens da direita, contra `r fmt_pct(tv("Resiliência", "extrema-esquerda"), 0)`% na extrema-esquerda, uma diferença que sugere que a palavra pertence mais ao vocabulário de gestão do que ao de denúncia. A terceira é o contraste da extrema-esquerda, que fala mais de **enchente, alagamento e inundação** (`r fmt_pct(tv("Enchente, alagamento, inundação", "extrema-esquerda"), 0)`%, contra `r fmt_pct(tv("Enchente, alagamento, inundação", "direita"), 0)`% na direita) e de **áreas de risco** (`r fmt_pct(tv("Áreas de risco", "extrema-esquerda"), 0)`%, contra `r fmt_pct(tv("Áreas de risco", "direita"), 0)`%), e menos de adaptação climática, o que combina com um discurso centrado no diagnóstico do desastre vivido e nas populações em áreas de risco, e menos nos instrumentos de gestão. A esquerda e a centro-esquerda lideram em **adaptação climática** e em **mudança ou emergência climática**, o que indica uma abordagem mais ligada à agenda do clima. Como as passagens são poucas em cada campo (de `r tm23[campo == "extrema-esquerda", unique(n)]` a `r tm23[campo == "extrema-direita", unique(n)]`), essas diferenças descrevem o que os planos dizem, e não permitem atribuir causas.
 
 ## Candidatos à reeleição {#sec-incum}
 
@@ -1012,7 +1012,7 @@ Esta seção reúne o que os planos dizem, o que o relatório acrescenta e o que
 
 **Quem mais e quem menos promete ação pertence a campos diferentes.** Os cinco maiores e os cinco menores percentuais de ação concreta reúnem candidatos de direita, de esquerda e de extrema-esquerda, e o tamanho do plano não os separa. O que os distingue é o modo de escrever, entre o programa com meta e indicador e a diretriz sem ação identificável. Além disso, nem toda passagem concreta é proposta: balanços e críticas ao governo apareciam entre as de nível 4, e a regra de verbos no passado indica que o balanço pesa mais entre os governadores em exercício (`r fmt_pct(tverb[incumbente == TRUE, pct], 1)`% das passagens concretas, contra `r fmt_pct(tverb[incumbente == FALSE, pct], 1)`% nos demais).
 
-**O tamanho do plano decide se o tema aparece, e o campo político, em parte.** A presença do tema vai de `r fmt_pct(fxg("menos de 5 mil", "mencao"), 0)`% nos planos com menos de 5 mil palavras a `r fmt_pct(fxg("mais de 20 mil", "mencao"), 0)`% nos de mais de 20 mil, mas, entre quem menciona, a densidade não depende do tamanho. Na extrema-esquerda, `r fmt_pct(gcp(GX, "pct_mencao"), 0)`% dos candidatos mencionam o tema, contra `r fmt_pct(gcp(GD, "pct_mencao"), 0)`% na direita e extrema-direita e 100% na esquerda e centro-esquerda. Os planos da extrema-esquerda são bem mais enxutos (mediana de `r fmt_n(gcp(GX, "palavras_mediana"))` palavras, contra `r fmt_n(gcp(GD, "palavras_mediana"))`), mas a diferença de presença persiste ao controlar pelo tamanho (razão de chances de `r vd(ee_com["or"])`; `r pt(ee_com["p"])`) e é heterogênea entre os partidos da categoria. Na concretude, não se detecta diferença entre campos.
+**O tamanho do plano decide se o tema aparece, e o campo político, em parte.** A presença do tema vai de `r fmt_pct(fxg("menos de 5 mil", "mencao"), 0)`% nos planos com menos de 5 mil palavras a `r fmt_pct(fxg("mais de 20 mil", "mencao"), 0)`% nos de mais de 20 mil, mas, entre quem menciona, a densidade não depende do tamanho. Na extrema-esquerda, `r fmt_pct(gcp(GX, "pct_mencao"), 0)`% dos candidatos mencionam o tema, contra `r fmt_pct(gcp(GD, "pct_mencao"), 0)`% na direita, `r fmt_pct(gcp(GXD, "pct_mencao"), 0)`% na extrema-direita e 100% na esquerda e centro-esquerda. Os planos da extrema-esquerda são bem mais enxutos (mediana de `r fmt_n(gcp(GX, "palavras_mediana"))` palavras, contra `r fmt_n(gcp(GD, "palavras_mediana"))` na direita), mas a diferença de presença persiste ao controlar pelo tamanho (razão de chances de `r vd(ee_com["or"])`; `r pt(ee_com["p"])`) e é heterogênea entre os partidos da categoria. Na concretude, não se detecta diferença entre campos.
 
 **O plano não acompanha o desastre que o estado sofre.** Em média, `r fmt_pct(pct_princ, 0)`% dos candidatos citam o principal tipo de desastre do seu estado, e em `r n_uf_baixo` das `r n_uf_expo` UFs a metade ou menos o faz. A seca domina os registros do Piauí e da Paraíba, mas é pouco citada, e a intensidade dos desastres de cada estado não se associa à concretude dos planos (Spearman de `r vd(rho20$estimate)`). Entre regiões, o Centro-Oeste e o Nordeste têm menor presença do tema, e o Sul se destaca pelo ciclo completo, mas com poucos candidatos por região e por estado essas diferenças são tendências.
 
@@ -1157,7 +1157,7 @@ A <- anexoc[, .(UF = uf, Candidato = paste0(candidato, ifelse(incumbente, "*", "
                 `% ação` = ifelse(passagens == 0, "–", fmt_pct(pct_acao, 0)), Degrau = perfil_n)]
 tabela(A, "t_anexo_cand", "Candidatos a governador com plano registrado e deferidos: tamanho do plano, passagens e perfil, 2026.",
        fonte = paste0("Planos de governo dos candidatos a governador (TSE); classificação por modelos de linguagem. Risco = passagens sobre risco e desastre; Clima = passagens de agenda climática geral; % ação = proporção das passagens de risco com ação concreta; Degrau conforme o ", ref("Quadro", "q_perfil"), ". * Governador em exercício (aproximação)."),
-       larg = c(0.05, 0.22, 0.13, 0.19, 0.11, 0.07, 0.07, 0.08, 0.08), align = c("l", "l", "l", "l", "r", "r", "r", "r", "r"))
+       larg = c(0.05, 0.21, 0.16, 0.19, 0.10, 0.07, 0.07, 0.08, 0.07), align = c("l", "l", "l", "l", "r", "r", "r", "r", "r"))
 ```
 
 # Anexo B. Indicadores por UF {.unnumbered}
@@ -1187,7 +1187,7 @@ cl <- cl[, .(Partidos = paste(partido_rot, collapse = ", "), Candidatos = sum(Ca
          by = .(`Categoria no artigo` = categoria_artigo, `Grupo neste relatório` = campo)][order(-Candidatos)]
 tabela(cl[, .(`Grupo neste relatório` = rot_campo[`Grupo neste relatório`], `Categoria` = `Categoria no artigo`, Partidos)],
        "t_class", "Classificação dos partidos do universo (entre parênteses, o número de candidatos). Partidos com asterisco (*) foram classificados pelo autor, por não constarem do artigo ou terem resultado de fusão.",
-       fonte = "Bolognesi, Ribeiro e Codato (2023), adaptada pelo autor.", larg = c(0.20, 0.14, 0.56))
+       fonte = "Bolognesi, Ribeiro e Codato (2023), adaptada pelo autor.", larg = c(0.20, 0.16, 0.54))
 ```
 Os asteriscos marcam os enquadramentos feitos por nós, que são justamente os dos partidos criados ou fundidos depois da pesquisa que fundamenta o artigo.
 
@@ -1198,7 +1198,7 @@ Em seguida, os indicadores de cada partido.
 #| output: asis
 tabela(part[, .(Partido = SG_PARTIDO, Campo = rot_campo[campo], Candidatos = n, `% com menção` = pct_mencao, `% com ação concreta` = pct_acao, `Palavras (mediana)` = fmt_n(palavras_mediana))],
        "t_part", "Indicadores por partido, 2026. Partidos com poucos candidatos (n = 1 a 3) não permitem generalização.",
-       larg = c(0.14, 0.24, NA, NA, NA, NA), align = c("l", "l", "r", "r", "r", "r"))
+       larg = c(0.16, 0.24, NA, NA, NA, NA), align = c("l", "l", "r", "r", "r", "r"))
 ```
 Partidos com um a três candidatos não permitem generalização e aparecem aqui por transparência.
 
@@ -1247,7 +1247,7 @@ A tabela a seguir lista, por UF, os `r nrow(nc21)` candidatos cujo plano não ci
 tabela(nc21[, .(UF = uf, Candidato = candidato, Partido = partido, `Principal do estado` = tipo_principal, `Tipos que cita` = tipos_citados, Passagens = passagens)],
        "t_anexo_nc", "Candidatos que não citam o principal tipo de desastre do próprio estado, 2026.",
        fonte = "Atlas Digital de Desastres (S2iD/MIDR, 2013 a 2025) e planos de governo dos candidatos a governador (TSE); classificação por modelos de linguagem.",
-       larg = c(0.05, 0.22, 0.12, 0.19, 0.32, 0.10), align = c("l", "l", "l", "l", "l", "r"))
+       larg = c(0.05, 0.20, 0.15, 0.19, 0.32, 0.09), align = c("l", "l", "l", "l", "l", "r"))
 ```
 
 A lista não é uma avaliação dos candidatos. Ela mostra, em cada estado, quem deixa de nomear o desastre mais frequente no histórico, e há planos que tratam do tema por outras palavras ou de forma genérica.

@@ -1,145 +1,145 @@
 SG_UF,candidato,SG_PARTIDO,campo,perfil,n_janelas_relevantes,fases_ciclo,n_tipos_ameaca,espec_max,dens_1000,palavras,plano_curto
-SP,TARCÍSIO,REPUBLICANOS,direita e extrema-direita,"Ação com meta, prazo ou orçamento",13,3,6,4,0.61,21198,FALSE
-RJ,ANDRÉ MARINHO,NOVO,direita e extrema-direita,"Ação com meta, prazo ou orçamento",14,2,4,4,0.2,69243,FALSE
+SP,TARCÍSIO,REPUBLICANOS,direita,"Ação com meta, prazo ou orçamento",13,3,6,4,0.61,21198,FALSE
+RJ,ANDRÉ MARINHO,NOVO,direita,"Ação com meta, prazo ou orçamento",14,2,4,4,0.2,69243,FALSE
 PI,RAFAEL FONTELES,PT,esquerda e centro-esquerda,"Ação com meta, prazo ou orçamento",6,1,2,4,0.46,13092,FALSE
 RN,PROFESSOR ROBERIO PAULINO,PSOL,extrema-esquerda,"Ação com meta, prazo ou orçamento",1,1,1,4,0.18,5644,FALSE
-RN,ÁLVARO DIAS,PL,direita e extrema-direita,Propõe ação concreta,12,2,7,3,0.38,31253,FALSE
+RN,ÁLVARO DIAS,PL,direita,Propõe ação concreta,12,2,7,3,0.38,31253,FALSE
 AM,CABO DACIOLO,MOBILIZA,centro e centro-direita,Propõe ação concreta,8,3,6,3,0.93,8577,FALSE
-ES,RICARDO FERRAÇO,MDB,direita e extrema-direita,Propõe ação concreta,22,3,6,3,0.63,34910,FALSE
-AL,RENAN FILHO,MDB,direita e extrema-direita,Propõe ação concreta,6,3,6,3,0.56,10712,FALSE
-AL,JHC,PSDB,direita e extrema-direita,Propõe ação concreta,8,2,5,3,0.55,14455,FALSE
+ES,RICARDO FERRAÇO,MDB,direita,Propõe ação concreta,22,3,6,3,0.63,34910,FALSE
+AL,RENAN FILHO,MDB,direita,Propõe ação concreta,6,3,6,3,0.56,10712,FALSE
+AL,JHC,PSDB,direita,Propõe ação concreta,8,2,5,3,0.55,14455,FALSE
 SP,VERA LÚCIA,PSTU,extrema-esquerda,Propõe ação concreta,4,2,5,3,0.4,10096,FALSE
 PE,IVAN MORAES,PSOL,extrema-esquerda,Propõe ação concreta,10,2,5,3,0.35,28801,FALSE
 AC,THOR DANTAS,PSB,esquerda e centro-esquerda,Propõe ação concreta,10,2,4,3,1.1,9122,FALSE
-AC,MAILZA ASSIS,PP,direita e extrema-direita,Propõe ação concreta,22,2,4,3,0.8,27461,FALSE
+AC,MAILZA ASSIS,PP,direita,Propõe ação concreta,22,2,4,3,0.8,27461,FALSE
 CE,ELMANO DE FREITAS,PT,esquerda e centro-esquerda,Propõe ação concreta,14,3,4,3,0.72,19440,FALSE
-TO,DU PEREIRA,DC,direita e extrema-direita,Propõe ação concreta,6,1,4,3,0.51,11742,FALSE
+TO,DU PEREIRA,DC,direita,Propõe ação concreta,6,1,4,3,0.51,11742,FALSE
 RJ,WILLIAM SIRI,PSOL,extrema-esquerda,Propõe ação concreta,16,2,4,3,0.46,35134,FALSE
 PE,JOÃO CAMPOS,PSB,esquerda e centro-esquerda,Propõe ação concreta,6,3,4,3,0.4,14978,FALSE
 BA,JERÔNIMO RODRIGUES,PT,esquerda e centro-esquerda,Propõe ação concreta,5,2,4,3,0.32,15715,FALSE
 PR,SAMUEL DE MATTOS,PSTU,extrema-esquerda,Propõe ação concreta,2,1,4,3,0.16,12295,FALSE
-RO,MARCOS ROGÉRIO,PL,direita e extrema-direita,Propõe ação concreta,5,2,4,3,0.11,43784,FALSE
-AC,ALAN RICK,REPUBLICANOS,direita e extrema-direita,Propõe ação concreta,12,2,3,3,0.95,12688,FALSE
+RO,MARCOS ROGÉRIO,PL,direita,Propõe ação concreta,5,2,4,3,0.11,43784,FALSE
+AC,ALAN RICK,REPUBLICANOS,direita,Propõe ação concreta,12,2,3,3,0.95,12688,FALSE
 PA,ARACELI,PSOL,extrema-esquerda,Propõe ação concreta,5,1,3,3,0.87,5774,FALSE
-PE,RAQUEL LYRA,PSD,direita e extrema-direita,Propõe ação concreta,18,2,3,3,0.6,29906,FALSE
-MG,CLEITINHO AZEVEDO,REPUBLICANOS,direita e extrema-direita,Propõe ação concreta,2,3,3,3,0.56,3548,FALSE
-AM,ROBERTO CIDADE,UNIÃO,direita e extrema-direita,Propõe ação concreta,3,2,3,3,0.42,7219,FALSE
-PB,CÍCERO LUCENA,MDB,direita e extrema-direita,Propõe ação concreta,7,3,3,3,0.38,18250,FALSE
-PA,HANA GHASSAN,MDB,direita e extrema-direita,Propõe ação concreta,6,2,3,3,0.36,16640,FALSE
+PE,RAQUEL LYRA,PSD,direita,Propõe ação concreta,18,2,3,3,0.6,29906,FALSE
+MG,CLEITINHO AZEVEDO,REPUBLICANOS,direita,Propõe ação concreta,2,3,3,3,0.56,3548,FALSE
+AM,ROBERTO CIDADE,UNIÃO,direita,Propõe ação concreta,3,2,3,3,0.42,7219,FALSE
+PB,CÍCERO LUCENA,MDB,direita,Propõe ação concreta,7,3,3,3,0.38,18250,FALSE
+PA,HANA GHASSAN,MDB,direita,Propõe ação concreta,6,2,3,3,0.36,16640,FALSE
 PI,PROFESSOR GISVALDO,PSOL,extrema-esquerda,Propõe ação concreta,3,1,3,3,0.35,8467,FALSE
-TO,VICENTINHO JÚNIOR,PSDB,direita e extrema-direita,Propõe ação concreta,3,1,3,3,0.28,10597,FALSE
-MA,ANDRÉ LUIS,MISSÃO,direita e extrema-direita,Propõe ação concreta,10,2,2,3,0.63,15775,FALSE
-RJ,EDUARDO PAES,PSD,direita e extrema-direita,Propõe ação concreta,1,2,2,3,0.51,1977,TRUE
+TO,VICENTINHO JÚNIOR,PSDB,direita,Propõe ação concreta,3,1,3,3,0.28,10597,FALSE
+MA,ANDRÉ LUIS,MISSÃO,extrema-direita,Propõe ação concreta,10,2,2,3,0.63,15775,FALSE
+RJ,EDUARDO PAES,PSD,direita,Propõe ação concreta,1,2,2,3,0.51,1977,TRUE
 MS,FÁBIO TRAD,PT,esquerda e centro-esquerda,Propõe ação concreta,6,3,2,3,0.43,13871,FALSE
-RN,ALLYSON,UNIÃO,direita e extrema-direita,Propõe ação concreta,3,2,2,3,0.42,7153,FALSE
+RN,ALLYSON,UNIÃO,direita,Propõe ação concreta,3,2,2,3,0.42,7153,FALSE
 PE,GUILHERME FONSECA,PSTU,extrema-esquerda,Propõe ação concreta,1,1,2,3,0.38,2607,FALSE
 RR,ROSI AIRES,PSOL,extrema-esquerda,Propõe ação concreta,1,0,2,3,0.35,2833,FALSE
-SE,VALMIR DE FRANCISQUINHO,REPUBLICANOS,direita e extrema-direita,Propõe ação concreta,6,1,2,3,0.34,17803,FALSE
-DF,CELINA LEÃO,PP,direita e extrema-direita,Propõe ação concreta,4,2,2,3,0.32,12364,FALSE
-MS,JOÃO HENRIQUE CATAN,NOVO,direita e extrema-direita,Propõe ação concreta,3,1,2,3,0.28,10893,FALSE
+SE,VALMIR DE FRANCISQUINHO,REPUBLICANOS,direita,Propõe ação concreta,6,1,2,3,0.34,17803,FALSE
+DF,CELINA LEÃO,PP,direita,Propõe ação concreta,4,2,2,3,0.32,12364,FALSE
+MS,JOÃO HENRIQUE CATAN,NOVO,direita,Propõe ação concreta,3,1,2,3,0.28,10893,FALSE
 ES,RAFAEL DEMUNER,UP,extrema-esquerda,Propõe ação concreta,2,1,2,3,0.25,7879,FALSE
-SC,MARCELO BRIGADEIRO,MISSÃO,direita e extrema-direita,Propõe ação concreta,1,1,2,3,0.23,4316,FALSE
-MG,GABRIEL,MDB,direita e extrema-direita,Propõe ação concreta,6,3,2,3,0.21,28104,FALSE
-ES,BRENO BARCELOS,MISSÃO,direita e extrema-direita,Propõe ação concreta,2,1,2,3,0.17,11863,FALSE
-RO,HILDON CHAVES,UNIÃO,direita e extrema-direita,Propõe ação concreta,5,1,2,3,0.16,31117,FALSE
+SC,MARCELO BRIGADEIRO,MISSÃO,extrema-direita,Propõe ação concreta,1,1,2,3,0.23,4316,FALSE
+MG,GABRIEL,MDB,direita,Propõe ação concreta,6,3,2,3,0.21,28104,FALSE
+ES,BRENO BARCELOS,MISSÃO,extrema-direita,Propõe ação concreta,2,1,2,3,0.17,11863,FALSE
+RO,HILDON CHAVES,UNIÃO,direita,Propõe ação concreta,5,1,2,3,0.16,31117,FALSE
 RS,PRISCILA VOIGT,UP,extrema-esquerda,Propõe ação concreta,2,2,1,3,1.12,1784,TRUE
-SC,RALF ZIMMER,PRD,direita e extrema-direita,Propõe ação concreta,4,2,1,3,1.07,3732,FALSE
-AM,PROFESSORA MARIA DO CARMO,PL,direita e extrema-direita,Propõe ação concreta,1,1,1,3,0.74,1343,TRUE
-RR,ARTHUR HENRIQUE,PL,direita e extrema-direita,Propõe ação concreta,7,2,1,3,0.64,10963,FALSE
-MA,ORLEANS BRANDÃO,MDB,direita e extrema-direita,Propõe ação concreta,5,2,1,3,0.61,8226,FALSE
+SC,RALF ZIMMER,PRD,extrema-direita,Propõe ação concreta,4,2,1,3,1.07,3732,FALSE
+AM,PROFESSORA MARIA DO CARMO,PL,direita,Propõe ação concreta,1,1,1,3,0.74,1343,TRUE
+RR,ARTHUR HENRIQUE,PL,direita,Propõe ação concreta,7,2,1,3,0.64,10963,FALSE
+MA,ORLEANS BRANDÃO,MDB,direita,Propõe ação concreta,5,2,1,3,0.61,8226,FALSE
 MG,INDIRA XAVIER,UP,extrema-esquerda,Propõe ação concreta,3,2,1,3,0.6,4967,FALSE
-SC,JORGINHO MELLO,PL,direita e extrema-direita,Propõe ação concreta,2,1,1,3,0.51,3925,FALSE
-SE,FÁBIO,PSD,direita e extrema-direita,Propõe ação concreta,3,1,1,3,0.37,8202,FALSE
+SC,JORGINHO MELLO,PL,direita,Propõe ação concreta,2,1,1,3,0.51,3925,FALSE
+SE,FÁBIO,PSD,direita,Propõe ação concreta,3,1,1,3,0.37,8202,FALSE
 AL,LENILDA LUNA,UP,extrema-esquerda,Propõe ação concreta,2,1,1,3,0.34,5875,FALSE
 RO,SAMUEL COSTA,PSB,esquerda e centro-esquerda,Propõe ação concreta,1,1,1,3,0.31,3240,FALSE
-AP,CLÉCIO,UNIÃO,direita e extrema-direita,Propõe ação concreta,3,3,1,3,0.29,10378,FALSE
-TO,ATAIDES DE OLIVEIRA,NOVO,direita e extrema-direita,Propõe ação concreta,1,2,1,3,0.18,5576,FALSE
-TO,PROFESSORA DORINHA,UNIÃO,direita e extrema-direita,Propõe ação concreta,3,2,1,3,0.16,19252,FALSE
-SE,EMANUEL CACHO,PSDB,direita e extrema-direita,Propõe ação concreta,1,1,1,3,0.12,8218,FALSE
-MT,OTAVIANO PIVETTA,REPUBLICANOS,direita e extrema-direita,Propõe ação concreta,1,1,1,3,0.05,20340,FALSE
+AP,CLÉCIO,UNIÃO,direita,Propõe ação concreta,3,3,1,3,0.29,10378,FALSE
+TO,ATAIDES DE OLIVEIRA,NOVO,direita,Propõe ação concreta,1,2,1,3,0.18,5576,FALSE
+TO,PROFESSORA DORINHA,UNIÃO,direita,Propõe ação concreta,3,2,1,3,0.16,19252,FALSE
+SE,EMANUEL CACHO,PSDB,direita,Propõe ação concreta,1,1,1,3,0.12,8218,FALSE
+MT,OTAVIANO PIVETTA,REPUBLICANOS,direita,Propõe ação concreta,1,1,1,3,0.05,20340,FALSE
 SP,FERNANDO HADDAD,PT,esquerda e centro-esquerda,Propõe ação concreta,1,1,0,3,0.18,5609,FALSE
-AC,TIÃO BOCALOM,PSDB,direita e extrema-direita,Propõe ação concreta,1,2,0,3,0.16,6427,FALSE
-SE,RICARDO MARQUES,PL,direita e extrema-direita,Menciona risco e desastre,17,3,7,3,0.84,20235,FALSE
+AC,TIÃO BOCALOM,PSDB,direita,Propõe ação concreta,1,2,0,3,0.16,6427,FALSE
+SE,RICARDO MARQUES,PL,direita,Menciona risco e desastre,17,3,7,3,0.84,20235,FALSE
 AM,GILBERTO VASCONCELOS,PSTU,extrema-esquerda,Menciona risco e desastre,2,0,7,1,0.21,9714,FALSE
 AM,ISAEL MUNDURUKU,REDE,centro e centro-direita,Menciona risco e desastre,18,2,6,3,1.85,9704,FALSE
 RS,REJANE DE OLIVEIRA,PSTU,extrema-esquerda,Menciona risco e desastre,30,3,6,3,0.84,35828,FALSE
 GO,LUIS CESAR BUENO,PT,esquerda e centro-esquerda,Menciona risco e desastre,18,2,6,3,0.74,24398,FALSE
-RO,ADAILTON FURIA,PSD,direita e extrema-direita,Menciona risco e desastre,21,3,6,3,0.65,32261,FALSE
-PR,SANDRO ALEX,PSD,direita e extrema-direita,Menciona risco e desastre,35,3,6,3,0.57,61448,FALSE
+RO,ADAILTON FURIA,PSD,direita,Menciona risco e desastre,21,3,6,3,0.65,32261,FALSE
+PR,SANDRO ALEX,PSD,direita,Menciona risco e desastre,35,3,6,3,0.57,61448,FALSE
 MG,ALEXANDRE KALIL,PDT,esquerda e centro-esquerda,Menciona risco e desastre,26,3,6,3,0.46,56197,FALSE
 MA,SAULO ARCANGELI,PSTU,extrema-esquerda,Menciona risco e desastre,18,3,6,3,0.46,39492,FALSE
-RS,MARCELO MARANATA,PSDB,direita e extrema-direita,Menciona risco e desastre,66,3,5,3,1.8,36725,FALSE
+RS,MARCELO MARANATA,PSDB,direita,Menciona risco e desastre,66,3,5,3,1.8,36725,FALSE
 PR,REQUIÃO FILHO,PDT,esquerda e centro-esquerda,Menciona risco e desastre,7,3,5,3,1.66,4217,FALSE
 SC,GELSON MERÍSIO,PSB,esquerda e centro-esquerda,Menciona risco e desastre,25,1,5,3,1.57,15923,FALSE
-PE,RENAN,MISSÃO,direita e extrema-direita,Menciona risco e desastre,18,2,5,3,0.81,22174,FALSE
+PE,RENAN,MISSÃO,extrema-direita,Menciona risco e desastre,18,2,5,3,0.81,22174,FALSE
 PA,GAL LEITE,UP,extrema-esquerda,Menciona risco e desastre,9,2,5,3,0.58,15388,FALSE
-PI,JOEL RODRIGUES,PP,direita e extrema-direita,Menciona risco e desastre,15,3,5,3,0.44,33806,FALSE
+PI,JOEL RODRIGUES,PP,direita,Menciona risco e desastre,15,3,5,3,0.44,33806,FALSE
 CE,ZÉ BATISTA,PSTU,extrema-esquerda,Menciona risco e desastre,6,1,5,2,0.37,16062,FALSE
-DF,KIKO CAPUTO,NOVO,direita e extrema-direita,Menciona risco e desastre,16,3,5,3,0.3,52626,FALSE
+DF,KIKO CAPUTO,NOVO,direita,Menciona risco e desastre,16,3,5,3,0.3,52626,FALSE
 SP,VIVIAN MENDES,UP,extrema-esquerda,Menciona risco e desastre,7,1,5,2,0.3,23300,FALSE
 SP,CARLOS MACHADO,PCB,extrema-esquerda,Menciona risco e desastre,17,2,5,4,0.27,62181,FALSE
 RS,JULIANA BRIZOLA,PDT,esquerda e centro-esquerda,Menciona risco e desastre,24,3,4,3,1.49,16161,FALSE
-RS,ZUCCO,PL,direita e extrema-direita,Menciona risco e desastre,37,3,4,3,1.26,29313,FALSE
-ES,LORENZO PAZOLINI,REPUBLICANOS,direita e extrema-direita,Menciona risco e desastre,8,2,4,3,0.68,11706,FALSE
+RS,ZUCCO,PL,direita,Menciona risco e desastre,37,3,4,3,1.26,29313,FALSE
+ES,LORENZO PAZOLINI,REPUBLICANOS,direita,Menciona risco e desastre,8,2,4,3,0.68,11706,FALSE
 RN,CADU DE LULA,PT,esquerda e centro-esquerda,Menciona risco e desastre,11,1,4,3,0.52,21047,FALSE
-PR,SERGIO MORO,PL,direita e extrema-direita,Menciona risco e desastre,11,2,4,3,0.47,23170,FALSE
-GO,WILDER MORAIS,PL,direita e extrema-direita,Menciona risco e desastre,6,1,4,2,0.36,16716,FALSE
+PR,SERGIO MORO,PL,direita,Menciona risco e desastre,11,2,4,3,0.47,23170,FALSE
+GO,WILDER MORAIS,PL,direita,Menciona risco e desastre,6,1,4,2,0.36,16716,FALSE
 MG,PATRUS ANANIAS,PT,esquerda e centro-esquerda,Menciona risco e desastre,6,1,4,3,0.34,17763,FALSE
-MT,WELLINGTON FAGUNDES,PL,direita e extrema-direita,Menciona risco e desastre,3,2,4,3,0.3,10101,FALSE
-GO,MARCONI PERILLO,PSDB,direita e extrema-direita,Menciona risco e desastre,7,1,4,2,0.28,24694,FALSE
+MT,WELLINGTON FAGUNDES,PL,direita,Menciona risco e desastre,3,2,4,3,0.3,10101,FALSE
+GO,MARCONI PERILLO,PSDB,direita,Menciona risco e desastre,7,1,4,2,0.28,24694,FALSE
 CE,SERLEY LEAL,UP,extrema-esquerda,Menciona risco e desastre,4,1,4,3,0.27,14645,FALSE
 DF,LEANDRO GRASS,PT,esquerda e centro-esquerda,Menciona risco e desastre,9,2,4,3,0.25,35400,FALSE
-BA,ACM NETO,UNIÃO,direita e extrema-direita,Menciona risco e desastre,18,2,4,3,0.24,73942,FALSE
+BA,ACM NETO,UNIÃO,direita,Menciona risco e desastre,18,2,4,3,0.24,73942,FALSE
 SC,PROFESSOR MARCUS SODRÉ,PSTU,extrema-esquerda,Menciona risco e desastre,4,3,4,2,0.23,17679,FALSE
-PR,LUIZ FRANÇA,MISSÃO,direita e extrema-direita,Menciona risco e desastre,7,2,4,3,0.2,35503,FALSE
-RS,GABRIEL SOUZA,MDB,direita e extrema-direita,Menciona risco e desastre,45,3,3,3,1.67,26921,FALSE
+PR,LUIZ FRANÇA,MISSÃO,extrema-direita,Menciona risco e desastre,7,2,4,3,0.2,35503,FALSE
+RS,GABRIEL SOUZA,MDB,direita,Menciona risco e desastre,45,3,3,3,1.67,26921,FALSE
 DF,CAPPELLI,PSB,esquerda e centro-esquerda,Menciona risco e desastre,7,2,3,3,0.56,12434,FALSE
 ES,HELDER SALOMÃO,PT,esquerda e centro-esquerda,Menciona risco e desastre,5,2,3,3,0.33,15091,FALSE
 AM,DAVID ALMEIDA,AVANTE,centro e centro-direita,Menciona risco e desastre,5,1,3,2,0.25,19635,FALSE
 MT,MAURICIO COELHO,MOBILIZA,centro e centro-direita,Menciona risco e desastre,5,1,3,3,0.24,20659,FALSE
-GO,DANIEL VILELA,MDB,direita e extrema-direita,Menciona risco e desastre,4,1,3,2,0.21,19211,FALSE
-DF,PAULA BELMONTE,PSDB,direita e extrema-direita,Menciona risco e desastre,1,1,3,2,0.07,13968,FALSE
+GO,DANIEL VILELA,MDB,direita,Menciona risco e desastre,4,1,3,2,0.21,19211,FALSE
+DF,PAULA BELMONTE,PSDB,direita,Menciona risco e desastre,1,1,3,2,0.07,13968,FALSE
 PE,PROFESSORA CAMILA,UP,extrema-esquerda,Menciona risco e desastre,2,1,2,2,1.03,1948,TRUE
-MG,MATEUS SIMÕES,PSD,direita e extrema-direita,Menciona risco e desastre,3,2,2,3,1.02,2938,FALSE
-PB,EFRAIM FILHO,PL,direita e extrema-direita,Menciona risco e desastre,9,2,2,3,0.89,10134,FALSE
-PB,LUCAS RIBEIRO,PP,direita e extrema-direita,Menciona risco e desastre,3,2,2,2,0.71,4200,FALSE
-CE,DELEGADO HUGGO,MISSÃO,direita e extrema-direita,Menciona risco e desastre,7,1,2,2,0.55,12785,FALSE
-RJ,DOUGLAS RUAS,PL,direita e extrema-direita,Menciona risco e desastre,5,2,2,3,0.5,9949,FALSE
-CE,CIRO GOMES,PSDB,direita e extrema-direita,Menciona risco e desastre,4,1,2,2,0.44,9126,FALSE
-RJ,CORONEL BUSNELLO,MISSÃO,direita e extrema-direita,Menciona risco e desastre,7,3,2,3,0.31,22740,FALSE
-CE,VERA LÚCIA,NOVO,direita e extrema-direita,Menciona risco e desastre,2,0,2,2,0.15,13273,FALSE
-SC,JOÃO RODRIGUES,PSD,direita e extrema-direita,Menciona risco e desastre,1,2,2,2,0.15,6744,FALSE
-MS,ECONOMISTA RENATO GOMES,DC,direita e extrema-direita,Menciona risco e desastre,3,1,2,4,0.13,22802,FALSE
-AM,OMAR AZIZ,PSD,direita e extrema-direita,Menciona risco e desastre,3,2,2,1,0.12,25331,FALSE
+MG,MATEUS SIMÕES,PSD,direita,Menciona risco e desastre,3,2,2,3,1.02,2938,FALSE
+PB,EFRAIM FILHO,PL,direita,Menciona risco e desastre,9,2,2,3,0.89,10134,FALSE
+PB,LUCAS RIBEIRO,PP,direita,Menciona risco e desastre,3,2,2,2,0.71,4200,FALSE
+CE,DELEGADO HUGGO,MISSÃO,extrema-direita,Menciona risco e desastre,7,1,2,2,0.55,12785,FALSE
+RJ,DOUGLAS RUAS,PL,direita,Menciona risco e desastre,5,2,2,3,0.5,9949,FALSE
+CE,CIRO GOMES,PSDB,direita,Menciona risco e desastre,4,1,2,2,0.44,9126,FALSE
+RJ,CORONEL BUSNELLO,MISSÃO,extrema-direita,Menciona risco e desastre,7,3,2,3,0.31,22740,FALSE
+CE,VERA LÚCIA,NOVO,direita,Menciona risco e desastre,2,0,2,2,0.15,13273,FALSE
+SC,JOÃO RODRIGUES,PSD,direita,Menciona risco e desastre,1,2,2,2,0.15,6744,FALSE
+MS,ECONOMISTA RENATO GOMES,DC,direita,Menciona risco e desastre,3,1,2,4,0.13,22802,FALSE
+AM,OMAR AZIZ,PSD,direita,Menciona risco e desastre,3,2,2,1,0.12,25331,FALSE
 MA,FELIPE CAMARÃO,PT,esquerda e centro-esquerda,Menciona risco e desastre,2,1,2,2,0.11,18335,FALSE
 RN,DÁRIO BARBOSA,PSTU,extrema-esquerda,Menciona risco e desastre,1,1,1,2,0.67,1486,TRUE
 RN,ARINALDA DO MLB,UP,extrema-esquerda,Menciona risco e desastre,1,1,1,2,0.55,1817,TRUE
-AC,DR.LUISINHO,AGIR,direita e extrema-direita,Menciona risco e desastre,3,1,1,3,0.47,6430,FALSE
-RR,SOLDADO SAMPAIO,REPUBLICANOS,direita e extrema-direita,Menciona risco e desastre,4,2,1,3,0.37,10777,FALSE
-TO,LAUREZ MOREIRA,PSD,direita e extrema-direita,Menciona risco e desastre,5,3,1,3,0.37,13560,FALSE
-RO,PEDRO ABIB,MDB,direita e extrema-direita,Menciona risco e desastre,5,1,1,3,0.37,13655,FALSE
-MS,EDUARDO RIEDEL,PP,direita e extrema-direita,Menciona risco e desastre,4,1,1,3,0.26,15205,FALSE
-MG,BEN MENDES,MISSÃO,direita e extrema-direita,Menciona risco e desastre,8,1,1,4,0.25,32405,FALSE
-AP,DR. FURLAN,PSD,direita e extrema-direita,Menciona risco e desastre,5,1,1,3,0.24,20508,FALSE
+AC,DR.LUISINHO,AGIR,direita,Menciona risco e desastre,3,1,1,3,0.47,6430,FALSE
+RR,SOLDADO SAMPAIO,REPUBLICANOS,direita,Menciona risco e desastre,4,2,1,3,0.37,10777,FALSE
+TO,LAUREZ MOREIRA,PSD,direita,Menciona risco e desastre,5,3,1,3,0.37,13560,FALSE
+RO,PEDRO ABIB,MDB,direita,Menciona risco e desastre,5,1,1,3,0.37,13655,FALSE
+MS,EDUARDO RIEDEL,PP,direita,Menciona risco e desastre,4,1,1,3,0.26,15205,FALSE
+MG,BEN MENDES,MISSÃO,extrema-direita,Menciona risco e desastre,8,1,1,4,0.25,32405,FALSE
+AP,DR. FURLAN,PSD,direita,Menciona risco e desastre,5,1,1,3,0.24,20508,FALSE
 RO,EXPEDITO NETTO,PT,esquerda e centro-esquerda,Menciona risco e desastre,3,1,1,3,0.24,12564,FALSE
-AP,DELEGADO MARCOS,DC,direita e extrema-direita,Menciona risco e desastre,1,1,1,2,0.2,4881,FALSE
-MT,RAFAELL MILAS,MISSÃO,direita e extrema-direita,Menciona risco e desastre,1,0,1,1,0.19,5174,FALSE
+AP,DELEGADO MARCOS,DC,direita,Menciona risco e desastre,1,1,1,2,0.2,4881,FALSE
+MT,RAFAELL MILAS,MISSÃO,extrema-direita,Menciona risco e desastre,1,0,1,1,0.19,5174,FALSE
 PA,WELL MACEDO,PSTU,extrema-esquerda,Menciona risco e desastre,3,1,1,1,0.18,16642,FALSE
 MG,RAFAEL DUDA,PSTU,extrema-esquerda,Menciona risco e desastre,3,2,1,3,0.18,16715,FALSE
 BA,RONALDO MANSUR,PSOL,extrema-esquerda,Menciona risco e desastre,1,1,1,2,0.06,16649,FALSE
-PA,DR. DANIEL,PODE,direita e extrema-direita,Só agenda climática geral,0,0,0,,0,19646,FALSE
-MA,EDUARDO BRAIDE,PSD,direita e extrema-direita,Só agenda climática geral,0,0,0,,0,1437,TRUE
+PA,DR. DANIEL,PODE,direita,Só agenda climática geral,0,0,0,,0,19646,FALSE
+MA,EDUARDO BRAIDE,PSD,direita,Só agenda climática geral,0,0,0,,0,1437,TRUE
 TO,PROF WITER NAVES,PSOL,extrema-esquerda,Só agenda climática geral,0,0,0,,0,3802,FALSE
-MS,JEFERSON BEZERRA,AGIR,direita e extrema-direita,Sem menção,0,0,0,,0,885,TRUE
-RN,RODRIGO DE BOLSONARO,AGIR,direita e extrema-direita,Sem menção,0,0,0,,0,486,TRUE
-PB,PEDRO COUTINHO,DC,direita e extrema-direita,Sem menção,0,0,0,,0,1726,TRUE
-SE,TATY  CRISTINA DE JESUS,DC,direita e extrema-direita,Sem menção,0,0,0,,0,1885,TRUE
-BA,ARIEL CAPISTRANO,DC,direita e extrema-direita,Sem menção,0,0,0,,0,730,TRUE
-AL,MÁRCIO JAMBO,DEMOCRATA,direita e extrema-direita,Sem menção,0,0,0,,0,1150,TRUE
-TO,SIQUEIRA CAMPOS JR,DEMOCRATA,direita e extrema-direita,Sem menção,0,0,0,,0,2010,FALSE
-CE,DANILO SOARES,DEMOCRATA,direita e extrema-direita,Sem menção,0,0,0,,0,2088,FALSE
+MS,JEFERSON BEZERRA,AGIR,direita,Sem menção,0,0,0,,0,885,TRUE
+RN,RODRIGO DE BOLSONARO,AGIR,direita,Sem menção,0,0,0,,0,486,TRUE
+PB,PEDRO COUTINHO,DC,direita,Sem menção,0,0,0,,0,1726,TRUE
+SE,TATY  CRISTINA DE JESUS,DC,direita,Sem menção,0,0,0,,0,1885,TRUE
+BA,ARIEL CAPISTRANO,DC,direita,Sem menção,0,0,0,,0,730,TRUE
+AL,MÁRCIO JAMBO,DEMOCRATA,direita,Sem menção,0,0,0,,0,1150,TRUE
+TO,SIQUEIRA CAMPOS JR,DEMOCRATA,direita,Sem menção,0,0,0,,0,2010,FALSE
+CE,DANILO SOARES,DEMOCRATA,direita,Sem menção,0,0,0,,0,2088,FALSE
 PR,DOUTOR ALEXANDRE SALOMÃO,MOBILIZA,centro e centro-direita,Sem menção,0,0,0,,0,5901,FALSE
-PI,ELIZEU AGUIAR,NOVO,direita e extrema-direita,Sem menção,0,0,0,,0,432,TRUE
+PI,ELIZEU AGUIAR,NOVO,direita,Sem menção,0,0,0,,0,432,TRUE
 MA,REGINALDO LIMA,PCB,extrema-esquerda,Sem menção,0,0,0,,0,11144,FALSE
 AC,EUDO RAFFAEL,PCB,extrema-esquerda,Sem menção,0,0,0,,0,1961,TRUE
 MG,PROFESSOR TÚLIO LOPES,PCB,extrema-esquerda,Sem menção,0,0,0,,0,8633,FALSE
@@ -154,10 +154,10 @@ BA,MARIA BONA,PCO,extrema-esquerda,Sem menção,0,0,0,,0,2577,FALSE
 CE,IERI BRAGA,PCO,extrema-esquerda,Sem menção,0,0,0,,0,2577,FALSE
 DF,EXPEDITO MENDONÇA,PCO,extrema-esquerda,Sem menção,0,0,0,,0,2577,FALSE
 GO,DANILO DA SILVA,PCO,extrema-esquerda,Sem menção,0,0,0,,0,2577,FALSE
-MG,FLÁVIO ROSCOE,PL,direita e extrema-direita,Sem menção,0,0,0,,0,7432,FALSE
-MS,DELCIDIO AMARAL,PRD,direita e extrema-direita,Sem menção,0,0,0,,0,8539,FALSE
-MT,DOUTORA NATASHA,PSD,direita e extrema-direita,Sem menção,0,0,0,,0,9720,FALSE
-PI,DRA. LÚCIA SANTOS,PSDB,direita e extrema-direita,Sem menção,0,0,0,,0,7573,FALSE
+MG,FLÁVIO ROSCOE,PL,direita,Sem menção,0,0,0,,0,7432,FALSE
+MS,DELCIDIO AMARAL,PRD,extrema-direita,Sem menção,0,0,0,,0,8539,FALSE
+MT,DOUTORA NATASHA,PSD,direita,Sem menção,0,0,0,,0,9720,FALSE
+PI,DRA. LÚCIA SANTOS,PSDB,direita,Sem menção,0,0,0,,0,7573,FALSE
 MS,LUCIEN REZENDE,PSOL,extrema-esquerda,Sem menção,0,0,0,,0,2451,FALSE
 RJ,CYRO GARCIA,PSTU,extrema-esquerda,Sem menção,0,0,0,,0,3168,FALSE
 AP,CARLOS CLEY,PSTU,extrema-esquerda,Sem menção,0,0,0,,0,4446,FALSE

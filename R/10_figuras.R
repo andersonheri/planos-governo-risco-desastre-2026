@@ -30,7 +30,7 @@ perfil_agrupado <- function(P, grupo, ordem, arquivo, w = 9.5, h = 4.8) {
   d[is.na(N), N := 0L]
   d[, pct := 100 * N / sum(N), by = g]
   n_g <- P[!is.na(get(grupo)), .N, by = grupo]; setnames(n_g, grupo, "g")
-  d[, rot := factor(g, levels = ordem, labels = sprintf("%s\n(n = %d)", ordem, n_g$N[match(ordem, n_g$g)]))]
+  d[, rot := factor(g, levels = ordem, labels = sprintf("%s\n(n = %d)", stringr::str_wrap(ordem, 13), n_g$N[match(ordem, n_g$g)]))]
   p <- ggplot(d, aes(x = rot, y = pct, fill = perfil)) +
     geom_col(position = position_dodge(width = 0.86), width = 0.8) +
     geom_text(aes(label = ifelse(pct > 0, round(pct), "")), position = position_dodge(width = 0.86), vjust = -0.4, size = 4.2, colour = COR$ink2) +

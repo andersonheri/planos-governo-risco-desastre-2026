@@ -42,7 +42,7 @@ V <- list(
   P_CITA_PRINC = vir(100 * sum(al$citam_principal) / sum(al$candidatos)), PI_SHARE = vir(al[uf == "PI", share_principal], 0), PI_CITA = vir(al[uf == "PI", pct_cita_principal], 0),
   N_NC = nrow(nc), RHO = vd(rho),
   P_ME_5MIL = vir(me[faixa == "a", m], 0), P_ME_20MIL = vir(me[faixa == "d", m], 0), N_CURTOS = sum(P$plano_curto),
-  P_ME_EE = vir(cg("extrema-esquerda", "pct_mencao"), 0), P_ME_DIR = vir(cg("direita e extrema-direita", "pct_mencao"), 0),
+  P_ME_EE = vir(cg("extrema-esquerda", "pct_mencao"), 0), P_ME_DIR = vir(cg("direita", "pct_mencao"), 0), P_ME_XD = vir(cg("extrema-direita", "pct_mencao"), 0),
   N_INC = inc[incumbente == TRUE, n], P_INC_ACAO = vir(inc[incumbente == TRUE, pct_acao], 0), P_NAOINC_ACAO = vir(inc[incumbente == FALSE, pct_acao], 0),
   ALFA_REL = vd(conc[item == "relevancia (3 categorias)", alpha_krippendorff]), ALFA_ESP = vd(conc[item == "especificidade (0-4, ordinal)", alpha_krippendorff]),
   REPO = REPO, REPO_CURTO = sub("https://", "", REPO))

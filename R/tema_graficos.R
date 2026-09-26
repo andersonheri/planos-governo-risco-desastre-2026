@@ -21,8 +21,8 @@ NIVEIS_PERFIL <- c("Sem menção", "Só agenda climática geral", "Menciona risc
                    "Propõe ação concreta", "Ação com meta, prazo ou orçamento")
 COR_PERFIL <- setNames(c(COR$nada, "#eda100", "#9ec5f4", "#3987e5", "#0d366b"), NIVEIS_PERFIL)
 COR_REGIAO <- setNames(CAT[1:5], c("Norte", "Nordeste", "Centro-Oeste", "Sudeste", "Sul"))
-CAMPOS_ORDEM <- c("extrema-esquerda", "esquerda e centro-esquerda", "centro e centro-direita", "direita e extrema-direita")
-COR_CAMPO  <- setNames(CAT[1:4], CAMPOS_ORDEM)   # neutras, sem carga partidaria
+CAMPOS_ORDEM <- c("extrema-esquerda", "esquerda e centro-esquerda", "centro e centro-direita", "direita", "extrema-direita")
+COR_CAMPO  <- setNames(CAT[1:5], CAMPOS_ORDEM)   # neutras, sem carga partidaria
 
 theme_risco <- function(base = 11) {
   theme_minimal(base_size = base, base_family = "sans") +

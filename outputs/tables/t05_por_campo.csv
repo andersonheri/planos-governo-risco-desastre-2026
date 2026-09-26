@@ -1,5 +1,6 @@
 campo,n,com_mencao,pct_mencao,pct_so_clima,pct_acao,pct_meta,pct_ciclo_completo,pct_adaptacao,dens_mediana,palavras_mediana
-direita e extrema-direita,91,76,83.5,2.2,41.8,2.2,18.7,45.1,0.31,11863
+direita,80,66,82.5,2.5,42.5,2.5,20,47.5,0.33,11724
 centro e centro-direita,6,4,66.7,0,16.7,0,16.7,50,0.25,9140
+extrema-direita,11,10,90.9,0,36.4,0,9.1,27.3,0.25,12785
 extrema-esquerda,55,28,50.9,1.8,23.6,1.8,5.5,18.2,0.06,3802
 esquerda e centro-esquerda,20,20,100,0,40,5,30,75,0.45,15403
