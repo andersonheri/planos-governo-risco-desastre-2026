@@ -1,0 +1,25 @@
+# dados brutos (TSE, Atlas Digital de Desastres): baixar com R/01_baixar_dados.R
+data/raw/
+# dados intermediarios pesados; ficam so os arquivos pequenos necessarios ao relatorio
+data/processed/*
+!data/processed/candidatos_gov.csv
+!data/processed/planos_meta.csv
+!data/processed/janelas.csv
+!data/processed/janelas_ancoragem.csv
+data/texto/
+data/ocr_tmp/
+data/pdfs_tmp/
+# saidas brutas dos modelos (regeneraveis; os rotulos consolidados estao em outputs/tables)
+outputs/llm/
+outputs/completo__*/
+# sessao local
+.Rproj.user/
+.Rhistory
+.claude/
+.quarto/
+**/*.quarto_ipynb
+relatorios/*_files/
+*.aux
+*.log
+*.toc
+*.knit.md

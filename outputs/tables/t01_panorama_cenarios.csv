@@ -1,0 +1,4 @@
+cenario,n,com_mencao,pct_mencao,pct_acao,janelas_relevantes
+principal (gpt-oss),172,128,74.4,34.9,1038
+conservador (ambos concordam),172,128,74.4,36,998
+amplo (algum modelo),172,132,76.7,34.9,1131

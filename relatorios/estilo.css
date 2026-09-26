@@ -1,0 +1,45 @@
+/* Estilo do relatório (HTML). Título em cima, fonte embaixo, linhas entre todas as linhas das tabelas. */
+.tit-tab, .tit-fig {
+  font-size: 0.95rem;
+  line-height: 1.4;
+  margin: 1.8em 0 0.45em 0;
+  font-weight: 400;
+}
+.tit-tab strong, .tit-fig strong { font-weight: 700; }
+
+table.tab-risco {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.84rem;
+  line-height: 1.35;
+  margin: 0;
+}
+table.tab-risco th,
+table.tab-risco td {
+  border-top: 1px solid #c9c8c1;
+  border-bottom: 1px solid #c9c8c1;
+  padding: 0.38em 0.6em;
+  vertical-align: top;
+  text-align: left;
+}
+table.tab-risco thead th {
+  background: #f1f0ec;
+  border-top: 2px solid #52514e;
+  border-bottom: 2px solid #52514e;
+  font-weight: 700;
+}
+table.tab-risco tbody tr:last-child td { border-bottom: 2px solid #52514e; }
+table.tab-risco td.num, table.tab-risco th.num { text-align: right; white-space: nowrap; }
+table.quadro td { line-height: 1.45; }
+
+.fonte {
+  font-size: 0.8rem;
+  color: #52514e;
+  margin: 0.4em 0 1.8em 0;
+}
+
+figure.fig-risco { margin: 1.6em 0 0.4em 0; }
+figure.fig-risco img { width: 100%; height: auto; display: block; }
+figure.fig-risco .tit-fig { margin-top: 0; }
+
+.aviso-ex { font-size: 0.9rem; color: #52514e; }

@@ -1,0 +1,27 @@
+partido,categoria_artigo,campo,tipo,sigla_artigo,observacao
+PSTU,extrema-esquerda,extrema-esquerda,direto,PSTU,""
+PCO,extrema-esquerda,extrema-esquerda,direto,PCO,""
+PCB,extrema-esquerda,extrema-esquerda,direto,PCB,""
+PSOL,extrema-esquerda,extrema-esquerda,direto,PSOL,"Na figura do artigo o PSOL esta na faixa de extrema-esquerda (0 a 1,5); o texto lista como antissistema so PSTU, PCO e PCB"
+PT,esquerda,esquerda e centro-esquerda,direto,PT,""
+PSB,centro-esquerda,esquerda e centro-esquerda,direto,PSB,"Rotulado PSDB por engano abaixo da faixa centro-esquerda na figura; posicao ~4,0 no Grafico 2"
+PDT,centro-esquerda,esquerda e centro-esquerda,direto,PDT,""
+REDE,centro,centro e centro-direita,direto,Rede,""
+AVANTE,centro-direita,centro e centro-direita,direto,Avante,""
+SOLIDARIEDADE,centro-direita,centro e centro-direita,renomeado,SDD,Solidariedade (SDD no artigo)
+MOBILIZA,centro-direita,centro e centro-direita,renomeado,PMN,Mobiliza (antigo PMN)
+MDB,direita,direita e extrema-direita,direto,MDB,""
+PSDB,direita,direita e extrema-direita,direto,PSDB,""
+PSD,direita,direita e extrema-direita,direto,PSD,""
+PODE,direita,direita e extrema-direita,renomeado,Podemos,""
+REPUBLICANOS,direita,direita e extrema-direita,renomeado,PRB,Republicanos (antigo PRB; painel REP)
+PL,direita,direita e extrema-direita,renomeado,PR,PL (antigo PR; painel PL)
+PP,direita,direita e extrema-direita,renomeado,Progressistas,""
+DC,direita,direita e extrema-direita,direto,DC,""
+NOVO,direita,direita e extrema-direita,direto,Novo,""
+AGIR,direita,direita e extrema-direita,renomeado,PTC,Agir (antigo PTC)
+UNIÃO,direita,direita e extrema-direita,fusao_confirmada,DEM + PSL,Fusao DEM (extrema-direita) e PSL (direita); classificado como direita pelo autor
+PRD,extrema-direita,direita e extrema-direita,fusao_confirmada,PTB + Patriota,Fusao PTB (centro-direita) e Patriota (extrema-direita); classificado como extrema-direita pelo autor
+UP,extrema-esquerda,extrema-esquerda,manual,"",Classificacao do autor (partido criado depois de 2018)
+MISSÃO,extrema-direita,direita e extrema-direita,manual,"",Classificacao do autor (partido criado depois de 2018)
+DEMOCRATA,direita,direita e extrema-direita,manual,"",Classificacao do autor (sem correspondencia no artigo)

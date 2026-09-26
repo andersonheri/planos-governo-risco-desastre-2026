@@ -1,0 +1,20 @@
+regiao,perfil_n,perfil,n
+Centro-Oeste,1,Sem menção,10
+Centro-Oeste,3,Menciona risco e desastre,13
+Centro-Oeste,4,Propõe ação concreta,4
+Nordeste,1,Sem menção,17
+Nordeste,2,Só agenda climática geral,1
+Nordeste,3,Menciona risco e desastre,18
+Nordeste,4,Propõe ação concreta,18
+Nordeste,5,"Ação com meta, prazo ou orçamento",2
+Norte,1,Sem menção,5
+Norte,2,Só agenda climática geral,2
+Norte,3,Menciona risco e desastre,14
+Norte,4,Propõe ação concreta,19
+Sudeste,1,Sem menção,5
+Sudeste,3,Menciona risco e desastre,11
+Sudeste,4,Propõe ação concreta,10
+Sudeste,5,"Ação com meta, prazo ou orçamento",2
+Sul,1,Sem menção,4
+Sul,3,Menciona risco e desastre,12
+Sul,4,Propõe ação concreta,5

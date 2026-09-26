@@ -1,0 +1,6 @@
+regiao,n,com_mencao,pct_mencao,pct_so_clima,pct_acao,pct_meta,pct_ciclo_completo,pct_adaptacao,dens_mediana,palavras_mediana
+Norte,40,33,82.5,5,47.5,0,10,37.5,0.29,10488
+Centro-Oeste,27,17,63,0,14.8,0,7.4,40.7,0.19,12364
+Nordeste,56,38,67.9,1.8,35.7,3.6,12.5,39.3,0.34,8346
+Sudeste,28,23,82.1,0,42.9,7.1,21.4,42.9,0.3,11784
+Sul,21,17,81,0,23.8,0,38.1,42.9,0.51,12295
