@@ -49,7 +49,14 @@ reg <- ex[, .(registros = sum(registros)), by = uf]
 e <- merge(merge(reg, mun, by = "uf"), uf_t[, .(uf = SG_UF, pct_acao, n)], by = "uf")
 e[, reg_mun := registros / municipios]
 e[, regiao := unname(REGIAO_UF[uf])]
+# quadrantes: cortes na mediana de registros por municipio e no % nacional de candidatos com acao concreta
+base <- tab("base_analitica.csv"); Pn <- base[grepl("^principal", cenario)]
+CORTE_X <- median(e$reg_mun); CORTE_Y <- 100 * mean(Pn$perfil_n >= 4L)
+e[, quadrante := fcase(reg_mun >= CORTE_X & pct_acao >= CORTE_Y, "Mais exposto, mais ação",
+                       reg_mun < CORTE_X & pct_acao >= CORTE_Y, "Menos exposto, mais ação",
+                       reg_mun >= CORTE_X & pct_acao < CORTE_Y, "Mais exposto, menos ação", default = "Menos exposto, menos ação")]
 fwrite(e, file.path(DIR_TAB, "t20_exposicao_x_concretude.csv"))
+cat("Cortes: x =", round(CORTE_X, 1), " y =", round(CORTE_Y, 1), "\n"); print(e[, .N, by = quadrante])
 rho <- suppressWarnings(cor.test(e$reg_mun, e$pct_acao, method = "spearman"))
 cat("Spearman:", round(rho$estimate, 2), " p =", round(rho$p.value, 3), "\n")
 # posicao dos rotulos (evita sobreposicao): dx em unidades do eixo x, dy em pontos percentuais
@@ -59,10 +66,15 @@ POS <- data.table(uf = c("PB", "RS", "BA", "CE", "AP", "PA", "RJ", "RO", "RR", "
 e <- merge(e, POS, by = "uf", all.x = TRUE)
 e[is.na(dx), `:=`(dx = 0, dy = 4.5, hj = 0.5)]
 p <- ggplot(e, aes(x = reg_mun, y = pct_acao, colour = regiao)) +
+  geom_vline(xintercept = CORTE_X, linetype = "dashed", colour = COR$muted) + geom_hline(yintercept = CORTE_Y, linetype = "dashed", colour = COR$muted) +
+  annotate("text", x = Inf, y = Inf, label = "Mais exposto,\nmais ação", hjust = 1.05, vjust = 1.2, size = 4.6, colour = COR$muted, fontface = "italic") +
+  annotate("text", x = -Inf, y = Inf, label = "Menos exposto,\nmais ação", hjust = -0.05, vjust = 1.2, size = 4.6, colour = COR$muted, fontface = "italic") +
+  annotate("text", x = Inf, y = -Inf, label = "Mais exposto,\nmenos ação", hjust = 1.05, vjust = -0.3, size = 4.6, colour = COR$muted, fontface = "italic") +
+  annotate("text", x = -Inf, y = -Inf, label = "Menos exposto,\nmenos ação", hjust = -0.05, vjust = -0.3, size = 4.6, colour = COR$muted, fontface = "italic") +
   geom_point(aes(size = n), alpha = 0.85) +
   geom_text(aes(x = reg_mun + dx, y = pct_acao + dy, label = uf, hjust = hj), size = 4.8, colour = COR$ink, show.legend = FALSE) +
   scale_colour_manual(values = COR_REGIAO, name = NULL) + scale_size_continuous(range = c(3, 8), guide = "none") +
-  scale_y_continuous(labels = function(x) paste0(x, "%"), expand = expansion(mult = c(0.05, 0.1))) +
+  scale_y_continuous(labels = function(x) paste0(x, "%"), expand = expansion(mult = c(0.14, 0.1))) +
   labs(x = "Registros de desastre por município, 2013 a 2025", y = "% de candidatos com ação concreta predominante") +
   theme_risco(16) + guides(colour = guide_legend(override.aes = list(size = 4)))
 salvar_fig(p, "16_exposicao_x_concretude.png", w = 9.5, h = 7)

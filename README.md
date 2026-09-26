@@ -2,7 +2,7 @@
 
 Relatório descritivo e público sobre **o que os candidatos a governador dizem, e deixam de dizer, sobre risco e desastre** nos planos de governo registrados no TSE para as eleições de 2026. A leitura dos planos combina um **dicionário de termos** com **modelos de linguagem locais** e regras textuais, por meio do pacote [**acR**](https://github.com/andersonheri/acR).
 
-**Autor:** Anderson Henrique (CEM/USP, com apoio FAPESP) · andersonheri@gmail.com
+**Autor:** Anderson Henrique · Doutor em Ciência Política (UFPE) · pós-doutorado no CEM/USP (apoio FAPESP) · pesquisador colaborador do Ipea · INCT QualiGov · [ORCID 0000-0002-1842-2725](https://orcid.org/0000-0002-1842-2725) · andersonheri@gmail.com
 **Coleta congelada em:** 23/09/2026 (o TSE atualiza os arquivos várias vezes ao dia)
 
 ---
@@ -24,7 +24,7 @@ Relatório descritivo e público sobre **o que os candidatos a governador dizem,
 - **74,4%** (128) mencionam risco ou desastre; **41** não têm nenhuma menção.
 - **34,9%** (60) têm ação concreta em metade ou mais das passagens sobre o tema; só **2,3%** (4) associam a ação a meta, prazo, indicador ou orçamento.
 - Os planos **antecipam mais do que respondem**: prevenção e preparação em 71,5% dos candidatos, resposta em 34,9% e recuperação em 24,4%.
-- **Descompasso territorial:** no Piauí, a seca é 92% dos registros de desastre, mas só 17% dos candidatos a citam. Nenhuma relação entre a intensidade de desastres do estado e a concretude dos planos (Spearman = 0,05).
+- **Descompasso territorial:** no Piauí, a seca é 92% dos registros de desastre, mas só 17% dos candidatos a citam. Não há relação entre a intensidade de desastres do estado e a concretude dos planos (Spearman = 0,05).
 - **Confiabilidade entre os dois modelos:** boa para tipos de ameaça, aceitável para relevância (alfa de Krippendorff = 0,78) e **fraca para especificidade (0,58)**, que deve ser lida como estimativa aproximada.
 
 ![Perfil dos candidatos](outputs/figures/01_perfil_nacional.png)
@@ -42,26 +42,51 @@ Relatório descritivo e público sobre **o que os candidatos a governador dizem,
 7. **Confiabilidade:** concordância entre modelos (acordo, kappa, alfa de Krippendorff, AC1 de Gwet).
 8. **Cruzamentos:** região, UF, partido e campo (Bolognesi, Ribeiro e Codato, 2023), incumbência e exposição a desastres (Atlas Digital de Desastres, MIDR/S2iD, 2013 a 2025).
 
-## Estrutura do repositório
+## Estrutura do projeto
 
 ```
-R/                    scripts numerados, na ordem de execução (00 a 14)
-config/               classificação de partidos, revisão manual, exemplos do codebook e casos citados
-relatorios/           relatorio_final.qmd (Quarto), estilo.css, renderizar.bat
-outputs/tables/       tabelas e rótulos consolidados (base_analitica.csv, t01..t20)
-outputs/figures/      figuras usadas no relatório (01..16)
-data/processed/       arquivos pequenos necessários para renderizar o relatório
+Candidatos_gov/
+├── Candidatos_gov.Rproj            # abrir este arquivo no RStudio
+├── run_all.R                       # roda o pipeline completo, na ordem (download e LLM desligados por padrão)
+├── _quarto.yml                     # projeto Quarto (renderiza o relatório)
+├── R/
+│   ├── 00_setup.R                  # pacotes, caminhos, parâmetros do estudo e formatadores
+│   ├── 01_baixar_dados.R           # baixa candidatos e os 27 ZIPs de planos do TSE; grava manifesto com sha256
+│   ├── 02_base_candidatos.R        # monta a base de governadores (cadastro + situação) e o índice de PDFs
+│   ├── 03_extrair_texto.R          # extrai o texto dos PDFs (pdftotext) e consolida um texto por candidato
+│   ├── 03b_ocr_escaneados.R        # OCR (Tesseract) dos planos escaneados
+│   ├── 04_trechos_dicionario.R     # aplica o dicionário de risco e desastre (presença e densidade)
+│   ├── 04b_janelas.R               # monta as janelas (frase do termo ± 1 frase) e marca a frase focal
+│   ├── 05_codebooks.R              # codebooks do acR (relevância, fase, ameaça, especificidade, ancoragem)
+│   ├── 06_classificar_llm.R        # classificação com ac_qual_code() e modelo local (LM Studio); retomável
+│   ├── 07_ancoragem_regras.R       # órgão, orçamento, meta, prazo e indicador por regras textuais
+│   ├── 08_consolidar.R             # consolida rótulos, mede a concordância entre modelos, gera indicadores
+│   ├── 09_analises.R               # base analítica por candidato e tabelas do relatório (t01 a t12)
+│   ├── 10_figuras.R                # figuras de perfil, fases, ameaças, concretude, ancoragem e mapa por UF
+│   ├── 11_exposicao.R              # exposição histórica a desastres por UF (Atlas/S2iD) x tipos citados
+│   ├── 12_figuras_exposicao.R      # figuras da seção de exposição (heatmaps, ranking, registros por ano)
+│   ├── 13_quem_fala.R              # destaques, verbos no passado e anexo dos 172 candidatos
+│   ├── 14_figuras_mapas.R          # mapa do descompasso e cruzamento exposição x concretude (quadrantes)
+│   ├── dicionario.R                # dicionário de termos de risco e desastre
+│   └── tema_graficos.R             # tema e paletas dos gráficos
+├── config/
+│   ├── partidos_campos.csv         # classificação dos partidos (Bolognesi et al., 2023, e do autor)
+│   ├── municipios_por_uf.csv       # número de municípios por UF
+│   ├── revisao_manual.csv          # as 14 passagens de nível 4 lidas uma a uma
+│   ├── codebook_exemplos.csv       # definição e exemplo real de cada categoria do codebook
+│   └── casos_emblematicos.csv      # trechos dos planos citados nos quadros de "quem fala"
+├── data/
+│   ├── raw/                        # dados brutos do TSE e do Atlas (NÃO versionado; baixar com o script 01)
+│   └── processed/                  # arquivos pequenos necessários ao relatório (o resto NÃO versionado)
+├── outputs/
+│   ├── tables/                     # tabelas finais e rótulos consolidados (versionados, pequenos)
+│   └── figures/                    # figuras em PNG usadas no relatório (versionadas)
+└── relatorios/
+    ├── relatorio_final.qmd         # relatório em Quarto (HTML e PDF)
+    ├── estilo.css                  # estilo do HTML (título em cima, fonte embaixo, tabelas com linhas)
+    ├── _identificacao.tex          # página de identificação do PDF
+    └── renderizar.bat              # gera HTML e PDF (Windows)
 ```
-
-| Script | Função |
-|---|---|
-| `00_setup.R` | caminhos, parâmetros, formatadores |
-| `01`–`03b` | download, base de candidatos, extração de texto e OCR |
-| `04`, `04b` | dicionário e janelas |
-| `05_codebooks.R` | codebooks do acR (versão v0.8) |
-| `06`, `07` | classificação pelos modelos e ancoragem por regras |
-| `08`, `09` | consolidação e análises |
-| `10`–`14` | figuras, exposição a desastres, "quem fala" e mapas |
 
 ## Como reproduzir
 
@@ -74,9 +99,9 @@ install.packages(c("here", "data.table", "dplyr", "stringr", "purrr", "ggplot2",
 remotes::install_github("andersonheri/acR")
 ```
 
-- **Só o relatório** (usa os arquivos já incluídos em `outputs/` e `data/processed/`):
-  `quarto render relatorios/relatorio_final.qmd` (ou `relatorios/renderizar.bat`, no Windows).
-- **Pipeline completo:** rode `R/00` a `R/14` em ordem. Os dados brutos (TSE e Atlas Digital de Desastres) são baixados por `R/01_baixar_dados.R` e não estão no repositório; cada arquivo tem `sha256` registrado no manifesto da coleta.
+- **Só o relatório** (usa os arquivos já incluídos em `outputs/` e `data/processed/`): `quarto render relatorios/relatorio_final.qmd` (ou `relatorios/renderizar.bat`, no Windows).
+- **Pipeline sem download nem LLM:** abrir o `.Rproj` e rodar `source("run_all.R")`.
+- **Pipeline completo:** `RODAR_DOWNLOAD=1 RODAR_LLM=1 RENDERIZAR=1` antes de rodar `run_all.R`. O download baixa cerca de 400 MB (TSE e Atlas Digital de Desastres), e a classificação exige o LM Studio em `localhost:1234` e leva horas. Cada arquivo baixado tem `sha256` registrado no manifesto da coleta.
 
 ## Limitações que importam
 
@@ -87,7 +112,13 @@ remotes::install_github("andersonheri/acR")
 
 ## Uso de inteligência artificial
 
-Dois modelos de código aberto (`gpt-oss-20b`, `gemma-4-26b`) foram usados como **instrumento de medida**, localmente. O Claude (Anthropic) apoiou a programação, a montagem do documento e versões preliminares de texto. Formulação da pergunta, codebook, revisão manual, escolha dos casos e interpretação são do autor. A declaração completa está no relatório.
+Usamos inteligência artificial de duas formas, com funções e limites distintos.
+
+**Como instrumento de medida.** Dois modelos de linguagem de código aberto, executados localmente, no computador do autor, por meio do LM Studio, aplicaram o codebook às passagens dos planos: o `gpt-oss-20b` (OpenAI) e o `gemma-4-26b` (Google), com o pacote [acR](https://github.com/andersonheri/acR). O primeiro classificou todas as passagens e sustenta o cenário principal; o segundo classificou a relevância de todas e as demais dimensões em uma amostra aleatória de 30% das relevantes. Na classificação, nenhum texto dos planos foi enviado a serviços externos. Os PDFs escaneados foram lidos com o Tesseract (OCR), que não é um modelo generativo. Os limites dessa medida, que é consistente entre modelos, mas não foi validada por codificação humana, estão descritos no relatório.
+
+**Como assistente de trabalho.** O modelo Claude (Anthropic), usado por meio do Claude Code, apoiou a escrita e a depuração dos scripts em R, a montagem do documento em Quarto (tabelas, quadros, figuras e formatação), a busca de trechos nos dados para exemplificar as categorias e a redação de versões preliminares de parágrafos. Esse apoio não incluiu a análise dos planos nem a decisão sobre o que os números significam.
+
+**O que ficou com o autor.** O julgamento e a autoria são do autor, que formulou a pergunta de pesquisa e o desenho do estudo, definiu o codebook, as regras de decisão e a fusão de categorias, classificou os partidos que não constam do artigo de referência, leu e revisou manualmente, uma a uma, as passagens de nível 4, escolheu os casos e os trechos citados, conferiu os números e as referências e responde pela interpretação e pelo texto final. As sugestões do assistente foram lidas, corrigidas ou recusadas nesse processo, e o uso de inteligência artificial não substitui a responsabilidade do autor pelo conteúdo.
 
 ## Como citar
 

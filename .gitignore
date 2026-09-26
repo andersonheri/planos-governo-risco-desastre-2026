@@ -23,3 +23,5 @@ relatorios/*_files/
 *.log
 *.toc
 *.knit.md
+
+/.quarto/

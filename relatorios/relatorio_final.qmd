@@ -3,8 +3,12 @@ title: "Risco e Desastre nos Planos de Governo dos Candidatos a Governador (2026
 subtitle: "Relatório descritivo · Planos registrados no TSE, com análise de conteúdo assistida por modelos de linguagem"
 author:
   - name: "Anderson Henrique"
+    orcid: "0000-0002-1842-2725"
+    email: "andersonheri@gmail.com"
     affiliations:
-      - name: "Cientista político (Ph.D.); pesquisador de pós-doutorado, Centro de Estudos da Metrópole (CEM/USP), com apoio FAPESP"
+      - name: "Centro de Estudos da Metrópole (CEM/USP), pós-doutorado com apoio da FAPESP"
+      - name: "Instituto de Pesquisa Econômica Aplicada (Ipea), pesquisador colaborador"
+      - name: "INCT QualiGov"
 date: today
 lang: pt-BR
 toc-title: "Sumário"
@@ -53,9 +57,9 @@ pct1 <- function(x) fmt_pct(x, 1)
 
 # ---- numeracao de figuras, tabelas e quadros (ordem de aparicao no texto) --------------
 NUM <- list(
-  Figura = c("f_perfil", "f_fases", "f_ameacas", "f_concretude", "f_ancoragem", "f_clima", "f_regiao", "f_mapa",
-             "f_registros", "f_expo", "f_cita", "f_descompasso", "f_exp_conc", "f_campo", "f_tamanho", "f_conc"),
-  Tabela = c("t_universo", "t_cenarios", "t_destaques", "t_meta", "t_tempo", "t_regiao", "t_categorias", "t_incum", "t_curtos", "t_confiab",
+  Figura = c("f_conc", "f_perfil", "f_fases", "f_ameacas", "f_concretude", "f_ancoragem", "f_clima", "f_regiao", "f_mapa",
+             "f_registros", "f_expo", "f_cita", "f_descompasso", "f_exp_conc", "f_campo", "f_tamanho"),
+  Tabela = c("t_universo", "t_cenarios", "t_destaques", "t_meta", "t_tempo", "t_regiao", "t_quadr", "t_categorias", "t_incum", "t_curtos", "t_confiab",
              "t_anexo_cand", "t_uf", "t_class", "t_part", "t_alinh"),
   Quadro = c("q_relev", "q_fase", "q_espec", "q_perfil", "q_fonteles", "q_tarcisio", "q_isael", "q_zucco", "q_perillo",
              "q_braide", "q_raquel", "q_rejane", "q_ameaca", "q_ancor"))
@@ -164,6 +168,7 @@ dest   <- tab("t17_destaques.csv")
 tverb  <- tab("t18_tempo_verbal.csv")
 anexoc <- tab("t19_anexo_candidatos.csv")
 revman <- data.table::fread(here::here("config", "revisao_manual.csv"), encoding = "UTF-8")
+e20    <- tab("t20_exposicao_x_concretude.csv"); rho20 <- suppressWarnings(cor.test(e20$reg_mun, e20$pct_acao, method = "spearman"))
 cbex   <- data.table::fread(here::here("config", "codebook_exemplos.csv"), encoding = "UTF-8")
 casos  <- data.table::fread(here::here("config", "casos_emblematicos.csv"), encoding = "UTF-8")
 
@@ -211,15 +216,49 @@ rot_campo <- c("extrema-esquerda" = "Extrema-esquerda", "esquerda e centro-esque
 **Risco e Desastre nos Planos de Governo dos Candidatos a Governador (2026)**\
 Relatório descritivo · Planos registrados no TSE, com análise de conteúdo assistida por modelos de linguagem
 
-**Autor**: Anderson Henrique\
-Cientista político (Ph.D.); pesquisador de pós-doutorado, Centro de Estudos da Metrópole (CEM/USP), com apoio FAPESP\
-Contato: andersonheri@gmail.com
+**Autor**\
+Anderson Henrique\
+Doutor em Ciência Política, Universidade Federal de Pernambuco (UFPE), 2025\
+Pesquisador de pós-doutorado, Centro de Estudos da Metrópole (CEM/USP), com apoio da FAPESP\
+Pesquisador colaborador, Instituto de Pesquisa Econômica Aplicada (Ipea)\
+Pesquisador, Instituto Nacional de Ciência e Tecnologia QualiGov (INCT QualiGov)
 
-**Fonte dos dados**: Portal de Dados Abertos do TSE (conjunto "Candidatos 2026": cadastro, informações complementares e propostas de governo). Os planos são documentos públicos registrados pelos candidatos. A classificação, as figuras e a interpretação são do autor.
+**Contato e identificadores**\
+andersonheri@gmail.com · ORCID [0000-0002-1842-2725](https://orcid.org/0000-0002-1842-2725) · GitHub [andersonheri](https://github.com/andersonheri)
+
+**Natureza do documento**\
+Relatório técnico descritivo, não revisado por pares. A classificação, as figuras e a interpretação são do autor, e as opiniões expressas não representam posição das instituições a que ele se vincula.
+
+**Fonte dos dados**\
+Portal de Dados Abertos do TSE (conjunto "Candidatos 2026": cadastro, informações complementares e propostas de governo) e Atlas Digital de Desastres no Brasil (MIDR/S2iD). Os planos são documentos públicos registrados pelos candidatos.
 
 **Coleta congelada em `r format(DATA_CONGELAMENTO, "%d/%m/%Y")`** (arquivo de candidatos gerado em `r data_geracao` às `r hora_geracao`). O registro de candidaturas e os planos podem mudar depois dessa data.
 
+**Código e dados derivados**\
+<https://github.com/andersonheri/planos-governo-risco-desastre-2026>
+
+**Como citar**\
+HENRIQUE, A. *Risco e desastre nos planos de governo dos candidatos a governador (2026)*. Relatório descritivo. `r format(Sys.Date(), "%Y")`. Disponível em: <https://github.com/andersonheri/planos-governo-risco-desastre-2026>.
+
 :::
+
+```{=latex}
+\clearpage
+```
+
+{{< pagebreak >}}
+
+# Resumo {.unnumbered}
+
+Descrevemos o que os candidatos a governador em 2026 dizem sobre risco e desastre em seus planos de governo registrados no TSE. Analisamos os planos de `r N` candidatos com candidatura deferida (coleta de `r format(DATA_CONGELAMENTO, "%d/%m/%Y")`) por meio de um dicionário de termos e de dois modelos de linguagem de código aberto executados localmente, com o pacote acR, e medimos a presença do tema, as fases do ciclo de gestão de risco, os tipos de desastre e o grau de concretude, da menção genérica à ação com meta, prazo, indicador ou orçamento. Dos candidatos, `r n_mencao` (`r pct1(100 * n_mencao / N)`%) mencionam o tema, mas só `r n_acao` (`r pct1(100 * n_acao / N)`%) têm ação concreta em metade ou mais das passagens e `r n_meta` associam a ação a meta, prazo, indicador ou orçamento. Os planos falam mais de prevenção e preparação (`r pf("prevencao_preparacao")`% dos candidatos) do que de resposta (`r pf("resposta")`%) e de recuperação (`r pf("recuperacao")`%). A presença do tema depende do tamanho do plano e, na extrema-esquerda, do campo político, mas a concretude não varia entre campos. Ao cruzar os planos com o histórico de desastres (S2iD, 2013 a 2025), não encontramos relação entre a intensidade dos desastres de cada estado e a concretude dos planos (correlação de Spearman de `r vd(rho20$estimate)`). Discutimos a diferença entre proposta, balanço e crítica e os limites de uma classificação por modelos sem validação humana. O código e os dados derivados estão em repositório aberto.
+
+**Palavras-chave:** risco de desastre; planos de governo; eleições 2026; governadores; análise de conteúdo; modelos de linguagem.
+
+# Abstract {.unnumbered}
+
+We describe what candidates for state governor in Brazil's 2026 elections say about disaster risk in the government plans registered with the electoral court (TSE). We analyze the plans of `r N` candidates with approved candidacies (data frozen on `r format(DATA_CONGELAMENTO, "%d/%m/%Y")`) using a term dictionary and two open-source language models run locally with the acR package, and we measure the presence of the topic, the phases of the risk-management cycle, the types of disaster, and the degree of concreteness, from generic mention to action with targets, deadlines, indicators, or budget. Of the candidates, `r n_mencao` (`r pct1(100 * n_mencao / N)`%) mention the topic, but only `r n_acao` (`r pct1(100 * n_acao / N)`%) have concrete action in half or more of their passages, and `r n_meta` tie action to a target, deadline, indicator, or budget. Plans speak more about prevention and preparedness (`r pf("prevencao_preparacao")`% of candidates) than about response (`r pf("resposta")`%) and recovery (`r pf("recuperacao")`%). The presence of the topic depends on plan length and, on the far left, on political camp, but concreteness does not vary across camps. Crossing the plans with the history of disasters (S2iD, 2013 to 2025), we find no relationship between the intensity of disasters in each state and the concreteness of its plans (Spearman correlation of `r vd(rho20$estimate)`). We discuss the difference between proposal, balance, and criticism, and the limits of a model-based classification without human validation. Code and derived data are openly available.
+
+**Keywords:** disaster risk; government platforms; 2026 Brazilian elections; governors; content analysis; large language models.
 
 ```{=latex}
 \clearpage
@@ -235,7 +274,9 @@ A literatura oferece ao menos três razões para olhar esse material. A primeira
 
 A segunda razão é política: há evidência de que os eleitores premiam o alívio depois do desastre mais do que o investimento em prevenção (Healy e Malhotra, 2009), de que o desastre funciona como evento focalizador que abre janelas para mudança de política (Birkland, 1998; 2006) e de que a distribuição de declarações e de recursos de emergência responde a incentivos eleitorais e partidários (Reeves, 2011; Henrique e Batista, 2021; Domingos e Henrique, 2025). Se essas lógicas valem, é razoável esperar que os candidatos falem mais de resposta e de reconstrução do que de prevenção, e que falem mais depois do que antes de eventos marcantes. A terceira razão é a comunicação: Ewart, McLean e Ames (2016) discutem como os políticos deveriam falar antes, durante e depois dos desastres, e a literatura de gestão de crise trata a liderança pública como uma função central da resposta (Boin et al., 2005). Estudos de política de desastres tendem a se concentrar no que os governos fazem depois do evento (Sylves, 2019; Handmer e Dovers, 2007); o que os candidatos prometem antes de governar recebe menos atenção, e o plano de governo é o documento público em que essa promessa fica registrada.
 
-Nosso objetivo é descritivo e se resume em uma pergunta de pesquisa: **o que os candidatos a governador dizem, e deixam de dizer, sobre risco e desastre em seus planos de governo?** Para respondê-la, medimos quantos candidatos abordam o tema, quais fases do ciclo de gestão de risco e quais tipos de desastre aparecem e com que grau de concretude. Comparamos regiões, estados, partidos e campos políticos, distinguimos o discurso sobre agenda climática em geral do discurso sobre risco e desastre, mostramos **quem fala e como fala** por meio de trechos dos próprios planos e cruzamos o que os planos citam com o histórico de desastres de cada estado. O relatório descreve o conteúdo dos planos, não avalia a qualidade das políticas, não prevê o comportamento de governo e não infere intenções. A ausência de menção a um tema **não significa** omissão deliberada, porque os planos variam muito de formato e de extensão (de poucas centenas a dezenas de milhares de palavras) e os candidatos podem tratar do assunto em outros espaços da campanha.
+Nosso objetivo é descritivo e se resume em uma pergunta de pesquisa: **o que os candidatos a governador dizem, e deixam de dizer, sobre risco e desastre em seus planos de governo?** Para respondê-la, medimos quantos candidatos abordam o tema, quais fases do ciclo de gestão de risco e quais tipos de desastre aparecem e com que grau de concretude. Comparamos regiões, estados, partidos e campos políticos, distinguimos o discurso sobre agenda climática em geral do discurso sobre risco e desastre, mostramos **quem fala e como fala** por meio de trechos dos próprios planos e cruzamos o que os planos citam com o histórico de desastres de cada estado. **Contribuição.** O relatório traz três contribuições. A primeira é um **retrato nacional** do que os `r N` candidatos a governador dizem sobre risco e desastre antes da eleição, com casos e trechos que permitem ao leitor ver o material, e não só os indicadores. A segunda é a distinção entre **falar e prometer**, por meio de uma escala de concretude, de elementos de ancoragem (órgão, meta, prazo, indicador e orçamento) e da separação, por revisão manual, entre proposta, balanço e crítica. A terceira é um **método replicável**, em que a leitura dos planos é feita por modelos de código aberto executados localmente, com o pacote acR, com medida explícita de confiabilidade e com código e dados derivados abertos. As considerações finais retomam essas contribuições à luz dos resultados.
+
+O relatório descreve o conteúdo dos planos, não avalia a qualidade das políticas, não prevê o comportamento de governo e não infere intenções. A ausência de menção a um tema **não significa** omissão deliberada, porque os planos variam muito de formato e de extensão (de poucas centenas a dezenas de milhares de palavras) e os candidatos podem tratar do assunto em outros espaços da campanha.
 
 # Dados e método {#sec-metodo}
 
@@ -333,7 +374,14 @@ Como o nível 4 sustenta o degrau mais alto do perfil e é o mais sujeito a erro
 
 ## Confiabilidade dos rótulos
 
-Não houve codificação humana de referência. A confiabilidade é medida pela **concordância entre os dois modelos** sobre as mesmas janelas, e isso mede *consistência*, e não *acerto*. Onde os modelos discordam, apresentamos os resultados em três cenários, o **principal** (`gpt-oss`), o **conservador** (só o que os dois modelos consideram relevante) e o **amplo** (o que ao menos um considera). As medidas e os resultados por variável estão na @sec-conf.
+Não houve codificação humana de referência. A confiabilidade é medida pela **concordância entre os dois modelos** sobre as mesmas janelas, e isso mede *consistência*, e não *acerto*. Onde os modelos discordam, apresentamos os resultados em três cenários, o **principal** (`gpt-oss`), o **conservador** (só o que os dois modelos consideram relevante) e o **amplo** (o que ao menos um considera). As medidas e os resultados por variável estão na @sec-conf. A figura a seguir antecipa o resultado principal, com a concordância entre os dois modelos em cada categoria classificada, medida pelo alfa de Krippendorff.
+
+```{r fig-concordancia}
+#| output: asis
+figura("f_conc", "10_concordancia_modelos.png", "Concordância entre os dois modelos em cada categoria classificada (alfa de Krippendorff), 2026.", fonte = "Elaboração própria, com base na classificação pelo gpt-oss-20b e pelo gemma-4-26b.")
+```
+
+As categorias mais consistentes são os tipos de ameaça específicos, como queimadas, seca e enchente, e as menos consistentes são a especificidade e as fases de recuperação e de adaptação. A leitura das linhas tracejadas (0,67 e 0,80) e o significado de cada medida estão na @sec-conf.
 
 ## Outras variáveis e limitações de coleta
 
@@ -669,21 +717,37 @@ A enchente e o alagamento lideram os registros em `r al[tipo_principal == "hidro
 
 ## Quem mais sofre promete mais?
 
-Por fim, cruzamos a intensidade dos desastres com a concretude dos planos. O eixo horizontal mede os registros por município de cada estado, o que corrige o efeito do número de municípios, e o vertical, a proporção de candidatos com ação concreta predominante, e o tamanho do ponto indica o número de candidatos.
+```{r exp-conc-analise}
+CORTE_X <- median(e20$reg_mun); CORTE_Y <- 100 * n_acao / N
+qd <- function(q) paste(e20[quadrante == q][order(uf), uf], collapse = ", ")
+qn <- function(q) e20[quadrante == q, .N]
+```
+
+Por fim, cruzamos a intensidade dos desastres com a concretude dos planos para responder a uma pergunta simples: os estados que mais sofrem com desastres têm candidatos que prometem mais ação concreta? O eixo horizontal do gráfico mede os registros por município de cada estado, o que corrige o efeito do número de municípios, e o vertical, a proporção de candidatos com ação concreta predominante. O tamanho do ponto indica o número de candidatos. As linhas tracejadas dividem o gráfico em quatro quadrantes, com corte na mediana dos registros por município (`r fmt_pct(CORTE_X, 1)`) e na proporção nacional de candidatos com ação concreta (`r fmt_pct(CORTE_Y, 1)`%).
 
 ```{r fig-exp-conc}
 #| output: asis
-figura("f_exp_conc", "16_exposicao_x_concretude.png", "Registros de desastre por município e proporção de candidatos com ação concreta predominante, por UF.",
-       fonte = "Atlas Digital de Desastres (S2iD/MIDR, 2013 a 2025), municípios por UF (IBGE) e planos de governo dos candidatos a governador (TSE). Tamanho do ponto proporcional ao número de candidatos.", alt = 0.6)
+figura("f_exp_conc", "16_exposicao_x_concretude.png", "Registros de desastre por município e proporção de candidatos com ação concreta predominante, por UF, em quatro quadrantes.",
+       fonte = "Atlas Digital de Desastres (S2iD/MIDR, 2013 a 2025), municípios por UF (IBGE) e planos de governo dos candidatos a governador (TSE). Tamanho do ponto proporcional ao número de candidatos; linhas tracejadas na mediana dos registros por município e na proporção nacional de candidatos com ação concreta.", alt = 0.6)
 ```
 
-```{r exp-conc-analise}
-e20 <- tab("t20_exposicao_x_concretude.csv")
-rho20 <- suppressWarnings(cor.test(e20$reg_mun, e20$pct_acao, method = "spearman"))
-pau <- function(u) fmt_pct(e20[uf == u, pct_acao], 0)
+Os quadrantes reúnem os estados de forma quase uniforme, e isso já indica que não há um padrão dominante (`r ref("Tabela", "t_quadr")`).
+
+```{r tab-quadr}
+#| output: asis
+tabela(data.frame(Quadrante = c("Mais exposto, mais ação", "Menos exposto, mais ação", "Mais exposto, menos ação", "Menos exposto, menos ação"),
+                  Estados = c(qd("Mais exposto, mais ação"), qd("Menos exposto, mais ação"), qd("Mais exposto, menos ação"), qd("Menos exposto, menos ação")),
+                  `Nº de UFs` = c(qn("Mais exposto, mais ação"), qn("Menos exposto, mais ação"), qn("Mais exposto, menos ação"), qn("Menos exposto, menos ação")), check.names = FALSE),
+       "t_quadr", "Estados por quadrante de exposição a desastres e de concretude dos planos.",
+       fonte = "Atlas Digital de Desastres (S2iD/MIDR, 2013 a 2025) e planos de governo dos candidatos a governador (TSE). Cortes na mediana dos registros por município e na proporção nacional de candidatos com ação concreta.",
+       larg = c(0.24, 0.62, NA), align = c("l", "l", "r"))
 ```
 
-A nuvem de pontos não mostra relação entre as duas medidas, com correlação de Spearman de `r vd(rho20$estimate)` (`r pt(rho20$p.value)`, `r nrow(e20)` UFs). Estados com muitos registros por município, como MS, SC e ES, têm resultados muito diferentes entre si (`r pau("MS")`%, `r pau("SC")`% e `r pau("ES")`% de candidatos com ação concreta), e o mesmo vale para estados com poucos registros, como SP, TO e GO (`r pau("SP")`%, `r pau("TO")`% e `r pau("GO")`%). Em outras palavras, os dados não sugerem que quem mais sofre desastres prometa mais ação concreta, e a concretude dos planos parece responder mais ao candidato do que ao território. Com 4 a 10 candidatos por estado, cada ponto é frágil, e a leitura deve ser a de ausência de padrão forte, e não a de prova de que não haja relação.
+O quadrante que mais chama atenção do ponto de vista da gestão de risco é o dos estados muito expostos e com poucos candidatos com ação concreta (`r qd("Mais exposto, menos ação")`), e o mais coerente com a exposição é o dos estados muito expostos e com muita ação (`r qd("Mais exposto, mais ação")`). Como os cortes são convenções, os estados próximos às linhas, como CE, RJ e MG, mudariam de quadrante com pequenas variações, e a leitura deve se apoiar no conjunto, e não em cada ponto.
+
+**O que mede a correlação de Spearman.** Para resumir o gráfico em um número, usamos a correlação de Spearman, que compara a *ordem* dos estados nas duas medidas, e não os valores. Ela ordena os `r nrow(e20)` estados do menos ao mais exposto e do menos ao mais concreto e verifica se as duas ordens caminham juntas. O coeficiente vai de −1 a +1. Perto de +1, os estados mais expostos são também os que têm mais candidatos com ação concreta; perto de −1, ocorre o contrário; perto de 0, não há relação. Como trabalha com posições, o coeficiente não supõe que a relação seja uma reta e é pouco sensível a valores extremos, como o de Mato Grosso do Sul, que tem muitos registros por município. O valor de p informa quão provável seria obter um coeficiente tão distante de zero se, na verdade, não houvesse relação, e, por convenção, valores abaixo de 0,05 são tratados como evidência de relação. Com `r nrow(e20)` estados, só coeficientes de cerca de 0,4 ou mais, em módulo, passariam esse teste, de modo que a ausência de significância deve ser lida como ausência de padrão forte, e não como prova de que não haja relação.
+
+**O que encontramos.** O coeficiente é de `r vd(rho20$estimate)` (`r pt(rho20$p.value)`), praticamente nulo, e isso significa que conhecer a exposição de um estado quase não ajuda a prever a concretude dos seus planos. Estados com muitos registros por município, como MS, SC e ES, têm resultados muito diferentes entre si (`r fmt_pct(e20[uf == "MS", pct_acao], 0)`%, `r fmt_pct(e20[uf == "SC", pct_acao], 0)`% e `r fmt_pct(e20[uf == "ES", pct_acao], 0)`% de candidatos com ação concreta), e o mesmo vale para estados com poucos registros, como SP, TO e GO (`r fmt_pct(e20[uf == "SP", pct_acao], 0)`%, `r fmt_pct(e20[uf == "TO", pct_acao], 0)`% e `r fmt_pct(e20[uf == "GO", pct_acao], 0)`%). Em outras palavras, os dados não sugerem que quem mais sofre desastres prometa mais ação concreta, e a concretude dos planos parece responder mais ao candidato do que ao território. Com 4 a 10 candidatos por estado, cada ponto é frágil.
 
 ## Cuidados na leitura
 
@@ -839,43 +903,60 @@ tabela(cf, "t_confiab", "Concordância entre o gpt-oss-20b e o gemma-4-26b em ca
 
 ## O que isso significa para a leitura
 
-A figura a seguir resume a tabela anterior em um único gráfico, com o alfa de Krippendorff de cada variável, e facilita ver quais dimensões são mais e menos consistentes.
-
-```{r fig-concordancia}
-#| output: asis
-figura("f_conc", "10_concordancia_modelos.png", "Concordância entre os dois modelos por variável (alfa de Krippendorff), 2026.", fonte = "Elaboração própria, com base na classificação pelos dois modelos.")
-```
 
 A concordância é alta para os tipos de ameaça específicos (enchente, deslizamento, seca, queimadas) e aceitável para a relevância, e é menor para a fronteira entre prevenção e preparação, para a adaptação climática e para a especificidade (`r ref("Figura", "f_conc")`). A relevância, que define se o candidato *menciona* o tema, tem alfa de `r vd(alfa("relevancia (3 categorias)"))`, o que sustenta a presença do tema (`r pct1(100 * n_mencao / N)`%) como o resultado mais firme do relatório. Os tipos de desastre específicos têm alfa entre `r vd(alfa("ameaca_movimento_massa"))` e `r vd(alfa("ameaca_fogo"))`. A **especificidade** (alfa de `r vd(alfa("especificidade (0-4, ordinal)"))`, abaixo do piso de 0,67) e as fases de recuperação e de adaptação climática são mais frágeis, e o degrau de "ação concreta" e as fases do ciclo devem ser lidos como **estimativas aproximadas**, e não como contagens exatas. Por isso apresentamos os resultados por candidato em três cenários e lemos os percentuais como **faixas**.
 
 # Considerações finais {#sec-final}
 
-## Principais achados
+Esta seção reúne o que os planos dizem, o que o relatório acrescenta e o que ele não permite concluir.
 
-1. **`r n_mencao` de `r N` candidatos (`r pct1(100 * n_mencao / N)`%)** mencionam risco ou desastre em algum ponto do plano, e **`r n_nada`** não o fazem.
-2. **`r n_acao` candidatos (`r pct1(100 * n_acao / N)`%)** têm ação concreta em metade ou mais de suas passagens sobre o tema, e **`r n_meta`** vinculam a ação a meta, prazo, indicador ou orçamento, depois da revisão manual das passagens de nível 4.
-3. **`r n_ciclo` candidatos (`r pct1(100 * n_ciclo / N)`%)** cobrem prevenção e preparação, resposta e recuperação, e a maioria trata de apenas parte do ciclo.
-4. **`r n_so_clima` candidatos** falam de clima apenas como agenda geral, sem tratar de desastre. O caso extremo de agenda climática, Marcelo Maranata (PSDB-RS), decorre da extensão e da estrutura do plano e não altera as conclusões.
-5. **O tema aparece como menção, mais que como compromisso verificável.** Só `r pe(4)`% das passagens trazem meta, prazo, indicador ou orçamento, e os elementos que permitem cobrar uma promessa (meta, prazo e valor) são os mais raros entre os candidatos que mencionam o tema.
-6. **Os planos antecipam mais do que respondem.** Prevenção e preparação aparecem em `r pf("prevencao_preparacao")`% dos candidatos, resposta em `r pf("resposta")`% e recuperação em `r pf("recuperacao")`%.
-7. **Quem mais e quem menos promete ação concreta pertence a campos diferentes.** Os cinco maiores e os cinco menores percentuais de ação concreta reúnem candidatos de direita, de esquerda e de extrema-esquerda, e o tamanho do plano não os separa. O que os distingue é o modo de escrever, entre programa com meta e indicador e diretriz sem ação identificável.
-8. **Nem toda passagem concreta é proposta.** Balanços do que já foi feito e críticas ao governo apareciam entre as passagens de nível 4, e a regra de verbos no passado indica que os balanços pesam mais entre os governadores em exercício (`r fmt_pct(tverb[incumbente == TRUE, pct], 1)`% das passagens concretas, contra `r fmt_pct(tverb[incumbente == FALSE, pct], 1)`% nos demais).
-9. **O tamanho do plano é o principal preditor de o tema aparecer** (de `r fmt_pct(fxg("menos de 5 mil", "mencao"), 0)`% nos planos com menos de 5 mil palavras a `r fmt_pct(fxg("mais de 20 mil", "mencao"), 0)`% nos de mais de 20 mil), mas não da densidade do tema entre quem o menciona.
-10. **Há diferença ideológica na presença do tema.** Na extrema-esquerda, `r fmt_pct(gcp(GX, "pct_mencao"), 0)`% dos candidatos mencionam risco e desastre, contra `r fmt_pct(gcp(GD, "pct_mencao"), 0)`% na direita e extrema-direita e 100% na esquerda e centro-esquerda. Os planos da extrema-esquerda também são muito mais enxutos (mediana de `r fmt_n(gcp(GX, "palavras_mediana"))` palavras, contra `r fmt_n(gcp(GD, "palavras_mediana"))` na direita e extrema-direita), mas a diferença de presença persiste ao controlar pelo tamanho (razão de chances de `r vd(ee_com["or"])`; `r pt(ee_com["p"])`) e é heterogênea entre os partidos da categoria (PSTU e PSOL no patamar da direita; PCO, PCB e UP abaixo). Na concretude, não se detecta diferença entre campos.
-11. **O alinhamento com o histórico de desastres é parcial.** Em média, `r fmt_pct(pct_princ, 0)`% dos candidatos citam o principal tipo de desastre do seu estado, e em `r n_uf_baixo` das `r n_uf_expo` UFs a metade ou menos o faz (`r paste(piores$uf, collapse = ", ")` estão entre os menores alinhamentos).
-12. Entre regiões, o Centro-Oeste e o Nordeste têm menor presença do tema, e o Sul se destaca pelo ciclo completo e pela densidade. Com poucos candidatos por região e por estado, as diferenças devem ser lidas como tendências.
+## O que encontramos
 
-## Limitações
+**Quase todos citam o tema, poucos o tornam verificável.** `r n_mencao` dos `r N` candidatos (`r pct1(100 * n_mencao / N)`%) mencionam risco ou desastre em algum ponto do plano, e `r n_nada` não o fazem. Mas só `r n_acao` (`r pct1(100 * n_acao / N)`%) têm ação concreta em metade ou mais das passagens sobre o tema, e apenas `r n_meta` vinculam a ação a meta, prazo, indicador ou orçamento, depois da revisão manual das passagens de nível 4. Só `r pe(4)`% das passagens trazem esses elementos, e os que permitem cobrar uma promessa (meta, prazo e valor) são os mais raros entre os candidatos que mencionam o tema. Uma promessa sem meta nem prazo pode ser cumprida ou descumprida sem que ninguém consiga dizer qual dos dois ocorreu.
 
-- A análise descreve o conteúdo dos planos, e não a qualidade, o financiamento ou a execução das políticas.
-- A ausência de menção não significa omissão deliberada, porque o formato e a extensão dos planos variam muito.
-- **Os planos misturam proposta, balanço e crítica, e o codebook não distingue os três.** O nível de especificidade mede o que a frase diz sobre risco e desastre, e não de quem é a proposta. A revisão manual corrigiu as `r n_rev` passagens de nível 4, mas os níveis 2 e 3 não foram revistos um a um. Isso pesa sobretudo nos governadores em exercício, cujas passagens concretas trazem mais verbos no passado (`r fmt_pct(tverb[incumbente == TRUE, pct], 1)`%, contra `r fmt_pct(tverb[incumbente == FALSE, pct], 1)`%), e a comparação de concretude entre incumbentes e demais candidatos deve ser lida com essa ressalva.
-- A classificação por modelos de linguagem não foi validada por codificação humana, e a confiabilidade medida é a concordância entre modelos, que mede consistência, e não acerto. A leitura de casos mostrou passagens relevantes em que o termo do dicionário aparece em contexto alheio ao tema, e uma validação humana de uma amostra de passagens é o passo natural seguinte.
-- O universo de cada UF é pequeno (de 4 a 10 candidatos), e o de cada partido, menor ainda.
-- O tamanho do plano varia de centenas a dezenas de milhares de palavras e se associa fortemente à presença do tema. As comparações por campo político, região e incumbência se confundem em parte com essa extensão e, quando não é possível controlá-la (por exemplo, entre os incumbentes, todos com menção), a associação não deve ser lida como efeito.
-- A classificação ideológica é dos partidos, e não dos candidatos. Cinco partidos (UP, Missão, Democrata, União Brasil e PRD) foram classificados por nós, e outros foram associados a seus antecessores.
-- Os resultados sobre concretude e fases do ciclo têm concordância entre modelos moderada ou baixa e devem ser lidos como estimativas aproximadas. A regra de verbos no passado é um indicador aproximado, com números absolutos pequenos.
-- Os resultados refletem o estado dos registros em `r format(DATA_CONGELAMENTO, "%d/%m/%Y")`.
+**Os planos olham para antes do desastre.** Prevenção e preparação aparecem em `r pf("prevencao_preparacao")`% dos candidatos, resposta em `r pf("resposta")`% e recuperação em `r pf("recuperacao")`%, e só `r n_ciclo` (`r pct1(100 * n_ciclo / N)`%) cobrem as três fases. O padrão contraria a expectativa, derivada de Healy e Malhotra (2009), de que o incentivo eleitoral favoreceria o discurso sobre socorro e reconstrução, embora os dados não permitam dizer se ele reflete uma agenda de gestão ou apenas o caráter programático do documento.
+
+**Falar de clima não é falar de desastre.** `r n_so_clima` candidatos falam de clima apenas como agenda geral, e a maioria dos que falam de clima também trata de desastre. O caso extremo, Marcelo Maranata (PSDB-RS), com `r mar$n_janelas_clima_geral` passagens de agenda climática, decorre da extensão e da estrutura do plano, e não de um erro de classificação, e não altera as conclusões.
+
+**Quem mais e quem menos promete ação pertence a campos diferentes.** Os cinco maiores e os cinco menores percentuais de ação concreta reúnem candidatos de direita, de esquerda e de extrema-esquerda, e o tamanho do plano não os separa. O que os distingue é o modo de escrever, entre o programa com meta e indicador e a diretriz sem ação identificável. Além disso, nem toda passagem concreta é proposta: balanços e críticas ao governo apareciam entre as de nível 4, e a regra de verbos no passado indica que o balanço pesa mais entre os governadores em exercício (`r fmt_pct(tverb[incumbente == TRUE, pct], 1)`% das passagens concretas, contra `r fmt_pct(tverb[incumbente == FALSE, pct], 1)`% nos demais).
+
+**O tamanho do plano decide se o tema aparece, e o campo político, em parte.** A presença do tema vai de `r fmt_pct(fxg("menos de 5 mil", "mencao"), 0)`% nos planos com menos de 5 mil palavras a `r fmt_pct(fxg("mais de 20 mil", "mencao"), 0)`% nos de mais de 20 mil, mas, entre quem menciona, a densidade não depende do tamanho. Na extrema-esquerda, `r fmt_pct(gcp(GX, "pct_mencao"), 0)`% dos candidatos mencionam o tema, contra `r fmt_pct(gcp(GD, "pct_mencao"), 0)`% na direita e extrema-direita e 100% na esquerda e centro-esquerda. Os planos da extrema-esquerda são bem mais enxutos (mediana de `r fmt_n(gcp(GX, "palavras_mediana"))` palavras, contra `r fmt_n(gcp(GD, "palavras_mediana"))`), mas a diferença de presença persiste ao controlar pelo tamanho (razão de chances de `r vd(ee_com["or"])`; `r pt(ee_com["p"])`) e é heterogênea entre os partidos da categoria. Na concretude, não se detecta diferença entre campos.
+
+**O plano não acompanha o desastre que o estado sofre.** Em média, `r fmt_pct(pct_princ, 0)`% dos candidatos citam o principal tipo de desastre do seu estado, e em `r n_uf_baixo` das `r n_uf_expo` UFs a metade ou menos o faz. A seca domina os registros do Piauí e da Paraíba, mas é pouco citada, e a intensidade dos desastres de cada estado não se associa à concretude dos planos (Spearman de `r vd(rho20$estimate)`). Entre regiões, o Centro-Oeste e o Nordeste têm menor presença do tema, e o Sul se destaca pelo ciclo completo, mas com poucos candidatos por região e por estado essas diferenças são tendências.
+
+## Contribuições
+
+**Um retrato nacional antes da eleição.** O relatório documenta, para `r N` candidatos e `r n_universo` planos, o que se diz sobre risco e desastre, com trechos e casos nominais que permitem ao leitor conferir a leitura. Esse registro serve de linha de base para comparar, depois da posse, o que foi prometido e o que foi feito.
+
+**Falar e prometer.** A escala de concretude, os elementos de ancoragem e a revisão manual separam o compromisso que se pode cobrar da menção que não se pode, e mostram que a distinção entre proposta, balanço e crítica precisa entrar nos codebooks de planos de governo.
+
+**Um método replicável.** A leitura por modelos de código aberto executados localmente, com o pacote acR, dispensa o envio de textos a serviços externos, vem com medida explícita de confiabilidade e pode ser reaproveitada em outros cargos, eleições e temas, porque código, codebook e dados derivados estão abertos.
+
+## Limitações e cuidados de leitura
+
+**Consistência não é acerto.** A classificação não foi validada por codificação humana, e a confiabilidade medida é a concordância entre dois modelos. Ela é boa para os tipos de ameaça e aceitável para a relevância (alfa de `r vd(alfa("relevancia (3 categorias)"))`), mas fraca para a especificidade (alfa de `r vd(alfa("especificidade (0-4, ordinal)"))`). O degrau de ação concreta e as fases do ciclo devem ser lidos como estimativas aproximadas, e por isso apresentamos faixas, e não números exatos. A leitura de casos mostrou passagens em que o termo do dicionário aparece em contexto alheio ao tema, o que reforça a necessidade de validação humana.
+
+**Proposta, balanço e crítica se misturam.** O nível de especificidade mede o que a frase diz sobre risco e desastre, e não de quem é a proposta. A revisão manual corrigiu as `r n_rev` passagens de nível 4, mas os níveis 2 e 3 não foram revistos um a um. Isso pesa sobretudo nos governadores em exercício, e a comparação de concretude entre incumbentes e demais candidatos deve ser lida com essa ressalva. A regra de verbos no passado é um indicador aproximado, com números absolutos pequenos.
+
+**Ausência de menção não é omissão.** O formato e a extensão dos planos variam de centenas a dezenas de milhares de palavras, e os candidatos podem tratar do tema em outros espaços da campanha. O tamanho do plano se associa fortemente à presença do tema, e as comparações por campo político, região e incumbência se confundem em parte com essa extensão. Quando não é possível controlá-la, como entre os incumbentes, todos com menção, a associação não deve ser lida como efeito.
+
+**Poucos casos por estado e por partido.** Cada UF tem de 4 a 10 candidatos, e cada partido, menos ainda, de modo que um único plano altera o percentual em 10 a 25 pontos. Os mapas e as tabelas por UF são retratos dos candidatos de 2026, e não medidas do comportamento "do estado" ou "do partido".
+
+**Classificações do autor e aproximações.** A classificação ideológica é dos partidos, e não dos candidatos, e cinco partidos (UP, Missão, Democrata, União Brasil e PRD) foram classificados por nós, e outros foram associados a seus antecessores. A condição de candidato à reeleição é aproximada pela ocupação declarada ao TSE.
+
+**Exposição é registro administrativo.** O Atlas Digital de Desastres reúne registros feitos pelos municípios, de modo que estados com maior capacidade de notificação aparecem mais expostos, e os registros crescem também por maior uso do sistema. A medida não é a do risco físico.
+
+**Retrato de uma data.** Os resultados refletem o estado dos registros em `r format(DATA_CONGELAMENTO, "%d/%m/%Y")`, e candidaturas e planos podem mudar depois dela.
+
+## Próximos passos
+
+Três passos ampliariam a confiança e o alcance dos resultados: uma validação humana, em amostra de passagens, para medir o acerto e não só a consistência; a codificação explícita de proposta, balanço e crítica, que resolveria a maior limitação apontada; e a comparação, depois da posse, entre o que foi prometido e o que o governo executou em prevenção, preparação e resposta.
+
+```{=latex}
+\clearpage
+```
+
+{{< pagebreak >}}
 
 # Transparência, replicabilidade e uso de inteligência artificial {.unnumbered}
 
@@ -889,38 +970,83 @@ A concordância é alta para os tipos de ameaça específicos (enchente, desliza
 
 *O que ficou com o autor.* O julgamento e a autoria são do autor, que formulou a pergunta de pesquisa e o desenho do estudo, definiu o codebook, as regras de decisão e a fusão de categorias, classificou os partidos que não constam do artigo de referência, leu e revisou manualmente, uma a uma, as passagens de nível 4, escolheu os casos e os trechos citados, conferiu os números e as referências e responde pela interpretação e pelo texto final. As sugestões do assistente foram lidas, corrigidas ou recusadas nesse processo, e o uso de inteligência artificial não substitui a responsabilidade do autor pelo conteúdo.
 
+```{=latex}
+\clearpage
+```
+
 # Referências {.unnumbered}
 
-- BECK, U. *Sociedade de risco: rumo a uma outra modernidade*. São Paulo: Editora 34, 2010.
-- BIRKLAND, T. A. Focusing events, mobilization, and agenda setting. *Journal of Public Policy*, v. 18, n. 1, p. 53-74, 1998.
-- BIRKLAND, T. A. *Lessons of disaster: policy change after catastrophic events*. Washington, DC: Georgetown University Press, 2006.
-- BOIN, A.; 'T HART, P.; STERN, E.; SUNDELIUS, B. *The politics of crisis management: public leadership under pressure*. Cambridge: Cambridge University Press, 2005.
-- BOLOGNESI, B.; RIBEIRO, E.; CODATO, A. Uma nova classificação ideológica dos partidos políticos brasileiros. *Dados*, v. 66, n. 2, e20210164, 2023. DOI: <https://doi.org/10.1590/dados.2023.66.2.303>.
-- BRASIL. Lei nº 12.608, de 10 de abril de 2012. Institui a Política Nacional de Proteção e Defesa Civil.
-- COMFORT, L. K. Risk, security, and disaster management. *Annual Review of Political Science*, v. 8, p. 335-356, 2005.
-- CUTTER, S. L. Vulnerability to environmental hazards. *Progress in Human Geography*, v. 20, n. 4, p. 529-539, 1996.
-- CUTTER, S. L. A ciência da vulnerabilidade: modelos, métodos e indicadores. *Revista Crítica de Ciências Sociais*, n. 93, p. 59-69, 2011.
-- DOMINGOS, A.; HENRIQUE, A. Does every penny help? The policy effect of disaster transfers and the role of local resilience in the Brazilian municipalities. *Public Policy and Administration*, 2025. No prelo.
-- EWART, J.; MCLEAN, H.; AMES, K. Political communication and disasters: a four-country analysis of how politicians should talk before, during and after disasters. *Discourse, Context and Media*, 2016. DOI: <https://doi.org/10.1016/j.dcm.2015.12.004>.
-- GWET, K. L. *Handbook of inter-rater reliability*. 4. ed. Gaithersburg: Advanced Analytics, 2014.
-- HENRIQUE, A. *acR: content analysis in R, an integrated qualitative (LLMs) and quantitative pipeline*. R package, versão 0.3.4. 2026. Disponível em: <https://github.com/andersonheri/acR>.
-- HANDMER, J.; DOVERS, S. *The handbook of disaster and emergency policies and institutions*. London: Earthscan, 2007.
-- HEALY, A.; MALHOTRA, N. Myopic voters and natural disaster policy. *American Political Science Review*, v. 103, n. 3, p. 387-406, 2009.
-- HENRIQUE, A.; BATISTA, M. A politização dos desastres naturais: alinhamento partidário, declarações de emergência e a alocação de recursos federais para os municípios no Brasil. *Opinião Pública*, v. 26, p. 522-555, 2021.
-- KELMAN, I. *Disaster by choice: how our actions turn natural hazards into catastrophes*. Oxford: Oxford University Press, 2020.
-- KRIPPENDORFF, K. *Content analysis: an introduction to its methodology*. 4. ed. Thousand Oaks: SAGE, 2018.
-- MAERZ, S.; BENOIT, K. *quallmer*. 2025. Disponível em: <https://quallmer.github.io/quallmer/>.
-- MARCHEZINI, V.; WISNER, B.; LONDE, L. R.; SAITO, S. M. (org.). *Reduction of vulnerability to disasters: from knowledge to action*. São Carlos: RiMa, 2017.
-- MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL. *Atlas Digital de Desastres no Brasil* (base de dados 1991-2025, versão de 06/08/2026). Disponível em: <https://atlasdigital.mdr.gov.br>.
-- QUARANTELLI, E. L. (ed.). *What is a disaster? Perspectives on the question*. London: Routledge, 1998.
-- QUARANTELLI, E. L.; LAGADEC, P.; BOIN, A. A heuristic approach to future disasters and crises: new, old, and in-between types. In: RODRÍGUEZ, H.; QUARANTELLI, E. L.; DYNES, R. R. (org.). *Handbook of disaster research*. New York: Springer, 2007. p. 16-41.
-- REEVES, A. Political disaster: unilateral powers, electoral incentives, and presidential disaster declarations. *The Journal of Politics*, v. 73, n. 4, p. 1142-1151, 2011.
-- SYLVES, R. T. *Disaster policy and politics: emergency management and homeland security*. Washington, DC: CQ Press, 2019.
-- TSE. *Portal de Dados Abertos: Candidatos 2026*. Disponível em: <https://dadosabertos.tse.jus.br/dataset/candidatos-2026>. Acesso em: `r format(DATA_CONGELAMENTO, "%d %b. %Y")`.
-- UNITED NATIONS OFFICE FOR DISASTER RISK REDUCTION (UNDRR). *Sendai Framework for Disaster Risk Reduction 2015-2030*. Geneva: UNDRR, 2015.
-- UNITED NATIONS OFFICE FOR DISASTER RISK REDUCTION (UNDRR). *Disaster risk reduction terminology*. 2024. Disponível em: <https://www.undrr.org/drr-glossary/terminology>.
-- VALENCIO, N. et al. (org.). *Sociologia dos desastres: construção, interfaces e perspectivas no Brasil*. São Carlos: RiMa, 2009.
-- WISNER, B.; BLAIKIE, P.; CANNON, T.; DAVIS, I. *At risk: natural hazards, people's vulnerability and disasters*. 2. ed. London: Routledge, 2004.
+```{=latex}
+\begingroup\raggedright\setlength{\parindent}{0pt}\setlength{\parskip}{9pt}\small
+```
+
+::: {.refs-abnt}
+
+BECK, U. *Sociedade de risco*: rumo a uma outra modernidade. São Paulo: Editora 34, 2010.
+
+BIRKLAND, T. A. Focusing events, mobilization, and agenda setting. *Journal of Public Policy*, Cambridge, v. 18, n. 1, p. 53-74, 1998.
+
+BIRKLAND, T. A. *Lessons of disaster*: policy change after catastrophic events. Washington, DC: Georgetown University Press, 2006.
+
+BOIN, A.; 'T HART, P.; STERN, E.; SUNDELIUS, B. *The politics of crisis management*: public leadership under pressure. Cambridge: Cambridge University Press, 2005.
+
+BOLOGNESI, B.; RIBEIRO, E.; CODATO, A. Uma nova classificação ideológica dos partidos políticos brasileiros. *Dados*, Rio de Janeiro, v. 66, n. 2, e20210164, 2023. DOI: 10.1590/dados.2023.66.2.303.
+
+BRASIL. *Lei nº 12.608, de 10 de abril de 2012*. Institui a Política Nacional de Proteção e Defesa Civil (PNPDEC). Brasília, DF: Presidência da República, 2012.
+
+COMFORT, L. K. Risk, security, and disaster management. *Annual Review of Political Science*, Palo Alto, v. 8, p. 335-356, 2005.
+
+CUTTER, S. L. Vulnerability to environmental hazards. *Progress in Human Geography*, London, v. 20, n. 4, p. 529-539, 1996.
+
+CUTTER, S. L. A ciência da vulnerabilidade: modelos, métodos e indicadores. *Revista Crítica de Ciências Sociais*, Coimbra, n. 93, p. 59-69, 2011.
+
+DOMINGOS, A.; HENRIQUE, A. Does every penny help? The policy effect of disaster transfers and the role of local resilience in the Brazilian municipalities. *Public Policy and Administration*, no prelo, 2025.
+
+EWART, J.; MCLEAN, H.; AMES, K. Political communication and disasters: a four-country analysis of how politicians should talk before, during and after disasters. *Discourse, Context & Media*, 2016. DOI: 10.1016/j.dcm.2015.12.004.
+
+GWET, K. L. *Handbook of inter-rater reliability*. 4. ed. Gaithersburg: Advanced Analytics, 2014.
+
+HANDMER, J.; DOVERS, S. *The handbook of disaster and emergency policies and institutions*. London: Earthscan, 2007.
+
+HEALY, A.; MALHOTRA, N. Myopic voters and natural disaster policy. *American Political Science Review*, Cambridge, v. 103, n. 3, p. 387-406, 2009.
+
+HENRIQUE, A. *acR*: content analysis in R, an integrated qualitative (LLMs) and quantitative pipeline. R package, versão 0.3.4. [S. l.: s. n.], 2026. Disponível em: https://github.com/andersonheri/acR. Acesso em: 26 set. 2026.
+
+HENRIQUE, A.; BATISTA, M. A politização dos desastres naturais: alinhamento partidário, declarações de emergência e a alocação de recursos federais para os municípios no Brasil. *Opinião Pública*, Campinas, v. 26, p. 522-555, 2021.
+
+KELMAN, I. *Disaster by choice*: how our actions turn natural hazards into catastrophes. Oxford: Oxford University Press, 2020.
+
+KRIPPENDORFF, K. *Content analysis*: an introduction to its methodology. 4. ed. Thousand Oaks: SAGE, 2018.
+
+MAERZ, S.; BENOIT, K. *quallmer*. [S. l.: s. n.], 2025. Disponível em: https://quallmer.github.io/quallmer/. Acesso em: 26 set. 2026.
+
+MARCHEZINI, V.; WISNER, B.; LONDE, L. R.; SAITO, S. M. (org.). *Reduction of vulnerability to disasters*: from knowledge to action. São Carlos: RiMa, 2017.
+
+MINISTÉRIO DA INTEGRAÇÃO E DO DESENVOLVIMENTO REGIONAL (Brasil). *Atlas Digital de Desastres no Brasil*: base de dados 1991-2025, versão de 06/08/2026. Brasília, DF: MIDR, 2026. Disponível em: https://atlasdigital.mdr.gov.br. Acesso em: 26 set. 2026.
+
+QUARANTELLI, E. L. (ed.). *What is a disaster?* Perspectives on the question. London: Routledge, 1998.
+
+QUARANTELLI, E. L.; LAGADEC, P.; BOIN, A. A heuristic approach to future disasters and crises: new, old, and in-between types. In: RODRÍGUEZ, H.; QUARANTELLI, E. L.; DYNES, R. R. (org.). *Handbook of disaster research*. New York: Springer, 2007. p. 16-41.
+
+REEVES, A. Political disaster: unilateral powers, electoral incentives, and presidential disaster declarations. *The Journal of Politics*, Chicago, v. 73, n. 4, p. 1142-1151, 2011.
+
+SYLVES, R. T. *Disaster policy and politics*: emergency management and homeland security. Washington, DC: CQ Press, 2019.
+
+TRIBUNAL SUPERIOR ELEITORAL (Brasil). *Portal de Dados Abertos*: candidatos 2026. Brasília, DF: TSE, 2026. Disponível em: https://dadosabertos.tse.jus.br/dataset/candidatos-2026. Acesso em: 23 set. 2026.
+
+UNITED NATIONS OFFICE FOR DISASTER RISK REDUCTION. *Sendai Framework for Disaster Risk Reduction 2015-2030*. Geneva: UNDRR, 2015.
+
+UNITED NATIONS OFFICE FOR DISASTER RISK REDUCTION. *Disaster risk reduction terminology*. Geneva: UNDRR, 2024. Disponível em: https://www.undrr.org/drr-glossary/terminology. Acesso em: 18 dez. 2025.
+
+VALENCIO, N. et al. (org.). *Sociologia dos desastres*: construção, interfaces e perspectivas no Brasil. São Carlos: RiMa, 2009.
+
+WISNER, B.; BLAIKIE, P.; CANNON, T.; DAVIS, I. *At risk*: natural hazards, people's vulnerability and disasters. 2. ed. London: Routledge, 2004.
+
+:::
+
+```{=latex}
+\endgroup
+```
 
 ```{=latex}
 \clearpage

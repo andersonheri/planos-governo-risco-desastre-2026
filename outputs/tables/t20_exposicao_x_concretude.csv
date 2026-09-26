@@ -1,27 +1,27 @@
-uf,registros,municipios,pct_acao,n,reg_mun,regiao
-AC,252,22,66.7,6,11.4545454545455,Norte
-AL,750,102,75,4,7.35294117647059,Nordeste
-AM,850,62,42.9,7,13.7096774193548,Norte
-AP,131,16,20,5,8.1875,Norte
-BA,3616,417,16.7,6,8.67146282973621,Nordeste
-CE,1636,184,12.5,8,8.89130434782609,Nordeste
-ES,1344,78,60,5,17.2307692307692,Sudeste
-GO,449,246,0,6,1.82520325203252,Centro-Oeste
-MA,610,217,28.6,7,2.8110599078341,Nordeste
-MG,5316,853,30,10,6.23212192262603,Sudeste
-MS,1779,79,25,8,22.5189873417722,Centro-Oeste
-MT,1681,141,20,5,11.9219858156028,Centro-Oeste
-PA,1828,144,40,5,12.6944444444444,Norte
-PB,2385,223,16.7,6,10.695067264574,Nordeste
-PE,2126,185,57.1,7,11.4918918918919,Nordeste
-PI,1555,224,33.3,6,6.94196428571429,Nordeste
-PR,1233,399,14.3,7,3.09022556390977,Sul
-RJ,1154,92,37.5,8,12.5434782608696,Sudeste
-RN,1904,167,42.9,7,11.4011976047904,Nordeste
-RO,278,52,50,6,5.34615384615385,Norte
-RR,93,15,50,4,6.2,Norte
-RS,5456,497,16.7,6,10.9778672032193,Sul
-SC,5426,295,37.5,8,18.3932203389831,Sul
-SE,354,75,60,5,4.72,Nordeste
-SP,1172,645,60,5,1.81705426356589,Sudeste
-TO,557,139,57.1,7,4.00719424460432,Norte
+uf,registros,municipios,pct_acao,n,reg_mun,regiao,quadrante
+AC,252,22,66.7,6,11.4545454545455,Norte,"Mais exposto, mais ação"
+AL,750,102,75,4,7.35294117647059,Nordeste,"Menos exposto, mais ação"
+AM,850,62,42.9,7,13.7096774193548,Norte,"Mais exposto, mais ação"
+AP,131,16,20,5,8.1875,Norte,"Menos exposto, menos ação"
+BA,3616,417,16.7,6,8.67146282973621,Nordeste,"Menos exposto, menos ação"
+CE,1636,184,12.5,8,8.89130434782609,Nordeste,"Mais exposto, menos ação"
+ES,1344,78,60,5,17.2307692307692,Sudeste,"Mais exposto, mais ação"
+GO,449,246,0,6,1.82520325203252,Centro-Oeste,"Menos exposto, menos ação"
+MA,610,217,28.6,7,2.8110599078341,Nordeste,"Menos exposto, menos ação"
+MG,5316,853,30,10,6.23212192262603,Sudeste,"Menos exposto, menos ação"
+MS,1779,79,25,8,22.5189873417722,Centro-Oeste,"Mais exposto, menos ação"
+MT,1681,141,20,5,11.9219858156028,Centro-Oeste,"Mais exposto, menos ação"
+PA,1828,144,40,5,12.6944444444444,Norte,"Mais exposto, mais ação"
+PB,2385,223,16.7,6,10.695067264574,Nordeste,"Mais exposto, menos ação"
+PE,2126,185,57.1,7,11.4918918918919,Nordeste,"Mais exposto, mais ação"
+PI,1555,224,33.3,6,6.94196428571429,Nordeste,"Menos exposto, menos ação"
+PR,1233,399,14.3,7,3.09022556390977,Sul,"Menos exposto, menos ação"
+RJ,1154,92,37.5,8,12.5434782608696,Sudeste,"Mais exposto, mais ação"
+RN,1904,167,42.9,7,11.4011976047904,Nordeste,"Mais exposto, mais ação"
+RO,278,52,50,6,5.34615384615385,Norte,"Menos exposto, mais ação"
+RR,93,15,50,4,6.2,Norte,"Menos exposto, mais ação"
+RS,5456,497,16.7,6,10.9778672032193,Sul,"Mais exposto, menos ação"
+SC,5426,295,37.5,8,18.3932203389831,Sul,"Mais exposto, mais ação"
+SE,354,75,60,5,4.72,Nordeste,"Menos exposto, mais ação"
+SP,1172,645,60,5,1.81705426356589,Sudeste,"Menos exposto, mais ação"
+TO,557,139,57.1,7,4.00719424460432,Norte,"Menos exposto, mais ação"

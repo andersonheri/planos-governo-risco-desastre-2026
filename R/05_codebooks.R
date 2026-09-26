@@ -1,4 +1,4 @@
-# 05_codebooks.R -- codebooks do acR (versao v0.2 do codebook/codebook_v0.2.md).
+# 05_codebooks.R -- codebooks do acR (versao v0.8). Documentacao completa no Anexo E do relatorio.
 # Um codebook por dimensao: o acR codifica uma variavel por codebook.
 # A relevancia roda primeiro; as demais dimensoes so nos trechos relevantes.
 #
