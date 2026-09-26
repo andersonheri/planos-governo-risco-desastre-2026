@@ -1,0 +1,37 @@
+termo,campo,pct,n,pct_total
+Adaptação climática,extrema-esquerda,13.75,160,20.7584830339321
+Adaptação climática,esquerda e centro-esquerda,32.2916666666667,192,20.7584830339321
+Adaptação climática,direita e extrema-direita,19.0769230769231,650,20.7584830339321
+Alerta ou sirene,extrema-esquerda,11.25,160,8.58283433133733
+Alerta ou sirene,esquerda e centro-esquerda,7.8125,192,8.58283433133733
+Alerta ou sirene,direita e extrema-direita,8.15384615384615,650,8.58283433133733
+Bombeiros,extrema-esquerda,4.375,160,4.69061876247505
+Bombeiros,esquerda e centro-esquerda,5.72916666666667,192,4.69061876247505
+Bombeiros,direita e extrema-direita,4.46153846153846,650,4.69061876247505
+Defesa Civil,extrema-esquerda,18.75,160,22.3552894211577
+Defesa Civil,esquerda e centro-esquerda,20.8333333333333,192,22.3552894211577
+Defesa Civil,direita e extrema-direita,23.6923076923077,650,22.3552894211577
+Deslizamento e encostas,extrema-esquerda,18.75,160,11.0778443113772
+Deslizamento e encostas,esquerda e centro-esquerda,10.9375,192,11.0778443113772
+Deslizamento e encostas,direita e extrema-direita,9.23076923076923,650,11.0778443113772
+Drenagem,extrema-esquerda,8.75,160,11.0778443113772
+Drenagem,esquerda e centro-esquerda,12.5,192,11.0778443113772
+Drenagem,direita e extrema-direita,11.2307692307692,650,11.0778443113772
+"Enchente, alagamento, inundação",extrema-esquerda,41.875,160,26.4471057884232
+"Enchente, alagamento, inundação",esquerda e centro-esquerda,22.3958333333333,192,26.4471057884232
+"Enchente, alagamento, inundação",direita e extrema-direita,23.8461538461538,650,26.4471057884232
+Mudança ou emergência climática,extrema-esquerda,21.25,160,19.2614770459082
+Mudança ou emergência climática,esquerda e centro-esquerda,28.125,192,19.2614770459082
+Mudança ou emergência climática,direita e extrema-direita,16.1538461538462,650,19.2614770459082
+Queimadas e incêndios,extrema-esquerda,15,160,15.6686626746507
+Queimadas e incêndios,esquerda e centro-esquerda,19.7916666666667,192,15.6686626746507
+Queimadas e incêndios,direita e extrema-direita,14.6153846153846,650,15.6686626746507
+Resiliência,extrema-esquerda,3.75,160,11.87624750499
+Resiliência,esquerda e centro-esquerda,8.85416666666667,192,11.87624750499
+Resiliência,direita e extrema-direita,14.7692307692308,650,11.87624750499
+Seca ou estiagem,extrema-esquerda,14.375,160,16.3672654690619
+Seca ou estiagem,esquerda e centro-esquerda,17.1875,192,16.3672654690619
+Seca ou estiagem,direita e extrema-direita,16.6153846153846,650,16.3672654690619
+Áreas de risco,extrema-esquerda,20.625,160,10.9780439121756
+Áreas de risco,esquerda e centro-esquerda,7.8125,192,10.9780439121756
+Áreas de risco,direita e extrema-direita,9.53846153846154,650,10.9780439121756

@@ -67,6 +67,7 @@ Candidatos_gov/
 │   ├── 12_figuras_exposicao.R      # figuras da seção de exposição (heatmaps, ranking, registros por ano)
 │   ├── 13_quem_fala.R              # destaques, verbos no passado e anexo dos 172 candidatos
 │   ├── 14_figuras_mapas.R          # mapa do descompasso e cruzamento exposição x concretude (quadrantes)
+│   ├── 15_extras.R                 # impressão digital dos planos, quem não cita o desastre do estado, expressões por campo
 │   ├── dicionario.R                # dicionário de termos de risco e desastre
 │   └── tema_graficos.R             # tema e paletas dos gráficos
 ├── config/
@@ -74,7 +75,8 @@ Candidatos_gov/
 │   ├── municipios_por_uf.csv       # número de municípios por UF
 │   ├── revisao_manual.csv          # as 14 passagens de nível 4 lidas uma a uma
 │   ├── codebook_exemplos.csv       # definição e exemplo real de cada categoria do codebook
-│   └── casos_emblematicos.csv      # trechos dos planos citados nos quadros de "quem fala"
+│   ├── casos_emblematicos.csv      # trechos dos planos citados nos quadros de "quem fala"
+│   └── valores_reais.csv           # valores em reais nas passagens de risco, classificados (promessa, balanço, dano...)
 ├── data/
 │   ├── raw/                        # dados brutos do TSE e do Atlas (NÃO versionado; baixar com o script 01)
 │   └── processed/                  # arquivos pequenos necessários ao relatório (o resto NÃO versionado)
@@ -96,7 +98,7 @@ Requisitos: R 4.6, [Quarto](https://quarto.org), LaTeX (para o PDF) e, só para 
 # pacotes principais
 install.packages(c("here", "data.table", "dplyr", "stringr", "purrr", "ggplot2",
                    "patchwork", "geobr", "sf", "irr", "knitr", "rmarkdown"))
-remotes::install_github("andersonheri/acR")
+install.packages("acR")   # disponível no CRAN (versão de desenvolvimento: remotes::install_github("andersonheri/acR"))
 ```
 
 - **Só o relatório** (usa os arquivos já incluídos em `outputs/` e `data/processed/`): `quarto render relatorios/relatorio_final.qmd` (ou `relatorios/renderizar.bat`, no Windows).

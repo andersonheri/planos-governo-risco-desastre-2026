@@ -1,0 +1,80 @@
+uf,candidato,partido,campo,tipo_principal,tipos_citados,passagens
+AC,EUDO RAFFAEL,PCB,extrema-esquerda,Enchente e alagamento,nenhum,0
+AC,TIÃO BOCALOM,PSDB,direita e extrema-direita,Enchente e alagamento,Desastres em geral,1
+AL,LENILDA LUNA,UP,extrema-esquerda,Seca e estiagem,Enchente e alagamento; Desastres em geral,2
+AL,MÁRCIO JAMBO,DEMOCRATA,direita e extrema-direita,Seca e estiagem,nenhum,0
+AM,PROFESSORA MARIA DO CARMO,PL,direita e extrema-direita,Enchente e alagamento,Queimadas e incêndios,1
+AP,CARLOS CLEY,PSTU,extrema-esquerda,Enchente e alagamento,nenhum,0
+AP,JAIRO PALHETA,PCO,extrema-esquerda,Enchente e alagamento,nenhum,0
+BA,ARIEL CAPISTRANO,DC,direita e extrema-direita,Seca e estiagem,nenhum,0
+BA,AROLDO FELIX,UP,extrema-esquerda,Seca e estiagem,nenhum,0
+BA,MARIA BONA,PCO,extrema-esquerda,Seca e estiagem,nenhum,0
+BA,RONALDO MANSUR,PSOL,extrema-esquerda,Seca e estiagem,Queimadas e incêndios,1
+CE,DANILO SOARES,DEMOCRATA,direita e extrema-direita,Seca e estiagem,nenhum,0
+CE,ELMANO DE FREITAS,PT,esquerda e centro-esquerda,Seca e estiagem,Enchente e alagamento; Queimadas e incêndios; Deslizamento; Erosão costeira; Desastres em geral,14
+CE,IERI BRAGA,PCO,extrema-esquerda,Seca e estiagem,nenhum,0
+DF,CAPPELLI,PSB,esquerda e centro-esquerda,Deslizamento,Enchente e alagamento; Seca e estiagem; Queimadas e incêndios; Desastres em geral,7
+DF,CELINA LEÃO,PP,direita e extrema-direita,Deslizamento,Enchente e alagamento; Calor extremo; Desastres em geral,4
+DF,EXPEDITO MENDONÇA,PCO,extrema-esquerda,Deslizamento,nenhum,0
+DF,LEANDRO GRASS,PT,esquerda e centro-esquerda,Deslizamento,Enchente e alagamento; Seca e estiagem; Queimadas e incêndios; Calor extremo; Desastres em geral,9
+DF,PAULA BELMONTE,PSDB,direita e extrema-direita,Deslizamento,Seca e estiagem; Queimadas e incêndios; Calor extremo,1
+DF,PROFESSOR ROBSON,PSTU,extrema-esquerda,Deslizamento,nenhum,0
+DF,PROFESSORA SAMARA MINEIRO,UP,extrema-esquerda,Deslizamento,nenhum,0
+ES,RAFAEL DEMUNER,UP,extrema-esquerda,Enchente e alagamento,Queimadas e incêndios; Barragens e mineração,2
+GO,DANILO DA SILVA,PCO,extrema-esquerda,Queimadas e incêndios,nenhum,0
+GO,LUCIANA AMORIM,UP,extrema-esquerda,Queimadas e incêndios,nenhum,0
+MA,DIMAS CASSIMIRO,PCO,extrema-esquerda,Enchente e alagamento,nenhum,0
+MA,EDUARDO BRAIDE,PSD,direita e extrema-direita,Enchente e alagamento,nenhum,0
+MA,REGINALDO LIMA,PCB,extrema-esquerda,Enchente e alagamento,nenhum,0
+MG,BEN MENDES,MISSÃO,direita e extrema-direita,Enchente e alagamento,Barragens e mineração; Desastres em geral,8
+MG,FLÁVIO ROSCOE,PL,direita e extrema-direita,Enchente e alagamento,nenhum,0
+MG,GABRIEL,MDB,direita e extrema-direita,Enchente e alagamento,Queimadas e incêndios; Barragens e mineração; Desastres em geral,6
+MG,INDIRA XAVIER,UP,extrema-esquerda,Enchente e alagamento,Barragens e mineração; Desastres em geral,3
+MG,MATEUS SIMÕES,PSD,direita e extrema-direita,Enchente e alagamento,Queimadas e incêndios; Barragens e mineração; Desastres em geral,3
+MG,PROFESSOR TÚLIO LOPES,PCB,extrema-esquerda,Enchente e alagamento,nenhum,0
+MG,RAFAEL DUDA,PSTU,extrema-esquerda,Enchente e alagamento,Seca e estiagem; Desastres em geral,3
+MS,DANIEL LEMES,PCO,extrema-esquerda,Enchente e alagamento,nenhum,0
+MS,DELCIDIO AMARAL,PRD,direita e extrema-direita,Enchente e alagamento,nenhum,0
+MS,ECONOMISTA RENATO GOMES,DC,direita e extrema-direita,Enchente e alagamento,Seca e estiagem; Queimadas e incêndios,3
+MS,EDUARDO RIEDEL,PP,direita e extrema-direita,Enchente e alagamento,Queimadas e incêndios; Desastres em geral,4
+MS,JEFERSON BEZERRA,AGIR,direita e extrema-direita,Enchente e alagamento,nenhum,0
+MS,LUCIEN REZENDE,PSOL,extrema-esquerda,Enchente e alagamento,nenhum,0
+MT,DOUTORA NATASHA,PSD,direita e extrema-direita,Queimadas e incêndios,nenhum,0
+MT,RAFAELL MILAS,MISSÃO,direita e extrema-direita,Queimadas e incêndios,Seca e estiagem,1
+PA,DR. DANIEL,PODE,direita e extrema-direita,Enchente e alagamento,nenhum,0
+PA,WELL MACEDO,PSTU,extrema-esquerda,Enchente e alagamento,Barragens e mineração,3
+PB,CAMILO DUARTE,PCO,extrema-esquerda,Seca e estiagem,nenhum,0
+PB,PEDRO COUTINHO,DC,direita e extrema-direita,Seca e estiagem,nenhum,0
+PB,YURI EZEQUIEL,UP,extrema-esquerda,Seca e estiagem,nenhum,0
+PE,GUILHERME FONSECA,PSTU,extrema-esquerda,Seca e estiagem,Enchente e alagamento; Deslizamento,1
+PE,RAQUEL LYRA,PSD,direita e extrema-direita,Seca e estiagem,Enchente e alagamento; Deslizamento; Erosão costeira; Desastres em geral,18
+PE,VICTOR ASSIS,PCO,extrema-esquerda,Seca e estiagem,nenhum,0
+PI,DRA. LÚCIA SANTOS,PSDB,direita e extrema-direita,Seca e estiagem,nenhum,0
+PI,ELIZEU AGUIAR,NOVO,direita e extrema-direita,Seca e estiagem,nenhum,0
+PI,PROFESSOR GISVALDO,PSOL,extrema-esquerda,Seca e estiagem,Queimadas e incêndios; Deslizamento; Acidentes tecnológicos; Desastres em geral,3
+PI,RAFAEL FONTELES,PT,esquerda e centro-esquerda,Seca e estiagem,Enchente e alagamento; Queimadas e incêndios; Desastres em geral,6
+PI,SANTIAGO BELIZÁRIO,UP,extrema-esquerda,Seca e estiagem,nenhum,0
+PR,DOUTOR ALEXANDRE SALOMÃO,MOBILIZA,centro e centro-direita,Enchente e alagamento,nenhum,0
+PR,TAYNÁ MIESSA,UP,extrema-esquerda,Enchente e alagamento,nenhum,0
+RJ,CYRO GARCIA,PSTU,extrema-esquerda,Enchente e alagamento,nenhum,0
+RJ,JULIETE,UP,extrema-esquerda,Enchente e alagamento,nenhum,0
+RJ,LUAN MONTEIRO,PCO,extrema-esquerda,Enchente e alagamento,nenhum,0
+RN,PROFESSOR ROBERIO PAULINO,PSOL,extrema-esquerda,Seca e estiagem,Deslizamento,1
+RN,RODRIGO DE BOLSONARO,AGIR,direita e extrema-direita,Seca e estiagem,nenhum,0
+RO,EXPEDITO NETTO,PT,esquerda e centro-esquerda,Seca e estiagem,Queimadas e incêndios,3
+RO,MARCOS ROGÉRIO,PL,direita e extrema-direita,Seca e estiagem,Enchente e alagamento; Queimadas e incêndios; Tempestades; Acidentes tecnológicos,5
+RO,PEDRO ABIB,MDB,direita e extrema-direita,Seca e estiagem,Queimadas e incêndios; Desastres em geral,5
+RO,SAMUEL COSTA,PSB,esquerda e centro-esquerda,Seca e estiagem,Queimadas e incêndios,1
+RR,FARAH MESQUITA,SOLIDARIEDADE,centro e centro-direita,Enchente e alagamento,nenhum,0
+RR,ROSI AIRES,PSOL,extrema-esquerda,Enchente e alagamento,Queimadas e incêndios; Acidentes tecnológicos,1
+RR,SOLDADO SAMPAIO,REPUBLICANOS,direita e extrema-direita,Enchente e alagamento,Queimadas e incêndios,4
+SC,BRUNO PEDREIRO DO PCO,PCO,extrema-esquerda,Enchente e alagamento,nenhum,0
+SC,LAÍS CHAUD,UP,extrema-esquerda,Enchente e alagamento,nenhum,0
+SE,EMANUEL CACHO,PSDB,direita e extrema-direita,Seca e estiagem,Enchente e alagamento,1
+SE,TATY  CRISTINA DE JESUS,DC,direita e extrema-direita,Seca e estiagem,nenhum,0
+SP,FERNANDO HADDAD,PT,esquerda e centro-esquerda,Enchente e alagamento,Desastres em geral,1
+TO,ATAIDES DE OLIVEIRA,NOVO,direita e extrema-direita,Seca e estiagem,Queimadas e incêndios,1
+TO,LAUREZ MOREIRA,PSD,direita e extrema-direita,Seca e estiagem,Queimadas e incêndios; Desastres em geral,5
+TO,PROF WITER NAVES,PSOL,extrema-esquerda,Seca e estiagem,nenhum,0
+TO,PROFESSORA DORINHA,UNIÃO,direita e extrema-direita,Seca e estiagem,Queimadas e incêndios; Desastres em geral,3
+TO,SIQUEIRA CAMPOS JR,DEMOCRATA,direita e extrema-direita,Seca e estiagem,nenhum,0

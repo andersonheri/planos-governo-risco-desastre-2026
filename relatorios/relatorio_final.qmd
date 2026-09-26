@@ -57,10 +57,10 @@ pct1 <- function(x) fmt_pct(x, 1)
 
 # ---- numeracao de figuras, tabelas e quadros (ordem de aparicao no texto) --------------
 NUM <- list(
-  Figura = c("f_conc", "f_perfil", "f_fases", "f_ameacas", "f_concretude", "f_ancoragem", "f_clima", "f_regiao", "f_mapa",
-             "f_registros", "f_expo", "f_cita", "f_descompasso", "f_exp_conc", "f_campo", "f_tamanho"),
-  Tabela = c("t_universo", "t_cenarios", "t_destaques", "t_meta", "t_tempo", "t_regiao", "t_quadr", "t_categorias", "t_incum", "t_curtos", "t_confiab",
-             "t_anexo_cand", "t_uf", "t_class", "t_part", "t_alinh"),
+  Figura = c("f_conc", "f_perfil", "f_fases", "f_ameacas", "f_digital1", "f_digital2", "f_concretude", "f_ancoragem", "f_clima", "f_regiao", "f_mapa",
+             "f_registros", "f_expo", "f_cita", "f_descompasso", "f_exp_conc", "f_campo", "f_termos", "f_tamanho"),
+  Tabela = c("t_universo", "t_cenarios", "t_valores", "t_destaques", "t_meta", "t_tempo", "t_regiao", "t_quadr", "t_nao_cita", "t_categorias", "t_incum", "t_curtos", "t_confiab",
+             "t_anexo_cand", "t_uf", "t_class", "t_part", "t_alinh", "t_anexo_nc"),
   Quadro = c("q_relev", "q_fase", "q_espec", "q_perfil", "q_fonteles", "q_tarcisio", "q_isael", "q_zucco", "q_perillo",
              "q_braide", "q_raquel", "q_rejane", "q_ameaca", "q_ancor"))
 .cont <- new.env(); for (k in names(NUM)) .cont[[k]] <- 0L
@@ -169,6 +169,8 @@ tverb  <- tab("t18_tempo_verbal.csv")
 anexoc <- tab("t19_anexo_candidatos.csv")
 revman <- data.table::fread(here::here("config", "revisao_manual.csv"), encoding = "UTF-8")
 e20    <- tab("t20_exposicao_x_concretude.csv"); rho20 <- suppressWarnings(cor.test(e20$reg_mun, e20$pct_acao, method = "spearman"))
+d22    <- tab("t22_impressao_digital.csv"); nc21 <- tab("t21_nao_citam_principal.csv"); tm23 <- tab("t23_termos_por_campo.csv")
+valr   <- data.table::fread(here::here("config", "valores_reais.csv"), encoding = "UTF-8")
 cbex   <- data.table::fread(here::here("config", "codebook_exemplos.csv"), encoding = "UTF-8")
 casos  <- data.table::fread(here::here("config", "casos_emblematicos.csv"), encoding = "UTF-8")
 
@@ -436,6 +438,31 @@ figura("f_ameacas", "04_tipos_ameaca.png", "Tipos de desastre citados nos planos
 
 Enchentes e alagamentos são o tipo mais citado (`r pa("hidro")`% dos candidatos), seguidos de seca e estiagem (`r pa("seca")`%) e de queimadas e incêndios (`r pa("fogo")`%). Metade dos candidatos (`r pa("generica")`%) também fala de desastres em termos gerais, sem nomear o tipo. Os tipos mais localizados aparecem menos, como deslizamentos (`r pa("movimento_massa")`%), calor extremo (`r pa("calor_extremo")`%), erosão costeira (`r pa("costeira")`%), barragens e mineração (`r pa("barragem_mineracao")`%), tempestades (`r pa("tempestade")`%) e acidentes tecnológicos (`r pa("tecnologico")`%) (`r ref("Figura", "f_ameacas")`). A @sec-expo compara esse quadro com o que cada estado de fato enfrenta.
 
+## A impressão digital de cada plano
+
+Até aqui contamos candidatos por categoria. Para ver o plano inteiro de cada um, as duas figuras a seguir mostram, em cada linha, um candidato que menciona o tema e, em cada coluna, uma fase do ciclo (azul) ou um tipo de desastre (verde) que o plano cita ao menos uma vez. Os candidatos estão ordenados do plano mais completo, o que cita mais categorias, ao mais restrito, e a ordem vale para as duas figuras, que dividem a lista ao meio.
+
+```{r fig-digital1}
+#| output: asis
+figura("f_digital1", "18a_impressao_digital.png", "Fases e tipos de desastre citados por cada candidato, primeira metade da lista (do plano mais completo ao menos completo).",
+       fonte = "Planos de governo dos candidatos a governador (TSE); classificação por modelos de linguagem. Azul: fase do ciclo; verde: tipo de desastre; cinza: não citado.", alt = 0.86)
+```
+
+```{r fig-digital2}
+#| output: asis
+figura("f_digital2", "18b_impressao_digital.png", "Fases e tipos de desastre citados por cada candidato, segunda metade da lista.",
+       fonte = "Planos de governo dos candidatos a governador (TSE); classificação por modelos de linguagem. Azul: fase do ciclo; verde: tipo de desastre; cinza: não citado.", alt = 0.86)
+```
+
+```{r digital-analise}
+n_cat_max <- max(d22$n_cat); n_dez <- d22[n_cat >= 10, .N]; n_uma <- d22[n_cat == 1, .N]; med_cat <- median(d22$n_cat)
+n_prev <- d22[prevencao_preparacao == TRUE, .N]; n_uma_prev <- d22[n_cat == 1 & prevencao_preparacao == TRUE, .N]
+rot_cols <- c(prevencao_preparacao = "prevenção e preparação", resposta = "resposta", recuperacao = "recuperação", adaptacao = "adaptação climática", hidro = "enchente e alagamento", seca = "seca e estiagem", fogo = "queimadas e incêndios", movimento_massa = "deslizamento", tempestade = "tempestades", calor_extremo = "calor extremo", costeira = "erosão costeira", barragem_mineracao = "barragens e mineração", tecnologico = "acidentes tecnológicos", generica = "desastres em geral")
+soma_cols <- colSums(d22[, names(rot_cols), with = FALSE]); col_vazia <- rot_cols[[names(which.min(soma_cols))]]
+```
+
+O contraste entre o topo da primeira figura e o fim da segunda resume o relatório. No topo, `r n_dez` candidatos citam 10 ou mais das 14 categorias, com um máximo de `r n_cat_max`, e seus planos tratam de todo o ciclo e de quase todos os tipos de desastre. No fim, `r n_uma` candidatos que mencionam o tema citam uma única categoria, `r n_uma_prev` deles apenas a prevenção e preparação, e são os planos "de uma nota só". A mediana é de `r med_cat` categorias por candidato. A coluna de prevenção e preparação é a mais preenchida (`r n_prev` dos `r nrow(d22)` candidatos), e a de `r col_vazia`, a mais vazia, o que repete, candidato a candidato, o que as figuras anteriores mostraram no agregado (`r ref("Figura", "f_fases")` e `r ref("Figura", "f_ameacas")`).
+
 # Concretude: falar ou prometer {#sec-concretude}
 
 A concretude é a dimensão que separa falar de prometer. A figura a seguir distribui as passagens relevantes pelos cinco níveis de especificidade, e a unidade, agora, é a passagem, e não o candidato.
@@ -454,6 +481,24 @@ figura("f_ancoragem", "06_ancoragem.png", "Elementos que acompanham as propostas
 ```
 
 Entre os candidatos que mencionam o tema, o elemento mais comum é o **órgão responsável** (`r pan("orgao")`%), seguido de indicador ou monitoramento (`r pan("indicador")`%). Prazo (`r pan("prazo")`%), meta quantificada (`r pan("meta")`%) e valor ou orçamento (`r pan("orcamento")`%) são bem mais raros (`r ref("Figura", "f_ancoragem")`). Os elementos que permitem **cobrar** uma promessa, como meta, prazo e recurso, são, assim, os menos frequentes. Como a detecção é feita por regras e só considera a frase que contém o termo de risco, os percentuais são conservadores.
+
+## Quanto dinheiro se promete
+
+O elemento que mais permite cobrar uma promessa é o valor em reais, e por isso procuramos todas as passagens sobre risco e desastre que trazem um. A tabela a seguir lista os valores encontrados e classifica cada um, porque valor em reais não é sinônimo de promessa (`r ref("Tabela", "t_valores")`).
+
+```{r tab-valores}
+#| output: asis
+tabela(valr[, .(Candidato = paste0(candidato, " (", partido_uf, ")"), Valor = valor, `O que é` = descricao, Natureza = natureza)],
+       "t_valores", "Valores em reais nas passagens sobre risco e desastre, com a natureza de cada um, 2026.",
+       fonte = "Planos de governo dos candidatos a governador (TSE); busca por expressões monetárias nas passagens relevantes e leitura de cada caso pelo autor (config/valores_reais.csv). Valores em outras partes dos planos, fora das passagens sobre o tema, não entram.",
+       larg = c(0.20, 0.17, 0.43, 0.14), align = c("l", "l", "l", "l"))
+```
+
+```{r valores-analise}
+n_val <- nrow(valr); n_prom <- valr[natureza == "Promessa", .N]; n_cand_val <- length(unique(valr$candidato))
+```
+
+Dos `r n_cand_val` candidatos com valor em reais nas passagens sobre o tema, só `r n_prom` prometem gasto novo: Tarcísio (SP), com R$ 25 bilhões até 2029, Carlos Machado (SP), com R$ 1,5 bilhão para a Defesa Civil e os bombeiros, e Ben Mendes (MG), com R$ 300 a 520 milhões em quatro anos. Os demais valores são balanço do que já foi executado, crítica a programa do governo, dano registrado, comparação, carteira de projetos ou dinheiro de outro tema, como a dívida com a União. Os números não são comparáveis entre estados sem o tamanho do orçamento e da população de cada um, e só a ordem de grandeza importa: a promessa paulista é de 50 a 80 vezes a mineira. O achado principal, porém, é a escassez, já que só `r n_prom` dos `r n_mencao` candidatos que mencionam o tema põem um valor em reais na própria promessa, e isso reforça a leitura de que o tema é mais mencionado do que orçado.
 
 # Falar de clima não é falar de desastre {#sec-clima}
 
@@ -749,6 +794,30 @@ O quadrante que mais chama atenção do ponto de vista da gestão de risco é o 
 
 **O que encontramos.** O coeficiente é de `r vd(rho20$estimate)` (`r pt(rho20$p.value)`), praticamente nulo, e isso significa que conhecer a exposição de um estado quase não ajuda a prever a concretude dos seus planos. Estados com muitos registros por município, como MS, SC e ES, têm resultados muito diferentes entre si (`r fmt_pct(e20[uf == "MS", pct_acao], 0)`%, `r fmt_pct(e20[uf == "SC", pct_acao], 0)`% e `r fmt_pct(e20[uf == "ES", pct_acao], 0)`% de candidatos com ação concreta), e o mesmo vale para estados com poucos registros, como SP, TO e GO (`r fmt_pct(e20[uf == "SP", pct_acao], 0)`%, `r fmt_pct(e20[uf == "TO", pct_acao], 0)`% e `r fmt_pct(e20[uf == "GO", pct_acao], 0)`%). Em outras palavras, os dados não sugerem que quem mais sofre desastres prometa mais ação concreta, e a concretude dos planos parece responder mais ao candidato do que ao território. Com 4 a 10 candidatos por estado, cada ponto é frágil.
 
+## Quem não fala do desastre do próprio estado
+
+O cruzamento pode ser lido também candidato a candidato. Dos `r N` candidatos do universo, `r nrow(nc21)` não citam o principal tipo de desastre do seu estado, e a lista completa está no Anexo F. Para não tornar a leitura longa, a tabela a seguir mostra só os dez estados em que a seca lidera os registros, que são os que mais contrastam com o discurso geral sobre enchentes, e nomeia, em cada um, os candidatos que não citam a seca (`r ref("Tabela", "t_nao_cita")`).
+
+```{r tab-nao-cita}
+#| output: asis
+sec <- nc21[tipo_principal == "Seca e estiagem"]
+tot_uf <- P[, .(candidatos = .N), by = SG_UF]
+nome_c <- function(cn, pas) paste0(tools::toTitleCase(tolower(cn)), ifelse(pas == 0, "†", ""), collapse = "; ")
+tb <- sec[, .(`Não citam` = .N, Candidatos = nome_c(candidato, passagens)), by = uf]
+tb <- merge(tb, tot_uf, by.x = "uf", by.y = "SG_UF")[order(-`Não citam`, uf)]
+tabela(tb[, .(UF = uf, `Candidatos no estado` = candidatos, `Não citam seca` = `Não citam`, `Quem não cita` = Candidatos)],
+       "t_nao_cita", "Candidatos que não citam a seca nos dez estados em que ela é o principal tipo de desastre, 2026.",
+       fonte = "Atlas Digital de Desastres (S2iD/MIDR, 2013 a 2025) e planos de governo dos candidatos a governador (TSE). † Candidato sem nenhuma passagem sobre risco e desastre no plano.",
+       larg = c(0.06, 0.14, 0.12, 0.68), align = c("l", "r", "r", "l"))
+```
+
+```{r nao-cita-analise}
+n_sec_nc <- nrow(sec); n_sec_sem <- sec[passagens == 0, .N]; n_sec_tot <- P[SG_UF %in% al[tipo_principal == "seca", uf], .N]
+n_nc_sem <- nc21[passagens == 0, .N]
+```
+
+Nos dez estados da seca, `r n_sec_nc` dos `r n_sec_tot` candidatos não citam a seca, e `r n_sec_sem` deles, marcados com †, nem sequer mencionam o tema no plano, de modo que a ausência da seca, neles, faz parte de uma ausência maior. Os demais mencionam risco e desastre, mas falam de enchente, de queimadas ou de desastres em geral, e deixam de fora o desastre que mais atinge o próprio estado. No conjunto do país, dos `r nrow(nc21)` candidatos que não citam o principal desastre do estado, `r n_nc_sem` não mencionam o tema, e os `r nrow(nc21) - n_nc_sem` restantes o mencionam sem nomear esse tipo. A lista é um retrato do que está escrito no plano, e não uma acusação: um candidato pode tratar da seca com outras palavras, como "crise hídrica" ou "convivência com o semiárido", que o dicionário só captura em parte.
+
 ## Cuidados na leitura
 
 Os registros são **administrativos e feitos pelos municípios**, de modo que medem os desastres que geraram registro, e não o risco físico, e estados com maior capacidade de notificação e de pedir reconhecimento aparecem mais expostos. **A cobertura também depende do tamanho do plano.** Um plano curto tem menos espaço para citar vários tipos de desastre, e a cobertura mediana é de `r fmt_pct(cobc[campo == "extrema-esquerda", median(cobertura)], 0)`% na extrema-esquerda, de planos mais curtos, contra `r fmt_pct(cobc[campo == "esquerda e centro-esquerda", median(cobertura)], 0)`% na esquerda e centro-esquerda. Por isso a comparação por campo político nesta seção não deve ser lida sem considerar a extensão dos planos. Por fim, a medida é descritiva e não indica se o candidato **deveria** citar determinado tipo de desastre, e um plano pode tratar do tema de forma indireta, sem citar o tipo.
@@ -822,6 +891,22 @@ A presença do tema não é uniforme no espectro. **Na extrema-esquerda, `r fmt_
 ### Como interpretar
 
 Estes resultados **descrevem o conteúdo dos planos** e não permitem atribuir causas. A menor presença do tema nos planos da extrema-esquerda pode refletir a função do plano para partidos com menor chance de governar (uma peça de posicionamento programático, mais que um programa de gestão), diferenças de estrutura e de recursos partidários ou a priorização de outras agendas, e os dados não permitem distinguir essas hipóteses. Vale registrar também que se trata de **menções** ao tema, e não de posições sobre ele, que a classificação ideológica é dos **partidos** (e não dos candidatos) e que UP, Missão, Democrata, União Brasil e PRD foram classificados por nós. Por fim, o número de candidatos por grupo é pequeno, e o tamanho do plano, muito desigual entre eles. Os indicadores por partido estão no Anexo C.
+
+## O vocabulário de cada campo
+
+Para ver como os campos falam, e não só se falam, medimos em que proporção das passagens sobre risco e desastre de cada campo aparece uma série de expressões de interesse. O gráfico usa barras agrupadas, e as expressões estão ordenadas da mais à menos frequente no conjunto. O centro e a centro-direita, com um único plano relevante, ficaram de fora.
+
+```{r fig-termos}
+#| output: asis
+figura("f_termos", "17_termos_por_campo.png", "Expressões nas passagens sobre risco e desastre, por campo político (% das passagens do campo), 2026.",
+       fonte = "Planos de governo dos candidatos a governador (TSE); busca por expressões nas frases focais das passagens relevantes. Nota: a nuvem de palavras comparativa do acR foi testada e descartada, porque os termos distintivos, em textos curtos, eram dominados por ruído.", alt = 0.75)
+```
+
+```{r termos-analise}
+tv <- function(t, c) tm23[termo == t & campo == c, pct]
+```
+
+Três leituras se destacam (`r ref("Figura", "f_termos")`). A primeira é que a **Defesa Civil** aparece em proporções parecidas nos três campos (de `r fmt_pct(tv("Defesa Civil", "extrema-esquerda"), 0)`% a `r fmt_pct(tv("Defesa Civil", "direita e extrema-direita"), 0)`% das passagens), ou seja, não é uma bandeira de um campo. A segunda é a **resiliência**, que aparece em `r fmt_pct(tv("Resiliência", "direita e extrema-direita"), 0)`% das passagens da direita e da extrema-direita, contra `r fmt_pct(tv("Resiliência", "extrema-esquerda"), 0)`% na extrema-esquerda, uma diferença que sugere que a palavra pertence mais ao vocabulário de gestão do que ao de denúncia. A terceira é o contraste da extrema-esquerda, que fala mais de **enchente, alagamento e inundação** (`r fmt_pct(tv("Enchente, alagamento, inundação", "extrema-esquerda"), 0)`%, contra `r fmt_pct(tv("Enchente, alagamento, inundação", "direita e extrema-direita"), 0)`% na direita) e de **áreas de risco** (`r fmt_pct(tv("Áreas de risco", "extrema-esquerda"), 0)`%, contra `r fmt_pct(tv("Áreas de risco", "direita e extrema-direita"), 0)`%), e menos de adaptação climática, o que combina com um discurso centrado no diagnóstico do desastre vivido e nas populações em áreas de risco, e menos nos instrumentos de gestão. A esquerda e a centro-esquerda lideram em **adaptação climática** e em **mudança ou emergência climática**, o que indica uma abordagem mais ligada à agenda do clima. Como as passagens são poucas em cada campo (de `r tm23[campo == "extrema-esquerda", unique(n)]` a `r tm23[campo == "direita e extrema-direita", unique(n)]`), essas diferenças descrevem o que os planos dizem, e não permitem atribuir causas.
 
 ## Candidatos à reeleição {#sec-incum}
 
@@ -1138,10 +1223,24 @@ tabela(qcb(cbex[dimensao == "Tipo de ameaça"]), "q_ameaca", "Codebook, dimensã
 Os exemplos são reais, mas a classificação de cada um pode mudar entre os dois modelos, sobretudo nos tipos raros (`r ref("Tabela", "t_confiab")`).
 
 
-``
-A ancoragem por regras é conservadora, e valores, prazos e metas escritos por extenso, sem algarismos ou palavras-chave, podem passar despercebidos.
-`{r anexo-e2}
+```{r anexo-e2}
 #| output: asis
 tabela(qcb(cbex[dimensao == "Ancoragem (regras)"]), "q_ancor", "Codebook, dimensão ancoragem (detecção por regras textuais na frase focal): definição e exemplo real de cada elemento.",
        fonte = "Regras textuais do estudo (R/07_ancoragem_regras.R) e planos de governo dos candidatos a governador (TSE).", tipo = "Quadro", larg = c(0.15, 0.32, 0.43))
 ```
+
+A ancoragem por regras é conservadora, e valores, prazos e metas escritos por extenso, sem algarismos ou palavras-chave, podem passar despercebidos.
+
+# Anexo F. Candidatos que não citam o principal desastre do estado {.unnumbered}
+
+A tabela a seguir lista, por UF, os `r nrow(nc21)` candidatos cujo plano não cita o principal tipo de desastre do próprio estado, com os tipos que citam. "Nenhum" indica que o plano não cita nenhum tipo específico, e "passagens" é o número de passagens sobre risco e desastre do plano, de modo que zero significa que o candidato não menciona o tema.
+
+```{r anexo-f}
+#| output: asis
+tabela(nc21[, .(UF = uf, Candidato = candidato, Partido = partido, `Principal do estado` = tipo_principal, `Tipos que cita` = tipos_citados, Passagens = passagens)],
+       "t_anexo_nc", "Candidatos que não citam o principal tipo de desastre do próprio estado, 2026.",
+       fonte = "Atlas Digital de Desastres (S2iD/MIDR, 2013 a 2025) e planos de governo dos candidatos a governador (TSE); classificação por modelos de linguagem.",
+       larg = c(0.05, 0.22, 0.12, 0.19, 0.32, 0.10), align = c("l", "l", "l", "l", "l", "r"))
+```
+
+A lista não é uma avaliação dos candidatos. Ela mostra, em cada estado, quem deixa de nomear o desastre mais frequente no histórico, e há planos que tratam do tema por outras palavras ou de forma genérica.
