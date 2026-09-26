@@ -24,7 +24,7 @@ Relatório descritivo e público sobre **o que os candidatos a governador dizem,
 - **74,4%** (128) mencionam risco ou desastre; **41** não têm nenhuma menção.
 - **34,9%** (60) têm ação concreta em metade ou mais das passagens sobre o tema; só **2,3%** (4) associam a ação a meta, prazo, indicador ou orçamento.
 - Os planos **antecipam mais do que respondem**: prevenção e preparação em 71,5% dos candidatos, resposta em 34,9% e recuperação em 24,4%.
-- **Descompasso territorial:** no Piauí, a seca é 92% dos registros de desastre, mas só 17% dos candidatos a citam. Não há relação entre a intensidade de desastres do estado e a concretude dos planos (Spearman = 0,05).
+- **Descompasso territorial:** no Piauí, a seca é 92% dos registros de desastre, mas só 17% dos candidatos a citam. Não há relação entre a intensidade de desastres do estado e a concretude dos planos (Spearman ≈ 0).
 - **Confiabilidade entre os dois modelos:** boa para tipos de ameaça, aceitável para relevância (alfa de Krippendorff = 0,78) e **fraca para especificidade (0,58)**, que deve ser lida como estimativa aproximada.
 
 ![Perfil dos candidatos](outputs/figures/01_perfil_nacional.png)

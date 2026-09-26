@@ -59,6 +59,16 @@ CE,costeira,3,8,37.5
 CE,barragem_mineracao,0,8,0
 CE,tecnologico,1,8,12.5
 CE,generica,3,8,37.5
+DF,hidro,4,8,50
+DF,movimento_massa,1,8,12.5
+DF,seca,4,8,50
+DF,fogo,4,8,50
+DF,calor_extremo,3,8,37.5
+DF,tempestade,0,8,0
+DF,costeira,0,8,0
+DF,barragem_mineracao,1,8,12.5
+DF,tecnologico,0,8,0
+DF,generica,4,8,50
 ES,hidro,4,5,80
 ES,movimento_massa,3,5,60
 ES,seca,3,5,60

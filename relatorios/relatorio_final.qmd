@@ -660,7 +660,7 @@ A exposição vem do **Atlas Digital de Desastres no Brasil** (Ministério da In
 
 Duas medidas resumem o alinhamento de cada estado: o **tipo principal**, que é o tipo de desastre com mais registros no estado entre 2013 e 2025 e cuja citação medimos pela proporção de candidatos, e a **cobertura da exposição**, que é, para cada candidato, a parcela dos registros do seu estado que pertence aos tipos que ele cita. Um candidato que cita apenas o tipo que responde por 80% dos registros do estado tem cobertura de 80%, e quem não cita nenhum tipo específico tem cobertura zero.
 
-O **Distrito Federal foi excluído** desta seção, porque tem um único município e só 16 registros no período, o que não permite traçar um perfil de exposição. A análise cobre **`r n_uf_expo` UFs e `r n_cand_expo` candidatos**.
+O **Distrito Federal** entra na seção com ressalva. Ele tem um único município e só 16 registros no período, de modo que o tipo principal e as proporções do DF, marcado com asterisco nos gráficos, são pouco estáveis e devem ser lidos como indicativos. A análise cobre **`r n_uf_expo` UFs e `r n_cand_expo` candidatos**.
 
 Antes de cruzar exposição e discurso, convém olhar o histórico. A figura a seguir mostra os registros de desastre por ano no país, com um painel para cada grupo de tipos.
 
@@ -700,12 +700,12 @@ Os estados com menor proporção são `r frase_uf(piores)`. No extremo oposto es
 
 ## O mapa do descompasso
 
-O mapa a seguir traduz o cruzamento em duas imagens lado a lado. À esquerda, a cor indica o tipo de desastre com mais registros em cada estado e, à direita, a cor indica a proporção de candidatos que citam esse mesmo tipo. O Distrito Federal, em cinza, foi excluído da seção.
+O mapa a seguir traduz o cruzamento em duas imagens lado a lado. À esquerda, a cor indica o tipo de desastre com mais registros em cada estado e, à direita, a cor indica a proporção de candidatos que citam esse mesmo tipo. O Distrito Federal, muito pequeno no mapa, aparece com asterisco (DF*), porque só tem 16 registros e o seu tipo principal é pouco estável.
 
 ```{r fig-descompasso}
 #| output: asis
 figura("f_descompasso", "15_mapa_descompasso.png", "O desastre que mais atinge cada estado e a proporção de candidatos que o citam, por UF, 2013 a 2025.",
-       fonte = "Atlas Digital de Desastres (S2iD/MIDR, 2013 a 2025) e planos de governo dos candidatos a governador (TSE); malhas dos estados do IBGE, pelo pacote geobr. DF (cinza) excluído.", alt = 0.6)
+       fonte = "Atlas Digital de Desastres (S2iD/MIDR, 2013 a 2025) e planos de governo dos candidatos a governador (TSE); malhas dos estados do IBGE, pelo pacote geobr. DF* tem apenas 16 registros.", alt = 0.6)
 ```
 
 ```{r descompasso-analise}
@@ -713,7 +713,7 @@ mt <- al[, .(med = median(pct_cita_principal), n = .N), by = tipo_principal]; mt
 pi_ <- al[uf == "PI"]; pb_ <- al[uf == "PB"]; rs_ <- al[uf == "RS"]
 ```
 
-A enchente e o alagamento lideram os registros em `r al[tipo_principal == "hidro", .N]` UFs, a seca em `r al[tipo_principal == "seca", .N]`, em sua maioria nordestinas, e as queimadas em `r al[tipo_principal == "fogo", .N]`. Em nenhum estado o tipo principal deixa de ser citado, e o menor valor é o do Piauí (`r fmt_pct(pi_$pct_cita_principal, 0)`%). O contraste mais nítido está no Nordeste seco. No Piauí, `r fmt_pct(pi_$share_principal, 0)`% dos registros são de seca, mas só `r fmt_pct(pi_$pct_cita_principal, 0)`% dos candidatos a citam, e na Paraíba os valores são de `r fmt_pct(pb_$share_principal, 0)`% e `r fmt_pct(pb_$pct_cita_principal, 0)`%. No extremo oposto, no Rio Grande do Sul, todos os `r rs_$candidatos` candidatos citam enchente, tipo que responde por `r fmt_pct(rs_$share_principal, 0)`% dos registros do estado. Nos estados em que a seca lidera, a mediana de candidatos que a citam é de `r fmt_pct(mtg("seca")$med, 0)`%, contra `r fmt_pct(mtg("hidro")$med, 0)`% nos que têm a enchente à frente, o que sugere que a seca, apesar de dominar os registros, pesa menos no discurso do que a enchente (`r ref("Figura", "f_descompasso")`). O padrão é compatível com a ideia de que desastres recentes e visíveis, como a enchente, entram mais nos planos do que desastres crônicos, como a estiagem, mas os dados não permitem testar essa explicação.
+A enchente e o alagamento lideram os registros em `r al[tipo_principal == "hidro", .N]` UFs, a seca em `r al[tipo_principal == "seca", .N]`, em sua maioria nordestinas, e as queimadas em `r al[tipo_principal == "fogo", .N]`. Em nenhuma UF o tipo principal deixa de ser citado. O menor valor é o do Distrito Federal (`r fmt_pct(al[uf == "DF", pct_cita_principal], 0)`%, com a ressalva de que só tem 16 registros), seguido do Piauí (`r fmt_pct(pi_$pct_cita_principal, 0)`%). O contraste mais nítido está no Nordeste seco. No Piauí, `r fmt_pct(pi_$share_principal, 0)`% dos registros são de seca, mas só `r fmt_pct(pi_$pct_cita_principal, 0)`% dos candidatos a citam, e na Paraíba os valores são de `r fmt_pct(pb_$share_principal, 0)`% e `r fmt_pct(pb_$pct_cita_principal, 0)`%. No extremo oposto, no Rio Grande do Sul, todos os `r rs_$candidatos` candidatos citam enchente, tipo que responde por `r fmt_pct(rs_$share_principal, 0)`% dos registros do estado. Nos estados em que a seca lidera, a mediana de candidatos que a citam é de `r fmt_pct(mtg("seca")$med, 0)`%, contra `r fmt_pct(mtg("hidro")$med, 0)`% nos que têm a enchente à frente, o que sugere que a seca, apesar de dominar os registros, pesa menos no discurso do que a enchente (`r ref("Figura", "f_descompasso")`). O padrão é compatível com a ideia de que desastres recentes e visíveis, como a enchente, entram mais nos planos do que desastres crônicos, como a estiagem, mas os dados não permitem testar essa explicação.
 
 ## Quem mais sofre promete mais?
 

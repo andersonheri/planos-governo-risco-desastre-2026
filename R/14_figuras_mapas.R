@@ -18,11 +18,11 @@ xy <- st_coordinates(suppressWarnings(st_centroid(st_geometry(g))))
 d <- data.frame(uf = g$abbrev_state, x = xy[, 1], y = xy[, 2], tipo = factor(ROT_T[g$tipo_principal], levels = ROT_T), pct = g$pct_cita_principal, stringsAsFactors = FALSE)
 d <- d[!is.na(d$pct), ]
 # UFs pequenas: rotulo deslocado para o mar, com linha ate o centroide
-DESL <- data.frame(uf = c("RN", "PB", "PE", "AL", "SE", "ES", "RJ", "SC", "PR", "AC"), dx = c(4.5, 5, 5, 4.5, 4, 3.5, 3.5, 4.5, 5.5, -3.5), dy = c(1.6, 0.2, -1.2, -2.3, -3.4, -0.4, -2, -1, 0.4, -1.5))
+DESL <- data.frame(uf = c("RN", "PB", "PE", "AL", "SE", "ES", "RJ", "SC", "PR", "AC", "DF"), dx = c(4.5, 5, 5, 4.5, 4, 3.5, 3.5, 4.5, 5.5, -3.5, 13), dy = c(1.6, 0.2, -1.2, -2.3, -3.4, -0.4, -2, -1, 0.4, -1.5, -0.6))
 d <- merge(d, DESL, by = "uf", all.x = TRUE)
 d$desloc <- !is.na(d$dx); d$dx[!d$desloc] <- 0; d$dy[!d$desloc] <- 0
 d$lx <- d$x + d$dx; d$ly <- d$y + d$dy
-d$rot_B <- ifelse(d$desloc, paste0(d$uf, " ", round(d$pct), "%"), paste0(d$uf, "\n", round(d$pct), "%"))
+d$rot_B <- ifelse(d$desloc, paste0(ifelse(d$uf == "DF", "DF*", d$uf), " ", round(d$pct), "%"), paste0(d$uf, "\n", round(d$pct), "%"))
 
 tema_mapa <- function() theme_void(base_size = 16) + theme(plot.background = element_rect(fill = COR$surface, colour = NA),
   legend.position = "bottom", legend.title = element_blank(), plot.title = element_text(face = "bold", size = 16, hjust = 0),
@@ -30,7 +30,7 @@ tema_mapa <- function() theme_void(base_size = 16) + theme(plot.background = ele
 
 pA <- ggplot() + geom_sf(data = g, aes(fill = factor(ROT_T[tipo_principal], levels = ROT_T)), colour = COR$surface, linewidth = 0.4) +
   geom_segment(data = d[d$desloc, ], aes(x = x, y = y, xend = lx - 0.8, yend = ly), colour = COR$ink2, linewidth = 0.3) +
-  geom_text(data = d, aes(x = lx, y = ly, label = uf, colour = desloc), size = 4.6, fontface = "bold", show.legend = FALSE) +
+  geom_text(data = d, aes(x = lx, y = ly, label = ifelse(uf == "DF", "DF*", uf), colour = desloc), size = 4.6, fontface = "bold", show.legend = FALSE) +
   scale_colour_manual(values = c(`TRUE` = COR$ink, `FALSE` = "white")) +
   scale_fill_manual(values = COR_T, na.value = "#d9d8d1", na.translate = FALSE) +
   coord_sf(clip = "off") + guides(fill = guide_legend(nrow = 2)) + labs(title = "O que o estado enfrenta:\ntipo com mais registros") + tema_mapa()
@@ -72,7 +72,7 @@ p <- ggplot(e, aes(x = reg_mun, y = pct_acao, colour = regiao)) +
   annotate("text", x = Inf, y = -Inf, label = "Mais exposto,\nmenos ação", hjust = 1.05, vjust = -0.3, size = 4.6, colour = COR$muted, fontface = "italic") +
   annotate("text", x = -Inf, y = -Inf, label = "Menos exposto,\nmenos ação", hjust = -0.05, vjust = -0.3, size = 4.6, colour = COR$muted, fontface = "italic") +
   geom_point(aes(size = n), alpha = 0.85) +
-  geom_text(aes(x = reg_mun + dx, y = pct_acao + dy, label = uf, hjust = hj), size = 4.8, colour = COR$ink, show.legend = FALSE) +
+  geom_text(aes(x = reg_mun + dx, y = pct_acao + dy, label = ifelse(uf == "DF", "DF*", uf), hjust = hj), size = 4.8, colour = COR$ink, show.legend = FALSE) +
   scale_colour_manual(values = COR_REGIAO, name = NULL) + scale_size_continuous(range = c(3, 8), guide = "none") +
   scale_y_continuous(labels = function(x) paste0(x, "%"), expand = expansion(mult = c(0.14, 0.1))) +
   labs(x = "Registros de desastre por município, 2013 a 2025", y = "% de candidatos com ação concreta predominante") +

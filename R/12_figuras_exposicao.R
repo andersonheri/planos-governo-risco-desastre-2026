@@ -40,7 +40,7 @@ p <- (p1 | p2) + plot_annotation(theme = theme(plot.background = element_rect(fi
 salvar_fig(p, "12_exposicao_x_citacao.png", w = 9, h = 12.5)
 
 # ---- F13 quem cita o principal desastre do seu estado ---------------------------------------------
-d <- copy(al)[, rot := sprintf("%s · %s (n=%d)", uf, ROT_T[tipo_principal], candidatos)]
+d <- copy(al)[, rot := sprintf("%s · %s (n=%d)", ifelse(uf == "DF", "DF*", uf), ROT_T[tipo_principal], candidatos)]
 d[, regiao := factor(regiao, levels = names(COR_REGIAO))]
 p <- ggplot(d, aes(x = pct_cita_principal, y = reorder(rot, pct_cita_principal), colour = regiao)) +
   geom_segment(aes(x = 0, xend = pct_cita_principal, yend = reorder(rot, pct_cita_principal)), colour = COR$grid, linewidth = 0.6) +

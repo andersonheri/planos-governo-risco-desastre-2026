@@ -74,7 +74,7 @@ expo[, `:=`(pct_municipios = round(100 * municipios_atingidos / municipios_uf, 1
 expo[, share_registros := round(100 * registros / pmax(sum(registros), 1), 1), by = uf]
 expo[, peso := registros / pmax(sum(registros), 1), by = uf]   # composicao dos registros da UF (soma 1)
 # UFs com poucos registros nao permitem um perfil de exposicao (ex.: DF, um unico municipio)
-MIN_REGISTROS <- 30
+MIN_REGISTROS <- 10   # DF entra com 16 registros (1 municipio): incluido com ressalva no texto
 ufs_ok <- expo[, .(r = sum(registros)), by = uf][r >= MIN_REGISTROS, uf]
 cat("UFs sem base para perfil de exposicao (< ", MIN_REGISTROS, " registros em ", PERIODO[1], "-", PERIODO[2], "): ", paste(setdiff(UFS, ufs_ok), collapse = ","), "\n", sep = "")
 expo <- expo[uf %in% ufs_ok]
