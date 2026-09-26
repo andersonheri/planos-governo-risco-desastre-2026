@@ -36,27 +36,28 @@ fwrite(nc, file.path(DIR_TAB, "t21_nao_citam_principal.csv"))
 cat("Nao citam o principal do estado:", nrow(nc), "de", cand[!is.na(tipo_principal), .N], "\n")
 
 # ---- impressao digital: candidatos x fases e tipos ----------------------------------------------------------------
-d <- cand[passagens > 0][order(-n_cat, -passagens, candidato)]
+d <- cand[passagens > 0][order(uf, candidato)]
 fwrite(d[, c("uf", "candidato", "partido", "campo", "passagens", "n_cat", names(ROT_F), names(ROT_T)), with = FALSE], file.path(DIR_TAB, "t22_impressao_digital.csv"))
 long <- melt(d, id.vars = c("SQ_CANDIDATO", "candidato", "uf", "n_cat"), measure.vars = c(names(ROT_F), names(ROT_T)), variable.name = "cat", value.name = "cita")
 long[, grupo := fifelse(cat %in% names(ROT_F), "Fases do ciclo", "Tipos de desastre")]
 long[, rot_cat := factor(c(ROT_F, ROT_T)[as.character(cat)], levels = c(ROT_F, ROT_T))]
 long[, rot_cand := factor(sprintf("%s (%s)", candidato, uf), levels = rev(sprintf("%s (%s)", d$candidato, d$uf)))]
 long[, cel := fifelse(!cita, "não", fifelse(grupo == "Fases do ciclo", "fase", "tipo"))]
-meio <- ceiling(nrow(d) / 2)
+terco <- ceiling(nrow(d) / 3)
 mapa_digital <- function(cands, arquivo) {
   l <- long[SQ_CANDIDATO %in% cands]
   l[, rot_cand := droplevels(rot_cand)]
   p <- ggplot(l, aes(x = rot_cat, y = rot_cand, fill = cel)) + geom_tile(colour = COR$surface, linewidth = 0.3) +
     scale_fill_manual(values = c(não = "#ecebe5", fase = COR$s1, tipo = COR$s3), guide = "none") +
     scale_x_discrete(position = "top", guide = guide_axis(angle = 45)) + labs(x = NULL, y = NULL) +
-    theme_risco(13) + theme(panel.grid = element_blank(), axis.line = element_blank(), axis.text.y = element_text(size = 9.5),
-                            axis.text.x = element_text(size = 12, hjust = 0), plot.margin = margin(8, 90, 5, 5))
-  salvar_fig(p, arquivo, w = 8.6, h = 10.4)
+    theme_risco(13) + theme(panel.grid = element_blank(), axis.line = element_blank(), axis.text.y = element_text(size = 12),
+                            axis.text.x = element_text(size = 13, hjust = 0), plot.margin = margin(8, 100, 5, 5))
+  salvar_fig(p, arquivo, w = 8.6, h = 8.6)
 }
-mapa_digital(d$SQ_CANDIDATO[seq_len(meio)], "18a_impressao_digital.png")
-mapa_digital(d$SQ_CANDIDATO[(meio + 1):nrow(d)], "18b_impressao_digital.png")
-cat("Impressao digital:", nrow(d), "candidatos; metades de", meio, "\n")
+mapa_digital(d$SQ_CANDIDATO[seq_len(terco)], "18a_impressao_digital.png")
+mapa_digital(d$SQ_CANDIDATO[(terco + 1):(2 * terco)], "18b_impressao_digital.png")
+mapa_digital(d$SQ_CANDIDATO[(2 * terco + 1):nrow(d)], "18c_impressao_digital.png")
+cat("Impressao digital:", nrow(d), "candidatos; terços de", terco, "\n")
 
 # ---- nuvem de palavras comparativa por campo (acR) --------------------------------------------------------------------
 # A nuvem TF-IDF do acR foi testada e descartada (termos distintivos dominados por ruido em textos curtos).

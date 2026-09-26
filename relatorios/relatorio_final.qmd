@@ -57,7 +57,7 @@ pct1 <- function(x) fmt_pct(x, 1)
 
 # ---- numeracao de figuras, tabelas e quadros (ordem de aparicao no texto) --------------
 NUM <- list(
-  Figura = c("f_conc", "f_perfil", "f_fases", "f_ameacas", "f_digital1", "f_digital2", "f_concretude", "f_ancoragem", "f_clima", "f_regiao", "f_mapa",
+  Figura = c("f_conc", "f_perfil", "f_fases", "f_ameacas", "f_digital1", "f_digital2", "f_digital3", "f_concretude", "f_ancoragem", "f_clima", "f_regiao", "f_mapa",
              "f_registros", "f_expo", "f_cita", "f_descompasso", "f_exp_conc", "f_campo", "f_termos", "f_tamanho"),
   Tabela = c("t_universo", "t_cenarios", "t_valores", "t_destaques", "t_meta", "t_tempo", "t_regiao", "t_quadr", "t_nao_cita", "t_categorias", "t_incum", "t_curtos", "t_confiab",
              "t_anexo_cand", "t_uf", "t_class", "t_part", "t_alinh", "t_anexo_nc"),
@@ -440,18 +440,24 @@ Enchentes e alagamentos são o tipo mais citado (`r pa("hidro")`% dos candidatos
 
 ## A impressão digital de cada plano
 
-Até aqui contamos candidatos por categoria. Para ver o plano inteiro de cada um, as duas figuras a seguir mostram, em cada linha, um candidato que menciona o tema e, em cada coluna, uma fase do ciclo (azul) ou um tipo de desastre (verde) que o plano cita ao menos uma vez. Os candidatos estão ordenados do plano mais completo, o que cita mais categorias, ao mais restrito, e a ordem vale para as duas figuras, que dividem a lista ao meio.
+Até aqui contamos candidatos por categoria. Para ver o plano inteiro de cada um, as três figuras a seguir mostram, em cada linha, um candidato que menciona o tema e, em cada coluna, uma fase do ciclo (azul) ou um tipo de desastre (verde) que o plano cita ao menos uma vez. Os candidatos estão ordenados por UF, e por nome dentro de cada UF, e a lista é dividida em três partes para que os nomes fiquem legíveis.
 
 ```{r fig-digital1}
 #| output: asis
-figura("f_digital1", "18a_impressao_digital.png", "Fases e tipos de desastre citados por cada candidato, primeira metade da lista (do plano mais completo ao menos completo).",
-       fonte = "Planos de governo dos candidatos a governador (TSE); classificação por modelos de linguagem. Azul: fase do ciclo; verde: tipo de desastre; cinza: não citado.", alt = 0.86)
+figura("f_digital1", "18a_impressao_digital.png", "Fases e tipos de desastre citados por cada candidato, por UF (AC a MA).",
+       fonte = "Planos de governo dos candidatos a governador (TSE); classificação por modelos de linguagem. Azul: fase do ciclo; verde: tipo de desastre; cinza: não citado.", alt = 0.84)
 ```
 
 ```{r fig-digital2}
 #| output: asis
-figura("f_digital2", "18b_impressao_digital.png", "Fases e tipos de desastre citados por cada candidato, segunda metade da lista.",
-       fonte = "Planos de governo dos candidatos a governador (TSE); classificação por modelos de linguagem. Azul: fase do ciclo; verde: tipo de desastre; cinza: não citado.", alt = 0.86)
+figura("f_digital2", "18b_impressao_digital.png", "Fases e tipos de desastre citados por cada candidato, por UF (segunda parte da lista).",
+       fonte = "Planos de governo dos candidatos a governador (TSE); classificação por modelos de linguagem. Azul: fase do ciclo; verde: tipo de desastre; cinza: não citado.", alt = 0.84)
+```
+
+```{r fig-digital3}
+#| output: asis
+figura("f_digital3", "18c_impressao_digital.png", "Fases e tipos de desastre citados por cada candidato, por UF (terceira parte da lista, até TO).",
+       fonte = "Planos de governo dos candidatos a governador (TSE); classificação por modelos de linguagem. Azul: fase do ciclo; verde: tipo de desastre; cinza: não citado.", alt = 0.84)
 ```
 
 ```{r digital-analise}
@@ -459,9 +465,10 @@ n_cat_max <- max(d22$n_cat); n_dez <- d22[n_cat >= 10, .N]; n_uma <- d22[n_cat =
 n_prev <- d22[prevencao_preparacao == TRUE, .N]; n_uma_prev <- d22[n_cat == 1 & prevencao_preparacao == TRUE, .N]
 rot_cols <- c(prevencao_preparacao = "prevenção e preparação", resposta = "resposta", recuperacao = "recuperação", adaptacao = "adaptação climática", hidro = "enchente e alagamento", seca = "seca e estiagem", fogo = "queimadas e incêndios", movimento_massa = "deslizamento", tempestade = "tempestades", calor_extremo = "calor extremo", costeira = "erosão costeira", barragem_mineracao = "barragens e mineração", tecnologico = "acidentes tecnológicos", generica = "desastres em geral")
 soma_cols <- colSums(d22[, names(rot_cols), with = FALSE]); col_vazia <- rot_cols[[names(which.min(soma_cols))]]
+uf_medio <- d22[, .(m = mean(n_cat), n = .N), by = uf][n >= 4][order(-m)]
 ```
 
-O contraste entre o topo da primeira figura e o fim da segunda resume o relatório. No topo, `r n_dez` candidatos citam 10 ou mais das 14 categorias, com um máximo de `r n_cat_max`, e seus planos tratam de todo o ciclo e de quase todos os tipos de desastre. No fim, `r n_uma` candidatos que mencionam o tema citam uma única categoria, `r n_uma_prev` deles apenas a prevenção e preparação, e são os planos "de uma nota só". A mediana é de `r med_cat` categorias por candidato. A coluna de prevenção e preparação é a mais preenchida (`r n_prev` dos `r nrow(d22)` candidatos), e a de `r col_vazia`, a mais vazia, o que repete, candidato a candidato, o que as figuras anteriores mostraram no agregado (`r ref("Figura", "f_fases")` e `r ref("Figura", "f_ameacas")`).
+Como a ordem é geográfica, o que se lê na imagem é a variação dentro de cada estado, e ela é grande: em quase todas as UFs há, lado a lado, planos que cobrem grande parte das categorias e planos de uma coluna só. No conjunto, `r n_dez` candidatos citam 10 ou mais das 14 categorias, com um máximo de `r n_cat_max`, e `r n_uma` candidatos que mencionam o tema citam uma única categoria, `r n_uma_prev` deles apenas a prevenção e preparação, os planos "de uma nota só". A mediana é de `r med_cat` categorias por candidato. A coluna de prevenção e preparação é a mais preenchida (`r n_prev` dos `r nrow(d22)` candidatos), e a de `r col_vazia`, a mais vazia, o que repete, candidato a candidato, o que as figuras anteriores mostraram no agregado (`r ref("Figura", "f_fases")` e `r ref("Figura", "f_ameacas")`). Entre as UFs com quatro ou mais candidatos que mencionam o tema, a média de categorias citadas vai de `r round(min(uf_medio$m), 1)` (`r uf_medio[which.min(m), uf]`) a `r round(max(uf_medio$m), 1)` (`r uf_medio[which.max(m), uf]`).
 
 # Concretude: falar ou prometer {#sec-concretude}
 
