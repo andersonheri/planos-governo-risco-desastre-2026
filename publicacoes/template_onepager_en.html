@@ -13,18 +13,17 @@
       <div class="card ouro"><div class="n">{{N_META}}</div><div class="rot">tie action to a target, deadline or budget</div></div>
       <div class="card verde"><div class="n">{{N_PROM}}</div><div class="rot">promise an amount in reais for the topic</div></div>
     </div>
-    <div class="fig"><div class="tit-fig">The disaster that hits each state most, and how many candidates cite it</div><img src="../outputs/figures/15_mapa_descompasso_en.png"></div>
-    <div class="grid2" style="margin-top:4mm;grid-template-columns:1.05fr 1fr">
-      <div class="fig"><div class="tit-fig">How much each candidate addresses the topic</div><img src="../outputs/figures/01_perfil_nacional_op_en.png"></div>
-      <div class="card azul" style="font-size:9.6pt">
-        <h3 style="font-size:11pt">What the plans show</h3>
-        <ul class="b" style="margin:0">
-          <li><b>Mention without promise.</b> Only {{PE4}}% of passages carry action with a target, deadline, indicator or budget.</li>
-          <li><b>Before the disaster.</b> Prevention and preparedness in {{P_PREV}}% of candidates; response in {{P_RESP}}%; recovery in {{P_REC}}%.</li>
-          <li><b>Plans do not follow the disaster.</b> In Piauí, drought is {{PI_SHARE}}% of disaster records, yet only {{PI_CITA}}% of candidates cite it. Those who suffer most do not promise more (Spearman {{RHO}}).</li>
-        </ul>
-      </div>
+    <h3 style="margin:0 0 2.5mm 0">Six takeaways</h3>
+    <div class="tgrid">
+      <div class="topico"><span class="k">1</span><div><span class="t">Almost all talk, few promise</span><p>{{P_MENCAO}}% mention the topic, but only {{P_ACAO}}% have concrete action in most passages. Only {{PE4}}% of passages carry a target, deadline, indicator or budget.</p></div></div>
+      <div class="topico laranja"><span class="k">2</span><div><span class="t">Only {{N_PROM}} candidates put money behind the promise</span><p>Tarcísio (SP), R$ 25 billion by 2029; Carlos Machado (SP), R$ 1.5 billion; Ben Mendes (MG), R$ 300 to 520 million. The rest is past spending, criticism or another topic.</p></div></div>
+      <div class="topico verde"><span class="k">3</span><div><span class="t">Plans look at what comes before the disaster</span><p>Prevention and preparedness in {{P_PREV}}% of candidates; response in {{P_RESP}}%; recovery in {{P_REC}}%. Only {{N_CICLO}} cover the whole cycle.</p></div></div>
+      <div class="topico navy"><span class="k">4</span><div><span class="t">Plans do not follow the state's disaster</span><p>In Piauí, drought is {{PI_SHARE}}% of records, yet only {{PI_CITA}}% of candidates cite it. {{N_NC}} do not cite their own state's main disaster.</p></div></div>
+      <div class="topico ouro"><span class="k">5</span><div><span class="t">Those who suffer most do not promise more</span><p>The intensity of disasters in each state is unrelated to how concrete its plans are (Spearman correlation of {{RHO}}).</p></div></div>
+      <div class="topico"><span class="k">6</span><div><span class="t">Plan length matters more than ideology</span><p>The topic appears in {{P_ME_5MIL}}% of plans under 5,000 words and in {{P_ME_20MIL}}% of those over 20,000. Concreteness does not differ across political camps.</p></div></div>
     </div>
+    <div class="fig" style="margin-top:1.5mm"><div class="tit-fig">The disaster that hits each state most, and how many candidates cite it</div><div style="width:42%;margin:0 auto"><img src="../outputs/figures/15_mapa_descompasso_en.png"></div></div>
+    <div class="card azul" style="margin-top:3mm;font-size:9.6pt"><b>Questions to follow the campaign.</b> What are the target, deadline and budget for prevention? Does the plan address the disaster that hits the state most? Does the sentence say what will be done, or only what has been done?</div>
   </div>
   <div class="rodape"><span><b>Anderson Henrique</b> · CEM/USP (FAPESP) · Ipea · INCT QualiGov · UFPE</span><span>Government plans (TSE, data frozen {{DATA_COLETA}}) · Atlas Digital de Desastres (MIDR/S2iD) · Code: {{REPO_CURTO}}</span></div>
 </section>

@@ -29,6 +29,7 @@ cg <- function(g, v) campo[campo == g][[v]]
 
 V <- list(
   N = N, N_GOV = nrow(cand), N_DEF = cand[deferido == TRUE, .N], DATA_COLETA = format(DATA_CONGELAMENTO, "%d/%m/%Y"), ANO = format(Sys.Date(), "%Y"),
+  N_SO_CLIMA = sum(P$perfil_n == 2L), P_ADAPT = pf("adaptacao"), P_GENERICA = pa("generica"), P_ORGAO = pn("orgao"),
   N_MENCAO = sum(P$presenca), P_MENCAO = vir(100 * mean(P$presenca)), N_NADA = sum(P$perfil_n == 1L), N_MENCIONA = sum(P$perfil_n == 3L),
   N_ACAO = sum(P$perfil_n >= 4L), P_ACAO = vir(100 * mean(P$perfil_n >= 4L)), N_META = sum(P$perfil_n == 5L),
   N_CICLO = sum(P$ciclo_completo), P_CICLO = vir(100 * mean(P$ciclo_completo)),
