@@ -1,6 +1,5 @@
 ---
 title: "Risco e Desastre nos Planos de Governo dos Candidatos a Governador (2026)"
-subtitle: "Sumário executivo"
 lang: pt-BR
 fig-cap-location: top
 format:
@@ -24,19 +23,20 @@ execute:
 ```{=latex}
 \thispagestyle{empty}
 \begin{center}
-\vspace*{1cm}
-\large Anderson Henrique (CEM/USP)\footnote{Pesquisador de pós-doutorado no Centro de Estudos da Metrópole (CEM/USP), com apoio da Fapesp (Processo n. 202515250-0). Doutor em Ciência Política pela Universidade Federal de Pernambuco (UFPE, 2025). Pesquisador colaborador no Instituto de Pesquisa Econômica Aplicada (Ipea) e pesquisador no Instituto Nacional de Ciência e Tecnologia QualiGov (INCT QualiGov).}\\[6pt]
-28 de setembro de 2026
+\vspace*{1.5cm}
+\large Anderson Henrique (CEM/USP)\footnote{Pesquisador de pós-doutorado no Centro de Estudos da Metrópole (CEM/USP), com apoio da Fapesp (Processo n. 202515250-0). Doutor em Ciência Política pela Universidade Federal de Pernambuco (UFPE, 2025). Pesquisador colaborador no Instituto de Pesquisa Econômica Aplicada (Ipea) e pesquisador no Instituto Nacional de Ciência e Tecnologia QualiGov (INCT QualiGov).}
+
 \vfill
-{\small
-Centro de Estudos da Metrópole (CEM/USP)\\
-Instituto de Pesquisa Econômica Aplicada (Ipea)\\
-Instituto Nacional de Ciência e Tecnologia QualiGov (INCT QualiGov)
-\par}
+{\Huge\bfseries Sumário executivo}
 \vspace{1cm}
+
+\large 28 de setembro de 2026
+\vfill
 \end{center}
 \clearpage
 ```
+
+## Introdução
 
 Este relatório foi conduzido de forma independente pelo autor, com o objetivo de responder à seguinte pergunta de pesquisa: **o que os candidatos a governador dizem, e deixam de dizer, sobre risco e desastre em seus planos de governo?**
 
