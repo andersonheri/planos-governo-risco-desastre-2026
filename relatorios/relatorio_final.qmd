@@ -2,11 +2,11 @@
 title: "Risco e Desastre nos Planos de Governo dos Candidatos a Governador (2026)"
 subtitle: "Relatório descritivo · Planos registrados no TSE, com análise de conteúdo assistida por modelos de linguagem"
 author:
-  - name: "Anderson Henrique"
+  - name: "Anderson Henrique (CEM/USP e INCT QualiGov)"
     orcid: "0000-0002-1842-2725"
-    email: "andersonheri@gmail.com"
+    email: "anderson.henrique@usp.br"
     affiliations:
-      - name: "Centro de Estudos da Metrópole (CEM/USP), pós-doutorado com apoio da FAPESP"
+      - name: "Centro de Estudos da Metrópole (CEM/USP), pós-doutorando com apoio da FAPESP"
       - name: "Instituto de Pesquisa Econômica Aplicada (Ipea), pesquisador colaborador"
       - name: "INCT QualiGov"
 date: today
@@ -1079,9 +1079,9 @@ Quatro passos ampliariam a confiança e o alcance dos resultados: uma validaçã
 
 **Declaração sobre o uso de inteligência artificial.** Usamos inteligência artificial de duas formas, com funções e limites distintos.
 
-*Como instrumento de medida.* Dois modelos de linguagem de código aberto, executados localmente, no computador do autor, por meio do LM Studio, aplicaram o codebook às passagens dos planos, o `gpt-oss-20b` (OpenAI) e o `gemma-4-26b` (Google), com o pacote acR. O primeiro classificou todas as passagens e sustenta o cenário principal, e o segundo classificou a relevância de todas e as demais dimensões em uma amostra aleatória de 30% das relevantes. Na classificação, nenhum texto dos planos foi enviado a serviços externos. Os PDFs escaneados foram lidos com o Tesseract (OCR), que não é um modelo generativo. Os limites dessa medida, que é consistente entre modelos, mas não foi validada por codificação humana, estão descritos na seção @sec-conf e nas limitações.
+*Como instrumento de medida.* Dois modelos de linguagem de código aberto, executados localmente, no computador do autor, por meio do LM Studio, aplicaram o codebook às passagens dos planos, o `gpt-oss-20b` (OpenAI) e o `gemma-4-26b` (Google), com o pacote acR. O primeiro classificou todas as passagens e sustenta o cenário principal, e o segundo classificou a relevância de todas e as demais dimensões em uma amostra aleatória de 30% das relevantes. Na classificação, nenhum texto dos planos foi enviado a serviços externos. Os PDFs escaneados foram lidos com o Tesseract (OCR), que não é um modelo generativo. Os limites dessa medida, que é consistente entre modelos, mas não foi validada por codificação humana, estão descritos na @sec-conf e nas limitações.
 
-*Como assistente de trabalho.* O modelo Claude (Anthropic), usado por meio do Claude Code, apoiou a escrita e a depuração dos scripts em R, a montagem do documento em Quarto (tabelas, quadros, figuras e formatação), a busca de trechos nos dados para exemplificar as categorias e a redação de versões preliminares de parágrafos. Esse apoio não incluiu a análise dos planos nem a decisão sobre o que os números significam.
+*Como assistente de trabalho.* O modelo Claude Sonnet 5 (Anthropic), usado por meio do Claude Code, apoiou a escrita e a depuração dos scripts em R, a montagem do documento em Quarto (tabelas, quadros, figuras e formatação), a busca de trechos nos dados para exemplificar as categorias e a redação de versões preliminares de parágrafos, inclusive na incorporação de uma revisão externa ao texto e na elaboração deste sumário executivo. Esse apoio não incluiu a análise dos planos nem a decisão sobre o que os números significam.
 
 *O que ficou com o autor.* O julgamento e a autoria são do autor, que formulou a pergunta de pesquisa e o desenho do estudo, definiu o codebook, as regras de decisão e a fusão de categorias, classificou os partidos que não constam do artigo de referência, leu e revisou manualmente, uma a uma, as passagens de nível 4, escolheu os casos e os trechos citados, conferiu os números e as referências e responde pela interpretação e pelo texto final. As sugestões do assistente foram lidas, corrigidas ou recusadas nesse processo, e o uso de inteligência artificial não substitui a responsabilidade do autor pelo conteúdo.
 
