@@ -22,11 +22,20 @@ execute:
 ---
 
 ```{=latex}
+\thispagestyle{empty}
 \begin{center}
-\large Anderson Henrique (CEM/USP)\footnote{Doutor em Ciência Política pela Universidade Federal de Pernambuco (UFPE, 2025). Pesquisador de pós-doutorado no Centro de Estudos da Metrópole (CEM/USP), com apoio da Fapesp. Pesquisador colaborador no Instituto de Pesquisa Econômica Aplicada (Ipea) e pesquisador no Instituto Nacional de Ciência e Tecnologia QualiGov (INCT QualiGov).}\\[6pt]
+\vspace*{1cm}
+\large Anderson Henrique (CEM/USP)\footnote{Pesquisador de pós-doutorado no Centro de Estudos da Metrópole (CEM/USP), com apoio da Fapesp (Processo n. 202515250-0). Doutor em Ciência Política pela Universidade Federal de Pernambuco (UFPE, 2025). Pesquisador colaborador no Instituto de Pesquisa Econômica Aplicada (Ipea) e pesquisador no Instituto Nacional de Ciência e Tecnologia QualiGov (INCT QualiGov).}\\[6pt]
 28 de setembro de 2026
+\vfill
+{\small
+Centro de Estudos da Metrópole (CEM/USP)\\
+Instituto de Pesquisa Econômica Aplicada (Ipea)\\
+Instituto Nacional de Ciência e Tecnologia QualiGov (INCT QualiGov)
+\par}
+\vspace{1cm}
 \end{center}
-\bigskip
+\clearpage
 ```
 
 Este relatório foi conduzido de forma independente pelo autor, com o objetivo de responder à seguinte pergunta de pesquisa: **o que os candidatos a governador dizem, e deixam de dizer, sobre risco e desastre em seus planos de governo?**
@@ -174,3 +183,36 @@ UNITED NATIONS OFFICE FOR DISASTER RISK REDUCTION. *Disaster risk reduction term
 VALENCIO, N. et al. (org.). *Sociologia dos desastres*: construção, interfaces e perspectivas no Brasil. São Carlos: RiMa, 2009.
 
 WISNER, B.; BLAIKIE, P.; CANNON, T.; DAVIS, I. *At risk*: natural hazards, people's vulnerability and disasters. 2. ed. London: Routledge, 2004.
+
+```{=latex}
+\clearpage
+\thispagestyle{empty}
+\vspace*{1cm}
+\noindent\rule{\linewidth}{0.4pt}
+\vspace{0.6cm}
+
+\noindent\textbf{Sobre este relatório}
+
+\noindent Este sumário executivo apresenta os achados principais de um relatório descritivo sobre o que os 172 candidatos a governador nas eleições de 2026 dizem, e deixam de dizer, sobre risco e desastre em seus planos de governo. A classificação dos planos foi feita por dois modelos de linguagem de código aberto executados localmente, com o pacote acR, e não foi validada por codificação humana. O relatório completo traz a metodologia detalhada, os testes estatísticos, os casos individuais e a discussão das limitações.
+
+\vspace{0.6cm}
+\noindent\textbf{Como citar}
+
+\noindent HENRIQUE, A. \textit{Risco e desastre nos planos de governo dos candidatos a governador (2026)}. Relatório descritivo. 2026. Disponível em: \url{https://github.com/andersonheri/planos-governo-risco-desastre-2026}.
+
+\vspace{0.6cm}
+\noindent\textbf{Repositório aberto}
+
+\noindent Código, codebook e dados derivados em \url{https://github.com/andersonheri/planos-governo-risco-desastre-2026}.
+
+\vspace{0.6cm}
+\noindent\textbf{Contato}
+
+\noindent andersonheri@gmail.com \textperiodcentered{} ORCID 0000-0002-1842-2725
+
+\vfill
+\begin{center}
+{\small Centro de Estudos da Metrópole (CEM/USP) \textbullet{} Instituto de Pesquisa Econômica Aplicada (Ipea) \textbullet{} INCT QualiGov}
+\end{center}
+\vspace{1cm}
+```
