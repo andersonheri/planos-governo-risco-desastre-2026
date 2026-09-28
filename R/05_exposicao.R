@@ -83,7 +83,7 @@ fwrite(expo, file.path(DIR_TAB, "t13_exposicao_uf_tipo.csv"))
 # serie anual nacional por grupo de tipo
 A[, grupo := fcase(tipo == "hidro", "Enchente e alagamento", tipo == "seca", "Seca e estiagem", tipo == "fogo", "Queimadas e incêndios",
                    tipo == "movimento_massa", "Deslizamento e erosão", tipo == "tempestade", "Tempestades e vendavais",
-                   !is.na(tipo), "Outros (calor, costeira, barragem, tecnológico)", default = NA_character_)]
+                   !is.na(tipo), "Outros (calor, costeira e fluvial, barragem, tecnológico)", default = NA_character_)]
 fwrite(A[!is.na(grupo), .N, by = .(ano, grupo)][order(ano, grupo)], file.path(DIR_TAB, "t16_exposicao_anual.csv"))
 
 # ---- citacao nos planos --------------------------------------------------------------------

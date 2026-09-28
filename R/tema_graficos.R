@@ -22,7 +22,10 @@ NIVEIS_PERFIL <- c("Sem menção", "Só agenda climática geral", "Menciona risc
 COR_PERFIL <- setNames(c(COR$nada, "#eda100", "#9ec5f4", "#3987e5", "#0d366b"), NIVEIS_PERFIL)
 COR_REGIAO <- setNames(CAT[1:5], c("Norte", "Nordeste", "Centro-Oeste", "Sudeste", "Sul"))
 CAMPOS_ORDEM <- c("extrema-esquerda", "esquerda e centro-esquerda", "centro e centro-direita", "direita", "extrema-direita")
-COR_CAMPO  <- setNames(CAT[1:5], CAMPOS_ORDEM)   # neutras, sem carga partidaria
+# paleta ordinal (claro a escuro, mesma cor em todas as figuras por campo politico), nao categorica:
+# o campo politico e um espectro esquerda-direita, nao categorias sem ordem, e a rampa de azul unica
+# e acessivel a daltonicos (comentario C22 da revisao externa)
+COR_CAMPO  <- setNames(SEQ_AZUL[c(1, 3, 4, 5, 7)], CAMPOS_ORDEM)
 
 theme_risco <- function(base = 11) {
   theme_minimal(base_size = base, base_family = "sans") +

@@ -216,7 +216,7 @@ local({
 
 suppressPackageStartupMessages(library(acR))
 
-VERSAO_CODEBOOK <- "v0.8"
+VERSAO_CODEBOOK <- "v0.9"
 DIR_CB <- file.path(DIR_PROC, "codebooks"); dir.create(DIR_CB, showWarnings = FALSE)
 
 INSTR_BASE <- paste(
@@ -237,7 +237,8 @@ cb_relevancia <- ac_qual_codebook(
     "1) Se o trecho contiver QUALQUER destas expressoes ou ideias, mesmo de forma breve, em lista ou generica, classifique como relevante:",
     "risco(s) climatico(s); evento(s) extremo(s) ou climatico(s); adaptacao climatica; vulnerabilidade a eventos climaticos;",
     "Defesa Civil; desastre(s), calamidade, emergencia (de origem natural); enchente, inundacao, alagamento, cheia, seca, estiagem,",
-    "deslizamento, queimada, incendio florestal; area(s) de risco; risco de rompimento de barragem; gestao de riscos; alerta, sirene, contingencia.",
+    "deslizamento, queimada, incendio florestal; area(s) de risco; risco de rompimento de barragem; gestao de riscos DE DESASTRES (nao conta",
+    "gestao de riscos em outro sentido, como risco de corrupcao ou integridade); alerta, sirene, contingencia.",
     "2) Somente se NENHUMA dessas ideias aparecer e o trecho falar de mudanca climatica, emergencia climatica, transicao ecologica,",
     "economia verde ou resiliencia climatica de forma geral, classifique como clima_geral.",
     "3) Caso contrario, nao_relevante. Nao rebaixe um trecho de relevante para clima_geral por ele ser breve, generico ou sem acao concreta."),
@@ -323,17 +324,25 @@ cb_fase <- ac_qual_codebook(
     resposta = list(
       label = "Resposta",
       definition = paste("Acao DURANTE ou logo APOS o desastre: resgate, abrigos, ajuda humanitaria, mobilizacao de bombeiros",
-                         "e forcas de emergencia, assistencia imediata as vitimas."),
+                         "e forcas de emergencia, assistencia imediata as vitimas. Beneficio habitacional: moradia TEMPORARIA",
+                         "durante a emergencia (auxilio-moradia emergencial, abrigo) conta como resposta; aluguel social com",
+                         "horizonte de transicao para solucao definitiva e moradia definitiva NAO contam como resposta (ver recuperacao)."),
       examples_pos = c("Garantiremos abrigos e ajuda humanitaria imediata para desalojados.",
-                       "O Corpo de Bombeiros fara o resgate de vitimas em enchentes."),
-      examples_neg = c("Investiremos em prevencao para evitar enchentes.")),
+                       "O Corpo de Bombeiros fara o resgate de vitimas em enchentes.",
+                       "Resposta rapida e humanizada a familias atingidas por secas e enchentes, com auxilio-moradia emergencial e ajuda humanitaria."),
+      examples_neg = c("Investiremos em prevencao para evitar enchentes.",
+                       "Ofertaremos aluguel social as familias desabrigadas, com transicao rapida para a solucao definitiva.")),
     recuperacao = list(
       label = "Recuperacao e reconstrucao",
       definition = paste("Voltar a normalidade depois do desastre: reconstrucao de casas e infraestrutura, moradia definitiva,",
-                         "auxilio economico e retomada da atividade das vitimas."),
+                         "auxilio economico de medio prazo e retomada da atividade das vitimas. Beneficio habitacional: aluguel",
+                         "social com horizonte de transicao para solucao definitiva, moradia definitiva e reconstrucao de casas",
+                         "contam como recuperacao, mesmo quando o beneficio comeca ainda no periodo de emergencia."),
       examples_pos = c("Reconstruiremos escolas e pontes destruidas pelas chuvas.",
-                       "Daremos auxilio financeiro aos produtores atingidos pela estiagem para retomar a producao."),
-      examples_neg = c("Instalaremos sirenes para alertar a populacao.")),
+                       "Daremos auxilio financeiro aos produtores atingidos pela estiagem para retomar a producao.",
+                       "Ofertaremos aluguel social as familias desabrigadas, com transicao rapida para a solucao definitiva."),
+      examples_neg = c("Instalaremos sirenes para alertar a populacao.",
+                       "Garantiremos auxilio-moradia emergencial e ajuda humanitaria imediata a familias desalojadas.")),
     adaptacao = list(
       label = "Adaptacao climatica",
       definition = paste("Acoes que citam explicitamente a mudanca do clima ou eventos extremos como motivo para reduzir a",
@@ -376,8 +385,8 @@ cb_ameaca <- ac_qual_codebook(
                 examples_pos = c("Plano de contingencia para ondas de calor."), examples_neg = c("Ampliaremos a arborizacao urbana por qualidade de vida.")),
     tempestade = list(label = "Tempestades e vendavais", definition = "Tempestades, vendavais, granizo, ciclones, tornados.",
                 examples_pos = c("Apoio a familias atingidas por vendavais e granizo."), examples_neg = c("Melhoraremos a iluminacao publica.")),
-    costeira = list(label = "Erosao costeira e mar", definition = "Erosao da costa, avanco e elevacao do nivel do mar, ressacas.",
-                examples_pos = c("Contencao da erosao costeira e protecao da orla."), examples_neg = c("Promoveremos o turismo na orla.")),
+    costeira = list(label = "Erosao costeira e fluvial", definition = "Erosao da costa e de margens de rios, avanco e elevacao do nivel do mar, ressacas, obras de contencao e estabilizacao de margens.",
+                examples_pos = c("Contencao da erosao costeira e protecao da orla.", "Construir a contencao e urbanizacao da orla do calcadao as margens do rio, com infraestrutura de protecao e estabilizacao das margens."), examples_neg = c("Promoveremos o turismo na orla.")),
     barragem_mineracao = list(label = "Barragens e mineracao", definition = "Rompimento ou risco de barragens (mineracao, rejeitos) e desastres associados a mineracao.",
                 examples_pos = c("Fiscalizacao de barragens de rejeito para evitar rompimentos."), examples_neg = c("Construiremos barragens de agua para irrigacao.")),
     tecnologico = list(label = "Acidentes tecnologicos", definition = "Acidentes quimicos, radiologicos, industriais, vazamentos, produtos perigosos.",
@@ -473,9 +482,9 @@ local({
 })
 
 
-# ==== Parte 5. Documentacao legivel do codebook (codebook/codebook_v0.8.md) ==================================
+# ==== Parte 5. Documentacao legivel do codebook (codebook/codebook_v0.9.md) ==================================
 local({
-# gera codebook/codebook_v0.8.md, a documentacao legivel do codebook
+# gera codebook/codebook_v0.9.md, a documentacao legivel do codebook
 # (definicoes e exemplos reais vem de config/codebook_exemplos.csv; as regras de decisao sao as dos prompts em
 # R/02_janelas_e_codebook.R, parte 3). Rodar depois de alterar o codebook ou os exemplos.
 
@@ -488,16 +497,16 @@ quadro <- function(dim) {
     sprintf("| %s | %s | “%s” (%s) |", d$categoria, d$definicao, gsub("\\|", "/", d$exemplo), d$fonte))
 }
 md <- c(
-  "# Codebook v0.8: risco e desastre nos planos de governo (governadores, 2026)", "",
+  "# Codebook v0.9: risco e desastre nos planos de governo (governadores, 2026)", "",
   "**Unidade de análise:** *janela* (frase que contém um termo do dicionário, mais a frase anterior e a seguinte). A frase que contém o termo é a *frase focal* e vem marcada com » « no texto enviado aos modelos.",
   "**Definição-base:** risco e desastre são eventos naturais, climáticos ou tecnológicos, ou a probabilidade de ocorrerem, que causam danos a pessoas, bens ou ao ambiente (conceito da Defesa Civil, Lei 12.608/2012). Ficam de fora mitigação de emissões pura, emergências de saúde pública, violência e segurança pública, risco fiscal e \"meio ambiente\" genérico sem ligação a risco.",
   "**Recorte:** candidatos a governador com candidatura deferida e plano registrado. Coleta congelada em 23/09/2026.",
-  "**Classificadores:** `gpt-oss-20b` (todas as janelas) e `gemma-4-26b` (relevância em todas; demais dimensões em 30% das relevantes), executados localmente pelo pacote `acR` (`ac_qual_codebook()` e `ac_qual_code()`).", "",
+  "**Classificadores:** `gpt-oss-20b` (todas as janelas) e `gemma-4-26b` (relevância em todas; demais dimensões em amostra aleatória de 30% das relevantes), executados localmente pelo pacote `acR` (`ac_qual_codebook()` e `ac_qual_code()`).", "",
   "## 1. Relevância (uma categoria)", "",
-  "Regra de decisão, em ordem: (1) qualquer menção a risco climático, evento extremo, adaptação climática, vulnerabilidade a eventos climáticos, Defesa Civil, desastre, calamidade ou emergência de origem natural, enchente, inundação, alagamento, cheia, seca, estiagem, deslizamento, queimada, incêndio florestal, área de risco, risco de rompimento de barragem, gestão de riscos, alerta, sirene ou contingência torna a janela *relevante*, mesmo que breve, em lista ou genérica; (2) só se nenhuma dessas ideias aparecer e o trecho falar de mudança ou emergência climática, transição ecológica, economia verde ou resiliência climática de forma geral, é *agenda climática geral*; (3) caso contrário, *não relevante*.", "",
+  "Regra de decisão, em ordem: (1) qualquer menção a risco climático, evento extremo, adaptação climática, vulnerabilidade a eventos climáticos, Defesa Civil, desastre, calamidade ou emergência de origem natural, enchente, inundação, alagamento, cheia, seca, estiagem, deslizamento, queimada, incêndio florestal, área de risco, risco de rompimento de barragem, gestão de riscos de desastres (não conta gestão de riscos em outro sentido, como risco de corrupção ou integridade), alerta, sirene ou contingência torna a janela *relevante*, mesmo que breve, em lista ou genérica; (2) só se nenhuma dessas ideias aparecer e o trecho falar de mudança ou emergência climática, transição ecológica, economia verde ou resiliência climática de forma geral, é *agenda climática geral*; (3) caso contrário, *não relevante*.", "",
   quadro("Relevância"), "",
   "## 2. Fase do ciclo de gestão de risco (várias categorias)", "",
-  "Marcam-se todas as fases sustentadas pelo texto, sem inventar fases ausentes. Prevenção e preparação formam uma só categoria. A adaptação só vale com menção explícita à mudança do clima ou à vulnerabilidade a eventos climáticos.", "",
+  "Marcam-se todas as fases sustentadas pelo texto, sem inventar fases ausentes. Prevenção e preparação formam uma só categoria. A adaptação só vale com menção explícita à mudança do clima ou à vulnerabilidade a eventos climáticos. Benefício habitacional: moradia temporária durante a emergência conta como resposta; aluguel social com horizonte de transição para solução definitiva, moradia definitiva e reconstrução contam como recuperação, mesmo quando o benefício começa ainda na emergência.", "",
   quadro("Fase do ciclo"), "",
   "## 3. Tipo de ameaça (várias categorias)", "",
   "Só vale a citação explícita. \"Desastres em geral\" só se marca quando nenhum tipo específico é citado, e mudança climática sem evento não é ameaça.", "",
@@ -506,11 +515,11 @@ md <- c(
   "Julga-se apenas o que a frase focal propõe ou afirma sobre risco e desastre. Ações, metas, prazos e valores de outros temas são ignorados, e meta, prazo, indicador ou orçamento só contam para o nível 4 se disserem respeito à própria ação de risco. Na dúvida entre dois níveis, escolhe-se o menor. As passagens de nível 4 foram lidas uma a uma (`config/revisao_manual.csv`).", "",
   quadro("Especificidade"), "",
   "## 5. Ancoragem (detecção por regras textuais na frase focal, sem modelo)", "",
-  "As expressões regulares estão em `R/dicionario.R` (`REGRAS_ANC`).", "",
+  "As expressões regulares estão em `R/dicionario.R` (`REGRAS_ANC`). Não há validação (precisão/revocação) dessas regras contra classificação por modelo ou leitura manual; ver limitações no relatório.", "",
   quadro("Ancoragem (regras)"), "",
   "## Indicadores derivados por candidato", "",
-  "1. **Presença** do tema (ao menos uma janela relevante). 2. **Densidade** (janelas relevantes por mil palavras). 3. **Ciclo completo** (prevenção e preparação, resposta e recuperação). 4. **Tipos de ameaça** citados. 5. **Perfil em cinco degraus**, com \"ação concreta\" definida como metade ou mais das passagens com nível 3 ou 4. 6. **Ancoragem** (órgão, orçamento, meta, prazo, indicador).", "",
-  "Todo indicador é apresentado junto do tamanho do plano; planos com menos de 2.000 palavras recebem alerta.")
-writeLines(md, here::here("codebook", "codebook_v0.8.md"), useBytes = TRUE)
-cat("codebook/codebook_v0.8.md gerado (", length(md), "linhas )\n")
+  "1. **Presença** do tema (ao menos uma janela relevante). 2. **Densidade** (janelas relevantes por mil palavras). 3. **Ciclo completo** (prevenção e preparação, resposta e recuperação). 4. **Tipos de ameaça** citados. 5. **Perfil em cinco degraus**, com \"ação concreta\" definida como metade ou mais das passagens com nível 3 ou 4 (instável para candidatos com uma ou duas passagens relevantes). 6. **Ancoragem** (órgão, orçamento, meta, prazo, indicador).", "",
+  "Todo indicador é apresentado junto do tamanho do plano; planos com menos de 2.000 palavras recebem alerta. O limiar de 2.000 palavras é uma convenção testada por sensibilidade em 1.000 e 3.000 palavras (ver relatório).")
+writeLines(md, here::here("codebook", "codebook_v0.9.md"), useBytes = TRUE)
+cat("codebook/codebook_v0.9.md gerado (", length(md), "linhas )\n")
 })

@@ -29,7 +29,7 @@ ROT <- c(prevencao_preparacao = "Prevenção e preparação", resposta = "Respos
          adaptacao = "Adaptação climática",
          hidro = "Enchente, inundação, alagamento", movimento_massa = "Deslizamento", seca = "Seca e estiagem",
          fogo = "Queimadas e incêndios", calor_extremo = "Calor extremo", tempestade = "Tempestades",
-         costeira = "Erosão costeira", barragem_mineracao = "Barragens e mineração", tecnologico = "Acidentes tecnológicos",
+         costeira = "Erosão costeira e fluvial", barragem_mineracao = "Barragens e mineração", tecnologico = "Acidentes tecnológicos",
          generica = "Desastres em geral (sem tipo)")
 pct <- function(x) paste0(format(round(x, 1), decimal.mark = ","), "%")
 
@@ -145,15 +145,23 @@ if (file.exists(file.path(DIR_TAB, "concordancia_modelos.csv"))) {
 }
 
 # ---- F11 mapa por UF (opcional; baixa malhas do IPEA via geobr) ---------------------------
+# Dois mapas lado a lado: presenca do tema (mencao) e acao concreta predominante,
+# para nao confundir as duas variaveis (comentario C17 da revisao externa).
 if (Sys.getenv("MAPA") == "1") {
-  suppressPackageStartupMessages({library(geobr); library(sf)})
+  suppressPackageStartupMessages({library(geobr); library(sf); library(patchwork)})
   uf <- read_state(year = 2020, simplified = TRUE, showProgress = FALSE)
-  m <- P[, .(pct_mencao = 100 * mean(presenca), pct_acao = 100 * mean(perfil_n >= 4L)), by = SG_UF]
+  m <- P[, .(pct_mencao = 100 * mean(presenca), pct_acao = 100 * mean(perfil_n >= 4L), n = .N), by = SG_UF]
   g <- merge(uf, m, by.x = "abbrev_state", by.y = "SG_UF")
-  p <- ggplot(g) + geom_sf(aes(fill = pct_acao), colour = COR$surface, linewidth = 0.3) +
-    scale_fill_gradientn(colours = SEQ_AZUL, name = "% de candidatos", limits = c(0, 100), labels = function(x) paste0(x, "%")) +
-    theme_void(base_size = 15) + theme(plot.background = element_rect(fill = COR$surface, colour = NA), legend.position = "right")
-  salvar_fig(p, "11_mapa_uf.png", h = 4.6)
+  mapa1 <- function(var, titulo) {
+    ggplot(g) + geom_sf(aes(fill = get(var)), colour = COR$surface, linewidth = 0.3) +
+      scale_fill_gradientn(colours = SEQ_AZUL, name = "% de candidatos", limits = c(0, 100), labels = function(x) paste0(x, "%")) +
+      labs(title = titulo) +
+      theme_void(base_size = 14) + theme(plot.background = element_rect(fill = COR$surface, colour = NA), legend.position = "right",
+                                          plot.title = element_text(hjust = 0.5, size = 13))
+  }
+  p <- mapa1("pct_mencao", "Presença do tema") + mapa1("pct_acao", "Ação concreta predominante") +
+    plot_layout(guides = "collect") & theme(legend.position = "right")
+  salvar_fig(p, "11_mapa_uf.png", h = 4.6, w = 9.5)
 }
 cat("Figuras em", DIR_FIG, ":\n"); print(list.files(DIR_FIG))
 })
@@ -171,7 +179,7 @@ tab <- function(n) fread(file.path(DIR_TAB, n), encoding = "UTF-8")
 ex  <- tab("t13_exposicao_uf_tipo.csv"); ci <- tab("t14_citacao_uf_tipo.csv")
 al  <- tab("t15_alinhamento_uf.csv"); an <- tab("t16_exposicao_anual.csv")
 ROT_T <- c(hidro = "Enchente e alagamento", movimento_massa = "Deslizamento e erosão", seca = "Seca e estiagem", fogo = "Queimadas e incêndios",
-           calor_extremo = "Calor extremo", tempestade = "Tempestades", costeira = "Erosão costeira", barragem_mineracao = "Barragens e mineração",
+           calor_extremo = "Calor extremo", tempestade = "Tempestades", costeira = "Erosão costeira e fluvial", barragem_mineracao = "Barragens e mineração",
            tecnologico = "Acidentes tecnológicos")
 ORD_T <- c("hidro", "seca", "fogo", "movimento_massa", "tempestade", "calor_extremo", "costeira", "barragem_mineracao", "tecnologico")
 
@@ -214,11 +222,11 @@ salvar_fig(p, "13_cita_principal_desastre.png", w = 9, h = 10)
 
 # ---- F14 registros por ano: um painel por tipo, anos lado a lado (sem empilhar) ---------------------
 an[, grupo := factor(grupo, levels = c("Seca e estiagem", "Enchente e alagamento", "Queimadas e incêndios", "Tempestades e vendavais",
-                                        "Deslizamento e erosão", "Outros (calor, costeira, barragem, tecnológico)"))]
+                                        "Deslizamento e erosão", "Outros (calor, costeira e fluvial, barragem, tecnológico)"))]
 cores <- setNames(c(COR$s2, COR$s1, COR$s3, COR$s4, COR$s7, COR$muted), levels(an$grupo))
 p <- ggplot(an, aes(x = factor(ano), y = N, fill = grupo)) +
   geom_col(width = 0.75) +
-  facet_wrap(~ grupo, ncol = 2, scales = "free_y", labeller = labeller(grupo = function(x) ifelse(grepl("^Outros", x), "Outros tipos", x))) +
+  facet_wrap(~ grupo, ncol = 2, scales = "fixed", labeller = labeller(grupo = function(x) ifelse(grepl("^Outros", x), "Outros tipos", x))) +
   scale_fill_manual(values = cores, guide = "none") +
   scale_x_discrete(breaks = c("2013", "2016", "2019", "2022", "2025")) +
   scale_y_continuous(expand = expansion(mult = c(0, 0.16)), labels = function(x) format(x, big.mark = ".", decimal.mark = ",")) +
@@ -330,9 +338,9 @@ jc   <- tab("janelas_classificadas.csv")
 al   <- tab("t15_alinhamento_uf.csv")
 jw   <- fread(file.path(DIR_PROC, "janelas.csv"), encoding = "UTF-8", colClasses = c(SQ_CANDIDATO = "character"))
 
-ROT_T <- c(hidro = "Enchente e alagamento", seca = "Seca e estiagem", fogo = "Queimadas e incêndios", movimento_massa = "Deslizamento",
-           tempestade = "Tempestades", calor_extremo = "Calor extremo", costeira = "Erosão costeira", barragem_mineracao = "Barragens e mineração",
-           tecnologico = "Acidentes tecnológicos", generica = "Desastres em geral")
+ROT_T <- c(generica = "Desastres em geral", hidro = "Enchente e alagamento", seca = "Seca e estiagem", fogo = "Queimadas e incêndios", movimento_massa = "Deslizamento",
+           tempestade = "Tempestades", calor_extremo = "Calor extremo", costeira = "Erosão costeira e fluvial", barragem_mineracao = "Barragens e mineração",
+           tecnologico = "Acidentes tecnológicos")
 ROT_F <- c(prevencao_preparacao = "Prevenção e preparação", resposta = "Resposta", recuperacao = "Recuperação", adaptacao = "Adaptação climática")
 
 rel <- jc[rel_a == "relevante"]
@@ -353,7 +361,10 @@ fwrite(nc, file.path(DIR_TAB, "t21_nao_citam_principal.csv"))
 cat("Nao citam o principal do estado:", nrow(nc), "de", cand[!is.na(tipo_principal), .N], "\n")
 
 # ---- impressao digital: candidatos x fases e tipos ----------------------------------------------------------------
-d <- cand[passagens > 0][order(uf, candidato)]
+# ordem por regiao e, dentro dela, UF e candidato em ordem alfabetica (comentario C16 da revisao externa)
+d <- cand[passagens > 0]
+d[, regiao := factor(REGIAO_UF[uf], levels = c("Norte", "Nordeste", "Centro-Oeste", "Sudeste", "Sul"))]
+d <- d[order(regiao, uf, candidato)]
 fwrite(d[, c("uf", "candidato", "partido", "campo", "passagens", "n_cat", names(ROT_F), names(ROT_T)), with = FALSE], file.path(DIR_TAB, "t22_impressao_digital.csv"))
 long <- melt(d, id.vars = c("SQ_CANDIDATO", "candidato", "uf", "n_cat"), measure.vars = c(names(ROT_F), names(ROT_T)), variable.name = "cat", value.name = "cita")
 long[, grupo := fifelse(cat %in% names(ROT_F), "Fases do ciclo", "Tipos de desastre")]
@@ -365,7 +376,7 @@ mapa_digital <- function(cands, arquivo) {
   l <- long[SQ_CANDIDATO %in% cands]
   l[, rot_cand := droplevels(rot_cand)]
   p <- ggplot(l, aes(x = rot_cat, y = rot_cand, fill = cel)) + geom_tile(colour = COR$surface, linewidth = 0.3) +
-    scale_fill_manual(values = c(não = "#ecebe5", fase = COR$s1, tipo = COR$s3), guide = "none") +
+    scale_fill_manual(values = c(não = COR$nada, fase = COR$s1, tipo = COR$s3), guide = "none") +
     scale_x_discrete(position = "top", guide = guide_axis(angle = 45)) + labs(x = NULL, y = NULL) +
     theme_risco(13) + theme(panel.grid = element_blank(), axis.line = element_blank(), axis.text.y = element_text(size = 12),
                             axis.text.x = element_text(size = 13, hjust = 0), plot.margin = margin(8, 100, 5, 5))
@@ -396,7 +407,8 @@ res[, termo := factor(termo, levels = tot[order(pct_total), termo])]
 res[, campo := factor(campo, levels = c("extrema-esquerda", "esquerda e centro-esquerda", "direita", "extrema-direita"),
                       labels = c("Extrema-esquerda", "Esquerda e centro-esquerda", "Direita", "Extrema-direita"))]
 p <- ggplot(res, aes(x = pct, y = termo, fill = campo)) + geom_col(position = position_dodge(width = 0.8), width = 0.75) +
-  scale_fill_manual(values = c(COR$s1, COR$s4, COR$s7, COR$s3), name = NULL) + guides(fill = guide_legend(nrow = 2, reverse = TRUE)) +
+  scale_fill_manual(values = setNames(COR_CAMPO[c("extrema-esquerda", "esquerda e centro-esquerda", "direita", "extrema-direita")], levels(res$campo)), name = NULL) +
+  guides(fill = guide_legend(nrow = 2, reverse = TRUE)) +
   scale_x_continuous(labels = function(x) paste0(x, "%"), expand = expansion(mult = c(0, 0.05))) +
   labs(x = "% das passagens do campo que trazem a expressão", y = NULL) + theme_risco_h(15)
 salvar_fig(p, "17_termos_por_campo.png", w = 9, h = 9)

@@ -67,7 +67,7 @@ Candidatos_gov/
 │   ├── dicionario.R                # dicionário de termos de risco e desastre e regras de ancoragem (ajudante)
 │   └── tema_graficos.R             # tema e paletas dos gráficos (ajudante)
 ├── codebook/
-│   └── codebook_v0.8.md            # documentação legível do codebook (definições e exemplos reais; gerado pelo script 02)
+│   └── codebook_v0.9.md            # documentação legível do codebook (definições e exemplos reais; gerado pelo script 02)
 ├── config/
 │   ├── partidos_campos.csv         # classificação dos partidos (Bolognesi et al., 2023, e do autor)
 │   ├── municipios_por_uf.csv       # número de municípios por UF
