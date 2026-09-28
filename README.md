@@ -33,7 +33,7 @@ Relatório descritivo e público sobre **o que os candidatos a governador dizem,
 
 ## Para ler rápido
 
-- [Sumário executivo (6 páginas, PDF)](publicacoes/sumario_executivo_pt.pdf)
+- [Sumário executivo (PDF)](publicacoes/sumario_executivo_narrativo.pdf)
 - [One-page em português (PDF)](publicacoes/one_page_pt.pdf) · [One-page in English (PDF)](publicacoes/one_page_en.pdf)
 
 ## Método em uma página
@@ -82,10 +82,11 @@ Candidatos_gov/
 │   ├── tables/                     # tabelas finais e rótulos consolidados (versionados, pequenos)
 │   └── figures/                    # figuras em PNG usadas no relatório (versionadas)
 ├── publicacoes/
-│   ├── sumario_executivo_pt.pdf    # sumário executivo de 6 páginas
+│   ├── sumario_executivo_narrativo.qmd  # sumário executivo (fonte, renderizado via Quarto)
+│   ├── sumario_executivo_narrativo.pdf  # sumário executivo (PDF)
 │   ├── one_page_pt.pdf             # one-page em português
 │   ├── one_page_en.pdf             # one-page em inglês
-│   └── template_*.html, estilo_pub.css   # templates e estilo (HTML para PDF)
+│   └── template_*.html, estilo_pub.css   # templates e estilo dos one-pages (HTML para PDF)
 └── relatorios/
     ├── relatorio_final.qmd         # relatório em Quarto (HTML e PDF)
     ├── estilo.css                  # estilo do HTML (título em cima, fonte embaixo, tabelas com linhas)

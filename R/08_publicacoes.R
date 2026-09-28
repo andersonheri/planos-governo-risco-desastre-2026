@@ -1,6 +1,7 @@
-# 08_publicacoes.R -- sumario executivo (6 paginas) e one-page (PT e EN) em HTML + PDF.
+# 08_publicacoes.R -- one-page (PT e EN) em HTML + PDF.
 # Preenche os templates de publicacoes/ com os numeros das tabelas e converte para PDF com o Edge (headless).
-# Saidas: publicacoes/sumario_executivo_pt.pdf, one_page_pt.pdf, one_page_en.pdf (+ HTML) e figuras *_en.png.
+# O sumario executivo (publicacoes/sumario_executivo_narrativo.qmd) e renderizado a parte, via Quarto.
+# Saidas: publicacoes/one_page_pt.pdf, one_page_en.pdf (+ HTML) e figuras *_en.png.
 
 source(here::here("R", "00_setup.R"))
 source(here::here("R", "tema_graficos.R"))
@@ -128,7 +129,6 @@ pdf_de <- function(html, pdf) {
   url <- paste0("file:///", gsub(" ", "%20", normalizePath(file.path(DIR_PUB, html), winslash = "/")))
   system2(EDGE, c("--headless=new", "--disable-gpu", "--no-pdf-header-footer", paste0("--print-to-pdf=", shQuote(normalizePath(file.path(DIR_PUB, pdf), winslash = "/", mustWork = FALSE))), shQuote(url)), stdout = FALSE, stderr = FALSE)
 }
-preenche("template_sumario_pt.html", "sumario_executivo_pt.html"); pdf_de("sumario_executivo_pt.html", "sumario_executivo_pt.pdf")
 preenche("template_onepager_pt.html", "one_page_pt.html");         pdf_de("one_page_pt.html", "one_page_pt.pdf")
 V_en <- lapply(V, function(v) if (is.character(v)) sub("^(-?[0-9]+),([0-9]+)$", "\\1.\\2", v) else v)
 preenche("template_onepager_en.html", "one_page_en.html", V_en);         pdf_de("one_page_en.html", "one_page_en.pdf")
