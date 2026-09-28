@@ -34,7 +34,6 @@ Relatório descritivo e público sobre **o que os candidatos a governador dizem,
 ## Para ler rápido
 
 - [Sumário executivo (PDF)](publicacoes/sumario_executivo_narrativo.pdf)
-- [One-page em português (PDF)](publicacoes/one_page_pt.pdf) · [One-page in English (PDF)](publicacoes/one_page_en.pdf)
 
 ## Método em uma página
 
@@ -63,7 +62,6 @@ Candidatos_gov/
 │   ├── 05_exposicao.R              # exposição histórica a desastres por UF (Atlas/S2iD) x tipos citados
 │   ├── 06_quem_fala.R              # destaques, verbos no passado e anexo dos 172 candidatos
 │   ├── 07_figuras.R                # todas as figuras: perfil, exposição, mapas, impressão digital, termos por campo
-│   ├── 08_publicacoes.R            # sumário executivo e one-page (PT e EN) a partir dos templates de publicacoes/
 │   ├── dicionario.R                # dicionário de termos de risco e desastre e regras de ancoragem (ajudante)
 │   └── tema_graficos.R             # tema e paletas dos gráficos (ajudante)
 ├── codebook/
@@ -83,10 +81,7 @@ Candidatos_gov/
 │   └── figures/                    # figuras em PNG usadas no relatório (versionadas)
 ├── publicacoes/
 │   ├── sumario_executivo_narrativo.qmd  # sumário executivo (fonte, renderizado via Quarto)
-│   ├── sumario_executivo_narrativo.pdf  # sumário executivo (PDF)
-│   ├── one_page_pt.pdf             # one-page em português
-│   ├── one_page_en.pdf             # one-page em inglês
-│   └── template_*.html, estilo_pub.css   # templates e estilo dos one-pages (HTML para PDF)
+│   └── sumario_executivo_narrativo.pdf  # sumário executivo (PDF)
 └── relatorios/
     ├── relatorio_final.qmd         # relatório em Quarto (HTML e PDF)
     ├── estilo.css                  # estilo do HTML (título em cima, fonte embaixo, tabelas com linhas)
@@ -106,7 +101,8 @@ install.packages("acR")   # disponível no CRAN (versão de desenvolvimento: rem
 ```
 
 - **Só o relatório** (usa os arquivos já incluídos em `outputs/` e `data/processed/`): `quarto render relatorios/relatorio_final.qmd` (ou `relatorios/renderizar.bat`, no Windows).
-- **Pipeline leve** (sem coleta nem LLM): abrir o `.Rproj` e rodar `source("run_all.R")`, que refaz consolidação, análises, exposição, figuras, sumário e one-pages.
+- **Sumário executivo:** `quarto render publicacoes/sumario_executivo_narrativo.qmd`.
+- **Pipeline leve** (sem coleta nem LLM): abrir o `.Rproj` e rodar `source("run_all.R")`, que refaz consolidação, análises, exposição e figuras.
 - **Pipeline completo:** ligue as etapas pesadas por variável de ambiente antes de rodar `run_all.R`, por exemplo `Sys.setenv(RODAR_COLETA = "1", RODAR_DOWNLOAD = "1", RODAR_LLM = "1", RENDERIZAR = "1")`. O download baixa cerca de 400 MB (TSE e Atlas Digital de Desastres), e a classificação exige o LM Studio em `localhost:1234` e leva horas. Cada arquivo baixado tem `sha256` registrado no manifesto da coleta.
 
 ## Limitações que importam

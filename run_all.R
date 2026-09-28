@@ -17,8 +17,7 @@ passos <- c(
   "04_consolidar_analises.R",   # rotulos, concordancia entre modelos, base analitica e tabelas
   "05_exposicao.R",             # exposicao a desastres (Atlas/S2iD) x tipos citados
   "06_quem_fala.R",             # destaques, verbos no passado, anexo dos candidatos
-  "07_figuras.R",               # todas as figuras (o mapa por UF exige MAPA=1)
-  "08_publicacoes.R")           # sumario executivo e one-pages (PDF, via Edge)
+  "07_figuras.R")                # todas as figuras (o mapa por UF exige MAPA=1)
 
 for (p in passos) {
   cat("\n=== ", p, " ===\n", sep = "")
