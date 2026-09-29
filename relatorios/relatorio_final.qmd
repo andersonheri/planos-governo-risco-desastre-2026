@@ -246,7 +246,7 @@ Portal de Dados Abertos do TSE (conjunto "Candidatos 2026": cadastro, informaç�
 <https://github.com/andersonheri/planos-governo-risco-desastre-2026>
 
 **Agradecimentos**\
-A Cristiane Cappuccino (Programa de Pós-Graduação em Ciência Política, USP), pelos comentários atenciosos a uma versão anterior deste relatório, que corrigiram problemas de validade da medida e de leitura dos resultados. Os erros que restam são do autor.
+A Cristiane Capuchinho (Programa de Pós-Graduação em Ciência Política, USP), pelos comentários atenciosos a uma versão anterior deste relatório, que corrigiram problemas de validade da medida e de leitura dos resultados. Os erros que restam são do autor.
 
 **Como citar**\
 HENRIQUE, A. *Risco e desastre nos planos de governo dos candidatos a governador (2026)*. Relatório descritivo. `r format(Sys.Date(), "%Y")`. Disponível em: <https://github.com/andersonheri/planos-governo-risco-desastre-2026>.

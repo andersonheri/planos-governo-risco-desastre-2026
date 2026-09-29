@@ -1,6 +1,6 @@
 # Codebook v0.9: risco e desastre nos planos de governo (governadores, 2026)
 
-**Alterações desde a v0.8** (revisão externa de Cris Cappuccino, CEM, e checagens adicionais em dados; a base já classificada não foi reprocessada com estas mudanças, ver limitações no relatório):
+**Alterações desde a v0.8** (revisão externa de Cristiane Capuchinho, CEM, e checagens adicionais em dados; a base já classificada não foi reprocessada com estas mudanças, ver limitações no relatório):
 
 1. **Relevância** — a regra de decisão qualifica "gestão de riscos" como "gestão de riscos *de desastres*", para não colidir com o sentido de gestão de riscos fiscais, de corrupção ou corporativos, comum nos planos (item C10/A1 da revisão).
 2. **Fase do ciclo** — as definições de *resposta* e *recuperação e reconstrução* trazem agora uma regra explícita para benefício habitacional: moradia temporária durante a emergência conta como resposta; aluguel social com horizonte de transição, moradia definitiva e reconstrução contam como recuperação, mesmo quando o benefício começa ainda na emergência (item C07).
