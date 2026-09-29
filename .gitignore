@@ -25,5 +25,3 @@ relatorios/*_files/
 *.knit.md
 
 /.quarto/
-relatorios/*.html
-relatorios/*.pdf
