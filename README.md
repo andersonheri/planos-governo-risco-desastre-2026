@@ -75,7 +75,7 @@ Candidatos_gov/
 │   └── valores_reais.csv           # valores em reais nas passagens de risco, classificados (promessa, balanço, dano...)
 ├── data/
 │   ├── raw/                        # dados brutos do TSE e do Atlas (NÃO versionado; baixar com o script 01)
-│   └── processed/                  # arquivos pequenos necessários ao relatório (o resto NÃO versionado)
+│   └── processed/                  # dados tratados (texto de cada plano em texto/*.txt, trechos.csv, janelas.csv, índices); o resto NÃO versionado
 ├── outputs/
 │   ├── tables/                     # tabelas finais e rótulos consolidados (versionados, pequenos)
 │   └── figures/                    # figuras em PNG usadas no relatório (versionadas)

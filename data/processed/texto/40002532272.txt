@@ -1,0 +1,3131 @@
+ MAPA 1 – MACRORREGIÕES E CALHAS DE RIOS: REGIONALIZAÇÃO DA SAÚDE
+Fonte: Resolução CIB/AM NÚMERO 118 DE 18 DE JUNHO DE 2018
+278
+
+LEGENDA
+MACRORREGIÃO
+CENTRAL (25) LESTE (16) OESTE (21)
+
+São Gabriel da Cachoeira
+
+Sede do Município Sede Polo Limite dos Municípios Hidrograa Rodovias Estaduais Rodovias Federais
+Atalaia do Norte
+
+Japurá
+
+Santo Antônio do Içá
+
+Tonantins Amaturá
+
+Tabatinga São Paulo de Olivença Jutaí
+Benjamin Constant
+
+Carauari
+
+Guajará
+
+Ipixuna
+
+Eirunepé Envira
+
+MACROREGIÃO OESTE
+3 Regiões de Saúde:
+Juruá, Triângulo e Alto Solimões. (21 municípios)
+
+Itamarati Pauini
+Boca do Acre
+
+Santa Isabel do Rio Negro
+
+Barcelos
+
+Maraã Fonte Boa
+Uarini Tefé
+Juruá Alvarães
+Coari
+
+Codajás
+
+MACROREGIÃO CENTRAL
+3 Regiões de Saúde:
+Manaus Entorno, Alto Rio Negro, Rio Negro e Solimões e Purus. (25 municípios)
+
+Urucará
+
+Presidente Figueiredo
+
+Novo Airão
+
+São Sebastião do Uatumã Nhamundá
+Rio Preto da Eva Itapiranga Urucurituba
+
+Parintins
+
+Caapiranga Iranduba Manaus Silves Boa Vista
+
+Careiro
+
+do Ramos
+
+Anamã Manacapuru da Várzea Itacoatiara
+
+Barreirinha
+
+Manaquiri Careiro
+
+Nova Olinda
+
+Anori
+
+Autazes
+
+do Norte
+
+Beruri
+
+Borba
+
+Maués
+
+Tapauá
+
+Manicoré
+
+Novo Aripuanã
+
+Lábrea
+
+Canutama
+
+Humaitá
+
+Escala: 1:11.000.000
+
+MACROREGIÃO
+
+Apuí
+
+LESTE
+
+3 Regiões de Saúde:
+
+Rio Madeira, Médio Amazonas e Baixo Amazonas. (16 municípios)
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Parte 02. Plano estratégico de desenvolvimento
+
+O diagnóstico que sustenta esta proposta parte de uma realidade confirmada pelos dados e vivida diariamente por 3,37 milhões de usuários exclusivos do SUS no Amazonas: mesmo investindo acima da média nacional, o sistema ainda não consegue garantir acesso equânime, atendimento resolutivo e qualidade em todo o território. Nas próximas páginas, com fontes rastreáveis e valores verificáveis, serão expostas as dimensões dessa lacuna — orçamentária, assistencial, regulatória e de recursos humanos —, assim como os caminhos técnicos capazes de transformar esse quadro.
+Conforme já destacado na abertura deste documento, o planejamento das ações para a saúde do Amazonas baseia-se em diagnóstico construído a partir do cruzamento de bases oficiais, como DATASUS, SISREG, CNES, IBGE, Relatório Detalhado do Quadrimestre Anterior (RDQA), SES-AM e e-SUS. Essa leitura foi enriquecida por análises de benchmarking nacional e regional, mapeamento de desertos assistenciais e aplicação da análise de Pareto à eficiência hospitalar.
+O que é a análise de Pareto
+A análise de Pareto é uma ferramenta que permite identificar quais fatores concentram a maior parte dos problemas em um sistema. Parte de um princípio clássico: 80% das consequências advêm de 20% das causas. Aplicada à saúde, essa abordagem ajuda a localizar os principais gargalos, como processos, unidades ou tipos de atendimento, que mais impactam a eficiência do sistema, orientando decisões mais precisas e estratégicas.
+
+Não se trata de um documento hermético nem de um conjunto de propostas irreais, mas
+
+de uma contribuição técnico-política ancorada em evidências, com metas quantificáveis e
+
+atingíveis no curto, médio e longo prazo.
+
+Por exemplo, até 2030, o Amazonas pre-
+
+cisa reduzir suas taxas de glosa hospitalar de 11,34% para menos de 5%, eliminar desertos assistenciais, implantar leitos de terapia intensiva nas três macrorregiões de saúde do Estado (Central, Leste e Oeste), reduzir o déficit de UTI em conformidade com os parâmetros da Portaria GM/MS nº 1.631/2015, ampliar a telemedicina para os 62 municípios e elevar o
+
+Mais do que indicadores, essas metas representam ganhos mensuráveis em acesso, resolutividade e qualidade de vida para a população.
+
+Índice de Desempenho Hospitalar médio
+
+da rede SUS de 53,1 para 70 pontos.
+
+279
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ SES-AM: trajetória institucional e desafios estruturais
+A Secretaria de Estado de Saúde do Amazonas (SES-AM) acumula mais de sete décadas de existência e pelo menos oito reestruturações formais de organograma — em 1955, 1965, 1967, 1971, 1981, 1984, 1990 e 2020. Cada troca de governo trouxe consigo uma nova tentativa de reorganizar o órgão. Na década de 1990, o governador Amazonino Mendes abandonou a sigla SESAU e criou a SUSAM, a Superintendência de Saúde do Amazonas, com a intenção de transformá-la em autarquia com mais autonomia de gestão. A autarquia nunca chegou a funcionar plenamente, na prática, como tal, embora a sigla tenha permanecido por três décadas. Em 2020, a gestão Wilson Lima promoveu uma nova reestruturação, desta vez mais abrangente: a SUSAM tornou-se SES-AM. Além disso, foi criada a Secretaria Executiva de Controladoria, implantado o sistema de gestão documental eletrônica e lançado o programa Saúde Amazonas, com nove eixos estruturantes.
+A avaliação dessa reestruturação repete o padrão observado nas anteriores: o organograma foi reformulado, mas os resultados não acompanharam a mudança. A razão é conhecida e documentada. A SES-AM opera como uma megaestrutura administrativa. É responsável por 17 unidades hospitalares de gestão direta, sete fundações estaduais de saúde e pela coordenação sanitária de 62 municípios. Desde 2024, também supervisiona quatro contratos de gestão com organizações sociais, que movimentam R$ 931,1 milhões por ano. Tudo isso sem dispor de quadros técnicos qualificados, em quantidade e especialização compatíveis com essa escala operacional. Reformar o organograma sem fortalecer a capacidade técnica de quem o opera é, na prática, trocar o mapa sem alterar o território. Este Plano começa por aí.
+ Breve diagnóstico orçamentário da saúde
+A estrutura orçamentária da saúde no Amazonas alcançou R$ 5,53 bilhões em 2025, valor liquidado considerando todas as fontes de recursos, superando em R$ 1,53 bilhão (+38,1%) a dotação inicial da Lei Orçamentária Anual (LOA 2025), fixada em R$ 4,00 bilhões. Os recursos próprios estaduais representaram R$ 4,40 bilhões, o equivalente a 79,65% do total. Já a aplicação em Ações e Serviços Públicos de Saúde (ASPS) sobre a receita própria atingiu 20,35%, índice 8,35 pontos percentuais acima do mínimo constitucional de 12%.
+Entre 2023 e 2025 observa-se um crescimento relevante do orçamento da saúde estadual. O volume empenhado passou de R$ 3,68 bilhões em 2023 para R$ 4,35 bilhões em 2025, representando uma expansão nominal de aproximadamente 18,1% no período, equivalente a R$ 667 milhões adicionais. Apesar desse crescimento, a expansão do orçamento não ocorreu de forma homogênea entre os diferentes tipos de gasto, revelando uma mudança significativa na estrutura de financiamento da rede estadual.
+280
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Figura 1 - Orçamento SES-AM e Contratos com Organização Sociais
+Fonte: SEFAZ-AM/SIAFE, maio-2026.
+Em 2025, a composição do orçamento da SES-AM revela forte concentração em poucos grandes grupos de despesa. O principal item continua sendo pessoal, responsável por cerca de 26,2% do total, seguido pelas organizações sociais (OS), que já representam 21,8% da despesa total. Outros grupos relevantes incluem: serviços médicos e hospitalares (17,9%), encargos e previdência (aproximadamente 14%) e, em proporções menores, medicamentos, equipamentos e logística. A presença crescente das organizações sociais nesse conjunto revela uma mudança estrutural na forma de prestação dos serviços públicos de saúde, razão pela qual se impõe uma revisão capaz de equacionar custos e otimizar resultados.
+Os contratos com as organizações sociais passaram de R$ 385 milhões em 2023 para R$ 931,1 milhões em 2025, crescimento de 142% em três anos. O salto mais expressivo ocorreu entre 2024 e 2025, quando os repasses avançaram de R$ 514 milhões para R$ 931,1 milhões — impulsionados pela formalização de três novos contratos de gestão assinados entre novembro de 2024 e setembro de 2025. Esses contratos incorporaram ao modelo de OS o gerenciamento de seis unidades hospitalares de média e alta complexidade em Manaus. Em 2025, quatro organizações sociais respondem pela gestão de oito unidades da rede SES-AM, conforme o quadro a seguir.
+281
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Quadro 1 — Contratos de Gestão
+Contratos com Oganizações Sociais saltam de R$385 mi para R$931 mi em três anos
+Contratos de gestão do SES-AM em execução em 2025, com respectivas organizações sociais, unidades gerenciadas e valores globais.
+
++142%
+
+Foi o crescimento dos repasses às organizações sociais 2023 (R$ 385 mi) e 2025 (R$ 931,1 mi), com 8 unidades hospitalares hoje sob gestão terceirizada.
+
+Contrato OS Unidades Gerenciadas
+
+Início
+
+001/2019 (14º TA)
+002/2024 001/2025
+002/2025
+TOTAL
+
+INDSH AGIR INDSH IDEAS
+
+Complexo Hospitalar Zona Norte (CHZN) + UPA Campos Sales + Hospital Delphina Rinaldi Abdel Aziz
+HPS 28 de Agosto + Maternidade Dona Lindu (Complexo Hospitalar Sul)
+HPS Dr. Aristóteles Platão Bezerra de Araújo
+Complexo Hospitalar Zona Leste (CHZL) + HPS Dr. João Lúcio + HPS da Criança Zona Leste
+
+- 8 unidades
+
+Abr/2019 Nov/2024 Jul/2025 Out/2025
+-
+
+Valor Global (60 meses)
+R$ 315,4 Mi/ano* (valor anual; global 60 m: ~R$ 1,58 bi)
+R$ 2,04 bilhões
+R$ 1,10 bilhão
+R$ 1,93 bilhão
+-
+
+Repasse 2025 R$ 315,4 Mi R$ 408,9 Mi R$ 110,3 Mi R$ 96,5 Mi
+R$ 931,1 Mi
+
+Fonte: Contratos de Gestão SES-AM: SIAFE/SEFAZ-AM; Portal SGC. *Contrato original de 2019, atualmente vigente pelo 14º Termo Aditivo; valor expresso em base anual, diferentemente dos demais contratos (base 60 meses). **O contrato 001/2025 amplia o escopo da INDSH com a incorporação do HPS Dr. Aristóteles Platão. Fontes: Contratos de Gestão SES-AM; SIAFE/SEFAZ-AM; Portal SGC.
+
+Essa estrutura revela com precisão o que antes permanecia opaco: o crescimento de R$ 434 milhões entre 2024 e 2025 não decorreu de reajustes nos contratos existentes, mas da entrada de três novos contratos firmados em sequência, que transferiram para o modelo de OS o gerenciamento de hospitais antes operados sob gestão direta da SES-AM. Essa mudança de perfil exige revisão técnica aprofundada, com dois objetivos simultâneos: avaliar os resultados efetivamente entregues por cada organização social em relação às metas contratualizadas e estruturar mecanismos de fiscalização e auditoria que ainda não acompanharam o volume crescente dos repasses.
+O modelo de Organização Social, previsto na Lei Federal nº 9.637/1998 e regulamentado no Amazonas pela Lei Estadual nº 3.900/2013, possui fundamento técnico legítimo: transfere ao parceiro privado maior flexibilidade na gestão operacional, como contratação de pessoal, compras e logística, enquanto o Estado mantém a titularidade dos bens, define metas e fiscaliza os resultados. O problema não está no modelo, está na forma como ele foi implantado no Amazonas.
+
+282
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Os três novos contratos firmados entre novembro de 2024 e setembro de 2025 foram assinados antes que a SES-AM dispusesse de estrutura técnica de monitoramento compatível com o volume de repasses envolvido. As Comissões de Avaliação, Acompanhamento e Fiscalização, previstas em todos os contratos como instâncias obrigatórias de controle, operam com capacidade técnica e infraestrutura aquém do necessário para analisar, com o devido rigor, a produção hospitalar de oito unidades simultaneamente.
+O resultado é previsível: contratos com cláusulas de desempenho formalmente corretas, mas sem o aparato de verificação que lhes confere efetividade. A nova gestão parte de um diagnóstico diferente. As organizações sociais podem ser instrumentos eficientes de gestão hospitalar, desde que os contratos sejam renegociados com indicadores individualizados por unidade, que as Comissões de Fiscalização sejam estruturadas com equipes técnicas dedicadas e acesso irrestrito aos sistemas de produção, e que os resultados sejam publicados trimestralmente com transparência suficiente para auditoria externa.
+O próximo governo conduzirá a repactuação integral não apenas dos contratos com organizações sociais, mas de todos os contratos da saúde — convênios, prestadores privados, fornecedores e parcerias — vinculando cada repasse a indicadores verificáveis de produção, qualidade e eficiência. Contratos que entregam resultados serão honrados. Contratos que não entregam terão seus valores ajustados e, se necessário, encerrados. Não se trata de punição, mas da lógica básica de qualquer contrato público comprometido com o uso responsável dos recursos da saúde dos amazonenses.
+O que muda nos contratos da saúde
+• Repasses vinculados a metas verificáveis. • Indicadores de produção, qualidade e eficiência. • Contratos eficientes serão mantidos. • Contratos ineficientes serão revistos. • Transparência e auditoria permanente.
+O orçamento do Estado do Amazonas para 2026 está estimado em R$ 38 bilhões, reflexo direto da base econômica ancorada na Zona Franca de Manaus. O polo industrial gera a maior arrecadação de ICMS da Região Norte, principal tributo estadual, e sustenta um nível de atividade econômica que também impacta os repasses federais constitucionais via FPE e IPI-Exportação. Esse equilíbrio, porém, é frágil. A reforma tributária em curso prevê a substituição gradual do IPI e do ICMS pelo IBS e pela CBS, com impacto direto sobre os incentivos fiscais da ZFM e, consequentemente, sobre a receita disponível para a saúde. Parte dos recursos que viabilizam as ações no interior também depende de emendas parlamentares, federais e estaduais. Por isso, o próximo governo precisará construir uma agenda permanente de articulação com o Poder Legislativo para ampliar e qualificar esse fluxo destinado à saúde.
+283
+
+Parte 02. Plano estratégico de desenvolvimento
+
+O que conta como investimento em saúde
+O conceito de Ações e Serviços Públicos de Saúde (ASPS), utilizado para aferir o cumprimento constitucional dos investimentos mínimos, abrange despesas com assistência, vigilância, pessoal ativo, medicamentos, infraestrutura, gestão e outras ações previstas no art. 3º da Lei Complementar nº 141/2012. Entre elas, destacam-se: 1. Vigilância em saúde, inclusive epidemiológica e sanitária. 2. Atenção integral e universal em todos os níveis de complexidade. 3. Capacitação de pessoal do SUS. 4. Desenvolvimento científico, tecnológico e controle de qualidade. 5. Produção, aquisição e distribuição de insumos, medicamentos e equipamentos. 6. Saneamento básico de pequenas comunidades, quando aprovado pelo Conselho de Saúde. 7. Saneamento em territórios indígenas e comunidades quilombolas. 8. Manejo ambiental voltado ao controle de vetores. 9. Investimentos na rede física do SUS, como obras, reformas e ampliações. 10. Remuneração de pessoal ativo da saúde, incluídos os encargos sociais. 11. Ações de apoio administrativo das instituições públicas de saúde. 12. Gestão do sistema público de saúde e operação de unidades prestadoras de serviço. (Base legal: art. 3º da Lei Complementar nº 141/2012).
+284
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Quadro 2 — Emendas em potencial
+Base de referência para captação de emendas - LOA 2026 e projeções
+Componentes do orçamento estadual do Amazonas e estimativas de recursos disponíveis para captação via emendas parlamentares na área da saúde.
+
+R$ 30 bi
+
+É o orçamento total estadual de referência na LOA 2026, com 18-20% destinados à saúde (ASPS), abrindo espaço para emendas federais de até R$1,5 bi/ano.
+
+Componente LOA
+Orçamento Total Estadual
+Dotação Saúde (18–20% ASPS)
+Emendas de deputados estaduais — saúde
+Emendas individuais federais Bancada AM Emendas de bancada federal Bancada AM no Congresso
+
+LOA 2026 (referência)
+R$ 38,0 bilhões R$ 6,84–7,60 bi > R$ 300 milhões R$ 679,8 milhões
+R$ 815,7 milhões
+
+Projeção
+R$ 41,0–43,0 bilhões R$ 7,38–8,60 bi
+R$ 310–330 milhões R$ 700–730 milhões R$ 840–880 milhões
+
+Fontes: LOA 2026 ALEAM C/C RCGF SEFAZ-AM (2026).
+
+As emendas parlamentares — federais e estaduais — representam uma alavanca financeira ainda subutilizada na saúde do Amazonas. Os valores apresentados no Quadro 2 tomam como base a LOA 2026 e projetam o exercício seguinte. Embora a destinação final de cada emenda seja decisão soberana do parlamentar, o Poder Executivo exerce papel decisivo na qualidade dessa negociação: projetos tecnicamente consistentes, com contrapartidas claras e capacidade de execução comprovada, tendem a atrair mais recursos e com maior regularidade do que demandas genéricas apresentadas sem planejamento.
+A capacidade de captar emendas de bancada federal depende de dois fatores que se reforçam mutuamente: a liderança política do candidato ao governo junto à bancada amazonense no Congresso Nacional e a solidez técnica dos projetos apresentados. Um candidato ao Governo do Amazonas com trânsito reconhecido junto à delegação federal do Estado — deputados e senadores — tem condições de negociar volumes mais expressivos de emendas impositivas vinculadas à saúde, assim como pactuar prioridades diretamente com as lideranças do Congresso e garantir que projetos estruturantes do Amazonas sejam contemplados na distribuição das emendas de bancada.
+Esse potencial não se realiza automaticamente. É algo que exige articulação permanente, projetos prontos para execução e prestação de contas rigorosa das emendas anteriores. Para transformar essa articulação em resultado efetivo, o futuro governo desenvolverá um Catálogo de Prioridades da Saúde do Amazonas, documento técnico que reunirá as 30 principais demandas da saúde pública estadual, organizadas por município e por nível de complexidade assistencial.
+285
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Cada integrante das bancadas federal e estadual — deputados federais, deputados
+
+estaduais e senadores — receberá um exemplar personalizado com o diagnóstico das
+
+necessidades específicas dos municípios de sua base, acompanhado de projetos estrutura-
+
+dos e aptos à execução imediata. O objetivo é simples: que nenhuma emenda parlamentar
+
+para a saúde do Amazonas seja definida sem que o parlamentar conheça, com precisão,
+
+onde o recurso faz mais diferença. Um direcionamento técnico qualificado não limita a
+
+autonomia do parlamentar — amplia o
+
+alcance do investimento já decidido.
+
+O Amazonas está entre os estados brasileiros que mais investem em saúde como proporção do orçamento total. No entanto, o retorno em eficiência ainda está longe do mínimo ideal. Nos últimos exercícios, a destinação para a área oscilou entre 18% e 20% da receita corrente líquida (RCL), percentual superior à média nacional, estimada
+
+Aplicar acima da média nacional não basta quando os resultados permanecem abaixo do potencial que o sistema pode entregar.
+
+em aproximadamente 14%.
+
+Quadro 3 — Projeção orçamentária
+Projeção de custeio e orçamento do primeiro ano de mandato
+Componentes ficanceiros de referência para o primeiro ano de mandato, com origem nos relatórios de controle de gastos da SEFAZ-AM e dos sistemas DATASUS.
+
+R$ 5,53 bi
+
+É o orçamento total executado projetado para o 1º ano do mandato, com R$ 5,07 bi de custeio estadual próprio e R$ 234 mi em novas aplicações previstas.
+
+Componentes financeiros
+Custeio Estadual Próprio
+Orçamento Total Executado
+Institucionalização do Cockpit Executivo publicação mensal de indicadores para controle social e dos órgãos de controle. Glosa SIH — perda Meta 5%
+
+Valores de referência
+R$ 5,07 bilhões R$ 5,53 bilhões
+R$ 234,0 milhões
+R$ 11,7 milhões
+
+Fonte
+Projeção com base no RCGF SEFAZ-AM 2025
+Relatório de controle de gastos SEFAZ-AM 2025
+SIH/DATASUS
+SIH/DATASUS
+
+Fontes: SIAFE/SEFAZ-AM; Relatório de Controle de Gastos SEFAZ-AM 2025; LOA 2025.
+
+286
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Ainda no campo do diagnóstico, a execução orçamentária consolidada a partir do Sistema Integrado de Administração Financeira e Contábil (SIAFE/SEFAZ-AM) e do Sistema de Informações Hospitalares do SUS (SIH/SUS), com bases do DATASUS, registra um dado que resume com clareza o desafio financeiro central da saúde no Amazonas: a despesa anual das fundações hospitalares e das unidades de gestão direta da Secretaria de Estado de Saúde do Amazonas (SES-AM) é de aproximadamente R$ 489 milhões, enquanto a receita federal efetivamente recebida via SIH/SUS alcança R$ 164,6 milhões.
+O gap é de aproximadamente R$ 324 milhões, coberto integralmente pelo Tesouro Estadual. A tabela SIGTAP/SUS (Sistema de Gerenciamento da Tabela de Procedimentos) demonstra haver defasagem entre o custo real dos procedimentos e os valores remunerados pelo SUS. Uma cesariana custa, segundo estimativa da SES-AM, R$ 1.200,00 ao sistema, mas recebe R$ 545,00. Um ciclo de quimioterapia custa R$ 1.800,00 e é remunerado em R$ 485,00. Uma artroplastia total de joelho custa R$ 9.200,00 e recebe R$ 3.089,00.
+Nenhuma gestão estadual, por mais eficiente que seja, consegue compensar sozinha essa equação desfavorável. O que pode ser feito — e é o que este Plano assume como prioridade — é maximizar a captação dentro das regras vigentes, defender o reequilíbrio das tabelas no plano federal e demonstrar, com dados, que a saúde no Amazonas exige tratamento diferenciado por razões geopolíticas e logísticas objetivas.
+ CEMA: centralização sem racionalização
+A Central de Medicamentos do Amazonas (CEMA), unidade gestora estadual de código SIAFE 017130, foi concebida a partir de uma lógica correta: centralizar as aquisições de medicamentos e equipamentos hospitalares da rede SES-AM para ganhar escala, padronizar insumos e ampliar o poder de negociação do Estado junto ao mercado fornecedor. Em um território com 62 municípios, custos logísticos entre três e cinco vezes superiores à média nacional e dificuldade estrutural de acesso a fornecedores especializados no interior, a centralização é mais do que uma opção de gestão: é uma necessidade. O problema identificado não está na existência da CEMA, mas na forma como ela tem operado.
+Em 2025, a CEMA movimentou R$ 96,3 milhões em medicamentos e R$ 110,3 milhões em equipamentos e materiais hospitalares, totalizando contratos da ordem de R$ 219 milhões. Com esse volume, posicionou-se como a terceira maior unidade gestora de saúde do Estado em valores contratados, atrás apenas da SES-AM e da FCECON. Esses números refletem escala. O que não refletem, necessariamente, é eficiência. A análise da execução orçamentária consolidada no SIAFE/SEFAZ-AM revela dois problemas estruturais que comprometem o propósito original da central.
+O primeiro problema é a sobreposição funcional com a SES-AM. Em 2025, a CEMA respondeu por 78% das compras de medicamentos, o equivalente a R$ 96 milhões, mas a SES-AM manteve aquisições paralelas de R$ 26 milhões para as mesmas unidades assistenciais já abastecidas pela central. O resultado é um sistema de dupla entrada de insumos, com risco real de duplicidade de estoques, vencimento de medicamentos e ineficiência no armazenamento. Essa sobreposição não é nova. Ela persiste nos três últimos exercícios
+287
+
+Parte 02. Plano estratégico de desenvolvimento
+
+auditados, sem que tenha sido implantado um protocolo de racionalização. Com base nos dados do SIAFE/SEFAZ-AM, a economia potencial com a eliminação dessa duplicidade está estimada entre R$ 15 milhões e R$ 20 milhões por ano, recursos que poderiam ser redirecionados diretamente para a ampliação do acesso farmacêutico nos municípios do interior.
+O segundo problema é a concentração de fornecedores, sem renovação concorrencial. Um grupo restrito de cinco empresas domina mais de 60% dos contratos de equipamentos e materiais hospitalares da CEMA há três anos consecutivos, sem evidência documentada de processos licitatórios competitivos capazes de renovar essa base fornecedora. O gasto com equipamentos cresceu no período de 2023 a 2025, passando de R$ 106,5 milhões para R$ 110,3 milhões, sem que esse movimento esteja acompanhado de um plano técnico de renovação de ativos que o justifique. Compras emergenciais recorrentes, em vez de planejamento contínuo de substituição e modernização, encarecem os contratos, reduzem o poder de negociação do Estado e criam condições favoráveis à manutenção de fornecedores cativos, sem pressão competitiva.
+O impacto desses dois problemas não se limita ao orçamento: chega ao paciente. Quando medicamentos vencem em estoque por duplicidade de entrada, perde-se um insumo que poderia ter chegado ao interior. Quando equipamentos são adquiridos sem planejamento de manutenção e substituição, o resultado é a interrupção de serviços por obsolescência ou falta de peças, situação já documentada em unidades do interior amazônico, onde tomógrafos, aparelhos de raio-X e equipamentos de ultrassonografia permanecem meses inoperantes à espera de manutenção.
+O próximo governo conduzirá a revisão do modelo operacional da CEMA com dois objetivos simultâneos e verificáveis: consolidar definitivamente as aquisições de medicamentos em uma única fonte de compra, com protocolo formal de distribuição às unidades que elimine a entrada paralela da SES-AM; e ampliar a base de fornecedores de equipamentos por meio de processos licitatórios competitivos, anuais e com critérios técnicos publicados, garantindo que o Estado do Amazonas pague o preço de quem compra em escala, e não o preço de quem compra em emergência.
+ Recomposição financeira via valores glosados
+As perdas de receita decorrentes de glosas no faturamento hospitalar constituem um dos principais vetores de ineficiência financeira da rede pública estadual. A rede própria de Média e Alta Complexidade (MAC), formada por 17 unidades da SES-AM, registra taxa média de glosa de 5,46% sobre uma base de R$ 645,5 milhões em Autorizações de Internação Hospitalar (AIH), o que corresponde a R$ 35,2 milhões em perdas estimadas (SIH/ DATASUS 2024).
+A taxa de glosa do Sistema de Informações Hospitalares (SIH) total do Amazonas, que abrange toda a produção SUS no Estado, incluindo serviços contratados e parceiros, é de 11,34% sobre uma base de R$ 3,53 bilhões, representando perda evitável estimada em R$ 400 milhões por ano, passível de recuperação com a implantação estruturada de Núcleos de Auditoria e Performance (NAP).
+288
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Algumas unidades apresentam indicadores particularmente preocupantes. Entre elas, destacam-se o HPS 28 de Agosto, com glosa superior a 23,3%, e a Maternidade Balbina Mestrinho, com taxa próxima de 25,9%.
+A mitigação exige duas frentes complementares: implantação imediata dos Núcleos de Auditoria e Performance para recuperação de receitas e articulação política voltada à aprovação da Lei do Coeficiente de Equidade Geográfica (CEGS), destinada a ampliar o repasse federal per capita. Essa concentração representa, ao mesmo tempo, um diagnóstico preocupante e uma oportunidade estratégica. Corrigir problemas de codificação e faturamento em poucas unidades, por meio de intervenções técnicas específicas e de baixo custo, pode gerar impacto relevante, razão pela qual o tema integra o nosso Plano de Ação.
+Quadro 4 — Recomendação financeira
+Quatro unidades ‘‘vital few’’ concentram R$19,78 milhões em glosas passíveis de recomposição
+Perfil de glosas por unidade hospitalar, com potencial de recuperação financeira via redução da taxa de glosa. As quatro unidades de maior peso representam 56% da glosa total da rede.
+
+R$ 35,2 mi É a glosa total estimada da rede (17 unidades), com taxa média de 11,34% - meta do plano: reduzir a menos de 5%.
+
+Unidade (Vital Few)
+
+Base AIH (R$) Glosa % Glosa Estimada
+
+HPS 28 de Agosto Maternidade Balbina Mestrinho FCECON Fund. Centro de Controle de Oncologia do Amazonas FHAJ Fundação Hospital Adriano Jorge
+Subtotal 4 Unidades (Vital Few)
+Total Rede (17 Unidades)
+Fontes: (SIH/DATASUS), maio-2026.
+
+R$ 18,4 Mi R$ 15,98 Mi R$ 126,4 Mi
+R$ 125,7 Mi R$ 286,5 Mi R$ 645,5 Mi
+
+23,3% 25,9% 5,2%
+3,8% —
+11,34%
+
+R$ 4,29 Mi R$ 4,14 Mi R$ 6,57 Mi
+R$ 4,78 Mi R$ 19,78 Mi
+R$ 35,25 Mi
+
+A adoção estruturada dos Núcleos de Auditoria e Performance (NAP) pode gerar retorno total (ROI) estimado em R$ 50,3 milhões em 12 meses, composto por R$ 21,2 milhões em recuperação direta de glosas da rede de Média e Alta Complexidade (MAC) e R$ 29,1 milhões em redução de custos operacionais e prevenção de perdas adicionais. O retorno financeiro pode ocorrer em menos de três meses após a implantação. Essa estratégia integra o Plano de Ação a ser detalhado.
+289
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ A estrutura de despesas: déficit por especialidades
+As despesas de saúde do Amazonas se distribuem entre custeio hospitalar, atenção básica, medicamentos de alto custo, pessoal e encargos e despesas administrativas. O maior bloco é o das fundações públicas especializadas, que respondem por uma parcela relevante do orçamento e apresentam dinâmicas de eficiência muito distintas entre si. A execução orçamentária apurada a partir do Sistema Integrado de Administração Financeira e Contábil (SIAFE)/SEFAZ-AM registra uma despesa total agregada das unidades hospitalares da rede SES-AM da ordem de R$ 489 milhões por ano.
+O desequilíbrio financeiro na área da saúde revela-se em dados como o de procedimentos de UTI adulto, cujo custo estimado pela SES-AM é de R$ 15.725,00, enquanto o repasse SIGTAP corresponde a R$ 8.500,00. Um déficit de 85% por Autorização de Internação Hospitalar. No caso da oncologia, o déficit é de 95% por ciclo de quimioterapia, com custo real de R$ 1.800,00 contra repasse de R$ 485,00. A cardiologia cirúrgica (revascularização miocárdica) tem custo real de R$ 28.000,00 e repasse de R$ 12.247,00. Esses diferenciais são estruturais do modelo SUS nacional, mas exigem estratégias de captação complementar, via Fundo de Ações Estratégicas e Compensação (FAEC), emendas e habilitações específicas.
+290
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Quadro 5 — Estrutura de despesas
+Especialidades sub-financiadas: custo efetivo de procedimento contra o repasse SIGTAP
+Diferença entre o custo real estimado pela SES-AM para executar um procedimento e o valor repassado pela tabela SIGTAP/MS. Percentuais indicam a lacuna de financiamento.
+
+85%
+
+É o deficit máximo observado - na UTI Adulto, o custo real é quase o dobro do que o SUS paga. Cinco das oito especialidades analisadas superam 55% de sub-financiamento.
+
+Especialidade/Grupo Custo real (R$)
+
+Repasse SIGTAP (R$) Déficit Posião
+
+UTI Adulto
+Oncologia Quimioterapia
+UTI Neonatal
+Cardiologia Revascularização Ortopedia Artroplastia Obstetrícia Cesariana
+Clínica Cirúrgica
+Psiquiatria
+
+R$ 15.725,00 R$ 1.800,00 R$ 11.696,00 R$ 28.000,00
+
+R$ 8.500,00 R$ 485,00 R$ 6.800,00 R$ 12.247,00
+
+85% 73% 72% 56%
+
+CRÍTICO CRÍTICO CRÍTICO CRÍTICO
+
+R$ 8.500,00–9.200,00 R$ 3.089,00 — R$ 3.247,00 62–66% CRÍTICO
+
+R$ 1.200,00 R$ 3.371,00 R$ 2.265,00
+
+R$ 545,00 R$ 2.497,00 R$ 1.812,00
+
+55% 35% 25%
+
+ALERTA CRÍTICO ESTÁVEL
+
+Fontes: SIH/DATASUS. Nota: Os valores de “Custo Real Estimado”, referem-se a estimativas da SES-AM para o custo efetivo do procedimento no Amazonas. Os valores de “Repasse SIGTAP”, são verificáveis na tabela SIGTAP/MS vigente.
+
+A equação não se resolve apenas com gestão eficiente. Quando a tabela federal cobre somente 54% do custo real de um leito de UTI adulto e menos de 27% do custo de um ciclo de quimioterapia, o esforço técnico do gestor estadual enfrenta um teto estrutural imposto por Brasília. Qualquer proposta que desconsidere esse dado parte de um diagnóstico incompleto da realidade. A resposta apresentada pelo Plano Estratégico de Desenvolvimento opera em três camadas simultâneas.
+No curto prazo: implantação dos Núcleos de Auditoria e Performance (NAP) para reduzir a glosa de 11,34% para menos de 5% e ampliar a receita dentro das regras vigentes; e habilitação, no Fundo de Ações Estratégicas e Compensação (FAEC), de procedimentos já realizados pela rede, mas ainda não faturados. Entre eles, transplante hepático no Hospital Delphina Aziz, hemodinâmica cardiovascular na FHCFM e radioterapia em polo regional, com incremento de receita. Outra ação de curto prazo será a articulação de emendas parlamentares federais vinculadas a projetos aptos à execução imediata.
+291
+
+Parte 02. Plano estratégico de desenvolvimento
+
+No médio prazo: atuação junto ao Conselho Nacional de Secretários de Saúde (CONASS) para pressionar o Ministério da Saúde pela revisão da tabela SIGTAP nos procedimentos com maior déficit estrutural. Entre eles, UTI adulto e neonatal, oncologia e cardiologia de alta complexidade. Para isso, serão utilizados os dados de custo real apurados pelo SIAFE/SEFAZ-AM como argumento técnico verificável perante o Departamento de Atenção Especializada (DAES/MS)
+No longo prazo: aprovação da Lei do Coeficiente de Equidade Geográfica em Saúde (CEGS), destinada a corrigir a lógica de partilha federal, hoje baseada em critérios que tratam como equivalentes estados submetidos a custos logísticos radicalmente distintos. A diretriz que orienta as três camadas é a mesma: enquanto a tabela nacional não for corrigida, o Estado maximiza o que já pode captar dentro das regras vigentes; ao mesmo tempo, atua para transformar essas regras por meio de dados verificáveis, articulação política qualificada e proposta legislativa concreta.
+Gráfico 1 - Deficit entre custo real estimado (SES-AM) e repasse SIGTAP/MS
+
+Fonte: Custo real - estimativa SES-AM | Repasse - SIGTAP/MS (2024).
+
+O peso do alto custo merece atenção especial. A Terapia Renal Substitutiva (TRS) consome valor estimado em R$ 170,4 milhões por ano, conforme dados da SES-AM, com base no Sistema de Informações Ambulatoriais (SIA/SUS) e no SIGTAP/DATASUS, para atender 3.622 pacientes em hemodiálise e diálise peritoneal. Isso representa custo médio de R$ 47.050,00 por paciente ao ano, com cobertura de 72,8% da população que necessita do serviço.
+292
+
+Cada área subfinanciada pressiona toda a rede: o déficit de uma especialidade não fica isolado, ele se espalha pelo sistema inteiro.
+
+Parte 02. Plano estratégico de desenvolvimento
+
+O programa oncológico, concentrado na Fundação Centro de Controle de Oncologia do Estado do Amazonas (FCECON) e nas maternidades, movimenta valor estimado em R$ 26,0 milhões por ano, segundo dados do SIA/SUS e do SIH/DATASUS. A soma desses dois blocos alcança aproximadamente R$ 196,4 milhões em despesas anuais, montante inferior ao volume de recursos federais recebido pelo Estado e passível de reforço por meio de aportes da bancada legislativa, a partir de articulação conduzida pelo Poder Executivo.
+ Filas de espera: pressão assistencial e desafios de acesso
+O Sistema de Regulação do Amazonas (SISREG-AM) registra mais de 46.000 pacientes em fila para teleconsulta; 8.100 aguardando ortopedia, com tempo máximo de espera de dois anos; 6.240 em fila para oncologia; e 4.820 esperando por cardiologia, com espera média de quatro meses e casos que chegam a doze meses. Ao todo, 16 especialidades apresentam filas críticas ou de alta prioridade.
+A demanda real é substancialmente maior, especialmente no interior, onde o SISREG é inacessível para 29% da população. Estima-se que a demanda reprimida represente aproximadamente R$ 47,8 milhões por ano em procedimentos não realizados, cálculo baseado no valor médio SIGTAP por especialidade multiplicado pelo volume de pacientes em fila (SISREG-AM).
+293
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Quadro 6 — Fila de espera
+Filas de espera por especialidade - SISREG - AM 2026
+Volume atual de pacientes em espera e tempo médio de atendimento por especialidade. A telessaúde concentra a maior fila refletindo demanda reprimida na atenção primária e remota.
+
+73.360
+
+Pessoas aguardando atendimento especializado no Amazonas - mais de 63% concentradas em telessaúde, refletindo a dependência estadual de consultas remotas.
+
+Especialidade
+Telessaúde Ortopedia Oncologia Cirurgia Geral Cardiologia Neurologia
+
+Fila atual - 2026
+46.000 8.100 6.240 4.920 4.820 3.280
+
+Espera média
+Duas semanas 6 meses 45 dias 4 meses 4 meses 3 meses
+
+Volume relativo
+
+Fontes: SISREG-AM, 2025; SIH/DATASUS, 2024.
+Gráfico 2 - Fila de espera por especialista (SISREG-AM)
+
+Fontes: SISREG-AM, 2025; SIH/DATASUS, 2024.
+294
+
+Parte 02. Plano estratégico de desenvolvimento
+
+As especialidades mais críticas acumulam 46.000 teleconsultas pendentes, 8.100 em ortopedia e 6.240 em oncologia. Cada procedimento não realizado representa, simultaneamente, uma falha de acesso à saúde e uma receita não faturada ao Sistema de Informações Hospitalares (SIH/SUS). A regulação eficiente e a ampliação de oferta, especialmente por telemedicina e expansão das UTIs nas macrorregiões, representam intervenções sanitárias prioritárias e estratégias concretas de recuperação de receita federal.
+
+Ademais, o Fundo de Ações Estratégicas e Compensação (FAEC) do Ministério da Saúde financia procedimentos de alta complexidade fora do teto da Média e Alta Complexidade (MAC), e o Amazonas ainda não aproveita integralmente o potencial desse mecanismo. Com base em dados do Cadastro Nacional de Estabelecimentos de Saúde (CNES/DATASUS – 02/2026), do Sistema de Informações Hospitalares (SIH/DATASUS – 2024) e do Sistema de Gerenciamento da Tabela de Procedimentos (SIGTAP/MS – 2024), foi identificado o seguinte cenário:
+
+A fila é o retrato mais visível da desorganização do sistema. Ela revela nós críticos, falhas de regulação e ausência de coordenação entre os níveis de atenção.
+
+• Transplante hepático no Hospital Delphina Aziz: apenas seis transplantes foram realizados em 2025 após a retomada do programa. A meta estabelecida é de 24 transplantes/ano, o que representaria um incremento de receita do Fundo de Ações Estratégicas e Compensação (FAEC) de R$ 4,8 milhões/ano. O credenciamento junto ao Sistema Nacional de Transplantes (SNT) está em andamento e é uma prioridade do Plano Estratégico da Saúde.
+
+• Habilitação cardiovascular na Fundação Hospital do Coração Francisca Mendes: as formalizações do protocolo Infarto Agudo do Miocárdio com Supradesnivelamento do Segmento ST, em regime de 24 horas, e a habilitação do serviço de hemodinâmica cardiovascular no Fundo de Ações Estratégicas e Compensação (FAEC), podem gerar R$ 5,1 milhões/ano de receita adicional, elevando o número de procedimentos de 375 para 600 por mês.
+
+• Oncologia no interior: implantação de satélite oncológico da Fundação Centro de Controle de Oncologia do Estado do Amazonas (FCECON) em unidade localizada em macrorregião a ser definida conforme a demanda epidemiológica regional e a infraestrutura já cadastrada no Cadastro Nacional de Estabelecimentos de Saúde (CNES). A habilitação de um satélite oncológico com radioterapia portátil pode incrementar a receita da rede no Fundo de Ações Estratégicas e Compensação (FAEC) em R$ 2,4 milhões por ano, além de reduzir substancialmente o fluxo de pacientes para Manaus.
+
+A soma dessas três habilitações pode representar receita do FAEC projetada em até R$ 12,3 milhões por ano, calculada com base na tabela vigente do Sistema de Gerenciamento da Tabela de Procedimentos (SIGTAP) e nas metas de produção, captável com investimento de apenas R$ 1,0 milhão em credenciamento, adequações técnicas e formação de equipes. São exemplos claros de como a gestão qualificada transforma potencial regulatório em recursos concretos para a saúde do Amazonas.
+
+295
+
+296
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ Breve diagnóstico da rede hospitalar
+O Amazonas conta com 5.666 leitos operacionais para internação no SUS, distribuídos pelos 62 municípios, o que corresponde a uma taxa de 1,31 leito por mil habitantes, significativamente abaixo da meta nacional de 2,0, estabelecida pela Portaria GM/MS nº 1.631/2015.
+
+Quadro 7 — Rede estadual SES-AM
+Rede assistencial SES-AM - Manaus e Fundações Estaduais - 2025
+Distribuição das aproximadamente 64 unidades da rede estadual em Manaus, organizadas por bloco fundamental, incluindo as sete Fundações de Saúde.
+
+64
+
+Unidades estaduais em Manaus mais as 7 Fundações Estaduais de Saúde - concentração que representa 73% da estrutura hospitalar do Amazonas na capital.
+
+Bloco / Tipo
+
+Unidades
+
+Qtd.
+
+1. SPAs e UPAs
+2. Hospitais e Prontos-Socorros Sob gestão de OS 3. Hospitais Pediátricos
+4. Maternidades 5. CAIMIs
+6. CAICs
+
+SPA Dr. José Lins · SPA Coroado · SPA São Raimundo · SPA Danilo Correa · SPA Alvorada · SPA Eliameme Rodrigues Mady · SPA Joventina Dias · SPA Zona Sul · UPA José Rodrigues · UPA Campos Salles
+HPS 28 de Agosto (AGIR) · HPS Dr. João Lúcio (IDEAS) · HPS Dr. Aristóteles Platão (INDSH).
+HPS da Criança Zona Oeste · HPS da Criança Zona Sul · HPS da Criança Zona Leste (IDEAS)
+Maternidade Alvorada · Ana Braga · Dona Nazira Daou · Azilda da Silva Marreiro · Balbina Mestrinho · Chapot Prevost · Maternidade Dona Lindu (IMDL)
+Ada Rodrigues Viana · André Araújo · Dr. Paulo Lima
+Alberto Carreira · Alexandre Montoril · Ana Maria Braga · Afrânio Soares · Dr. José Contente · Dr. Moura Tapajós · Dra. Josephina de Mello · Dra. Maria H. F. de Goes · Edson Melo · José Carlos Mestrinho · TEA Gilson Moreira
+
+10 unid. 3 unid. 3 unid. 7 unid. 3 unid. 11 unid.
+
+297
+
+Parte 02. Plano estratégico de desenvolvimento
+
+7. Policlínicas e SPAs 8. Saúde Mental (RAPS)
+9. Fundações estaduais de saúde
+
+Antônio Aleixo · Cardoso Fontes · Codajás · Darlinda Esteves · Gov. Gilberto Mestrinho · João dos Santos Braga · Odontológica da UEA · PM Tenente Weber · Zeno Lanzini · SPA/Pol. Dr. José Lins
+CESMAM (36 leitos) · CAPS III Dr. Silvério Tundis · 8 Serviços Residenciais Terapêuticos (SRTs)
+FHCFM — Fund. Hospital do Coração Francisca Mendes (Cardiologia), FHAJ — Fundação Hospital Adriano Jorge (Hospital Geral), FMT-HVD — Fund. Medicina Tropical Dr. Heitor Vieira Dourado (Doenças Tropicais), FCECON — Fund. Centro de Controle de Oncologia (Oncologia) FHEMOAM — Fund. de Hematologia e Hemoterapia (Hematologia/Transplante), FUHAM — Fund. Dermatologia Alfredo da Matta (Dermatologia), FVS-RCP — Fund. de Vigilância em Saúde, Dra. Rosemary Costa Pinto (Vigilância Epidemiológica)
+
+Total Manaus + Fundações
+
+10 unid. 10 unid.
+7 unid.
+64 Unid.
+
+Fontes: CNES/DATASUS, competência 02/2026: RAG SES-AM 2025; Contratos de Gestão SES-AM. Nota: O bloco 8 — Saúde Mental (RAPS) inclui um centro de saúde mental (CESMAM), um CAPS III e oito Serviços Residenciais Terapêuticos (SRTs), totalizando dez equipamentos.
+
+298
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Quadro 8 — Parte 1 de 2: Rede hospitalar do interior
+Rede hospitalar do interior - municípios de Alvarães a Itapiranga
+Distribuição da rede de saúde nos 61 municípios do interior do Amazonas em 2025, cofinanciados pelo Estado via TCG/PRISMA. Parte 1: municípios em ordem alfabetica (A a I). Totais na Parte 2.
+
+637
+Total de unidades
+
+66
+Hospitais gerais
+
+2
+Hospitais
+especializados
+
+526
+Centro de
+Saúde/ UBS
+
+Município
+Alvarães Amaturá Anamã Anori Apuí Atalaia do Norte Autazes Barcelos Barreirinha Benjamin Constant Beruri Boa Vista do Ramos Boca do Acre Borba Caapiranga Canutama Carauari Careiro Careiro da Várzea Coari Codajás Eirunepé
+
+H. Geral H. Esp. Policlínica Pronto At. CS/UBS
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+1
+
+—
+
+1
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+1
+
+—
+
+1
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+1
+
+—
+
+1
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+1
+
+—
+
+5
+
+1
+
+—
+
+2
+
+1
+
+—
+
+2
+
+—
+
+6
+
+—
+
+3
+
+—
+
+5
+
+—
+
+5
+
+—
+
+8
+
+—
+
+8
+
+—
+
+13
+
+—
+
+7
+
+—
+
+14
+
+—
+
+6
+
+—
+
+4
+
+—
+
+5
+
+—
+
+5
+
+—
+
+9
+
+—
+
+8
+
+—
+
+3
+
+—
+
+8
+
+—
+
+13
+
+—
+
+17
+
+—
+
+15
+
+—
+
+10
+
+—
+
+4
+
+Total
+7 4 7 6 9 9 14 8 16 7 5 6 6 11 9 4 9 14 18 21 13 7
+
+299
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Envira Fonte Boa Guajará Humaitá Ipixuna Iranduba Itacoatiara Itamarati Itapiranga
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+1
+
+—
+
+4
+
+1
+
+—
+
+—
+
+1
+
+—
+
+1
+
+1
+
+—
+
+9
+
+1
+
+—
+
+—
+
+1
+
+—
+
+—
+
+—
+
+4
+
+5
+
+—
+
+4
+
+5
+
+—
+
+5
+
+6
+
+—
+
+15
+
+20
+
+—
+
+9
+
+10
+
+—
+
+20
+
+22
+
+1
+
+17
+
+28
+
+—
+
+5
+
+6
+
+—
+
+4
+
+5
+
+Fontes: CNES/DATASUS, competência 02/2026. Nota: Uarini é o único município sem hospital geral. Tabatinga e Tefé são os únicos com hospital especializado no interior. Hospitais de Guarnição de São Gabriel da Cachoeira e Tabatinga (gestão federal) não estão contabilizados.
+
+300
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Quadro 8 — Parte 2 de 2: Rede hospitalar do interior
+Rede hospitalar do interior - municípios de Japurá a Urucurituba
+Continuação da Parte 1. Trinta municípios restantes em ordem alfabética (J a U), com totais consolidados da rede interior do Amazonas.
+
+637
+Total de unidades
+
+66
+Hospitais gerais
+
+2
+Hospitais
+especializados
+
+526
+Centro de
+Saúde/ UBS
+
+Município
+
+H. Geral H. Esp. Policlínica Pronto At. CS/UBS Total
+
+Japurá
+
+1
+
+—
+
+—
+
+Juruá
+
+1
+
+—
+
+—
+
+Jutaí
+
+1
+
+—
+
+—
+
+Lábrea
+
+1
+
+—
+
+—
+
+Manacapuru
+
+1
+
+—
+
+5
+
+Manaquiri
+
+1
+
+—
+
+—
+
+Manicoré
+
+2
+
+—
+
+—
+
+Maraã
+
+1
+
+—
+
+—
+
+Maués
+
+1
+
+—
+
+—
+
+Nhamundá
+
+1
+
+—
+
+—
+
+Nova Olinda do Norte
+
+1
+
+—
+
+—
+
+Novo Airão
+
+1
+
+—
+
+1
+
+Novo Aripuanã
+
+1
+
+—
+
+1
+
+Parintins
+
+2
+
+—
+
+2
+
+Pauiní
+
+1
+
+—
+
+—
+
+Presidente Figueiredo
+
+1
+
+—
+
+1
+
+Rio Preto da Eva
+
+1
+
+—
+
+2
+
+Santa Isabel do Rio Negro
+
+1
+
+—
+
+—
+
+Santo Antônio do Içá
+
+2
+
+—
+
+—
+
+São Gabriel da Cachoeira
+
+1
+
+—
+
+—
+
+São Paulo de Olivença
+
+1
+
+—
+
+—
+
+São Sebastião do Uatumã
+
+1
+
+—
+
+—
+
+Silves
+
+1
+
+—
+
+—
+
+—
+
+4
+
+5
+
+—
+
+3
+
+4
+
+—
+
+3
+
+4
+
+—
+
+13
+
+14
+
+—
+
+21
+
+27
+
+—
+
+3
+
+4
+
+—
+
+13
+
+15
+
+—
+
+5
+
+6
+
+—
+
+18
+
+19
+
+—
+
+11
+
+12
+
+—
+
+12
+
+13
+
+—
+
+7
+
+9
+
+—
+
+8
+
+10
+
+1
+
+20
+
+25
+
+—
+
+4
+
+5
+
+—
+
+21
+
+23
+
+—
+
+16
+
+19
+
+—
+
+5
+
+6
+
+—
+
+8
+
+10
+
+—
+
+7
+
+8
+
+—
+
+6
+
+7
+
+—
+
+4
+
+5
+
+—
+
+6
+
+7
+
+301
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Tabatinga Tapauá Tefé Tonantins Uarini Urucará Urucurituba TOTAL INTERIOR
+
+3
+
+1
+
+2
+
+1
+
+—
+
+—
+
+1
+
+1
+
+1
+
+1
+
+—
+
+—
+
+—
+
+—
+
+—
+
+1
+
+—
+
+—
+
+2
+
+—
+
+—
+
+66
+
+2
+
+41
+
+—
+
+8
+
+14
+
+—
+
+6
+
+7
+
+—
+
+12
+
+15
+
+—
+
+5
+
+6
+
+—
+
+3
+
+3
+
+—
+
+8
+
+9
+
+—
+
+7
+
+9
+
+2
+
+526
+
+637
+
+Fontes: CNES/DATASUS, competência 02/2026. Legenda: H. Geral = Hospital geral, H. Esp. = Hospital especiaizado, Pronto At. = Pronto atendimento, CS/UBS = Centros de Saúde / UBS. Nota: Uarini é o único município sem hospital geral. Tabatinga e Tefé são os únicos com hospital especializado no interior. Hospitais de Guarnição de São Gabriel da Cachoeira e Tabatinga (gestão federal) não estão contabilizados.
+
+ O peso invisível da demanda extraestadual
+
+A rede pública de saúde do Amazonas
+
+não atende apenas os 4,3 milhões de amazonenses. Três das sete fundações estaduais funcionam como referência para toda a Amazônia Ocidental, absorvendo demanda contínua de outros estados e de países vizinhos — uma função de referência regional que o estado exerce sem receber o financiamento correspondente.
+A Fundação Centro de Controle de Oncologia (FCECON) é o único hospital público de oncologia da Amazônia Ocidental. Integrada à Central Nacional de Regu-
+
+Mesmo diante de estados com perfil comparável, o Amazonas permanece aquém do desejado: com população três vezes menor, Rondônia apresenta indicadores hospitalares superiores em acesso, eficiência e regulação.
+
+lação de Alta Complexidade (CNRAC), a
+
+unidade está habilitada a receber pacientes
+
+de nove estados brasileiros com despesas cobertas pelo Ministério da Saúde. Entre 2019
+
+e 2021, a FCECON recebeu mais de 14 mil novos pacientes provenientes da região amazô-
+
+nica, de países vizinhos e de nove estados brasileiros. Em 2024, a unidade realizou 3.373
+
+cirurgias oncológicas — resultado 2,64% superior ao de 2023 —, atendendo pacientes do
+
+Amazonas, de outros estados da região Norte e de países limítrofes.
+
+Já a Fundação Hospital do Coração Francisca Mendes (FHCFM), é o único centro público de alta complexidade cardiovascular da Região Norte, com abrangência estimada de 12 milhões de pessoas, atendendo pacientes do oeste do Pará, Roraima, Rondônia, Acre e, ocasionalmente, de países vizinhos como Venezuela, Peru e Bolívia. Em 2024, a unidade realizou 919 cirurgias, sendo 563 cardíacas e 356 vasculares. Além de 4,5 mil procedimentos de hemodinâmica, atendendo também pacientes de outros estados via Tratamento Fora de Domicílio (TFD).
+
+302
+
+Parte 02. Plano estratégico de desenvolvimento
+
+A Fundação de Medicina Tropical Dr. Heitor Vieira Dourado (FMT-HVD) é referência nacional e internacional em doenças infecciosas e parasitárias, acidentes ofídicos e dermatologia tropical, respondendo a demandas do Amazonas e dos demais estados da região há mais de cinco décadas. Em 2011, último período com dados consolidados disponíveis, a Fundação realizou 334.412 atendimentos e mais de 999 mil exames laboratoriais.
+Esse papel de referência regional, tem uma consequência direta sobre o diagnóstico financeiro da rede: parte significativa da produção hospitalar das fundações estaduais é gerada por pacientes de outros estados, mas o custo de manutenção da estrutura — servidores, insumos, infraestrutura — é integralmente suportado pelo orçamento do Amazonas. O mecanismo de compensação via FAEC e CNRAC cobre parte dos procedimentos regulados, mas não cobre os custos fixos da capacidade instalada. Em termos práticos, o Amazonas subsidia o acesso à saúde de outros estados da Amazônia, sem que esse ônus seja explicitamente reconhecido nos critérios de partilha do financiamento federal do SUS. A equidade geográfica no financiamento da saúde — tema central da proposta de Lei do Coeficiente de Equidade Geográfica desenvolvida neste Plano — passa necessariamente por reconhecer e remunerar esse papel de referência regional que o estado exerce há décadas.
+A distribuição dos leitos é profundamente desigual. A macrorregião central1 é a mais populosa: com 72% da população, concentra 83,8% dos leitos e 87,5% dos leitos de UTI. Em contraste, a macrorregião Oeste, a mais isolada, possui 406 leitos SUS, taxa de cobertura hospitalar de 19,2% (a mais crítica do estado) e apenas 24 leitos de UTI, para atender cerca de 565 mil habitantes espalhados em área de fronteira entre a Colômbia e Peru. O quadro a seguir apresenta alguns indicadores por macrorregião.
+1. Calha do Alto Rio Negro: São Gabriel da Cachoeira, Barcelos e Santa Isabel do Rio Negro. Calha do Purus (transição centro-sul): Boca do Acre, Lábrea, Canutama, Pauini e Tapauá, Beruri. Calha do Rio Negro e Solimões: Manaus, Iranduba, Novo Airão, Manacapuru, Manaquiri, Careiro, Careiro da Várzea, Autazes, Rio Preto da Eva, Coari, Codajás, Anori, Anamã e Caapiranga.
+303
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Quadro 9 — Perfil da distribuição de leitos por macrorregião
+Macrorregião Central concentra 84% dos leitos SUS do estado, com cobertura de 53,8%
+Continuação da Parte 1. Trinta municípios restantes em ordem alfabética (J a U), com totais consolidados da rede interior do Amazonas.
+
+0,72
+
+Leitos por mil habitantes na Macrorregião Oeste — abaixo do parâmetro ministerial e da metade da Central. A Oeste tem cobertura de apenas 19,2%, contra 53,8% da Central. O total do Amazonas é de 1,31 leitos/mil hab., distribuídos em 5.666 leitos.
+
+Macrorregião
+
+Munic. Pop. total Leitos Leitos/1000 SUS habitantes UTI
+
+CENTRAL
+
+Alto Rio Negro, Purus,
+
+24
+
+Rio Negro e Solimões
+
+LESTE
+
+Baixo Amazonas, Madeira
+
+17
+
+e Médio Amazonas
+
+OESTE
+
+Alto Solimões, Juruá e
+
+21
+
+Solimões-Juruá-Japurá
+
+TOTAL AM
+
+62
+
+3.073.506
+
+4.748
+
+642.725
+
+512
+
+564.978 4.321.616
+
+406 5.666
+
+1,54
+
+430
+
+0,80
+
+38
+
+0,72
+
+24
+
+1,31
+
+492
+
+Cobertura 53,8% 35,4% 19,2% —
+
+Fontes: Portaria GM/MS nº 1.631/2015; SINASC/DATASUS 2024; SIH/DATASUS 2024 (AIH por capítulo CID); CNES/MS 02/2026; RAG SES-AM 2024; SIGTAP/DATASUS 2024. Nota metodológica. Os dados populacionais por macrorregião (DATASUS/MS, ano-base 2024) somam 4.281.209 habitantes, enquanto o total estadual de 4.321.616 habitantes corresponde à estimativa IBGE 2025, divulgada em agosto de 2025 no Diário Oficial da União. A diferença de 40.407 habitantes reflete o crescimento populacional entre os dois anos-base (0,94% a.a.) e não inconsistência nos dados. O IBGE não desagrega estimativas por macrorregião de saúde; a atualização dessa distribuição pelo DATASUS/MS ainda não foi publicada para 2025.
+
+ UTI Neonatal no Amazonas: déficit de leitos e urgência regional
+Na neonatologia, há déficit de leitos de UTI. Estima-se defasagem de 70 leitos, tomando como base os parâmetros da Portaria GM/MS nº 1.631/2015 (2 leitos por 1.000 nascidos vivos) e dados do SINASC/DATASUS de 2024 (64.378 nascidos vivos por ano). Há concentração desses leitos na capital, o que obriga o deslocamento de gestantes, inclusive de alto risco, frequentemente por via fluvial, em transferências que podem superar 12 horas e, portanto, são incompatíveis com a urgência obstétrica e neonatal.
+A gravidade do cenário é potencializada pelo perfil epidemiológico: gravidez, parto e puerpério respondem por 26,3% de todas as internações no Amazonas (60.239 AIH por ano — SIH/DATASUS 2024), constituindo a principal causa de hospitalização no Estado. Na especialidade neonatal, os valores de reembolso previstos na tabela federal de procedimentos também estão defasados em relação ao custo real. O custo médio por internação
+304
+
+Parte 02. Plano estratégico de desenvolvimento
+
+em UTI Neonatal (R$ 11.696) supera o valor de repasse do Sistema de Gerenciamento da Tabela de Procedimentos (SIGTAP) de R$ 6.800,00, gerando déficit estrutural de custeio em cada leito operado.
+A superação desta lacuna exige ampliação de leitos de UTI Neonatal em hospitais das macrorregiões, implantação de telemedicina neonatal para suporte remoto às maternidades do interior e capacitação de equipes de enfermagem neonatal nos hospitais gerais do interior.
+Para efeitos de diagnóstico, municípios sem UTI, sem especialidade de referência e com tempo médio de deslocamento superior a quatro horas até o serviço de maior complexidade disponível podem ser classificados como “Deserto de Saúde”. O mapeamento completo dos 62 municípios identifica localidades enquadradas como Deserto Crítico (Nível 3), nas quais a população vulnerável estimada supera 600 mil pessoas. Municípios como Borba (oito horas de Manaus, por via fluvial), Manicoré (nove horas) e Eirunepé (acesso apenas aéreo ou por via fluvial, em trajetos de vários dias) estão entre os casos mais graves. Mesmo municípios próximos a Manaus não dispõem de UTI nem maternidade.
+
+Dado crítico: 52,3% da população amazonense vive a mais de quatro horas de distância do serviço de saúde especializado mais próximo. No Brasil, essa proporção é de 32,8%. O Amazonas supera a média nacional em quase 20 pontos percentuais. Nos municípios da macrorregião Oeste, esse percentual chega a 82%.
+
+ O território como desafio estrutural
+
+Nenhuma base fiscal é honesta se não começa pelo território. Dos 62 municípios do
+
+Amazonas, 48 não possuem acesso rodoviário contínuo. A logística fluvial, que conecta
+
+comunidades ribeirinhas, povos indígenas e cidades do interior à capital, não é apenas
+
+uma característica geográfica, mas um determinante primário de saúde. Medicamentos,
+
+equipamentos e profissionais de saúde custam entre três e cinco vezes mais para chegar
+
+ao interior amazônico do que a média nacional. O custo médio por internação hospitalar
+
+no Amazonas — R$ 5.420,00, calculado a
+
+partir do Sistema de Informações Hospi-
+
+talares (SIH/DATASUS) — supera em 32% o benchmark nacional de R$ 4.100,00, reflexo direto dessa equação logística.
+A bacia hidrográfica amazônica, em sua grandiosidade, impõe sazonalidades que afetam diretamente o acesso à saúde. Nos períodos de cheia, comunidades de várzea ficam isoladas por semanas. Nas épocas de seca, os rios tornam-se intransponíveis para embarcações
+
+A qualidade do SUS no Amazonas não é uma política social opcional, mas a única linha de cuidado disponível para a esmagadora maioria da população.
+
+305
+
+Parte 02. Plano estratégico de desenvolvimento
+
+maiores. Qualquer política de saúde que ignore a variável climática está fadada ao fracasso. A construção de um Plano de Estado, como este que agora apresentamos, incorpora explicitamente o calendário hidrológico como variável estratégica.
+Neste ambiente diferenciado, há uma concentração populacional em Manaus, que abriga 53,6% dos 4.321.616 habitantes, com projeção de crescimento de 4,5% até 2030. Essa concentração, ao mesmo tempo que facilita a oferta de serviços de alta complexidade, cria um gargalo estrutural. A capital atua como receptora de pacientes de todo o interior, sobrecarregando unidades que já operam no limite. É alta a dependência do SUS, que atende diretamente aproximadamente 3,37 milhões de pessoas que não possuem plano de saúde privado e que dependem integralmente do sistema público. No interior, esse percentual supera 85%.
+ Receita estadual e sustentabilidade do sistema de saúde
+Uma das principais fontes de recursos do Estado é o ICMS. Em 2025, a arrecadação totalizou R$ 16,96 bilhões, dos quais 12% estão vinculados à aplicação na saúde. Contudo, essa robustez fiscal não se traduz automaticamente em qualidade do SUS. O financiamento federal — que deveria ser complementar — representa apenas 3,09% do orçamento total da SES-AM, muito abaixo do que o perfil epidemiológico e territorial do Amazonas demandaria. As transferências federais per capita (R$ 312,00 por habitante) ficam levemente acima da média nacional, mas mascaram um subfinanciamento crônico quando se considera o custo amazônico ampliado pela dispersão territorial.
+Dessa forma, há um desafio de governança a ser superado nos próximos anos, para que eventuais perdas de arrecadação não comprometam atendimentos preventivos, a atenção básica, a rede hospitalar e demais serviços de saúde.
+No que diz respeito à mortalidade hospitalar, verifica-se que a taxa média da rede SES-AM é de 4,8%, acima do benchmark nacional de 4,0%. Três unidades — HPS 28 de Agosto (9,8%), HPS Dr. Platão Araújo (9,4%) e HPS Dr. João Lúcio (8,1%) — apresentam índices superiores ao dobro do referencial aceitável para hospitais gerais de adultos, exigindo atenção imediata à qualidade assistencial. A Fundação Hospital Adriano Jorge (FHAJ) opera com 93% de ocupação em UTI, acima do limite operacional seguro de 85% recomendado pela OMS.
+306
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ Fortalecer a atenção primária para transformar resultados
+A atenção primária pode ser avaliada por diversos indicadores. Optou-se por destacar três métricas que refletem a necessidade de melhoria da saúde no interior e na capital. A primeira é a cobertura vacinal (%), com parâmetro de referência superior a 95%; a segunda é o Score de Atenção Básica (SAB), que deve alcançar ao menos 50 pontos, sendo os municípios com pontuação inferior a 30 classificados em situação crítica; e a terceira é a cobertura da Estratégia Saúde da Família (ESF), medida por equipe por 1.000 habitantes, com referência mínima de 1,0 por 1.000 habitantes.
+No que diz respeito à cobertura vacinal, somente Manacapuru, Itacoatiara, Parintins e Manaus apresentam indicador acima de 70%, sendo Manaus o único município a alcançar 73% de cobertura. Todos os demais registram índices entre 62% e 68%, muito aquém dos 95% estabelecidos como referência. Atalaia do Norte apresenta o pior desempenho, com 62,9%.
+O segundo indicador, denominado Score de Atenção Básica (SAB), tem como referência pontuação igual ou superior a 50 pontos. Nesse quesito, a capital é o único município a atingir 58,8 pontos, enquanto todos os demais permanecem abaixo da linha de normalidade da atenção básica. Há, inclusive, municípios em situação crítica, como Jutaí, Anamã, Beruri, Caapiranga, Novo Aripuanã, Amaturá, Envira, Nhamundá, Novo Airão, Urucará, Fonte Boa, Rio Preto da Eva, Apuí e Eirunepé, com score abaixo de 15 pontos.
+O terceiro indicador é a Cobertura ESF por 1.000 habitantes. Trata-se de métrica de saúde pública que demonstra quantas pessoas estão potencialmente cobertas pelas equipes da Estratégia Saúde da Família (ESF) no Sistema Único de Saúde. O valor mínimo de referência é de 1,0 por 1.000 habitantes. Ao se observar os dados por município, constata-se que todos os municípios do Estado estão acima desse patamar, mas nenhum se aproxima do indicador de 2,0.
+
+Quadro 10 — Parte 1 de 2: Atenção primária
+Atenção básica por município - municípios de Alvarães a Irapiranga
+Cobertura vacinal, score de atenção básica e cobertura ESF/1.000nhabitantes para cada município do Amazonas. Parte 1: 31municípios (A a I), em ordem alfabética. Fontes e notas na Parte 2.
+
+73,9%
+Cobertura vacinal de Manaus
+
+58,8
+Maior score APS (Manaus)
+
+62
+Municípios avaliados
+
+307
+
+Município
+Alvarães Amaturá Anamã Anori Apuí Atalaia do Norte Autazes Barcelos Barreirinha Benjamin Constant Beruri Boa Vista do Ramos Boca do Acre Borba Caapiranga Canutama Carauari Careiro Careiro da Várzea Coari Codajás Eirunepé Envira Fonte Boa Guajará Humaitá Ipixuna Iranduba Itacoatiara Itamarati Itapiranga
+
+Cobertura Vacinal
+64,30% 63,90% 63,70% 64,30% 68,40% 62,90% 68,00% 63,70% 67,60% 67,80% 67,60% 67,80% 68,00% 67,60% 63,90% 63,50% 67,30% 67,90% 67,70% 68,00% 67,80% 67,80% 63,60% 67,40% 63,70% 68,40% 66,60% 68,50% 70,70% 63,00% 64,10%
+
+Score APS
+21,20 12,9 0 11,9 0 31,40 14,50 19,60 27,30 26,60 24,60 33,50 12,10 30,30 32,50 24,50 12,40 23,40 30,70 28,50 26,60 32,40 30,40 14,70 13,00 14,00 42,40 28,00 25,90 29,90 27,80 40,70 27,20
+
+ESF/1.000HAB
+1,19 0,87 1,00 1,66 1,38 1,26 1,52 1,65 1,48 1,47 1,33 1,51 1,55 1,43 1,35 1,66 1,61 1,55 1,48 1,63 1,63 1,40 1,11 1,42 1,39 1,58 1,56 1,45 1,49 1,67 1,83
+
+308
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Quadro 10 — Parte 2 de 2: Atenção primária
+Atenção básica por município - municípios de Japurá a Urucurituba
+Continuação da Parte 1. 31 municípios restantes (J a U) em ordem alfabética, incluindo Manaus como capital.
+
+73,9%
+Cobertura vacinal de Manaus
+Município
+Japurá Juruá Jutaí Lábrea Manacapuru Manaquiri Manaus (capital) Manicoré Maraã Maués Nhamundá Nova Olinda do Norte Novo Airão Novo Aripuanã Parintins Pauiní Presidente Figueiredo Rio Preto da Eva Santa Isabel do Rio Negro Santo Antônio do Içá São Gabriel da Cachoeira São Paulo de Olivença São Sebastião do Uatumã
+
+58,8
+Maior score APS (Manaus)
+
+62
+Municípios avaliados
+
+Cobertura Vacinal
+63,40% 63,70% 67,00% 67,60% 70,20% 65,10% 73,90% 67,80% 63,40% 67,90% 67,90% 67,80% 64,30% 67,80% 70,90% 67,00% 68,70% 68,30% 63,60% 67,40% 67,30% 67,50% 64,40%
+
+Score APS
+34,30 17,70 11,10 26,40 21,50 23,30 58,80 16,40 19,70 23,60 13,00 26,90 13,50 12,40 40,20 20,00 31,9 0 14,20 24,9 0 29,50 17,20 26,10 22,40
+
+ESF/1.000HAB
+1,06 1,80 1,06 1,42 1,43 1,48 1,78 1,38 1,26 1,51 1,41 1,42 1,21 1,18 1,67 1,48 1,50 1,18 1,43 1,63 1,39 1,41 1,62
+
+309
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Silves Tabatinga Tapauá Tefé Tonantins Uarini Urucará Urucurituba
+
+64,40% 68,50% 67,00% 68,70% 67,40% 63,80% 64,40% 67,70%
+
+40,20 30,10 24,70 44,10 34,50 32,00 13,70 16,10
+
+1,58 1,50 1,45 1,75 1,48 1,28 1,53 1,54
+
+Fontes: CNES/MS - Cadastro Nacional de Estabelecimentos de Saúde; e-Gestor AB/DAB/MS; SSIOPS/FNS; SI-PNI/DATASUS; SIM/SVS/MS; IBGE Censo 2022 e Estimativas Populacionais 2024; PREVINE Brasil/DAB/MS.
+
+310
+
+ MAPA 2 – COBERTURA VACINAL POR MUNICÍPIO (%) Amazonas — Média 2024/2025
+Fonte: e-Gestor AB/DAB/MS — Painel de Acompanhamento da Atenção Básica; competência 2024/2025.
+311
+
+COBERTURA VACINAL %
+Menor que 63,90% (14) 63,91% - 65,10% (8) 65,11% - 67,70% (16) 67,71% - 68,70% (20) Maior que 73,90% (4)
+
+São Gabriel da Cachoeira
+
+Japurá
+
+Atalaia do Norte
+
+Santo Antônio do Içá
+
+Tonantins Amaturá
+
+Tabatinga São Paulo de Olivença Jutaí
+Benjamin Constant
+
+Carauari
+
+Guajará
+
+Ipixuna
+
+Eirunepé Envira
+
+Itamarati Pauini
+
+Boca do Acre
+
+Santa Isabel do Rio Negro
+
+Maraã Fonte Boa
+
+Juruá
+
+Uarini Alvarães
+
+Tefé
+
+Barcelos
+Codajás Coari
+
+Urucará
+
+Presidente Figueiredo
+
+São Sebastião do Uatumã Nhamundá
+
+Novo Airão
+
+Rio Preto Itapiranga
+
+Manaus da Eva
+
+Urucurituba Parintins
+
+Caapiranga Iranduba
+
+Silves Boa Vista
+
+Careiro
+
+do Ramos
+
+Anamã Manacapuru da Várzea Itacoatiara
+
+Barreirinha
+
+Manaquiri Careiro Nova Olinda
+
+Anori
+
+Autazes
+
+do Norte
+
+Beruri
+
+Borba
+
+Maués
+
+Tapauá
+
+Manicoré
+
+Novo Aripuanã
+
+Canutama
+
+Humaitá
+
+Apuí
+
+Lábrea
+
+Escala: 1:11.000.000
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ MAPA 3 – SCORE DE ATENÇÃO BÁSICA (SAB) POR MUNICÍPIO Amazonas — Ano Base 2024/2025
+Fonte: e-Gestor AB/DAB/MS — Painel de Acompanhamento da Atenção Básica; competência 2024/2025.
+312
+
+SCORE DE ATENÇÃO BÁSICA
+Menor que 16,4 (16) 16,5 - 22,5 (8) 22,6 - 28,5 (18) 28,6 - 34,5 (14) Maior que 34,6 (6)
+
+São Gabriel da Cachoeira
+
+Japurá
+
+Atalaia do Norte
+
+Santo Antônio do Içá
+
+Tonantins Amaturá
+
+Tabatinga São Paulo de Olivença Jutaí
+Benjamin Constant
+
+Carauari
+
+Guajará
+
+Ipixuna
+
+Eirunepé Envira
+
+Itamarati Pauini
+
+Boca do Acre
+
+Santa Isabel do Rio Negro
+
+Maraã Fonte Boa
+
+Juruá
+
+Uarini Alvarães
+
+Tefé
+
+Barcelos
+Codajás Coari
+
+Urucará
+
+Presidente Figueiredo
+
+São Sebastião do Uatumã Nhamundá
+
+Novo Airão
+
+Rio Preto Itapiranga
+
+Manaus da Eva
+
+Urucurituba Parintins
+
+Caapiranga Iranduba
+
+Silves Boa Vista
+
+Careiro
+
+do Ramos
+
+Anamã Manacapuru da Várzea Itacoatiara
+
+Barreirinha
+
+Manaquiri Careiro Nova Olinda
+
+Anori
+
+Autazes
+
+do Norte
+
+Beruri
+
+Borba
+
+Maués
+
+Tapauá
+
+Manicoré
+
+Novo Aripuanã
+
+Canutama
+
+Humaitá
+
+Apuí
+
+Lábrea
+
+Escala: 1:11.000.000
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ MAPA 4 – COBERTURA ESF / 1.000 POR MUNICÍPIO Amazonas — CNES/MS 02/2026
+Fonte: e-Gestor AB/DAB/MS — Painel de Acompanhamento da Atenção Básica; competência 2024/2025.
+313
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Ao analisar a saúde sob a perspectiva territorial, segmentada por calhas hidrográficas, observa-se que a calha do Alto Rio Negro apresenta a menor cobertura vacinal do Estado, com índice de 64,87%. Adicionalmente, merece especial atenção a situação da calha do Madeira, cujos indicadores se encontram significativamente abaixo dos parâmetros considerados adequados. A região registra 19,16 pontos no indicador de Saúde Básica, patamar substancialmente inferior ao mínimo desejável de 50 pontos. Da mesma forma, apresenta desempenho insatisfatório na cobertura da Estratégia Saúde da Família (ESF) por 1.000 habitantes, alcançando apenas 1,19 pontos.
+
+MAPA 5 – Divisão por calhas e média dos indicadores
+
+SCORE DE ATENÇÃO BÁSICA
+Menor que 16,4 (16) 16,5 - 22,5 (8) 22,6 - 28,5 (18) 28,6 - 34,5 (14) Maior que 34,6 (6)
+
+São Gabriel da Cachoeira
+
+Japurá
+
+Atalaia do Norte
+
+Santo Antônio do Içá
+
+Tonantins Amaturá
+
+Tabatinga São Paulo de Olivença Jutaí
+Benjamin Constant
+
+Carauari
+
+Guajará
+
+Ipixuna
+
+Eirunepé Envira
+
+Itamarati Pauini
+
+Boca do Acre
+
+Santa Isabel do Rio Negro
+
+Maraã Fonte Boa
+
+Juruá
+
+Uarini Alvarães
+
+Tefé
+
+Barcelos
+Codajás Coari
+
+Urucará
+
+Presidente Figueiredo
+
+São Sebastião do Uatumã Nhamundá
+
+Novo Airão
+
+Rio Preto Itapiranga
+
+Manaus da Eva
+
+Urucurituba Parintins
+
+Caapiranga Iranduba
+
+Silves Boa Vista
+
+Careiro
+
+do Ramos
+
+Anamã Manacapuru da Várzea Itacoatiara
+
+Barreirinha
+
+Manaquiri Careiro Nova Olinda
+
+Anori
+
+Autazes
+
+do Norte
+
+Beruri
+
+Borba
+
+Maués
+
+Tapauá
+
+Manicoré
+
+Novo Aripuanã
+
+Canutama
+
+Humaitá
+
+Apuí
+
+Lábrea
+
+Escala: 1:11.000.000
+
+Fontes: Resolução CIB/AM nº 118, de 18 de junho de 2018; IBGE, Censo Demográfico 2022 e Estimativas Populacionais 2024.
+
+314
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Quadro 11 — Atenção primária - Calhas de rio
+Indicadores de Atenção Básica por calha de rio - médias 2024/2025
+Agrupamento dos municípios do Amazonas pelas nove calhas de rio, com médias dos três indicadores-chave de atenção primária.
+
+Calha de Rio
+
+Cobertura Vacinal
+
+Score APS ESF/1.000HAB
+
+Alto Rio Negro Alto Solimões Baixo Amazonas Juruá Madeira Médio Amazonas Purus Rio Negro e Solimões Solimões-Juruá-Japurá
+
+64,87% 66,49% 67,17% 65,33% 68,00% 67,33% 66,78% 67,26% 65,21%
+
+22,90 26,60 24,03 27,9 0 19,16 27,67 23,18 25,86 24,26
+
+1,490 1,374 1,537 1,457 1,390 1,553 1,482 1,454 1,353
+
+Fontes: Resolução CIB/AM nº 118, de 18 de junho de 2018; IBGE, Censo Demográfico 2022 e Estimativas Populacionais 2024.
+
+315
+
+Parte 02. Plano estratégico de desenvolvimento
+
+MAPA 6 – Divisão por macrorregião e média dos indicadores
+
+LEGENDA
+MACRORREGIÃO
+CENTRAL (25) LESTE (16) OESTE (21)
+
+Atalaia do Norte
+
+Guajará
+
+Ipixuna
+
+São Gabriel da Cachoeira
+
+Japurá
+
+Santo Antônio do Içá
+
+Tonantins Amaturá
+
+Tabatinga São Paulo de Olivença Jutaí
+Benjamin Constant
+
+Carauari
+
+Eirunepé Envira
+
+Itamarati Pauini
+
+Boca do Acre
+
+Santa Isabel do Rio Negro
+
+Barcelos
+
+Maraã Fonte Boa
+
+Juruá
+
+Uarini Alvarães
+
+Tefé
+
+Coari
+
+Codajás
+
+Urucará
+
+Presidente Figueiredo
+
+Novo Airão
+
+São Sebastião do Uatumã Nhamundá
+Rio Preto da Eva Itapiranga Urucurituba
+
+Parintins
+
+Caapiranga Iranduba Manaus Silves Boa Vista
+
+Careiro
+
+do Ramos
+
+Anamã Manacapuru da Várzea Itacoatiara
+
+Barreirinha
+
+Manaquiri Careiro
+
+Nova Olinda
+
+Anori
+
+Autazes
+
+do Norte
+
+Beruri
+
+Borba
+
+Maués
+
+Tapauá
+
+Manicoré
+
+Novo Aripuanã
+
+Canutama
+
+Humaitá
+
+Apuí
+
+Lábrea
+
+Escala: 1:11.000.000
+
+Fontes: Resolução CIB/AM nº 118, de 18 de junho de 2018; IBGE, Censo Demográfico 2022 e Estimativas Populacionais 2024.
+
+Rótulos de linha
+CENTRAL LESTE OESTE
+
+média de cobertura vacinal %
+67%
+67%
+66%
+
+média de score de atenção básica
+24,78
+24,09
+26,08
+
+média de cobertura esf/1.000 hab.
+1,47
+1,50
+1,39
+
+ Mais idosos, novas demandas: o desafio que já começou
+O Amazonas envelhece em ritmo acelerado, e esse movimento já impõe novos desafios à rede pública de saúde. A Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD Contínua/IBGE 2024) registrou que a população com 60 anos ou mais no Amazonas aumentou de 7,0%, em 2012, para 10,8%, em 2024. Em números absolutos, o Estado passou de aproximadamente 245 mil idosos para mais de 443 mil no mesmo período — crescimento de 80,8% em 12 anos, enquanto a população total avançou 16,6%.
+O envelhecimento populacional é o principal vetor de crescimento da carga de Doenças Crônicas Não Transmissíveis (DCNT). Dados da Fundação de Vigilância em Saúde (FVS-AM) registram 19.273 óbitos no Amazonas por DCNT entre 2018 e 2022, com taxa de mortalidade prematura (30 a 69 anos) que atingiu pico de 233,86 óbitos por 100 mil habitantes, em 2021. Persistem lacunas assistenciais que precisam ser enfrentadas, entre elas a ausência
+316
+
+317
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Parte 02. Plano estratégico de desenvolvimento
+
+de centros de referência, a não implantação da Caderneta da Pessoa Idosa na Atenção Primária à Saúde (APS), o déficit de leitos geriátricos e a inexistência de política específica voltada à saúde mental do idoso.
+
+Para enfrentar problemas dessa natu-
+
+reza, já existe um conjunto de marcos normativos que pode orientar novas ações voltadas à avaliação geriátrica, à reabilitação funcional e à articulação intersetorial com assistência social, cultura, educação e esporte, em iniciativas que vão da atividade física ao combate ao isolamento.
+É fato que o investimento no enfrentamento das Doenças Crônicas Não Transmissíveis (DCNT) entre a população com
+
+Cuidar da saúde do idoso não é preparar o futuro: é responder a uma mudança demográfica que já transforma o Amazonas no presente.
+
+mais de 60 anos produz efeitos positivos,
+
+ao reduzir, no médio e no longo prazo, a
+
+sobrecarga sobre o sistema de saúde. Por essa razão, o tema será contemplado no Plano
+
+de Ações Detalhadas, com iniciativa específica voltada à população idosa, incluindo a
+
+implantação de Centro de Referência em cuidados ao idoso.
+
+ Regulação do acesso e relação estado-município
+A regulação do acesso aos serviços de saúde é o gargalo mais visível da crise assistencial no Amazonas. Em 2025, o SISREG-AM registrou fila ativa de 159.389 pacientes aguardando procedimentos, consultas especializadas e internações — volume que expressa não apenas insuficiência de oferta, mas também falhas na organização sistêmica do acesso. Desse total, 64.115 são moradores de Manaus que não conseguem ser absorvidos pela rede da capital. Os outros 95.274 são pacientes do interior, dependentes da regulação estadual para acessar serviços inexistentes em seus municípios.
+O dado que mais revela a profundidade do problema é o tempo médio de espera: 759 dias no interior do Estado. Como já exposto, em Atalaia do Norte a média chega a 1.537 dias — mais de quatro anos. No Rio Preto da Eva, são 1.504 dias. No Careiro da Várzea, 1.443 dias. Esses não são apenas números de ineficiência administrativa, mas o resultado direto de um sistema em que 47 dos 62 municípios não dispõem de nenhum leito de UTI e outros dez têm capacidade intensiva inferior a 0,1 leito por mil habitantes. Na prática, qualquer agravo clínico mais grave obriga o paciente a ser encaminhado para Manaus, independentemente da distância ou das condições logísticas.
+A regulação no Amazonas não é apenas uma função técnica de distribuição de vagas, mas uma função política de acesso à vida. Quando um paciente em Tabatinga aguarda 724 dias por uma vaga regulada em Manaus, o sistema transfere ao SISREG-AM a responsabilidade por uma falha estrutural que começa na ausência de especialistas no interior, passa pela insuficiência de leitos e culmina na incapacidade logística de remover pacientes críticos com agilidade.
+318
+
+Parte 02. Plano estratégico de desenvolvimento
+
+A relação entre Estado e municípios nesse campo é legalmente clara: cabe ao Estado organizar a regulação regional, operar as centrais de média e alta complexidade e garantir a referência especializada que os municípios não têm condições de ofertar isoladamente. Na prática, porém, essa função é exercida de forma fragmentada, sem contratualização formal com os municípios, sem protocolos unificados de acesso e sem integração entre a regulação ambulatorial e a hospitalar.
+O próximo governo estruturará a Central Estadual de Regulação do Amazonas como instância técnica permanente, com protocolos formalizados, metas de tempo de resposta por especialidade e painel público de monitoramento integrado ao SISREG-AM, garantindo que a fila de 159 mil pacientes seja reduzida ao longo do mandato de forma sistemática e comprovável.
+
+ Tratamento Fora do Domicílio e o custo da omissão sistêmica
+
+No Amazonas, o Tratamento Fora do Domicílio (TFD), regulamentado pela Portaria GM/MS n.º 55/1999, é uma despesa estrutural que recai majoritariamente sobre o Estado. Quando 47 dos 62 municípios não têm nenhum leito de UTI e outros dez operam com capacidade intensiva abaixo de 0,1 leito por mil habitantes, todo paciente crítico que não pode ser atendido localmente precisa ser removido para Manaus. O custo dessa remoção, especialmente por via aérea, é integralmente custeado pela SES-AM. Um voo de aeromédico do interior à capital custa entre R$ 15.000 e R$ 45.000 por ocorrência, a depender da distância e do tipo de aeronave. Para municípios sem acesso rodoviário, como Atalaia do Norte, Tabatinga ou São Gabriel da Cachoeira, distantes de Manaus entre 1.200 km e 1.600 km, não há alternativa logística.
+
+Os 95.274 pacientes do interior com demandas ativas no SISREG-AM representam o passivo acumulado desse modelo: uma fila crescente que, na ausência de resolutividade local, converte-se em pressão contínua sobre o TFD estadual. O custo com transporte aéreo sanitário já representa uma das principais rubricas operacionais da SES-AM, com despesas consolidadas no SIAFE/SEFAZ-AM que crescem ano a ano, na exata proporção em que cresce o déficit de oferta especializada no interior. O paradoxo é direto: quanto menor investimento do Estado na construção de rede assistencial no interior, maior o gasto para transporte do doente que essa ausência produz. O TFD, no modelo atual, é o custo da omissão sistêmica.
+
+Reduzir o gasto com TFD não depende apenas de transporte mais barato, mas de levar saúde para mais perto de onde as pessoas vivem.
+
+319
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Este Plano trata o TFD como consequência, não como política permanente. A expansão dos polos regionais de saúde, a implantação de leitos de UTI nas três macrorregiões e a universalização da telessaúde nos 62 municípios reduzirão progressivamente a necessidade de remoções de longa distância. Enquanto essa rede não estiver consolidada, a SES-AM estruturará protocolo de regulação centralizada do TFD, com critérios técnicos para indicação de transporte, controle de gastos por macrorregião e metas de redução percentual de remoções aéreas ao longo do mandato, auditáveis via SIAFE/SEFAZ-AM.
+ Repasse per capita e o Coeficiente de Equidade Geográfica em Saúde
+O valor per capita das transferências federais para a saúde no Amazonas é de R$ 312,00 por habitante ao ano. À primeira vista, trata-se de montante competitivo em relação ao Pará (R$ 298,00) e a Rondônia (R$ 288,00). Essa comparação, porém, é enganosa quando se considera o denominador correto: o custo real de produzir saúde em cada território. O custo médio por Autorização de Internação Hospitalar (AIH) no Amazonas é de R$ 5.420, valor 32% superior à média nacional de R$ 4.100 e 39% acima de Rondônia (R$ 3.890). Isso significa que o mesmo recurso federal “compra” muito menos saúde no Amazonas do que em qualquer outro estado comparável.
+Essa lacuna não resulta de menor eficiência do sistema amazônico, mas é consequência direta de uma lógica de partilha federal que trata como equivalentes estados submetidos a custos logísticos radicalmente distintos. Como visto, o Amazonas tem 48 de seus 62 municípios sem acesso rodoviário, custo de transporte entre três e cinco vezes superior à média nacional, dispersão populacional extrema e perfil epidemiológico singular, marcado pela dupla carga de doenças tropicais e pelo avanço das Doenças Crônicas Não Transmissíveis (DCNT). Nada disso está adequadamente refletido na fórmula de distribuição dos recursos federais da saúde.
+320
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Quadro 12 — Transferência Federal x Custo por Internação
+Custo real por AIH no Amazonas é 32% acima da média nacional, com transferência apenas 2% inferior
+Comparativo entre o repasse federal SUS por habitante e o custo real por AIH (Autorização de Internação Hospitalar) entre os estados da Região Norte e a média nacional, em valores nominais.
+
+R$ 5.420
+
+É o custo real por AIH no Amazonas — 32% acima da média nacional de R$ 4.100,00. Apesar disso, o repasse federal por habitante (R$ 312,00) está apenas 2% abaixo da média nacional, configurando déficit estrutural de financiamento.
+
+Estado
+AMAZONAS Pará (PA) Mato Grosso (MT) Rondônia (RO) Tocantins (TO) Média Nacional Fonte: SIH/DATASUS (2025).
+
+Transferência Federal/habitante (R$)
+R$ 312,00 R$ 298,00 R$ 341,00 R$ 288,00 R$ 296,00 R$ 318,00
+
+ESF/1.000HAB
+R$ 5.420,00 R$ 4.210,00 R$ 3.890,00 R$ 4.120,00 R$ 3.980,00 R$ 4.100,00
+
+O poder de compra relativo do repasse federal per capita — calculado pela razão entre a transferência por habitante e o custo médio de uma Autorização de Internação Hospitalar (AIH) — é um dos indicadores mais nítidos da injustiça distributiva. No Amazonas, esse índice é de 0,0578: para cada real transferido pela União, o sistema adquire apenas 0,057 unidade de produção hospitalar padrão. A média nacional alcança 0,078. Em termos práticos, isso significa que o Estado precisa mobilizar mais recursos próprios para entregar o mesmo volume de serviços que unidades da federação com custos logísticos menores conseguem sustentar com repasses equivalentes.
+Essa desigualdade tem nome técnico e amparo jurídico para ser corrigida. A Constituição Federal de 1988, em seu art. 196, assegura o direito à saúde como dever do Estado, a ser concretizado por meio de políticas sociais e econômicas voltadas à redução do risco de doença. Já o art. 198, § 3º, inciso III, prevê que lei complementar estabelecerá critérios de rateio dos recursos da União vinculados à saúde, com o objetivo de promover a redução progressiva das disparidades regionais. A Lei Complementar nº 141/2012, que regulamenta esse dispositivo, não incorporou coeficientes de ajuste territorial suficientes para corrigir as distorções verificadas em estados como o Amazonas. É esse vácuo normativo que o projeto de lei proposto neste Plano Estratégico da Saúde pretende preencher.
+
+321
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Diante de tudo o que foi exposto, torna-se evidente a necessidade de apresentar, por meio da bancada federal do Amazonas e em articulação com o Ministério da Saúde, um projeto de lei federal denominado Lei do Coeficiente de Equidade Geográfica em Saúde (CEGS). A proposta deverá aperfeiçoar a Lei Complementar nº 141/2012 para incluir, no cálculo de rateio das transferências federais em saúde entre estados, um coeficiente multiplicador capaz de refletir três dimensões objetivas e mensuráveis de custo territorial: dispersão geográfica, acessibilidade logística e perfil epidemiológico diferenciado.
+
+A estrutura da fórmula combina três índices normalizados, cada um calculado a partir de fontes federais públicas e auditáveis, de modo que o valor médio nacional de cada indicador corresponda a 1,0. Um estado com CEGS igual a 1,0 recebe exatamente o repasse federal per capita médio. Valores superiores indicam que o custo operacional estrutural do sistema justifica transferência proporcionalmente acima dessa média.
+
+O primeiro índice é o Índice de Dispersão Geográfica (IDG), calculado pela raiz quadrada da combinação ponderada entre a proporção da população residente em municípios sem acesso rodoviário contínuo e o inverso da densidade demográfica estadual, com base em dados do IBGE/MUNIC e do Censo Demográfico, de atualização bienal. Para o Amazonas, onde 800 mil pessoas vivem em municípios exclusivamente fluviais (18,5% da população, ante média nacional de 2,0%) e a densidade demográfica é de 3,6 hab./km² (ante 25,0 no país), o IDG estimado é de 2,89. A raiz quadrada é aplicada para suavizar valores extremos e tornar o índice mais estável em cenários de dispersão severa, sem eliminar o sinal real da desigualdade territorial.
+
+O CEGS propõe uma regra transparente, auditável e replicável, baseada exclusivamente em dados públicos oficiais, para corrigir desigualdades históricas no financiamento da saúde.
+
+O segundo índice é o Índice de Acessibilidade Logística (IAL), definido pela razão entre o custo médio estadual por Autorização de Internação Hospitalar e o custo médio nacional, com base no SIH/DATASUS do ano corrente. Trata-se do componente mais robusto da fórmula: o custo por AIH é publicado anualmente pelo DATASUS, pode ser auditado por qualquer ente federativo e captura, de forma agregada, toda a cadeia logística da produção hospitalar — insumos, transporte e remuneração de profissionais em áreas remotas. Para o Amazonas, onde o custo médio por AIH é de R$ 5.420,00, frente a R$ 4.100,00 da média nacional (SIH/DATASUS 2024), o IAL estimado é de 1,32.
+
+O terceiro índice é o Índice de Perfil Epidemiológico (IPE), calculado pela média ponderada entre a taxa de mortalidade prematura por Doenças Crônicas Não Transmissíveis, na faixa de 30 a 69 anos, com base no SIM/SVS/MS, e a incidência agregada de doenças tropicais endêmicas prioritárias (malária, tuberculose, leishmaniose e dengue) por 100 mil habitantes, segundo o SINAN/DATASUS. Para o Amazonas, os dados de 2024 resultam em IPE estimado de 1,45, refletindo a dupla carga das doenças infecciosas tropicais e o avanço acelerado das doenças crônicas em uma população que envelhece mais rápido do que a rede assistencial consegue absorver.
+
+322
+
+323
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Aplicando-se os pesos propostos de 40% para o IDG, 40% para o IAL e 20% para o IPE — distribuição que reflete a primazia dos determinantes geográficos e logísticos sobre o perfil epidemiológico, já parcialmente contemplado por outros mecanismos federais de financiamento —, o CEGS do Amazonas resulta em 1,97. Em termos práticos, isso significa que o custo estrutural de produzir saúde no estado é 97% superior à média nacional e que o repasse federal per capita de R$ 312,00 por habitante ao ano deveria alcançar R$ 615,00 para refletir esse diferencial. Isso corresponderia a incremento de R$ 1,31 bilhão por ano nos repasses federais ao estado, implantado gradualmente ao longo do mandato, de modo a permitir absorção fiscal pela União sem choque orçamentário.
+A proposta não cria privilégio: qualquer estado que demonstre, com dados federais auditáveis, desvio positivo nos três índices passa a ter direito ao ajuste proporcional. O Amazonas seria o principal beneficiado inicial, em razão da magnitude de seus indicadores, mas estados como Pará, Acre e Roraima também seriam contemplados em graus distintos. Do ponto de vista jurídico, a fórmula encontra amparo direto no art. 198, § 3º, inciso III, da Constituição Federal. O dispositivo determina que lei complementar estabeleça critérios de rateio dos recursos da União vinculados à saúde, com o objetivo de promover a redução progressiva das disparidades regionais. A LC 141/2012 regulamentou esse comando, mas o fez de forma incompleta. A norma não incorporou coeficientes de ajuste territorial suficientes para corrigir distorções enfrentadas por estados com custos estruturalmente superiores à média nacional.
+O custo real precisa entrar na conta
+• CEGS estimado do Amazonas: 1,97 • Repasse atual: R$ 312,00/hab/ano • Repasse ajustado: R$ 615,00/hab/ano • Ganho potencial: R$ 1,31 bilhão por ano • Implementação gradual, sem choque fiscal para a União
+ Aprofundando a leitura com PESTEL e SWOT
+Planejar saúde pública na Amazônia exige mais do que boas intenções: exige leitura precisa da realidade. É por isso que o Plano Estratégico de Desenvolvimento adota a combinação entre as metodologias PESTEL e SWOT, transformando diagnóstico em direção prática e informação em capacidade de governo. A análise PESTEL permite enxergar, de forma organizada, as forças externas que moldam o funcionamento do sistema de saúde. Ela observa fatores políticos, econômicos, sociais, tecnológicos, ambientais e legais que interferem diretamente na formulação e na execução das políticas públicas.
+No Amazonas, isso significa olhar para temas concretos e urgentes: a dependência de transferências federais, os custos impostos por longas distâncias e rios que substituem estradas, o potencial da telemedicina para encurtar vazios assistenciais, as vulnerabilidades
+324
+
+Parte 02. Plano estratégico de desenvolvimento
+
+que atingem populações ribeirinhas e
+
+indígenas, os impactos das mudanças climáticas sobre doenças sazonais e as exigências normativas do Sistema Único de Saúde. Ou seja, a PESTEL fornece uma visão macro, antecipando riscos e oportunidades que estão fora do controle direto do governo, mas que influenciam decisivamente os resultados.
+Por outro lado, a análise SWOT aprofunda o diagnóstico ao voltar o olhar para dentro do sistema e para sua capacidade real de responder aos desafios externos.
+
+O futuro da saúde no Amazonas passa por gestão inteligente, presença regionalizada e uso responsável dos recursos públicos, para que cada investimento se converta em atendimento de qualidade.
+
+Ao mapear Forças, Fraquezas, Oportuni-
+
+dades e Ameaças, a metodologia revela
+
+onde o Estado já possui ativos relevantes
+
+e onde ainda carrega vulnerabilidades que limitam a entrega de resultados. Na saúde do
+
+Amazonas, isso significa reconhecer estruturas valiosas — como hospitais de referência,
+
+equipes experientes, capacidade instalada em áreas estratégicas e parcerias institucionais
+
+consolidadas —, sem ignorar gargalos persistentes, como a escassez de especialistas no
+
+interior, falhas de regulação, desigualdades territoriais e fragilidades de gestão.
+
+Ao mesmo tempo, a SWOT conecta esse retrato interno às oportunidades abertas por novas fontes de financiamento, transformação digital e inovação assistencial, bem como às ameaças representadas por crises fiscais, envelhecimento populacional e aumento contínuo da demanda por serviços. A força metodológica está justamente na integração entre PESTEL e SWOT. A primeira amplia o campo de visão e identifica pressões externas que moldam o sistema. A segunda converte esse cenário em escolhas estratégicas, prioridades de governo e caminhos concretos de ação.
+
+325
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Planejar com base em evidências:
+Quando bem aplicada, a leitura estratégica deixa de ser exercício teórico e passa a orientar decisões concretas. Ela ajuda o governo a escolher melhor, gastar com mais inteligência e agir antes que os problemas se agravem. Planejar com base em evidências faz diferença real na vida das pessoas, tais quais:
+• Definição de prioridades com base em dados concretos, e não apenas em percepções momentâneas.
+• Melhor direcionamento dos recursos públicos, especialmente em cenários de restrição fiscal e aumento da demanda.
+• Antecipação de riscos operacionais por meio de medidas preventivas, como uso de frota diversificada com embarcações de menor calado nos períodos de vazante, manutenção preventiva e preditiva da frota náutica e análise de séries históricas do SIH/DATASUS, SISREG e indicadores epidemiológicos para projeções com até 90 dias de antecedência.
+• Identificação de oportunidades de inovação, com expansão da saúde digital e adoção de novos modelos de gestão.
+• Alinhamento das propostas de governo às necessidades reais da população e às capacidades institucionais do Estado.
+
+Quadro 13 — Matriz pestel x Swot - Saúde do Amazonas
+Matriz PESTEL × SWOT consolida o diagnóstico estratégico em seis dimensões
+Cruzamento entre as seis dimensões PESTEL (Político, Econômico, Social, Tecnológico, Ambiental e Legal) e os quatro vetores SWOT (Forças, Fraquezas, Oportunidades e Ameaças) — leitura sintética do ambiente estratégico da saúde estadual amazonense.
+
+6 × 4
+
+Eixos compõem a matriz analítica integrada — seis dimensões PESTEL e quatro vetores SWOT. A leitura cruzada permite identificar onde forças locais se encontram com oportunidades externas e onde fraquezas estruturais se combinam com ameaças conjunturais.
+
+Dimensão: Político
+
+FORÇAS FRAQUEZAS OPORTUNIDADES AMEAÇAS
+
+Liderança reconhecida na bancada federal e estadual para atração de recursos.
+Riscos de governança e transparência na atuação crescente das organizações sociais (OS).
+Articulação do Projeto de Lei do Coeficiente de Equidade Geográfica (CEGS).
+Rotatividade administrativa: mudanças frequentes na gestão afetam a continuidade do planejamento estratégico.
+
+326
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Dimensão: Econômico
+
+FORÇAS
+
+Base fiscal robusta apoiada pela Zona Franca de Manaus (ZFM).
+
+FRAQUEZAS
+
+Baixo financiamento federal via SIH/SUS (apenas 3,1% do orçamento total).
+
+OPORTUNIDADES Recuperação de R$ 19,7 mi/ano em glosas e captação via FAEC.
+
+AMEAÇAS
+
+Ameaça de nova base fiscal do ICMS/ZFM.
+
+Dimensão: Social
+
+FORÇAS
+
+Alta cobertura da Atenção Primária à Saúde (82,9%).
+
+FRAQUEZAS
+
+Concentração de 73% da estrutura hospitalar em Manaus. Alta mortalidade materna.
+
+OPORTUNIDADES Acordos internacionais de fronteira (OTCA) com Colômbia e Peru.
+
+AMEAÇAS
+
+Aumento da mortalidade materna (triplo da média nacional) e expansão do Deserto Assistencial.
+
+Dimensão: Tecnológico
+
+FORÇAS
+
+Conectividade Starlink em 94% do território; sistema integrado de análise com IA preditiva (SIH/DATASUS, CNES, SIOPS, SISREG, e-Gestor AB).
+
+FRAQUEZAS
+
+Sistemas de informação fragmentados; ausência de prontuário eletrônico único.
+
+OPORTUNIDADES
+
+Rede estadual de telessaúde sob PPP nos 62 municípios, integrada à RNDS e ao SISREG-AM.
+
+AMEAÇAS
+
+Dificuldade de manutenção tecnológica em áreas remotas.
+
+Dimensão: Ambiental
+
+FORÇAS FRAQUEZAS OPORTUNIDADES AMEAÇAS Dimensão: Legal
+
+Expertise em doenças tropicais (FMT-HVD); logística fluvial estabelecida.
+Custo logístico de saúde três a cinco vezes superior à média nacional devido ao isolamento.
+Uso de Unidades de Saúde Fluviais (Barcos-Hospital) para comunidades de várzea.
+Sazonalidade hídrica (cheias e secas extremas) isola populações e torna rotas intransponíveis.
+
+FORÇAS
+
+Investimento estadual em saúde acima do mínimo constitucional (18–20%).
+
+FRAQUEZAS OPORTUNIDADES AMEAÇAS
+
+Lacunas na Lei Complementar 141/2012 quanto às disparidades regionais.
+Adoção de Contratos de Desempenho com metas vinculadas ao IDH-H e taxas de glosa.
+Judicialização para habilitação de leitos psiquiátricos.
+
+a) Ponto crítico: O Estado investe volume expressivo de recursos próprios (R$ 31 estaduais para cada R$ 1 federal via SIH, conforme cálculo baseado no SIAFE/SEFAZ-AM e no SIH/ DATASUS). O dado revela comprometimento, mas também uma dependência estrutural do Tesouro Estadual, que precisa ser reequilibrada por novos mecanismos de repasse, como o Coeficiente de Equidade Geográfica (CEGS).
+b) Vantagem tecnológica: A infraestrutura de satélites permite que o Amazonas supere barreiras físicas por meio da Saúde Digital, reduzindo custos de transporte sanitário que hoje tornam a AIH 32% mais cara que a média nacional.
+
+327
+
+Parte 02. Plano estratégico de desenvolvimento
+
+c) Eficiência financeira: A principal oportunidade de curto prazo está na criação dos Núcleos de Auditoria e Performance (NAP), voltados ao enfrentamento da glosa hospitalar — a mais elevada da Região Norte (11,3%). d) Desafio social: A superação dos 29 municípios em Deserto Crítico (Nível 3) é prioridade para reduzir a sobrecarga da capital e enfrentar os indicadores críticos de mortalidade materna no interior.
+Objetivos: Geral e Específicos
+As diretrizes e metas aqui apresentadas foram construídas a partir de uma visão de futuro para a saúde no Amazonas, traduzindo um projeto de transformação capaz de responder aos desafios do presente e preparar o sistema para as demandas dos próximos anos, organizando-se da seguinte forma:
+Objetivo Geral
+Construir um sistema de saúde que respeite a diversidade do território, garanta acesso equânime — do ribeirinho ao cidadão de Manaus, do indígena ao morador de fronteira, passando pela pessoa idosa —, ofereça qualidade assistencial compatível com a média nacional e assegure eficiência no uso dos recursos públicos. Para alcançar o que se propõe, este documento apresenta um Plano de Ações voltado à superação de problemas históricos do sistema de saúde do Amazonas, por meio do cumprimento dos objetivos específicos.
+Objetivo Específicos
+• Reduzir progressivamente os desertos de saúde, com meta de chegar a, no máximo, cinco territórios em nível crítico até 2030, e avançar para sua eliminação total à medida que se consolide a expansão da infraestrutura regional;
+• Reduzir a taxa de glosa hospitalar de 11,3% para menos de 5%; • Ampliar progressivamente a cobertura de UTI, priorizando a desconcentração; • Implantar a rede estadual de telessaúde, sob o regime de Parceria Público-Privada
+na modalidade de Concessão Administrativa, com cobertura integrada nos 62 municípios, garantindo acesso a teleconsulta especializada e telediagnóstico à população dependente do SUS; • Reduzir a mortalidade materna para, no máximo, 35 óbitos por 100 mil nascidos vivos até 2030, alinhando o Amazonas ao parâmetro do ODS 3.1 e superando a média nacional. A linha de base será definida a partir dos dados do SIM/ DATASUS referentes a 2025, com publicação e consolidação previstas para o primeiro quadrimestre do mandato;
+328
+
+Parte 02. Plano estratégico de desenvolvimento
+
+• Elevar o Índice de Desempenho Hospitalar (IDH-H) médio da rede hospitalar SUS de 53,1 para 70 pontos;
+• Aumentar a cobertura vacinal infantil de 66,6% para 95%;
+• Reduzir o tempo médio de espera em especialidades críticas para menos de 30 dias.
+Para se alcançar esses objetivos, serão adotadas as premissas de:
+ Universalidade com equidade territorial:
+• Reconhecer que tratar igualmente quem está em situação desigual não é justiça. O interior precisa de mais, não do mesmo.
+ Evidência como bússola:
+• Todas as decisões de investimento e desinvestimento serão fundamentadas em dados. O sistema integrado de análise da SES-AM, com dados primários do SIH/DATASUS, CNES/MS, SIOPS/FNS, SISREG-AM e RCGF SEFAZ-AM, será o instrumento permanente de governança.
+ Eficiência como responsabilidade:
+• Cada real gasto sem resultado é um cidadão que ficou sem cuidado. A recuperação de glosas e a melhoria de processos não são tecnicismos; são obrigação ética.
+ Inovação com raiz amazônica:
+• A tecnologia será incorporada respeitando as especificidades do território — telessaúde offline, barcos-hospital conectados, modelos de atenção que funcionam na floresta.
+ Continuidade institucional:
+• As políticas de qualidade não mudam a cada governo. O que funciona é aprimorado e o que não funciona é reformado com base em evidências, não em alternância política.
+Estratégia integrada de gestão, expansão e resultados
+A estratégia estrutura-se em três planos articulados: os oito eixos temáticos, voltados às lacunas identificadas; os quatro fundamentos transversais, que orientam as decisões em cada ato de gestão; e o regime de operacionalização, definido conforme o grau de autonomia decisória da SES-AM em cada frente de atuação. Cada eixo reúne ações definidas, responsável institucional designado e indicador próprio. Cada fundamento pode ser aferido em contratos, pactuações ou modelos de contratualização por resultados. A operacionalização segue lógica de tração, não de calendário.
+Os oito eixos correspondem às dimensões onde o diagnóstico identificou as maiores assimetrias: regionalização da saúde, saúde digital, atenção primária e vigilância, atenção às populações específicas, recursos humanos e valorização, financiamento e governança,
+329
+
+Parte 02. Plano estratégico de desenvolvimento
+
+excelência hospitalar, e saúde mental e dependência química. Cada um traduz-se em ações detalhadas, com responsável institucional designado. Os quatro fundamentos atuam como critério transversal em toda decisão de gestão. A gestão técnica substitui a improvisação administrativa que acumulou oito reestruturações de organograma da SES-AM em sete décadas sem ganho equivalente de resultado, exigindo quadros qualificados em escala compatível com a operação de 17 unidades hospitalares diretas, sete fundações e R$ 931,1 milhões em contratos de organizações sociais.
+
+A valorização dos profissionais é condição objetiva para a fixação de equipes no interior, onde a rotatividade média por posto permanece inferior a seis meses. A interiorização da assistência responde à forte concentração de 83,8% dos leitos na macrorregião central, enquanto 44 municípios ainda operam em Deserto Assistencial — dos quais 29 em Nível 3 (Crítico), conforme a taxonomia consolidada neste documento. O monitoramento permanente substitui a gestão reativa de crises, com sistemas integrados de informação, alertas preditivos baseados em séries históricas do SIH/DATASUS, SIOPS e SISREG, além de painéis públicos de indicadores.
+
+A sequência de execução é definida
+
+pelo grau de autonomia decisória. O pri-
+
+meiro conjunto reúne medidas que depen-
+
+dem exclusivamente de decisão interna da SES-AM: instalação dos Núcleos de Auditoria e Performance para recuperar glosas evitáveis; repactuação dos contratos de gestão com organizações sociais, com indicadores individualizados por unidade; estruturação das Comissões de Fiscalização, com equipes técnicas dedicadas e acesso irrestrito aos sistemas de produção hospitalar; e integração dos sistemas de informação hoje fragmentados.
+O segundo conjunto exige pactuação
+
+Reduzir mortalidade materna, elevar a cobertura vacinal, encurtar filas e expandir a telessaúde são passos de uma mesma direção: garantir dignidade no cuidado e resultados reais para quem depende do SUS.
+
+interfederativa e reestruturação institu-
+
+cional: implantação da rede estadual de
+
+telessaúde sob concessão administrativa;
+
+criação do Plano de Cargos, Carreiras e Remuneração da Saúde; estruturação de polos
+
+regionais de média complexidade; e celebração de acordos bilaterais de fronteira com
+
+Colômbia e Peru, nos termos do Tratado de Cooperação Amazônica. O terceiro con-
+
+junto consolida a operação em escala estadual e corresponde ao estágio em que toda
+
+a cadeia — diagnóstico orientado por dados, execução orçamentária por resultados,
+
+verificação por indicadores contratualizados e ajustes por pactuação formal — passa
+
+a funcionar em regime contínuo.
+
+O monitoramento opera em três camadas complementares. A SES-AM acompanha os indicadores de cada eixo (taxa de glosa, tempo de espera em especialidades críticas, cobertura vacinal infantil, mortalidade hospitalar, IDH-H médio, cobertura da atenção primária e execução orçamentária por ação) em painel interno de gestão, com alertas automatizados para desvios. O Conselho Estadual de Saúde, com acesso integral ao sistema
+
+330
+
+Parte 02. Plano estratégico de desenvolvimento
+
+de monitoramento, realiza a revisão quadrimestral de desempenho e cruza a execução orçamentária com os resultados assistenciais; toda discrepância entre o previsto e o entregue deve ser formalmente justificada em ata. Já o controle social externo dispõe de painel público, atualizado mensalmente e desagregado por unidade hospitalar e por macrorregião, substituindo a prestação de contas retrospectiva por acompanhamento em regime contínuo.
+
+ Eixo 1: Regionalização da saúde
+O Amazonas concentra desigualdades assistenciais que exigem uma resposta territorializada, planejada a partir da realidade de cada região. O cruzamento de quatro dimensões críticas — densidade de leitos abaixo do parâmetro federal, ausência de UTI, densidade médica insuficiente e tempo de espera regulada superior a 365 dias — classifica 44 dos 62 municípios amazonenses em situação de Deserto Assistencial multidimensional, afetando uma população estimada em 990 mil pessoas.
+Esses municípios não partem do zero. Possuem hospitais, postos de saúde, equipes e estruturas já instaladas. O que falta é capacidade resolutiva compatível com a demanda local e com os parâmetros técnicos nacionais, capaz de atender, no próprio território, a maior parte dos casos de média complexidade sem a necessidade de encaminhamento contínuo para Manaus.
+Em municípios como Careiro da Várzea, Nova Olinda do Norte, Tapauá e Eirunepé, os quatro déficits aparecem de forma simultânea — com tempo de espera regulada superior a um ano e ausência total de leitos de UTI — configurando o grau mais crítico dessa insuficiência assistencial.
+As macrorregiões mais impactadas são o Centro-Sul, com 32 municípios e cerca de 750 mil habitantes, e o Alto Solimões e faixa de fronteira, com nove municípios e aproximadamente 165 mil pessoas. Nessas áreas, a distância geográfica de Manaus transforma cada carência da rede em maior custo humano para a população e maior pressão financeira e logística para o sistema estadual de saúde.
+
+Taxonomia oficial do Deserto Assistencial
+Para eliminar a ambiguidade terminológica e estabelecer linguagem única em todos os documentos de planejamento, execução e prestação de contas, este Plano adota a seguinte taxonomia oficial, hierarquizada por severidade e construída sobre as quatro dimensões de insuficiência descritas no parágrafo anterior (densidade de leitos abaixo do parâmetro federal, ausência de UTI, densidade médica insuficiente e tempo de espera regulada superior a 365 dias):
+
+Reduzir os desertos assistenciais é transformar quilômetros de isolamento em caminhos reais de acesso à saúde.
+
+331
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Nível
+
+Critério técnico (dimensões comprometidas)
+
+Municípios
+
+Nível 1 — Moderado Nível 2 — Elevado Nível 3 — Crítico TOTAL
+
+Combinação de 2 das 4 dimensões de insuficiência
+Combinação de 3 das 4 dimensões de insuficiência
+Combinação simultânea das 4 dimensões de insuficiência Qualquer município com ≥ 2 das 4 dimensões comprometidas (Deserto Assistencial)
+
+15 (em conjunto com nível 2) -
+29
+44
+
+As quatro dimensões operam como variáveis binárias — o município apresenta ou não cada uma das insuficiências —, e o nível de severidade é definido pela quantidade de dimensões simultaneamente comprometidas. A Ação 1 (Estruturação de polos regionais e eliminação dos desertos de saúde) prioriza os 29 municípios em Deserto Crítico (Nível 3), com meta de redução a no máximo 5 até 2030. O monitoramento quadrimestral abrange o conjunto total dos 44 municípios do Deserto Assistencial, com repactuação progressiva de metas para os 15 em Nível 1 (Moderado) e Nível 2 (Elevado) conforme evolução dos indicadores de cobertura e capacidade instalada.
+Diante desse perfil territorial, o Plano Estratégico de Desenvolvimento propõe a divisão do estado em regiões de saúde integradas, diferenciando a lógica urbana da fluvial, com unidades de referência organizadas por calha de rio. Equipes móveis — barcos adaptados, UBS fluviais e estações modulares de telessaúde da rede estadual — atuarão nas comunidades que atualmente dependem de deslocamentos de três a 15 dias até Manaus. O georreferenciamento de cada unidade de saúde, integrado à estratégia de Saúde Digital, permitirá que o suporte remoto antecipe e complemente a presença física.
+
+332
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ Eixo 2: Saúde digital - conectando o Amazonas pelo cuidado
+
+O Amazonas chegou a 2025 com a telessaúde formalmente presente nos 62 municípios, resultado de uma expansão de 417% registrada no RAG SES-AM 2025. Esse número é real. O que ele não mede é se o sistema funciona. A diferença entre o que está implantado e o que de fato opera é o ponto central deste diagnóstico.
+
+O Cadastro Nacional de Estabelecimentos de Saúde registra um ponto de telessaúde como ativo assim que o equipamento é instalado e o serviço é cadastrado — independentemente da existência de especialista disponível do outro lado, de energia suficiente para sustentar a transmissão, de conectividade estável para concluir uma consulta ou da integração do atendimento ao SISREG-AM para fins de regulação e faturamento. Nenhum desses critérios é aferido pelo cadastro. No interior do Amazonas, todos eles apresentam falhas, em graus variados, na maior parte dos municípios.
+
+Os dados que revelam essa lacuna não estão no RAG, mas no SISREG-AM: 46 mil pacientes aguardando teleconsulta em fila ativa, em um estado onde a telessaúde está, em tese, instalada nos 62 municípios. Se o sistema operasse com a eficiência sugerida pelos indicadores formais de cobertura, essa fila não existiria. O paradoxo é evidente: 100% de cobertura no CNES e 46 mil consultas represadas.
+
+Os problemas operacionais são estruturais e documentados. Os sistemas de telessaúde instalados operam de forma desconectada entre si, sem integração com a Rede Nacional de Dados em Saúde (RNDS) e sem interface com o SISREG-AM, impedindo tanto a regulação do acesso quanto o faturamento da produção via SIA/SUS. O prontuário clínico continua sendo preenchido em papel na maioria das unidades do interior, o que impossibilita o acompanhamento longitudinal do paciente entre a teleconsulta e o encaminhamento. A remuneração dos pontos instalados não está vinculada a indicadores de resultado: o sistema paga pela presença do equipamento, não pelo atendimento entregue. Em localidades sem rede elétrica estável, a telessaúde simplesmente não opera nos momentos em que mais seria necessária.
+
+O próximo governo parte de uma infraestrutura instalada que não foi contratualizada por resultado, não foi integrada aos sistemas de regulação e não foi dotada de autonomia energética. Reformar esse modelo pontualmente não resolve. É preciso substituir o contrato que o sustenta.
+Diante de tal quadro, a estratégia central deste Plano Estratégico de Desenvolvimento é a substituição integral do modelo fragmentado atual por uma rede estadual integrada de Estações Modulares de Telessaúde, distribuídas nos 62 municípios do Estado.
+
+A verdadeira inovação não está no equipamento instalado, mas no atendimento que acontece com qualidade e continuidade.
+
+333
+
+Parte 02. Plano estratégico de desenvolvimento
+
+A operação adotará o regime de Parceria Público-Privada (PPP), na modalidade de Concessão Administrativa, nos termos da Lei Federal nº 11.079/2004 e da Lei Estadual nº 3.363/2008. Esse modelo transfere ao parceiro privado a responsabilidade integral pela concepção, construção, equipagem, operação e manutenção das estações — incluindo recursos humanos qualificados, insumos, conectividade e modernização tecnológica contínua ao longo de todo o contrato.
+A lógica de alocação de riscos é objetiva: os riscos de implantação, operação e tecnologia permanecem com o parceiro privado, e não com o Tesouro Estadual. Ao Estado cabe definir padrões de serviço e indicadores de desempenho; ao parceiro privado, implantar, operar e entregar resultados, com remuneração vinculada ao que efetivamente produz — não à simples presença das estações, mas aos resultados mensuráveis que elas geram.
+Mitigação: expansão da conectividade via satélite (Starlink) e implementação de modalidades offline de atendimento, com sincronização assíncrona para áreas remotas.
+Um ciclo do atendimento sem burocracia
+O modelo assistencial é estruturado com a enfermagem como porta de entrada — escolha que fortalece a atenção primária e otimiza o uso da teleconsulta médica especializada. O enfermeiro presente em cada estação realizará a triagem, a anamnese e o exame físico com apoio de equipamentos de telemedicina capazes de transmitir dados em tempo real, permitindo uma avaliação clínica qualificada antes do contato com o especialista remoto. A partir dessa avaliação inicial, o paciente poderá ser encaminhado para teleconsulta médica especializada, sem sair do município, ou para exames de telediagnóstico com laudo emitido à distância. Quando necessário, testes laboratoriais rápidos serão realizados na própria estação, reduzindo a dependência de estruturas centralizadas na capital. Essa organização respeita o papel ordenador da Atenção Primária à Saúde (APS), reserva o acesso ao especialista para os casos que realmente demandam esse nível de cuidado e eleva a resolutividade local sem deslocar o paciente. A prescrição eletrônica com certificação digital ICP-Brasil encerra o ciclo do atendimento, sem papel, sem burocracia de retorno, sem deslocamento desnecessário.
+A plataforma tecnológica que sustentará a rede, integrará o prontuário eletrônico do paciente conectado à Rede Nacional de Dados em Saúde (RNDS) e ao Portal e-Gestor da Atenção Básica (e-Gestor AB), regulação digital via Sistema Nacional de Regulação do Amazonas (SISREG-AM), módulo de triagem com suporte de inteligência artificial à decisão clínica e painel gerencial com indicadores de desempenho em tempo real.
+Nas comunidades com conectividade intermitente, hoje frequentemente excluídas do sistema, a plataforma operará em modo offline com sincronização periódica de dados, assegurando que nenhuma estação permaneça inoperante por falhas de comunicação. Toda a operação observará os marcos regulatórios vigentes: a Resolução CFM nº 2.314/2022, relativa à telemedicina; a Resolução COFEN nº 696/2022, sobre teleconsulta de enfermagem; e a Lei Federal nº 13.709/2018 (Lei Geral de Proteção de
+334
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Dados Pessoais-LGPD). O modelo deverá adotar criptografia de ponta a ponta, controle de acesso por perfil e registro completo de auditoria. A arquitetura de segurança da informação não é elemento acessório, mas requisito contratual indispensável em uma estrutura que trafega dados sensíveis de saúde de populações vulneráveis em regiões remotas.
+
+A remuneração do parceiro privado será integralmente vinculada a indicadores con-
+
+tratualizados de desempenho que abrangem disponibilidade do sistema, tempo máximo
+
+de espera para agendamento, taxa de resolutividade das teleconsultas sem necessidade
+
+de encaminhamento presencial, satisfação do usuário e prazo de emissão de laudos de
+
+telediagnóstico. Esses indicadores não são apenas métricas de acompanhamento: eles
+
+condicionam diretamente a remuneração do parceiro e garantem ao Estado um instru-
+
+mento objetivo de fiscalização, exigência de
+
+melhoria contínua e, quando necessário, apli-
+
+cação de penalidades contratuais. O modelo não remunera a operação das estações: remunera os resultados que elas produzem, verificáveis e auditáveis em tempo real pelo sistema de gestão, pelo Conselho Estadual de Saúde (CES-AM) e pelo Observatório da Saúde do Amazonas.
+A educação permanente dos profissionais de saúde locais, por meio de teleconsultoria e capacitação a distância integrada ao escopo contratual da concessão, fortalecerá a resolutividade
+
+O futuro da saúde digital no Amazonas depende menos de anúncios e mais de integração, energia, conectividade e resultado.
+
+da atenção primária nos próprios municípios,
+
+reduzindo a dependência de encaminhamentos
+
+para a capital e qualificando gradualmente a equipe local. O respaldo normativo neces-
+
+sário à sustentabilidade jurídica e territorial do modelo está detalhado no Marco Legal da
+
+Telemedicina no Amazonas, apresentado no quadro 13 .2.
+
+O resultado esperado é concreto e verificável: consultas especializadas, exames diagnósticos e segunda opinião médica disponíveis nos 62 municípios do Amazonas, com padrão de qualidade auditável por indicadores contratuais e públicos, sem que o paciente precise deixar seu município para acessar atenção especializada. A barreira geográfica deixa de ser o determinante do cuidado. O modelo atual — fragmentado, sem energia autônoma, sem especialistas reais e sem integração sistêmica — dá lugar a uma rede contratada, monitorada e responsabilizada por resultados.
+
+335
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ Eixo 3: Atenção primária forte e vigilância em saúde
+Nenhum dos 62 municípios do Amazonas atinge a meta de 95% de cobertura vacinal infantil preconizada pelo Ministério da Saúde. A média estadual é de 66,6% (SI-PNI). O score médio de atenção básica (SAB) registrado pelo e-Gestor AB é de 25,0 pontos, inferior à metade do patamar de referência. Municípios como Japurá (11,1 pontos) e Santa Isabel do Rio Negro (12,3 pontos) apresentam indicadores que evidenciam insuficiência assistencial na atenção primária.
+O Plano prevê a ampliação da cobertura da Estratégia Saúde da Família nos municípios com maior déficit, com financiamento estruturado por meio de mecanismo estadual de cofinanciamento que vai além da exigência constitucional mínima. A lógica é de indução: o Estado não se limita a transferir recursos de forma linear, mas cria incentivos financeiros que premiam o desempenho municipal nos indicadores do Previne Brasil — captação de gestantes no primeiro trimestre, cobertura vacinal, controle de hipertensos e diabéticos e acompanhamento do crescimento infantil. Municípios que avançarem nesses indicadores acessarão faixas adicionais de cofinanciamento estadual. Municípios estagnados receberão apoio técnico intensificado. O resultado esperado é a migração progressiva dos 62 municípios amazonenses para patamares superiores de desempenho na atenção primária — verificável trimestralmente via e-Gestor AB — sem que a pressão fiscal recaia exclusivamente sobre os tesouros municipais.
+A Política Nacional de Atenção Básica (PNAB), instituída pela Portaria GM/MS nº 2.979/2019 e atualizada pelo Previne Brasil, atribui ao Estado papel que vai muito além do repasse financeiro. O Estado é o organizador da rede regional, o responsável pelo apoio institucional aos municípios, o garantidor da retaguarda especializada quando a atenção primária não consegue resolver, e o ente que deve assegurar a integração entre os níveis de atenção. No Amazonas, essas atribuições ganham peso desproporcional, porque 48 dos 62 municípios não têm acesso rodoviário e muitos deles carecem de gestores de saúde com capacidade técnica plena para operar as exigências do sistema federal de informação e financiamento.
+336
+
+Parte 02. Plano estratégico de desenvolvimento
+
+O papel estratégico da SES-AM
+A SES-AM assumirá, de forma sistemática e contratualizada, as obrigações estaduais derivadas da PNAB. Essa diretriz é decisiva para fortalecer a atenção primária no Amazonas, ampliar a capacidade de resposta dos municípios, reduzir perdas de financiamento por falhas operacionais e integrar o cuidado em uma rede regional mais eficiente e resolutiva. São estas as principais atribuições a serem cumpridas: • Cofinanciamento orientado por desempenho Cofinanciamento direto da Atenção Primária à Saúde nos municípios de menor capacidade fiscal e pior desempenho nos indicadores do Previne Brasil, com transferência fundo a fundo condicionada a metas pactuadas e aferidas trimestralmente. A meta é elevar o score médio do estado no e-Gestor AB de 25,0 para 55,0 pontos até 2030, sem nenhum município abaixo de 30 pontos ao final do mandato. • Apoio institucional regionalizado Equipes técnicas da SES-AM serão alocadas nas nove regiões de saúde — não apenas em Manaus, mas nos próprios territórios — com competência para assessorar a gestão municipal na alimentação dos sistemas de informação, na elaboração dos relatórios de gestão e na organização dos fluxos de regulação. Hoje, muitos municípios perdem recursos federais por falhas de registro, e não por ausência de produção. • Qualificação permanente das equipes Implantação de programa contínuo de educação permanente, combinando formação presencial nos polos regionais e teleconsultoria integrada à rede de telessaúde do Eixo 2. A meta é garantir que cada equipe de Saúde da Família do interior tenha acesso, em tempo real, a especialista de referência para matriciamento clínico, sem precisar encaminhar o paciente para Manaus para tirar uma dúvida diagnóstica. • Rede de referência e contrarreferência Organização dos fluxos para os casos que a atenção primária não consegue resolver, com protocolos formalizados de regulação que assegurem acesso previsível, transparente e não subordinado à informalidade dos arranjos locais. A PNAB é explícita ao atribuir ao estado, a responsabilidade de garantir essa retaguarda. O que se propõe aqui é tornar esse comando normativo uma realidade operacional verificável.
+337
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ Eixo 4: Atenção as populações específicas
+
+O Amazonas abriga 164 Terras Indígenas e aproximadamente 490,9 mil indígenas, formando a maior população indígena do país. O Estado também reúne 443 mil pessoas com 60 anos ou mais (10,8% da população, em ritmo acelerado de crescimento segundo projeções do IBGE), além de comunidades quilombolas, populações ribeirinhas e moradores de municípios de fronteira internacional, como Tabatinga, São Gabriel da Cachoeira e Benjamin Constant.
+
+Em sua vertente dedicada à saúde, o Plano Estratégico de Desenvolvimento estabe-
+
+lece linhas de cuidado diferenciadas: saúde indígena em parceria com a SESAI, com forta-
+
+lecimento dos agentes indígenas de saúde e adoção de modelo assistencial culturalmente
+
+orientado; caderneta da pessoa idosa e
+
+protocolo de prevenção de quedas; ações
+
+voltadas às populações ribeirinhas e qui-
+
+lombolas, com barcos-hospital e cadastramento ativo; e atenção em saúde na faixa de fronteira, com acordos bilaterais e hospital de referência. O princípio norteador é a adaptação territorial e cultural do atendimento à realidade de cada grupo.
+Como já exposto neste documento, a condição de fronteira impõe ao Amazonas pressões adicionais sobre a rede de saúde. O Estado limita-se com Colômbia, Peru e Venezuela, sendo as fronteiras com
+
+A diversidade humana e territorial do Amazonas impõe demandas de saúde próprias a cada contexto, que dificilmente são respondidas por modelos assistenciais uniformes e padronizados.
+
+Colômbia e Peru as mais intensas em fluxo
+
+populacional e demanda assistencial,
+
+especialmente na região de Tabatinga. Nesse contexto, o Hospital Geral de Tabatinga opera
+
+sob elevada pressão assistencial, em parte porque atende também cidadãos colombianos
+
+e peruanos que cruzam a fronteira em busca de serviços indisponíveis em seus locais de
+
+origem. Trata-se de resposta humanitária incontornável, mas que também gera custos
+
+adicionais não ressarcidos ao sistema estadual de saúde.
+
+Dessa forma, propõem-se respostas específicas para transformar uma pressão permanente sobre a rede em política pública estruturada de cooperação internacional. Para tanto, o governo estadual negociará acordos bilaterais formais com os Ministérios da Saúde da Colômbia e do Peru, nos termos do Tratado de Cooperação Amazônica, estabelecendo mecanismos de notificação de casos atendidos por cidadãos estrangeiros para fins de ressarcimento intergovernamental; protocolos de regulação conjunta para evitar duplicidade de atendimento; cooperação em vigilância epidemiológica de fronteira, especialmente para malária, dengue, febre amarela e tuberculose; e ações de promoção da saúde em comunidades transfronteiriças, com equipes binacionais de atenção básica.
+
+338
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ Eixo 5: Recursos humanos e valorização
+O Amazonas registra déficit estimado de 1.200 médicos especialistas no interior. A dificuldade de fixação desses profissionais decorre de fatores estruturais que vão além da remuneração, como moradia precária, limitações de infraestrutura escolar e condições de trabalho insuficientes. Como consequência, a rotatividade permanece elevada, com permanência média inferior a seis meses nos postos do interior.
+Para enfrentar esse quadro, o Plano adota uma política estruturada de provimento e permanência de profissionais no interior, combinando carreira pública, incentivos territoriais e qualificação permanente. As principais medidas deste eixo são:
+• Sistema misto de contratação: Modelo que combina a estabilidade do vínculo estatutário com contratos por desempenho em funções estratégicas.
+• Carreira Médica de Estado: Elaboração de estudo técnico para criação da Carreira Médica de Estado do Amazonas (CMEAM), com progressão vinculada ao tempo de serviço no interior e a indicadores de desempenho.
+• Valorização multiprofissional: Planos de carreira também para enfermagem, técnicos e demais profissionais da rede.
+• Incentivos à fixação fora de Manaus: Adicional de fixação, casa funcional e progressão diferenciada para atuação no interior.
+• Educação continuada: Garantia de 40 horas anuais de capacitação por servidor, com foco nas especialidades de maior demanda da rede estadual.
+339
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ Eixo 6: Financiamento, governança e transparência
+O diagnóstico orçamentário evidencia dois problemas estruturais ainda sem resposta na gestão atual: a perda sistêmica de receita por glosa hospitalar — com estimativa de R$ 400 milhões anuais evitáveis — e o crescimento dos contratos com organizações sociais sem ampliação proporcional dos mecanismos de controle. Ambos têm solução técnica conhecida; o que faltou, até aqui, foi estrutura institucional para executá-la.
+A atuação nesta área se organiza em duas vertentes. Na captação: recuperação de receitas glosadas por meio dos Núcleos de Auditoria e Performance (NAPs), habilitação de novos procedimentos no FAEC e articulação de emendas parlamentares vinculadas a projetos técnicos qualificados. No controle: criação de painel público de indicadores da saúde, adoção de orçamento orientado por resultados, auditorias permanentes nos contratos com organizações sociais e integração institucional com o Tribunal de Contas do Estado e o Ministério Público. O objetivo é garantir que a expansão do investimento em saúde seja acompanhada por mecanismos proporcionais de transparência e prestação de contas.
+O fortalecimento do sistema de controle e auditoria não é uma medida complementar, é condição para que qualquer estratégia de financiamento funcione. O Amazonas gastou mais em saúde a cada ano e obteve resultados piores a cada ciclo, porque o crescimento do orçamento não foi acompanhado por crescimento equivalente na capacidade de verificar o que foi entregue. Isso vale para os contratos com organizações sociais, para os repasses aos municípios, para as glosas hospitalares e para os convênios federais. A auditoria prévia ao faturamento, a publicação mensal de indicadores por unidade e a estruturação de equipes técnicas permanentes de fiscalização não são instrumentos de controle discricionário, são a base mínima de qualquer gestão responsável com dinheiro público.
+Riscos financeiros e orçamentários
+A sustentabilidade da política de saúde no Amazonas depende não apenas de ampliar recursos, mas de proteger o sistema contra vulnerabilidades fiscais, perdas evitáveis e fragilidades de governança. O estudo identifica cinco riscos centrais que exigem monitoramento permanente e resposta institucional estruturada:
+• Dependência do Tesouro Estadual
+O Estado aporta R$ 31,00 para cada R$ 1,00 transferido pela União via SIH/SUS, revelando elevada exposição fiscal em cenários de queda de arrecadação do ICMS vinculado à Zona Franca de Manaus.
+• Perdas por glosas hospitalares
+A rede MAC própria (17 unidades da SES-AM) registra glosa estimada em R$ 35,2 milhões. Com os Núcleos de Auditoria e Performance (NAP), o potencial de recuperação direta é de R$ 21,2 milhões, com ROI estimado de R$ 50,3 milhões em 12 meses. No conjunto do estado, a glosa evitável pode alcançar R$ 400 milhões ao ano.
+340
+
+Parte 02. Plano estratégico de desenvolvimento
+
+• Manutenção tecnológica e logística
+Há dificuldade crítica de manutenção de equipamentos em áreas remotas, além de risco operacional associado a falhas mecânicas em ambulâncias fluviais.
+• Fragilidades de transparência nas organizações sociais
+O crescimento acelerado das organizações sociais (142% em três anos) amplia a necessidade de controles robustos, rastreabilidade e fiscalização contínua.
+• Descontinuidade administrativa
+Mudanças frequentes na gestão comprometem a execução de políticas de médio e longo prazo e reduzem a capacidade de planejamento estratégico.
+Medidas para antecipar riscos e qualificar decisões
+O sistema de saúde do Amazonas tem funcionado, historicamente, em modo reativo. A ausência de sistemas de informação integrados, de mecanismos de alerta precoce e de instâncias de decisão com agilidade suficiente para responder a emergências sanitárias resulta em perda de eficiência, aumento de morbimortalidade e desperdício de recursos.
+É preciso estruturar um sistema integrado de análise da SES-AM, com módulo de IA preditiva alimentado por séries históricas do SIH/DATASUS, SIOPS/FNS, SISREG e SIAFE/ SEFAZ-AM. A ferramenta deverá ser capaz de antecipar picos de glosa, deterioração de indicadores e surtos epidêmicos com até 90 dias de antecedência, representando a transição para um modelo de gestão orientado por previsibilidade e resposta antecipada. O governo institucionalizará esse avanço como modelo permanente de governança.
+A governança sobre os números da saúde é condição essencial para a excelência dos serviços prestados. Ela se articula com Comitês de Resultados Setoriais — hospitalar, atenção primária, vigilância e saúde especializada —, reunidos mensalmente para avaliar o cumprimento de metas e propor correções de rota. No nível estratégico, atuará o Conselho de Governança em Saúde, presidido pelo governador e composto pelo secretário de saúde, representantes do Conselho Estadual de Saúde (CES/AM), procuradores do Estado e representantes da sociedade civil, com reuniões trimestrais voltadas à deliberação de temas estruturantes.
+O Conselho Estadual de Saúde do Amazonas (CES/AM) é, constitucionalmente, o principal instrumento de controle social do sistema. Na prática, porém, opera com limitações que comprometem sua efetividade: acesso restrito a dados de gestão, infraestrutura precária, rotatividade de conselheiros e dificuldade de interlocução com a gestão executiva. O governo se compromete a mudar esse quadro por meio de três medidas concretas: acesso integral do CES/AM ao sistema de monitoramento da SES-AM — com dados primários do SIH/DATASUS, SIOPS/FNS, SISREG, RCGF/SEFAZ-AM e RDQA — acompanhado de capacitação técnica para interpretação das informações; infraestrutura física e de comunicação adequada ao pleno funcionamento do Conselho; e protocolo de resposta obrigatória às recomendações formais do CES/AM, em prazos previamente definidos.
+341
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ Eixo 7: Excelência hospitalar
+
+Como já evidenciado no diagnóstico deste Plano, a rede hospitalar do Amazonas opera
+
+sob pressão de custos e desempenho: o valor médio da internação supera a referência
+
+nacional, a taxa de glosa permanece ele-
+
+vada e a mortalidade hospitalar exige aten-
+
+ção contínua. Esses indicadores reforçam a
+
+necessidade de qualificar processos assistenciais e aperfeiçoar a gestão da rede.
+Em resposta a esse cenário, o Plano prevê a padronização de protocolos clínicos e operacionais em toda a rede estadual, com contratualização por metas de desempenho que vinculem repasses a resultados, e não apenas ao volume de procedimentos. As licitações de insumos e
+
+Protocolos claros, metas definidas e monitoramento contínuo transformam hospitais em redes de resultado, e não apenas de demanda.
+
+serviços adotarão o critério de menor preço
+
+associado à melhor técnica. A presença de
+
+especialistas será ampliada, em articulação com a estratégia de Recursos Humanos e
+
+Valorização, com prioridade para as sete fundações estaduais e os dez hospitais de gestão
+
+direta da SES-AM. O monitoramento será orientado por indicadores publicados trimes-
+
+tralmente, entre eles taxa de mortalidade hospitalar, tempo médio de permanência, taxa
+
+de infecção e custo por AIH.
+
+ Eixo 8: Saúde mental, dependência química e população em situação de rua
+O Amazonas dispõe de 36 Centro de Atenção Psicossocial (CAPS) distribuídos em 29 dos 62 municípios. Os 33 municípios restantes não contam com nenhum serviço de atenção psicossocial. Em Manaus, estimativas indicam que entre 6.500 e 8.200 pessoas vivem em situação de rua, parcela significativa com transtornos decorrentes do uso de substâncias e sem acesso a serviços de saúde mental.
+A ampliação da rede de CAPS constitui a ação central deste eixo, com prioridade para a implantação de CAPS AD III (álcool e drogas, funcionamento 24 horas) nos municípios com maior prevalência. Parcerias com comunidades terapêuticas serão mantidas, condicionadas à regulação e fiscalização sanitária. Equipes de abordagem atuarão nas áreas urbanas de Manaus em articulação direta com a assistência social. O paradigma orientador será a redução de danos, conforme preconizado pela Portaria GM/MS nº 1.028/2005 e pela literatura internacional, sem exigência de abstinência como pré-condição para o início do cuidado. A reinserção social, com moradia assistida e capacitação profissional, integra o ciclo completo de atenção.
+
+342
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Plano de Ação detalhado por área estratégica
+As seções anteriores apresentaram o diagnóstico e a estratégia organizada em oito áreas. Nesta etapa, cada uma delas é desdobrada em ações concretas, com responsáveis, prazos, recursos estimados e resultados esperados. As diretrizes se articulam e se complementam, da regionalização da assistência à atenção em saúde mental.
+343
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Como já demonstrado, o Amazonas reúne ativos institucionais e capacidades já instaladas que favorecem a transformação do sistema de saúde. Referências assistenciais como a Fundação de Medicina Tropical Dr. Heitor Vieira Dourado (FMT-HVD), a FCECON, o Hospital Delphina Aziz e a Maternidade Ana Braga se somam à expansão da conectividade, à base fiscal sustentada pela Zona Franca de Manaus e à cobertura da atenção primária acima da meta federal.
+O desafio, a partir deste ponto, é converter essas vantagens em resultados concretos. Para isso, não basta ampliar estruturas ou investir em tecnologia: é indispensável fortalecer a coordenação entre Estado e municípios, onde grande parte das respostas em saúde se materializa no cotidiano da população.
+A relação entre Estado e municípios no SUS tem sido, com frequência, marcada por burocracia, conflitos e disputas em torno de competências e recursos. O Plano Estratégico de Desenvolvimento propõe uma inflexão nesse modelo. Em vez de uma lógica centrada apenas na autoridade formal, a SES-AM atuará como parceira dos municípios: oferecendo apoio técnico, fortalecendo capacidades institucionais e cobrando resultados, e não mera observância de processos.
+Portanto, será instituído o Pacto Estadual pela Saúde Municipal, firmado com cada um dos 62 municípios. O instrumento definirá metas sanitárias prioritárias para o período do Plano, ajustadas ao porte e à capacidade local; o apoio técnico que a SES-AM se compromete a prestar, como equipes volantes de auditoria, capacitação e gestão da informação; os recursos estaduais de complementação disponíveis; e os mecanismos de monitoramento compartilhado.
+Assim, o Plano de Ação se ancora em medidas estratégicas com responsáveis definidos, prazos de implantação, recursos estimados e resultados esperados, estruturando a implementação do programa Saúde Amazonas.
+344
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Plano de Ação
+Quadro 14.1
+Regionalização visa eliminar 29 municípios em Deserto Crítico até 2030
+Plano de ação detalhado para o eixo Regionalização da Saúde — duas ações estruturantes com responsáveis, prazos e resultados esperados.
+
+29
+
+Municípios em Deserto Crítico (Nível 3) serão eliminados até 2030 com a estruturação dos Polos Regionais de Saúde. A Estratégia Maternidade Segura no Amazonas será conduzida em parceria com os municípios.
+
+Descrição da ação
+
+Responsável Prazo
+
+Resultados esperados
+
+1. ELIMINAÇÃO DOS DESERTOS DE SAÚDE Estruturar Polos Regionais de Saúde em macroárea
+2. Instituir a ESTRATÉGIA MATERNIDADE SEGURA no Amazonas
+
+SES e Ministério da Saúde com apoio da SEAS
+
+Até 2030
+
+Secretaria Estadual de Saúde em parceria com
+Municípios
+
+Até 2030
+
+Eliminação dos 29 municípios em Deserto Crítico (Nível 3); ampliação da cobertura
+assistencial regional.
+Iniciativa Apoio Estadual à Atenção ao Parto nos Municípios do Interior; redução da mor-
+talidade materna.
+
+ Ação 1 – Estruturação de polos regionais e eliminação dos desertos de saúde
+• Iniciativa 1: Polo Regional de Média Complexidade: implantação ou ampliação de hospitais regionais em municípios-polo das macrorregiões Leste, Oeste e da faixa de fronteira, a serem definidos por estudo de viabilidade técnica que considere: população SUS da área de abrangência; distância e tempo de deslocamento à referência mais próxima; Cadastro Nacional de Estabelecimentos de Saúde (CNES) existente; e perfil epidemiológico regional. Cada polo contará com leitos de UTI, maternidade de risco habitual, centro cirúrgico e bloco obstétrico. Investimento estimado em R$ 85 milhões, com cofinanciamento federal e outras formas de custeio, como por exemplo, emendas parlamentares.
+• Iniciativa 2: Unidades de Pronto Atendimento (UPAs) sub-regionais: implantação de UPAs sub-regionais em municípios que atendam cumulativamente aos seguintes critérios: população SUS superior a 20.000 habitantes; ausência de serviço de urgência 24h (Cadastro Nacional de Estabelecimentos de Saúde); tempo de deslocamento à referência superior a duas horas; e classificação em Deserto Crítico (Nível 3) da taxonomia oficial. Cada UPA reduzirá o fluxo de regulação para Manaus em aproximadamente 35%, em parceria com os municípios.
+• Iniciativa 3: Atenção Itinerante e Fluvial: expansão da frota de barcos-hospitais, com integração formal ao Sistema de Informações Ambulatoriais (SIA). Estima-se que, atualmente, 177 mil atendimentos deixem de ser faturados por falta de integração entre
+345
+
+Parte 02. Plano estratégico de desenvolvimento
+
+sistemas. O Plano prevê ainda a criação de equipes volantes de especialidades para municípios remotos, bem como a estruturação e ampliação das Unidades de Saúde Fluviais destinadas às populações ribeirinhas em áreas de várzea.
+Hubs de suprimentos regionalizados
+Objetivo: Descentralizar o armazenamento e a distribuição de medicamentos e insumos críticos para as macrorregiões Oeste e Leste, mitigando a dependência absoluta de Manaus. Justificativa: A logística fluvial é o principal determinante de saúde no Amazonas. Atualmente, 48 dos 62 municípios não possuem acesso rodoviário, elevando o custo médio de internação hospitalar para patamares proibitivos e gerando ineficiência no atendimento de média e alta complexidade. A criação de hubs regionais combate o desabastecimento em períodos críticos de navegabilidade. Impacto assistencial: Redução do tempo de resposta em emergências obstétricas e traumáticas para menos de 90 minutos, em total conformidade com o protocolo da Estratégia Maternidade Segura, salvando vidas em calhas de rio remotas.
+
+ Ação 2 – Instituir a Estratégia Maternidade Segura no Amazonas
+
+• Iniciativa 1: Qualificação e habilitação da atenção obstétrica no interior: os 49 muni-
+
+cípios com mais de 15.000 habitantes fora de Manaus já contam com hospitais que
+
+realizam partos, mas nenhum deles possui habilitação formal como Maternidade de
+
+Risco Habitual (MAB) nos termos da Rede Alyne (Portaria GM/MS n.º 5.350/2024). O
+
+problema não é ausência de estrutura,
+
+é ausência de qualificação, adequação
+
+técnica e habilitação junto ao Minis-
+
+tério da Saúde. A SES-AM conduzirá processo de avaliação técnica dos hospitais municipais com leitos obstétricos, priorizando os municípios-polo das macrorregiões Leste e Oeste, e prestará apoio direto para adequação às exigências do MAB: protocolos clínicos padronizados, qualificação de equipes para atenção ao parto de risco habitual, adequação de infraestrutura e registro correto da produção obstétrica
+
+Com protocolo integrado ao SAMU fluvial e aéreo, emergências obstétricas passarão a contar com resposta mais rápida, onde cada minuto pode salvar vidas.
+
+no CNES. Municípios que atingirem os
+
+critérios mínimos serão apoiados no
+
+processo formal de habilitação junto ao Ministério da Saúde, acessando o custeio
+
+federal da Rede Alyne. Prioridade imediata para os 10 municípios com índice crítico
+
+346
+
+Parte 02. Plano estratégico de desenvolvimento
+
+de leitos abaixo de 0,5 por mil habitantes: Urucará, Barcelos, Canutama, Anori, Envira, Alvarães, Novo Airão, Atalaia do Norte, Maraã e Uarini.
+• Iniciativa 2: Criar o Protocolo de Emergência Obstétrica integrado ao SAMU fluvial e aéreo, com tempo-resposta máximo de 90 minutos para municípios das macrorregiões.
+• Iniciativa 3: Ampliação do pré-natal de alto risco na Maternidade Dona Lindu (Complexo Hospitalar Sul) e demais maternidades estaduais, com metas de captação precoce (até a 12ª semana) para 80% das gestantes.
+• Iniciativa 4: Estabelecer a educação permanente como ação transversal que irá perpassar por todos os eixos deste Plano Estratégico.
+
+Quadro 14.2 — Plano de Ação - Saúde Digital
+Conectividade de saúde será implantada nos 62 municípios até 2030
+Plano de ação para o eixo Saúde Digital — implantação da infraestrutura de telessaúde em todo o estado e fixação do prontuário eletrônico integrado à RNDS.
+
+62
+
+Municípios receberão infraestrutura de conectividade de saúde até 2030, em parceria com a PRODAM. O Prontuário Eletrônico Integrado e a Rede Nacional de Dados em Saúde (RNDS) serão fixados como infraestrutura comum estadual.
+
+Descrição da ação
+
+Responsável Prazo
+
+Resultados esperados
+
+3. SAÚDE DIGITAL Amazonas
+4. Fixar o PRONTUÁRIO ELETRÔNICO INTEGRADO e RNDS
+
+Secretaria Estadual de Saúde /
+PRODAM
+SES-AM / DATASUS
+
+Até 2030 Até 2030
+
+Implantação de infraestrutura de conectividade de saúde em todos os
+municípios do estado.
+Agilizar e melhorar o conjunto de informações do paciente no atendimento.
+
+ Ação 3 – Saúde digital Amazonas
+• Iniciativa 1: Implantação da rede estadual integrada de Estações Modulares de Telessaúde nos 62 municípios do Amazonas, sob o regime de Parceria Público-Privada (PPP) na modalidade de Concessão Administrativa (Lei Federal nº 11.079/2004 e Lei Estadual nº 3.363/2008), com responsabilidade integral do parceiro privado pela concepção, construção, equipagem, operação e manutenção das unidades, incluindo autossuficiência energética via sistema solar fotovoltaico e conectividade via satélite de alta velocidade, condições indispensáveis para a operação real em municípios sem infraestrutura pública estável. O modelo supera o formato fragmentado atual, que
+347
+
+Parte 02. Plano estratégico de desenvolvimento
+
+formalmente existe nos 62 municípios, mas não opera com a integração, a qualidade técnica e a especialidade assistencial exigidas pela demanda da população.
+
+• Iniciativa 2: Estruturação do modelo assistencial centrado na enfermagem como porta de entrada, com enfermeiro presente em cada estação responsável pela triagem, anamnese e exames físicos com suporte de equipamentos de telemedicina com transmissão de dados em tempo real, seguida de encaminhamento para teleconsulta médica especializada remota ou para telediagnóstico com laudo emitido à distância. As especialidades disponíveis e o protocolo de referência e contrarreferência serão definidos com base no perfil epidemiológico regional e nas lacunas identificadas no SISREG-AM, priorizando as especialidades com maior fila reprimida em cada calha de rio — Clínica Médica, Pediatria, Ginecologia e Obstetrícia, Cardiologia, Dermatologia e Psiquiatria como mandatórias, com ampliação conforme demanda regional identificada.
+
+• Iniciativa 3: Integração plena da rede de estações ao Sistema Nacional de Regulação do Amazonas (SISREG-AM), ao Portal e-Gestor da Atenção Básica (e-Gestor AB) e à Rede Nacional de Dados em Saúde (RNDS), com prontuário eletrônico integrado, prescrição eletrônica com certificação digital ICP-Brasil e modo offline com sincronização periódica para as estações em áreas de conectividade intermitente, garantindo que nenhuma localidade seja excluída da rede por limitação tecnológica local. O faturamento da produção ambulatorial será realizado via Boletim de Produção Ambulatorial — Individual (BPA-I), com linha de custeio específica no orçamento da SES-AM, compatível com o modelo de remuneração por desempenho.
+
+• Iniciativa 4: Remuneração do parceiro privado integralmente vinculada a indica-
+
+dores contratualizados de desempenho — disponibilidade do sistema, tempo de
+
+espera para agendamento, taxa de resolutividade das teleconsultas sem encami-
+
+nhamento presencial, satisfação do usuário
+
+e prazo de laudo de telediagnóstico —, com
+
+monitoramento em tempo real pelo painel
+
+gerencial integrado à plataforma tecnológica e publicação periódica dos resultados pela Secretaria de Estado de Saúde do Amazonas (SES-AM), garantindo ao estado, ao Conselho Estadual de Saúde (CES-AM) e à sociedade civil acesso transparente e permanente aos dados de execução contratual.
+• Iniciativa 5: Extensão da rede de telessaúde para modalidades complementares de cui-
+
+Estações modulares de telessaúde, enfermagem fortalecida e telediagnóstico em tempo real formam uma nova porta de entrada para o SUS no interior.
+
+dado — tele-reabilitação para pacientes com
+
+doenças crônicas, teleconsultoria para pro-
+
+fissionais de saúde locais como componente
+
+estrutural de educação permanente integrado ao escopo contratual da concessão
+
+e apoio matricial remoto para as equipes da Estratégia Saúde da Família (ESF) —,
+
+reduzindo deslocamentos desnecessários para Manaus, fortalecendo a resolutividade
+
+da atenção primária nos próprios municípios e desafogando a pressão sobre a rede
+
+de média e alta complexidade da capital.
+
+348
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Unidades de Saúde Solares: sustentabilidade e resiliência
+Objetivo: Instalar sistemas de energia renováveis em UBSs-sede e Unidades de Saúde Fluviais (barcos-hospital) para garantir autonomia operacional. Viabilidade técnica e sazonalidade: A proposta responde diretamente à sazonalidade hídrica (cheias e vazantes). Durante as secas extremas, o transporte de combustível para geradores torna-se inviável, isolando energeticamente as unidades. A autonomia solar é pré-requisito para manter a conectividade Starlink (94% de cobertura) e sustentar a refrigeração de vacinas, essencial para atingir a meta de 95% de cobertura vacinal infantil. Justificativa: Garantia de funcionamento ininterrupto de equipamentos de telessaúde e prontuário eletrônico offline, independentemente da instabilidade da rede elétrica local ou do isolamento fluvial.
+Agentes digitais de saúde indígena e o marco legal da telessaúde
+A transformação digital da saúde no Amazonas também precisa alcançar os territórios indígenas com soluções compatíveis com sua realidade territorial e cultural. Por isso, o Plano prevê a capacitação de 300 Agentes Indígenas de Saúde (AIS), em parceria com a Fiocruz, para o uso de ferramentas de telemedicina e prontuário eletrônico com sincronização assíncrona, ampliando a capacidade local de cuidado, registro e acompanhamento em áreas remotas. Para que essa rede opere com continuidade, escala e segurança jurídica, será necessário consolidar sua base normativa. Embora a Lei Federal nº 14.510/2022 tenha regulamentado a telemedicina em âmbito nacional, cabe aos estados disciplinar aspectos operacionais, assistenciais e de financiamento. Nesse contexto, o Governo do Estado encaminhará à Assembleia Legislativa do Amazonas proposta de criação do Marco Legal da Telemedicina no Amazonas. A iniciativa se organiza em três pilares. O primeiro é o acesso: nenhuma localidade poderá ser excluída da telessaúde por ausência de conectividade ou infraestrutura, cabendo ao Estado assegurar condições mínimas de funcionamento. O segundo é a responsabilidade assistencial: protocolos estaduais de triagem digital, referência e contrarreferência eletrônicas, com integração entre as estações modulares, o SISREG-AM e a Rede de Atenção à Saúde. O terceiro é o financiamento: produção registrada pelo BPA-I e criação de linha específica de custeio no orçamento da SES-AM, compatível com o modelo de remuneração por desempenho da concessão administrativa.
+349
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ Ação 4 – Fixar o prontuário eletrônico integrado e a Rede Nacional de Dados em Saúde (RNDS)
+• Iniciativa 1: Implantação do prontuário eletrônico integrado em todas as unidades hospitalares de média e alta complexidade da rede própria da SES-AM, compreendendo: I – Fundações Estaduais de Saúde (7 unidades): 1. Fundação Centro de Controle de Oncologia (FCECON); 2. Fundação Hospital do Coração Francisca Mendes (FHCFM); 3. Fundação de Medicina Tropical Dr. Heitor Vieira Dourado (FMT-HVD); 4. Fundação de Hematologia e Hemoterapia do Amazonas (FHEMOAM); 5. Fundação Alfredo da Matta (FUHAM); 6. Fundação Hospital Adriano Jorge (FHAJ); 7. Fundação de Vigilância em Saúde – Dra. Rosemary Costa Pinto (FVS-RCP); II – Unidades Hospitalares de Gestão Direta da SES-AM (10 unidades): 8. Hospital e Pronto-Socorro 28 de Agosto (HPS 28 de Agosto); 9. Hospital e Pronto-Socorro Dr. Platão Araújo (HPS Dr. Platão Araújo); 10. Hospital e Pronto-Socorro Dr. João Lúcio (HPS Dr. João Lúcio); 11. Hospital Delphina Aziz; 12. Maternidade Balbina Mestrinho; 13. Maternidade Ana Braga; 14. Policlínica Codajás; 15. Centro de Saúde Mental do Amazonas (CESMAM); 16. Centro de Reabilitação em Dependência Química (CRDQ); 17. Serviços de Pronto Atendimento (SPAs) e policlínicas estaduais com produção no Sistema de Informações Hospitalares e no Sistema de Informações Ambulatoriais do SUS (SIH/SIA). Fase 1 (primeiro ano de implantação): as quatro unidades críticas prioritárias (Hospital e Pronto-Socorro 28 de Agosto, Maternidade Balbina Mestrinho, Fundação Hospital Adriano Jorge e Fundação Centro de Controle de Oncologia); Fase 2 (segundo ano): demais fundações e hospitais; Fase 3 (terceiro ano): policlínicas e unidades ambulatoriais.
+• Iniciativa 2: Integração ao e-SUS Atenção Básica para continuidade do cuidado entre APS2 e atenção especializada.
+• Iniciativa 3: Criação do Módulo de Inteligência Artificial para alerta precoce de riscos clínicos — deterioração de pacientes internados, picos sazonais de malária, surtos de dengue — baseado no Módulo Preditivo.
+
+2. Atenção Primária à Saúde (APS)
+
+350
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Quadro 14.3 — Plano de Ação - Atenção primária forte e vigilância em saúde
+Cobertura da APS fluvial alcançará 200 mil ribeirinhos até 2030
+Plano de ação para o eixo APS Forte e Vigilância em Saúde — três ações estruturantes para recuperação vacinal, expansão da cobertura fluvial e fortalecimento da vigilância epidemiológica estadual.
+
+200 mil
+
+Ribeirinhos serão atendidos pela atenção primária fluvial expandida para 100% das calhas dos rios. O tempo médio de detecção e resposta a surtos epidêmicos será reduzido de 14 para 3 dias com o fortalecimento da FVS-RCP.
+
+Descrição da ação
+
+Responsável Prazo Recursos
+
+Resultados esperados
+
+5. Recuperação vacinal, inclusive com vacina flutuante
+6. Cobertura 100% da APS fluvial em todo o território
+7. Fortalecimento da vigilância em saúde como função estadual estruturante
+
+SES-AM e municípios
+SES-AM em parceria com
+municípios
+SES-AM / FVS-RCP
+
+Até 2030 Até 2030 Até 2030
+
+A definir (sujeito a levantamento técnico)
+A definir (sujeito a levantamento técnico)
+A definir (sujeito a levantamento técnico)
+
+Implantação de infraestrutura de conectividade de saúde em todos os municípios do Estado.
+Atender 200 mil ribeirinhos pelas calhas dos rios.
+Reduzir o tempo médio de detecção e resposta a surtos de 14 para 3 dias; cobertura
+vacinal recuperada.
+
+ Ação 5 – Recuperação vacinal, inclusive com vacina flutuante
+
+• Iniciativa 1: Apoio técnico e logístico aos municípios para força-tarefa de imunização nos 20 municípios com menor cobertura, com estratégia de busca ativa e vacinação em espaços não convencionais.
+• Iniciativa 2: Apoio à implantação de “vacina flutuante” em parceria com os municípios — unidades móveis de imunização em barcos para comunidades ribeirinhas, operando por todo o calendário de cheia.
+• Iniciativa 3: Apoiar os municípios na antecipação da cobertura vacinal do Calendário Nacional, em casos viáveis.
+
+Com “vacina flutuante”, busca ativa e ampliação do acesso, o Amazonas fortalece a resposta sanitária e amplia a cobertura vacinal em todo o território.
+
+351
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ Ação 6 – Cobertura 100% da Atenção Primária Fluvial – APS em todo o território
+• Iniciativa 1: Apoio aos municípios na habilitação de até 80 novas equipes de Saúde da Família naqueles que apresentem os menores índices de cobertura.
+• Iniciativa 2: Apoio à criação de equipes de Atenção Primária Fluviais (APF) em parceria com os municípios — módulos de saúde embarcados em lanchas rápidas, operando roteiro mensal por comunidades ribeirinhas sem UBS fixa.
+• Iniciativa 3: Apoio técnico e financeiro aos municípios para implantação de novas UBSs fluviais de pequeno porte em comunidades com mais de 200 habitantes em áreas de várzea.
+Novo pacto de cofinanciamento vai fortalecer a atenção primária
+O cofinanciamento da Atenção Primária à Saúde é um dos instrumentos mais relevantes para reduzir desigualdades entre municípios e fortalecer a cooperação entre os entes federativos. Em um estado marcado por profundas diferenças fiscais e territoriais, como o Amazonas, repasses lineares não respondem às necessidades reais da rede. Por isso, o próximo governo tratará o tema como prioridade. A proposta é construir um modelo estadual de cofinanciamento previsível, contínuo e ajustado à capacidade de cada município, permitindo planejamento de médio prazo, maior segurança para gestores locais e continuidade dos serviços. Dar estabilidade ao financiamento da Atenção Primária é dar estabilidade ao cuidado: sem isso, equipes, programas e avanços conquistados permanecem sujeitos a interrupções que comprometem anos de trabalho.
+ Ação 7 – Fortalecimento da vigilância em saúde
+• Iniciativa 1: Reestruturação dos Núcleos Regionais de Vigilância em Saúde nas nove regiões de saúde, com equipes técnicas permanentes, equipamentos de diagnóstico rápido e conectividade via satélite para notificação em tempo real ao Sistema de Informação de Agravos de Notificação (SINAN), eliminando o atraso médio atual de 14 dias entre ocorrência e notificação.
+• Iniciativa 2: Implantação de plataforma estadual de monitoramento digital integrado em saúde, alimentada pelas bases federais de dados públicos, com painel de indicadores sentinela por município, para malária, dengue, tuberculose e DCNT, gerando alertas automáticos quando indicadores ultrapassam limiares críticos, permitindo resposta em até 72 horas.
+• Iniciativa 3: Fortalecimento da vigilância nutricional e do desenvolvimento infantil nos municípios com maior vulnerabilidade, cruzando dados do SISVAN, SINASC e e-Gestor AB para identificação precoce de casos de desnutrição, anemia e retardo de crescimento, com protocolo de intervenção integrado à atenção primária.
+352
+
+Parte 02. Plano estratégico de desenvolvimento
+
+• Iniciativa 4: Programa estadual de controle da tuberculose no interior, priorizando os municípios com maior prevalência entre populações indígenas e ribeirinhas, com testagem ativa, tratamento supervisionado e integração com as equipes de APS fluvial.
+
+Entre o surto e o controle, a força da vigilância
+A Fundação de Vigilância em Saúde do Amazonas – Dra. Rosemary Costa Pinto (FVS-RCP) é o principal instrumento técnico para detecção precoce, resposta a surtos e monitoramento epidemiológico nos 62 municípios do Estado. Em um território onde a distância dificulta respostas rápidas e o perfil epidemiológico combina doenças tropicais endêmicas com o avanço das Doenças Crônicas Não Transmissíveis (DCNT), a vigilância não exerce papel secundário: é a linha de defesa que pode determinar se um surto será contido ou se avançará para uma epidemia.
+
+Quadro 14.4 — Plano de Ação - Populações Especiais
+Saúde indígena, ribeirinha, fronteiriça e idosa receberão políticas estaduais dedicadas
+Plano de ação para o eixo Populações Específicas — quatro ações estruturantes voltadas a povos indígenas (DSEIs), populações ribeirinhas e quilombolas, atenção à saúde na fronteira e cuidado integral à pessoa idosa.
+
+34
+
+Distritos Sanitários Especiais Indígenas (DSEIs) terão telessaúde implantada para o atendimento dos 490,9 mil indígenas do Amazonas. A APS fluvial expandida atenderá 800 mil ribeirinhos. Acordo binacional com Colômbia e Peru regulará o fluxo fronteiriço.
+
+Descrição da ação
+
+Responsável Prazo RECURSOS Resultados esperados
+
+8. Saúde dos povos indígenas
+
+SES-AM em parceria com SESAI e Ministério dos Povos
+Indígenas
+
+Até 2030
+
+9. Populações ribeirinhas e quilombolas
+
+SES-AM
+
+Até 2030
+
+10. Saúde na fronteira 11. Cuidar do idoso
+
+SES-AM SES-AM
+
+Projeto a ser
+iniciado até 2030
+Projeto a ser
+iniciado até 2030
+
+A definir (sujeito a levantamento técnico)
+A definir (sujeito a levantamento técnico)
+A definir (sujeito a levantamento técnico)
+A definir (sujeito a levantamento técnico)
+
+Regularização do acesso indígena ao SISREG;
+telessaúde implantada nos 34 DSEIs.
+Atenção fluvial expandida para todas as calhas habitadas; 800
+mil ribeirinhos cobertos.
+Acordo binacional firmado com Colômbia e Peru; Hospital de
+Referência da Fronteira.
+Atendimento geriátrico de excelência do Amazonas.
+
+353
+
+354
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ Ação 8 – Saúde dos povos indígenas
+
+• Iniciativa 1: Criação de protocolo formal SES-AM × SESAI3 para regulação de indígenas no SISREG, com fila diferenciada e tradutor/intérprete disponível nas unidades de referência.
+
+• Iniciativa 2: Capacitação em educação permanente de 300 Agentes Indígenas de Saúde (AIS) como elo entre comunidades e o SUS, com formação em primeiros socorros, vigilância epidemiológica e telessaúde.
+
+• Iniciativa 3: Implantação de telessaúde nos 34 Distritos Sanitários Especiais Indíge-
+
+nas (DSEIs) do Amazonas, com integração à rede estadual de Estações Modulares
+
+de Telessaúde, protocolo formal de regulação e referência entre a Secretaria de
+
+Estado de Saúde do Amazonas (SES-AM) e a Secretaria de Saúde Indígena (SESAI), e
+
+capacitação de Agentes Indígenas
+
+de Saúde (AIS) para atuação como
+
+elo operacional entre as comunida-
+
+des e o sistema de telessaúde.
+• Iniciativa 4: Desenvolvimento de um aplicativo de vigilância offline sincronizável para Agentes Indígenas de Saúde (AIS). O aplicativo permitiria o registro imediato de sintomas de doenças tropicais (malária, dengue) e a codificação correta dos procedimentos no local, sincronizando os dados assim que houvesse sinal de satélite, otimi-
+
+O fortalecimento dos Agentes Indígenas de Saúde, aliado à tecnologia adaptada ao território e à integração da rede assistencial, consolida uma nova resposta pública para os povos indígenas.
+
+zando o faturamento FAEC.
+
+ Ação 9 – Populações ribeirinhas e quilombolas
+• Iniciativa 1: Expansão da frota de barcos-hospitais e barcos-laboratóriais para cobertura de todas as calhas de rios habitadas.
+• Iniciativa 2: Apoio ao mapeamento e cadastramento de todas as comunidades ribeirinhas no e-SUS, garantindo vinculação a equipes de saúde e acompanhamento longitudinal.
+• Iniciativa 3: Desenvolvimento de uma política específica de saúde quilombola, em articulação com a Fundação Cultural Palmares e a Secretaria de Igualdade Racial.
+
+3. SESAI – Secretaria de Saúde Indígena
+
+355
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Um olhar sobre a lei do Fundo Estadual de Saúde para povos tradicionais
+A lei instituirá um mecanismo formal de cofinanciamento estadual para ações complementares à SESAI, com recursos vinculados do ASPS estadual e repasses municipais. Além do financiamento das ações aqui descritas, o fundo regulamentará a integração dos sistemas de informação SESAI e SES-AM para faturamento conjunto da produção realizada em território indígena, e formalizará a política estadual de atenção à saúde quilombola, abrangendo aproximadamente 150 mil habitantes em situação de vulnerabilidade semelhante.
+ Ação 10 – Saúde na fronteira
+• Iniciativa 1: Formalização de acordos binacionais com Colômbia e Peru para regulação do fluxo de pacientes fronteiriços e ressarcimento por serviços prestados.
+• Iniciativa 2: Implantação de Hospital de Referência da Fronteira na região da tríplice fronteira Brasil-Colômbia-Peru, dimensionado para a demanda real — incluindo a de países vizinhos — com financiamento específico do Ministério da Saúde via componente de saúde de fronteira.
+ Ação 11 – Cuidar do idoso
+• Iniciativa 1: Implantação do Centro Estadual de Referência em Saúde do Idoso (CERSI) em parceria com os municípios: unidade de referência estadual para avaliação geriátrica especializada, reabilitação funcional, hospital-dia geriátrico e capacitação de profissionais da rede. Dimensionamento conforme Portaria GM/MS nº 702/2002. Investimento estimado: R$ 8–12 milhões (obra + equipamento), com custeio federal via habilitação MS.
+• Iniciativa 2: Ação Estadual de Envelhecimento Ativo e Saudável: articulação intersetorial com as Secretarias de Assistência Social, Cultura, Educação e Esporte para promoção de saúde, prevenção de quedas, atividade física orientada, estimulação cognitiva e combate ao isolamento social. Priorização dos 20 municípios com maior proporção de idosos e dos domicílios unipessoais identificados pela Pesquisa Nacional por Amostra de Domicílios Contínua (PNAD Contínua 2024).
+• Iniciativa 3: Implantação da Caderneta de Saúde da Pessoa Idosa na APS: meta de cobertura de 100% dos idosos cadastrados nas equipes de Saúde da Família até 2030, com avaliação multidimensional anual (procedimento 03.01.09.003-3 do e-SUS AB). Capacitação de 2.400 profissionais da APS (médicos, enfermeiros, ACS) em geriatria básica, por meio de parceria com a UFAM e a Fiocruz Amazônia.
+• Iniciativa 4: Ação de Prevenção de Quedas em Idosos: protocolo estadual de prevenção de quedas adaptado ao contexto amazônico (habitações em palafitas, terrenos alagáveis, acesso fluvial), com orientação domiciliar por ACS, adaptação ambiental de UBSs e distribuição de dispositivos auxiliares
+356
+
+Parte 02. Plano estratégico de desenvolvimento
+
+de marcha. Meta: redução de 20% nas internações por fratura de fêmur em idosos até 2030 (linha de base: SIH/DATASUS 2025).
+• Iniciativa 5: Linha de Cuidado para Doenças Crônicas Não Transmissíveis (DCNT) no Idoso: estruturação do fluxo referência-contrarreferência entre APS, atenção especializada e hospitalar para as quatro DCNT prioritárias (cardiovascular, diabetes, neoplasias e doenças respiratórias crônicas), com foco no controle de fatores de risco modificáveis (tabagismo, sedentarismo, alimentação inadequada, uso abusivo de álcool) e no acompanhamento longitudinal de hipertensos e diabéticos na APS.
+• Iniciativa 6: Telemedicina Geriátrica: as estações modulares de telessaúde da rede estadual incluirão geriatria como especialidade mandatória de teleconsulta, permitindo que equipes da Atenção Primária à Saúde (APS) do interior tenham acesso a suporte especializado para o manejo de síndromes geriátricas — quedas, demência, polifarmácia, fragilidade, incontinência — sem necessidade de deslocamento do idoso até a capital. O apoio matricial remoto ao médico da APS qualifica a conduta local, reduz internações evitáveis por descompensação de doenças crônicas e fortalece o vínculo longitudinal entre equipe e paciente.
+• Iniciativa 7: Atenção Domiciliar ao Idoso Dependente em parceria com os municípios: expansão do Programa Melhor em Casa (Portaria GM/MS nº 825/2016), para os municípios-polo das macrorregiões, com equipes multiprofissionais de atenção domiciliar (EMAD) dimensionadas para a demanda de idosos acamados ou com restrição de mobilidade, priorizando os municípios com maior proporção de domicílios unipessoais.
+
+Quadro 14.5 — Plano de Ação - Recursos humanos e valorização
+PCCS atualizado e adicional de fixação para especialistas no interior
+Plano de ação para o eixo Recursos Humanos e Valorização — duas ações estruturantes voltadas à atualização do Plano de Cargos, Carreiras e Remuneração e à criação de carreira diferenciada para especialistas no interior.
+
+2 Ações estruturantes consolidam a política de valorização — atualização do PCCS e fixação de especialistas no interior. Será proposto projeto de lei para revisão dos planos de cargos e melhoria do adicional de fixação no interior.
+
+Descrição da ação
+
+Responsável Prazo Recursos
+
+Resultados esperados
+
+12. Operacionalizar a ação de valorização dos trabalhadores da saúde
+13. Fixação de especialistas no interior
+
+Secretaria Estadual de
+Saúde
+SES-AM
+
+Até 2030 Até 2030
+
+A definir (sujeito a levantamento técnico)
+A definir (sujeito a levantamento técnico)
+
+Elaborar estudo e propor projeto de lei para atualização do Plano de Cargos, Carreiras
+e Salários.
+Melhorar o adicional de fixação e criar carreira diferenciada para especialista.
+
+357
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ Ação 12 – Operacionalizar a ação de valorização dos trabalhadores da saúde • Iniciativa 1: Contratação de consultoria para elaborar estudo para atualização do Plano de Cargos, Carreiras e Salários (PCCS) da SES-AM, com isonomia entre categorias e critérios transparentes de progressão. • Iniciativa 2: Implantação de processo permanente de educação continuada em saúde, com 40 horas anuais de capacitação garantidas para todos os profissionais da rede. • Iniciativa 3: Implementação da política de saúde do trabalhador para os próprios servidores da saúde — prevenção de burnout, suporte psicossocial e ergonomia.
+ Ação 13 – Fixação de especialistas no interior • Iniciativa 1: Instituição do adicional de fixação para especialistas que atuam em municípios do interior, escalonado por distância e dificuldade de acesso, com valor a ser definido em estudo técnico atuarial. • Iniciativa 2: Garantia de condições adequadas de moradia para médicos especialistas nos municípios-polo do interior, por meio de mecanismos a serem definidos conforme a realidade local, incluindo parceria com municípios, aproveitamento de imóveis públicos existentes ou convênios com o setor privado. • Iniciativa 3: Criação de carreira diferenciada para especialistas do interior, com promoções por permanência, pesquisa em saúde amazônica e formação de residentes locais. • Iniciativa 4: estabelecer parceria com UEA e UFAM para implantação de residências médicas em especialidades críticas no interior.
+358
+
+Parte 02. Plano estratégico de desenvolvimento
+
+Quadro 14.6 — Plano de Ação - Governança e Transparência
+Painel mensal de indicadores institucionalizará a transparência como política de Estado
+Plano de ação para o eixo Governança e Transparência — duas ações estruturantes para diversificação do financiamento e implementação do Painel de Indicadores como mecanismo de prestação de contas pública mensal.
+
+Ações de governança consolidam a transparência como política de Estado
+2 da saúde estadual. A diversificação amplia as formas de aporte em áreas críticas. O Painel de Indicadores publicado mensalmente garante prestação
+de contas tempestiva.
+
+Descrição da ação
+
+Responsável Prazo Recursos
+
+Resultados esperados
+
+14. Estratégia de eficiência para financiamento da saúde
+15. Melhorar a governança e transparência como política de Estado na saúde
+
+Secretaria Estadual de
+Saúde
+Secretaria Estadual de Saúde e PRODAM
+
+Até 2030
+
+A definir (sujeito a levantamento técnico e investimentos)
+
+Diversificação amplia as formas de aporte em áreas críticas da
+saúde estadual.
+
+Até 2030
+
+A definir (sujeito a levantamento técnico)
+
+Utilizar banco de dados para publicação mensal do painel de
+indicadores.
+
+ Ação 14 – Estratégia de eficiência para financiamento da saúde
+• Iniciativa 1: Iniciar processo de negociação estratégica com o Ministério da Saúde para revisão do per capita federal de repasse ao Fundo Nacional de Saúde (FNS), incorporando o Coeficiente de Equidade Geográfica e de Saúde do Amazonas (CEGS-AM) como critério de rateio complementar, nos termos do art. 198, § 3°, inciso III da Constituição Federal.
+• Iniciativa 2: Articulação com a bancada federal do Estado em torno de emendas parlamentares impositivas que possam contemplar projetos estruturantes na saúde.
+• Iniciativa 3: Habilitação de novos serviços de alta complexidade (transplante hepático, radioterapia em polo regional, cardiovascular no interior) que ampliam o financiamento do Fundo de Ações Estratégicas e Compensação (FAEC) sem custo adicional ao Estado.
+• Iniciativa 4: Recuperação de glosa como estratégia fiscal. Esta é uma ação transversal à estratégia de Excelência Hospitalar, que prevê a redução dos valores glosados.
+
+359
+
+Parte 02. Plano estratégico de desenvolvimento
+
+ Ação 15 – Governança e transparência como política de Estado
+• Iniciativa 1: Publicação mensal do Painel de Indicadores SUS-AM, com dados abertos sobre qualidade, financiamento, acesso e produção hospitalar de cada unidade.
+• Iniciativa 2: Criação do Observatório da Saúde do Amazonas — instância técnica independente, com participação da UEA, UFAM, Conselho Estadual de Saúde e sociedade civil — para monitoramento externo das metas do Plano.
+• Iniciativa 3: Fortalecimento do Conselho Estadual de Saúde (CES/AM) como instância efetiva de controle social, garantindo as condições mínimas para o seu pleno funcionamento: infraestrutura física e tecnológica adequada, capacitação permanente dos conselheiros para interpretação de dados de gestão, acesso irrestrito ao sistema de monitoramento da SES-AM e protocolo de resposta obrigatória às recomendações formais do Conselho. O controle social só cumpre sua função constitucional quando dispõe das ferramentas técnicas e das condições institucionais para exercê-lo com autonomia e qualidade.
+• Iniciativa 4: Auditoria anual externa dos resultados do Plano, com publicação de relatório de prestação de contas à sociedade.
+
+Quadro 14.7 — Plano de Ação - Excelência hospitalar
+Programa “Amazonas sem Glosa” reduzirá taxa de glosa de 11,3% para menos de 5%
+Plano de ação para o eixo Excelência Hospitalar — quatro ações estruturantes para redução de glosa hospitalar, contratos de gestão por desempenho com fundações estaduais, plano de redução da mortalidade hospitalar e expansão da infraestrutura.
+
+<5%
+
+é a meta para a taxa de glosa hospitalar (SIH total) até 2030 — reduzindo da linha de base de 11,3%. Os Núcleos de Auditoria e Performance (NAP) serão implantados nas quatro unidades de maior concentração. O Hospital Delphina Aziz será expandido para 24 transplantes hepáticos por ano.
+
+Descrição da ação
+
+Responsável Prazo Recursos
+
+Resultados esperados
+
+16. AMAZONAS SEM GLOSA
+17. Realizar CONTRATOS DE GESTÃO POR DESEMPENHO com as Fundações Estaduais
+18. Estabelecer o PLANO DE REDUÇÃO DA MORTALIDADE HOSPITALAR
+19. Realizar a EXPANSÃO DA INFRAESTRUTURA HOSPITALAR
+
+SES-AM e DATASUS / PRODAM
+Secretaria Estadual de
+Saúde
+Secretaria Estadual de
+Saúde
+Secretaria Estadual de
+Saúde
+
+Até 2030
+
+Qualificação e treinamento
+de pessoal
+
+Até 2030
+Até 2030
+Projeto a ser
+iniciado até 2030
+
+A definir (sujeito a levantamento técnico)
+A definir (sujeito a levantamento técnico)
+A definir (sujeito a levantamento técnico)
+
+Reduzir a taxa de glosa de 11,3% para menos de 5% e aumentar o repasse federal
+recuperado.
+Equalizar a qualidade nos atendimentos à população.
+Redução da taxa de mortalidade nos hospitais.
+Expandir a Fundação Hospital Adriano Jorge e o Hospital Delphina Aziz.
+
+360
+
+

@@ -1,0 +1,247 @@
+Plano de Governo Rafaell Milas
+INTRODUÇÃO E DIRETRIZES MACROESTRUTURAIS
+Este documento constitui o Plano de Governo oficial de Rafaell Milas para o Estado de Mato Grosso durante o quadriênio 2027–2030. Elaborado por meio de um esforço multidisciplinar, este plano afasta-se do modelo tradicional de promessas genéricas e manifestos ideológicos. Sua fundamentação assenta-se na técnica administrativa, na responsabilidade fiscal, na segurança jurídica e na eficiência operacional, utilizando dados consolidados de órgãos oficiais.
+O objetivo central é consolidar Mato Grosso como o principal polo logístico e agroindustrial da América do Sul, convertendo a pujança econômica do setor primário em desenvolvimento estrutural, segurança pública integral, saúde responsiva e educação voltada para a nova economia global.
+Para subsidiar o acompanhamento e a governança de todas as metas estipuladas neste documento, o Poder Executivo adotará o Painel de Governança Integrada e Desempenho Fiscal (PGID), uma plataforma digital centralizada de monitoramento de indicadores.
+EIXO 1 — REVOLUÇÃO LOGÍSTICA (O CORAÇÃO DO PROJETO)
+1. Diagnóstico
+Mato Grosso é o maior produtor nacional de grãos, superando 100 milhões de toneladas anuais (IBGE/IMEA). Contudo, o escoamento da produção é historicamente sobrecarregado pelo modal rodoviário, gerando o chamado "Custo Mato Grosso". Segundo dados da ANTT e do DNIT, mais de 65% da produção trafega por rodovias como a BR-163 e a BR-364, cujos trechos não duplicados elevam o frete em até 35% quando comparados à média dos preços de frete de países da OCDE. O modal ferroviário, operado pela Malha Norte (Rumo), concentra-se no terminal de Rondonópolis, deixando as regiões Médio-Norte e Norte dependentes de eixos rodoviários saturados. As hidrovias dos rios Paraguai e Teles Pires apresentam gargalos operacionais e trechos com restrições severas de calado em períodos de estiagem, conforme relatórios da Agência Nacional de Transportes Aquaviários (ANTAQ).
+2. Problema
+Assimetria na matriz de transportes, caracterizada por extrema dependência do modal rodoviário, obsolescência e saturação de eixos de escoamento federais e estaduais, e subutilização crônica do potencial ferroviário e hidroviário, limitando a competitividade internacional das exportações estaduais.
+3. Objetivo
+Transformar a matriz logística de Mato Grosso, ampliando a participação dos modais ferroviário e hidroviário por meio da integração intermodal e da atração de capital privado, reduzindo o custo logístico médio por tonelada transportada.
+
+4. Propostas
+●​ Apoio Institucional à Ferrogrão (EF-170): Atuação político-diplomática e técnica junto ao Governo Federal, ao Supremo Tribunal Federal (STF) e ao Ministério dos Transportes para destravar o licenciamento ambiental do traçado de 933 km entre Sinop (MT) e Miritituba (PA).
+●​ Expansão da Malha Ferroviária Estadual: Fomento e segurança jurídica para a continuidade das obras da primeira ferrovia estadual autorizada, interligando Rondonópolis, Cuiabá, Nova Mutum e Lucas do Rio Verde, sob o regime de autorização (Lei Estadual nº 11.487/2021).
+●​ Integração Norte–Centro–Oeste–Sul: Articulação com a ANTT para coordenar a conexão física e operacional entre a Ferrovia de Integração Centro-Oeste (FICO) e a Malha Norte, unificando os corredores de escoamento de grãos e insumos.
+●​ Transporte Regional de Passageiros: Realização de estudos de viabilidade técnica, econômica e ambiental (EVTEA) para a implementação de linhas ferroviárias de média velocidade dedicadas ao transporte de passageiros.
+●​ Desenvolvimento de Hidrovias Sustentáveis: Dragagem de manutenção, balizamento e sinalização da Hidrovia do Rio Paraguai (trecho Cáceres–Corumbá) e estudos de viabilidade ambiental para o aproveitamento do Rio Teles Pires, garantindo navegabilidade contínua respeitando a legislação ambiental vigente.
+●​ Implantação de Centros Intermodais e Portos Secos: Estruturação de Zonas de Processamento de Exportação (ZPE) e portos secos conectados aos novos terminais ferroviários de Lucas do Rio Verde e Nova Mutum.
+●​ Concessão de Rodovias Estaduais (MTs): Transferência de lotes rodoviários críticos para a iniciativa privada, com foco em duplicações, construção de terceiras faixas e pontes de concreto nas rodovias de integração (MT-242, MT-320 e MT-130).
+●​ Infraestrutura Digital nos Corredores Logísticos: Obrigatoriedade, via editais de concessão rodoviária, da instalação de rede de fibra óptica e cobertura de internet móvel 4G/5G em toda a extensão das rodovias concedidas.
+5. Execução
+A coordenação das ações ficará a cargo da Secretaria de Estado de Infraestrutura e Logística (SINFRA-MT), em parceria com a Secretaria de Estado de Desenvolvimento Econômico (SEDEC-MT) e a Agência Estadual de Regulação dos Serviços Públicos Delegados (AGER-MT).
+●​ Meses 1 a 12: Adequação Normativa e Atração de Investimentos​ Revisão do marco regulatório estadual de concessões e PPPs. Lançamento dos roadshows nacionais e internacionais para apresentação da carteira de projetos ferroviários e rodoviários de Mato Grosso.
+●​ Meses 13 a 24: Licenciamento Ambiental e Modelagem Financeira​ Emissão, pela SEMA-MT, das licenças prévias e de instalação dos eixos rodoviários estaduais. Conclusão dos estudos de modelagem financeira das concessões dos rios e portos secos.
+●​ Meses 25 a 48: Execução de Obras e Implantação Tecnológica​ Início das duplicações das MTs concedidas, instalação física da conectividade digital nos corredores e entrega dos primeiros 150 km de trilhos da ferrovia estadual.
+
+6. Financiamento
+Os investimentos estruturais serão viabilizados via capital privado por meio de contratos de concessão comum e Parcerias Público-Privadas (PPPs). Recursos do Fundo de Transporte e Habitação (FETHAB) serão vinculados exclusivamente à manutenção de rodovias não concedidas e contraprestações públicas de PPPs. Para projetos de integração regional, buscar-se-á financiamento de longo prazo junto ao BNDES, Banco Mundial e Banco Interamericano de Desenvolvimento (BID).
+7. Indicadores
+●​ Custo médio do frete rodoviário por tonelada/quilômetro (R$/t-km). ●​ Percentual de modais de alta capacidade (ferroviário/hidroviário) na matriz de
+transportes do Estado. ●​ Quilômetros de rodovias estaduais duplicadas e pavimentadas. ●​ Índice de Conectividade Digital das Rodovias (ICDR).
+8. Metas para quatro anos
+●​ Ampliar em 250 km a malha ferroviária estadual em efetiva operação ou implantação avançada.
+●​ Garantir a duplicação de 400 km de rodovias estaduais estratégicas por meio de concessões.
+●​ Elevar a capacidade operacional da Hidrovia do Rio Paraguai em 20% através de intervenções de sinalização e dragagem homologadas.
+●​ Assegurar 100% de cobertura de internet móvel nos eixos rodoviários concedidos.
+EIXO 2 — INDUSTRIALIZAÇÃO DE VERDADE
+1. Diagnóstico
+Mato Grosso destaca-se como exportador de commodities brutas (soja em grão, milho e algodão em pluma). Dados do Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC) e da Secretaria de Estado de Desenvolvimento Econômico (SEDEC-MT) apontam que menos de 20% de tudo que é produzido no Estado passa por processos internos de transformação industrial. Embora o setor de etanol de milho tenha apresentado crescimento expressivo nos últimos anos, a cadeia de fertilizantes depende em mais de 85% de importações. A morosidade no licenciamento ambiental conduzido pela Secretaria de Estado de Meio Ambiente de Mato Grosso (SEMA-MT) e a burocracia tributária na SEFAZ-MT atuam como barreiras de entrada para novos complexos industriais de grande porte.
+2. Problema
+Baixo nível de verticalização da produção primária, resultando na exportação de baixo valor agregado, perda de arrecadação potencial e vulnerabilidade econômica a choques de preços internacionais de commodities não processadas.
+3. Objetivo
+
+Verticalizar as cadeias produtivas agropecuárias de Mato Grosso, expandindo a capacidade de processamento local, simplificando os processos regulatórios e assegurando previsibilidade jurídica para a instalação de novos distritos industriais.
+4. Propostas
+●​ Estímulo à Agroindústria de Valor Agregado: Fomento à instalação de indústrias de fiação de algodão, processamento avançado de couro e refino de óleos vegetais.
+●​ Plano Estadual de Fertilizantes e Nutrição Vegetal: Atração de indústrias de insumos químicos e biológicos para reduzir a dependência externa de NPK (Nitrogênio, Fósforo e Potássio).
+●​ Modernização do Setor de Proteína Animal: Incentivos à diversificação e expansão de plantas frigoríficas de bovinos, suínos e aves, focando no atendimento a mercados externos de alto padrão sanitário.
+●​ Complexo da Madeira Legalizada: Incentivo ao polo de silvicultura e indústrias de base florestal sustentável nas regiões Norte e Noroeste, vinculando o crédito à certificação de origem do manejo florestal.
+●​ Criação de Zonas de Desenvolvimento Industrial (ZDIs): Estruturação de polos industriais dotados de infraestrutura energética, logística e tributária simplificada.
+●​ Digitalização e Unificação do Licenciamento Ambiental: Reestruturação do Sistema Integrado de Monitoramento e Licenciamento Ambiental (SIMLAM) da SEMA-MT, com implantação de inteligência artificial para análise automatizada de processos de baixo risco.
+●​ Segurança Jurídica Tributária: Unificação de normas de incentivos fiscais (PRODEIC), garantindo estabilidade nas regras por dez anos e eliminando revisões retroativas discricionárias.
+5. Execução
+A implementação será liderada pela SEDEC-MT, em atuação conjunta com a SEMA-MT, SEFAZ-MT e em parceria com a Federação das Indústrias do Estado de Mato Grosso (FIEMT).
+
+Fase do Projeto
+
+Ação Governamental
+
+Órgãos Envolvidos
+
+Fase I
+
+Automatização do Licenciamento e Estabilização Normativa
+
+SEMA-MT, SEFAZ-MT
+
+Fase II
+
+Implantação das ZDIs e Atração de Fábricas de Insumos
+
+SEDEC-MT, SINFRA-MT
+
+Fase III
+
+Consolidação dos Polos Industriais
+
+SEDEC-MT, AGER-MT
+
+6. Financiamento
+Utilização de linhas de crédito direcionadas do Fundo Constitucional de Financiamento do Centro-Oeste (FCO) e captação junto ao BNDES e agências multilaterais para infraestrutura básica das ZDIs. Os incentivos fiscais do PRODEIC serão condicionados estritamente à geração de empregos qualificados e inovação tecnológica local.
+7. Indicadores
+●​ Índice de Verticalização da Produção Agrícola (IVPA). ●​ Tempo médio para concessão de Licença de Instalação (LI) industrial pela SEMA. ●​ Participação do setor industrial no PIB total do Estado (IBGE). ●​ Volume de produção de industrializados.
+8. Metas para quatro anos
+●​ Elevar de 20% para 32% o percentual de grãos industrializados dentro do território de Mato Grosso.
+●​ Reduzir o tempo médio de abertura e licenciamento ambiental de indústrias de médio risco para menos de 30 dias.
+●​ Viabilizar a instalação de pelo menos três plantas de larga escala produtoras de fertilizantes ou corretivos de solo de alta eficiência no Estado.
+EIXO 3 — SEGURANÇA PÚBLICA
+1. Diagnóstico
+Mato Grosso possui uma faixa de fronteira internacional de aproximadamente 980 km com a Bolívia, tornando o Estado uma rota de trânsito internacional de entorpecentes e contrabando. Conforme dados do Fórum Brasileiro de Segurança Pública e da Secretaria Estadual de Segurança Pública SESP-MT, a interiorização de facções criminosas elevou os índices de homicídios em municípios periféricos e gerou novas modalidades de crimes patrimoniais rurais (o "novo cangaço" e roubo de defensivos agrícolas). Embora o Grupo Especial de Fronteira (GEFRON) possua alto índice de apreensões, o efetivo global das polícias Civil e Militar apresenta defasagem frente ao crescimento populacional acentuado do Estado. O sistema prisional opera com sobrecarga e baixa taxa de ressocialização por meio do trabalho.
+2. Problema
+Vulnerabilidade da faixa de fronteira, expansão territorial de organizações criminosas com reflexos no ambiente rural e urbano, e ineficiência na custódia e isolamento de lideranças criminosas.
+3. Objetivo
+
+Assegurar o controle territorial e das fronteiras estaduais, desarticular as finanças do crime organizado e reestruturar o sistema penitenciário por meio do isolamento penal rígido e do trabalho obrigatório para reinserção e custeio do sistema.
+4. Propostas
+●​ Fortalecimento do GEFRON e Monitoramento Tecnológico: Ampliação do contingente operacional na fronteira com suporte de drones de longa distância (UAVs) com sensores termais e imageamento por satélite de alta resolução.
+●​ Operação "Tormenta do Cerrado": Força-tarefa integrada permanente entre Polícia Militar, Polícia Civil, Polícia Penal e Corpo de Bombeiros para combate a crimes ambientais organizados, grilagem de terras públicas e privadas e a desarticulação de bases logísticas do tráfico de drogas.
+●​ Modernização Institucional e Valorização da Polícia Penal: Implementação de programa focado na reestruturação e fortalecimento da Polícia Penal de Mato Grosso, mediante o aperfeiçoamento dos planos de carreira alinhados a critérios meritocráticos e de avaliação por desempenho. A medida prevê o aporte contínuo em inteligência penitenciária, a modernização de equipamentos de proteção individual e táticos, e a expansão da capacitação técnico-operacional por meio da Escola de Administração Penitenciária (EAP). O objetivo é consolidar a instituição como peça estratégica e integrada no subsistema de segurança pública, otimizando o fluxo de informações com a SESP-MT e garantindo máxima eficiência no controle, na custódia e na governança do sistema prisional estadual.
+●​ "Inferno Pantaneiro" – Criação do Presídio de Segurança Máxima Estadual: Construção de uma unidade prisional de segurança máxima de competência estadual, operada sob rígidos protocolos de controle e custódia da Polícia Penal, dotada de bloqueio absoluto de comunicação, scanner corporal tridimensional e celas individuais.
+●​ Isolamento Rígido de Lideranças Criminosas: Transferência imediata e manutenção de chefes de facções criminosas em Regime Disciplinar Diferenciado (RDD) estadual, com escolta tática e monitoramento estrito executados pela Polícia Penal, inviabilizando a comunicação externa.
+●​ Emprego de Mão de Obra Prisional em Obras Públicas: Implementação de convênios, em conformidade com o artigo 28 da Lei de Execução Penal (LEP), para o uso da força de trabalho de reeducandos no desenvolvimento do estado, sob a coordenação, fiscalização e escolta da Polícia Penal.
+●​ Proteção Institucional e Jurídica aos Policiais: Estruturação de uma assessoria jurídica especializada na SESP-MT para defesa de agentes de segurança, compreendendo as Polícias Militar, Civil, Penal e Científica, que atuem em legítimo exercício da função pública, assegurando total retaguarda institucional e jurídica.
+●​ Criação do Núcleo de Combate Financeiro ao Crime Organizado: Unidade de inteligência altamente integrada entre a Polícia Civil (por meio do Laboratório de Tecnologia contra Lavagem de Dinheiro - LAB-LD), o setor de inteligência da Polícia Penal e a SEFAZ-MT para identificação, bloqueio e confisco de bens e ativos de facções, com a reversão imediata desses recursos para o reaparelhamento das forças de segurança.
+●​ Modernização da Polícia Científica: Aporte tecnológico em equipamentos de análise balística automatizada, identificação de DNA e perícia digital forense para
+
+elevar a robustez das provas processuais e subsidiar o trabalho investigativo e operacional das polícias.
+Estrutura de Inteligência Integrada (SESP-MT):
+●​ Fronteira: GEFRON integrado com Drones e Satélites enviando dados para a Central Integrada (CICC).
+●​ Urbano/Rural: PM, PC e PP atuando com ferramentas de Reconhecimento Facial e OCR.
+●​ Inteligência Financeira: Operações conjuntas entre LAB-LD e SEFAZ para desarticulação e bloqueio de ativos.
+5. Execução
+A execução competirá à Secretaria de Estado de Segurança Pública (SESP-MT), ao Comando Geral da PM-MT da PC-MT e dá PP-MT, à Diretoria da Polícia Científica e à Secretaria de Estado de Infraestrutura (SINFRA) nas frentes de uso de mão de obra prisional.
+●​ Nota de Competência: As ações de fiscalização internacional e patrulhamento de fronteira seca serão coordenadas com a Polícia Federal e as Forças Armadas, nos termos do art. 144 da Constituição Federal. Medidas penais restritivas seguirão as diretrizes do Poder Judiciário e do Ministério Público do Estado de Mato Grosso (MPE-MT).
+6. Financiamento
+Fundo Estadual de Segurança Pública (FESP), repasses do Fundo Nacional de Segurança Pública e recursos obtidos via leilão de bens confiscados do narcotráfico e lavagem de dinheiro, vinculados por lei para reequipamento policial.
+7. Indicadores
+●​ Taxa de homicídios dolosos por 100 mil habitantes (SESP-MT/FBSP). ●​ Volume financeiro de ativos bloqueados de organizações criminosas. ●​ Percentual de detentos efetivamente inseridos em postos de trabalho. ●​ Tempo de resposta a ocorrências de crimes de alta complexidade no meio rural.
+8. Metas para quatro anos
+●​ Reduzir em 55% a taxa de crimes violentos letais intencionais (CVLI) nas macrorregiões prioritárias.
+●​ Alcançar a marca de 80% da população carcerária condenada exercendo atividade laboral produtiva.
+●​ Cobrir 100% dos municípios polo do Estado com sistemas de monitoramento por reconhecimento facial e leitura de placas (OCR).
+EIXO 4 — EDUCAÇÃO E DISCIPLINA
+1. Diagnóstico
+
+Os dados do Índice de Desenvolvimento da Educação Básica (IDEB) apontam que Mato Grosso, embora apresente evolução nos anos iniciais do Ensino Fundamental, enfrenta estagnação crônica nos anos finais e no Ensino Médio. A evasão escolar no Ensino Médio atinge índices alarmantes em regiões de forte expansão agrícola, onde o mercado de trabalho atrai o jovem precocemente. Há um descompasso estrutural entre as matrizes curriculares oferecidas e as demandas por competências técnicas exigidas pelas novas indústrias agroindustriais e tecnológicas do Estado, como programação, operação de maquinário de alta precisão e análise de dados.
+2. Problema
+Inadequação do modelo pedagógico tradicional do Ensino Médio frente às exigências do mercado produtor moderno, resultando em desinteresse discente, evasão escolar e escassez de mão de obra técnica qualificada local.
+3. Objetivo
+Elevar a qualidade do ensino público estadual combinando disciplina, modernização curricular tecnológica e expansão de escolas de tempo integral integradas ao ensino técnico profissionalizante.
+4. Propostas
+●​ Expansão Qualificada do Modelo Cívico-Militar: Ampliação do número de Escolas Estaduais da Polícia Militar Tiradentes e do Corpo de Bombeiros Dom Pedro II, com foco em regiões de alta vulnerabilidade social, garantindo gestão administrativa disciplinar rigorosa e autonomia pedagógica docente.
+●​ Universalizar o ensino técnico profissionalizante: Integrando o Ensino Médio e a Educação Profissional por meio de convênios com o SENAI, SENAR e demais instituições de excelência, oferecendo formação técnica no contraturno escolar alinhada às vocações econômicas de cada região de Mato Grosso, respeitando a legislação educacional vigente.
+●​ Programa "Mato Grosso Tech": Inclusão obrigatória de disciplinas de programação de computadores, robótica aplicada, inteligência artificial e introdução à ciência de dados na grade das escolas estaduais de tempo integral.
+●​ Fluência Global (Inglês Avançado): Implementação de metodologia de imersão linguística na língua inglesa voltada para negócios e tecnologia nas turmas de Ensino Médio, visando preparar o corpo discente para o mercado internacionalizado.
+●​ Avaliação de Desempenho e Meritocracia: Aperfeiçoamento do Sistema de Avaliação da Educação Básica de Mato Grosso (SAEB-MT) para mensurar o desempenho por escola e por aluno. Criação de bônus financeiro anual por produtividade pedagógica para equipes escolares que atingirem as metas do IDEB.
+●​ Formação Continuada Docente Centrada em Evidências: Reestruturação dos centros de formação de professores da SEDUC-MT, focando em metodologias ativas de ensino e no uso pedagógico de ferramentas digitais, eliminando capacitações de caráter puramente teórico-ideológico.
+5. Execução
+
+Secretaria de Estado de Educação (SEDUC-MT), em regime de cooperação mútua com os municípios (regime de colaboração) e parcerias firmadas via convênios com o Sistema S (FIEMT/FAMATO).
+6. Financiamento
+Recursos vinculados do FUNDEB, quotas estaduais do Salário-Educação e direcionamento de recursos do orçamento próprio do Estado para investimentos in loco em infraestrutura tecnológica e laboratórios de robótica, observando estritamente os limites mínimos constitucionais de 25%.
+7. Indicadores
+●​ Nota média do IDEB do Ensino Médio da rede pública estadual. ●​ Taxa de abandono e evasão escolar no Ensino Médio. ●​ Percentual de alunos do Ensino Médio matriculados concomitantemente no ensino
+técnico. ●​ Índice de proficiência em língua inglesa e competências digitais aferido por exames
+padronizados estaduais.
+8. Metas para quatro anos
+●​ Posicionar Mato Grosso entre os 5 melhores estados do Brasil no ranking do IDEB para o Ensino Médio.
+●​ Dobrar a oferta de vagas em escolas cívico-militares e de tempo integral na rede pública estadual.
+●​ Garantir que 50% dos formandos do Ensino Médio concluam a escola com certificação técnica profissionalizante homologada.
+EIXO 5 — CORTE DE PRIVILÉGIOS
+1. Diagnóstico
+Embora Mato Grosso apresente equilíbrio orçamentário recente, persistem distorções na estrutura administrativa e no custeio da máquina pública. Auditorias do Tribunal de Contas do Estado (TCE-MT) e relatórios de transparência demonstram a existência de excesso de cargos de provimento em comissão (indicações políticas) em detrimento de funções técnicas ocupadas por servidores de carreira. Adicionalmente, sistemas legados de compras governamentais dispersos resultam em assimetria de preços contratados e baixa transparência na concessão de regimes especiais e isenções tributárias casuísticas ocorridas em décadas passadas.
+2. Problema
+Existência de nichos de ineficiência e desperdício de recursos públicos decorrentes do excesso de cargos comissionados, falta de padronização nas compras públicas e necessidade de transparência radical nos atos administrativos.
+3. Objetivo
+
+Enxugar a estrutura administrativa do Estado, eliminar despesas supérfluas, profissionalizar a gestão pública por meio da meritocracia e implementar transparência em tempo real sobre todo e qualquer centavo gasto pelo erário.
+4. Propostas
+●​ Redução Estrutural de Cargos Políticos: Corte linear de 30% dos cargos em comissão de livre nomeação na administração direta e indireta, convertendo funções essenciais em chefias preenchidas exclusivamente por critérios de mérito por servidores efetivos.
+●​ Portal de Transparência 2.0 (Tempo Real): Evolução da plataforma de transparência do Estado para disponibilizar dados abertos legíveis por máquina, detalhando em tempo real notas fiscais eletrônicas de compras governamentais, diárias e remunerações nominais.
+●​ Auditoria Permanente da Folha de Pagamento e Benefícios: Implantação de rotinas contínuas de cruzamento de dados pela Controladoria-Geral do Estado (CGE-MT) para identificar e suprimir pagamentos cumulativos indevidos, respeitando rigorosamente os limites constitucionais e as decisões judiciais pregressas transitadas em julgado.
+●​ Central de Compras Inteligentes: Centralização dos pregões eletrônicos e compras do Estado sob um sistema baseado em tabelas de preços de referência máxima, utilizando compras em escala para forçar a redução dos valores homologados.
+●​ Avaliação Sistemática de Políticas Públicas: Criação do Comitê de Avaliação de Gastos Públicos para mensurar a relação custo-benefício de todos os programas estaduais, extinguindo ações governamentais que não apresentem impacto social mensurável por indicadores.
+●​ Desmaterialização e Governo 100% Digital: Transição completa para o processo administrativo eletrônico, eliminando o uso de papel físico em todas as secretarias e autarquias do Estado, gerando economia em insumos e arquivamento.
+5. Execução
+A liderança do projeto caberá à Secretaria de Estado de Planejamento e Gestão (SEPLAG-MT) e à Controladoria-Geral do Estado (CGE-MT), mediante decretos de reestruturação organizacional e projetos de lei de reforma administrativa encaminhados à Assembleia Legislativa de Mato Grosso (ALMT).
+6. Financiamento
+Esta dimensão não demanda novos recursos; pelo contrário, trata-se de uma política geradora de superávit operacional e liberação de espaço fiscal para investimentos. A economia gerada pela supressão de cargos e eficiência nas compras será integralmente destinada para investimentos finalísticos em saúde, segurança e educação.
+7. Indicadores
+●​ Relação percentual entre despesa com cargos comissionados e receita corrente líquida.
+●​ Índice de digitalização dos serviços públicos estaduais.
+
+●​ Economia real gerada por revisões contratuais e pregões unificados. ●​ Volume de processos físicos tramitados na administração estadual (meta tendendo a
+zero).
+8. Metas para quatro anos
+●​ Reduzir o gasto total com cargos comissionados de natureza estritamente política em 40%.
+●​ Alcançar a digitalização de 100% dos serviços públicos estaduais demandados pelo cidadão e empresas (Padrão Poupatempo Digital).
+●​ Rever e repactuar contratos continuados gerando uma economia mínima acumulada de R$ 300 milhões ao longo do período.
+EIXO 6 — RESPONSABILIDADE FISCAL
+1. Diagnóstico
+Mato Grosso possui uma situação fiscal controlada, enquadrando-se nos limites da Lei de Responsabilidade Fiscal (LRF) quanto à despesa com pessoal. No entanto, o histórico de dependência da volatilidade das receitas atreladas ao agronegócio exige mecanismos de proteção macroeconômica rígidos. A Emenda Constitucional Estadual do Teto de Gastos (vinculada aos critérios federais) necessita de calibração técnica constante para não engessar a capacidade de investimento público em infraestrutura (SINFRA-MT). Conforme dados do Tesouro Nacional, o Estado precisa preservar sua nota de Capacidade de Pagamento (CAPAG A) para garantir acesso a créditos de baixo custo destinados a grandes investimentos de longo prazo.
+2. Problema
+Exposição da receita pública estadual a ciclos econômicos de preços internacionais de commodities e necessidade de otimização alocativa das despesas correntes para maximizar a capacidade interna de investimentos com recursos próprios.
+3. Objetivo
+Fixar o princípio do Déficit Zero, estabilizar o crescimento das despesas correntes abaixo do crescimento das receitas e consolidar a excelência fiscal de Mato Grosso (Manutenção da CAPAG A).
+4. Propostas
+●​ Adoção das Práticas do Livro Amarelo de Gestão Fiscal: Implementação rigorosa do manual de eficiência de gastos, que veda a criação de despesas continuadas sem a correspondente receita permanente ou extinção de despesa equivalente.
+●​ Manutenção Rígida e Aperfeiçoamento do Teto de Gastos: Controle estrito das despesas correntes, impedindo o crescimento real desordenado da máquina administrativa acima dos índices oficiais de inflação (IPCA).
+●​ Implementação do Orçamento por Desempenho: Condicionamento da liberação de cotas orçamentárias trimestrais às secretarias de Estado ao cumprimento de
+
+metas físicas de entrega de serviços públicos estabelecidas no PPA (Plano Plurianual). ●​ Blindagem e Otimização do FETHAB: Destinação legal exclusiva dos recursos arrecadados pelo Fundo de Transporte e Habitação (FETHAB) para obras de infraestrutura, vedando seu uso para pagamento de folha de salários, encargos ou custeio da máquina administrativa geral. ●​ Modernização da Fiscalização Tributária Digital: Utilização de técnicas de Data Analytics e cruzamento de notas fiscais eletrônicas de trânsito pela SEFAZ-MT para combater a sonegação fiscal no comércio interestadual, sem elevação de alíquotas tributárias. ●​ Fundo de Estabilização Fiscal e Macroeconômica: Criação de um colchão financeiro anticíclico com percentual dos superávits fiscais anuais, visando garantir a continuidade de investimentos em períodos de queda internacional de preços agrícolas.
+5. Execução
+A condução técnica caberá privativamente à Secretaria de Estado de Fazenda (SEFAZ-MT) e à Secretaria de Estado de Planejamento e Gestão (SEPLAG-MT).
+6. Financiamento
+A sustentabilidade fiscal é o meio de autofinanciamento do Estado. A governança rigorosa assegura a Mato Grosso menor custo de captação de recursos junto a consórcios bancários internacionais de desenvolvimento, como o Banco Mundial, o BID e o KFW alemão.
+7. Indicadores
+●​ Resultado Primário e Nominal anual do Estado (Tesouro Nacional). ●​ Relação percentual entre Despesa Corrente e Receita Corrente Líquida (RCL). ●​ Rating de Capacidade de Pagamento (CAPAG) emitido pela STN. ●​ Percentual da RCL destinado a Investimentos Públicos Reais.
+8. Metas para quatro anos
+●​ Manter o equilíbrio fiscal contínuo sob a diretriz de Déficit Zero em todos os anos do mandato.
+●​ Assegurar a manutenção ininterrupta da classificação CAPAG A junto ao Tesouro Nacional.
+●​ Garantir que a taxa anual de investimento público real se mantenha em patamar igual ou superior a 15% da Receita Corrente Líquida.
+EIXO 7 — SAÚDE COM GESTÃO
+1. Diagnóstico
+O sistema de saúde pública em Mato Grosso, estruturado de forma descentralizada pelo SUS, padece de gargalos crônicos na regulação do acesso a consultas especializadas, exames de alta complexidade e cirurgias eletivas. Relatórios do DATASUS e auditorias do Tribunal de Contas indicam assimetria regional: enquanto a Baixada Cuiabana e o Sul do Estado concentram a maior complexidade hospitalar, pacientes das macrorregiões do
+
+Araguaia e do Norte enfrentam longos deslocamentos terrestres para obter atendimento especializado. O sistema de controle de filas (SISREG) carece de visibilidade externa, alimentando a percepção de falta de transparência e abrindo margem para a judicialização excessiva da saúde.
+2. Problema
+Falta de transparência em tempo real e lentidão regulatória na gestão das filas por procedimentos especializados, associadas à infraestrutura hospitalar descentralizada insuficiente e ineficiência operacional na gestão das unidades regionais.
+3. Objetivo
+Instituir a transparência absoluta no sistema de regulação de vagas, otimizar a operação dos Hospitais Regionais por meio de contratos de gestão orientados a resultados e aprimorar a logística de transporte de pacientes de média e alta complexidade.
+4. Propostas
+●​ Implantação da Fila Única Estadual Digital: Unificação das demandas de regulação do SUS em Mato Grosso em uma plataforma digital aberta de consulta pública. O cidadão poderá verificar sua posição exata na fila, o tempo estimado de espera e os critérios de prioridade clínica adotados (Protocolo de Manchester).
+●​ Fortalecimento e Modernização dos Hospitais Regionais: Ampliação da capacidade resolutiva das unidades hospitalares existentes (Sinop, Sorriso, Cáceres, Rondonópolis, Alta Floresta, Barra do Garças) com a contratualização de novas especialidades médicas de alta demanda.
+●​ Contratos de Gestão por Desempenho e Resultados: Transição do modelo de repasse fixo para modelos de eficiência em saúde nas parcerias com Organizações Sociais de Saúde (OSS) ou fundações públicas. O repasse financeiro estadual passará a ser condicionado ao cumprimento de metas de produtividade (exames realizados, cirurgias efetuadas e redução da taxa de infecção hospitalar).
+●​ Consórcios Regionais de Saúde Intermunicipais: Apoio financeiro e técnico estruturado aos consórcios intermunicipais para realização de mutirões regionalizados de exames especializados (Ressonâncias, Tomografias, Endoscopias) nos municípios polos, evitando deslocamentos desnecessários para a capital.
+●​ Logística e Transporte Inteligente de Pacientes: Criação de centrais de frotas regionais integradas com ambulâncias e micro-ônibus sanitários rastreados por satélite e agendamento eletrônico, além da consolidação do SAMU Aero-médico estadual para transferências de emergência de alta complexidade.
+●​ Telessaúde e Telediagnóstico Especializado: Implementação de postos de telemedicina em postos de saúde de municípios de pequeno porte, permitindo que clínicos gerais consultem especialistas (cardiologistas, neurologistas, oncologistas) dos grandes centros hospitalares em tempo real.
+Fluxo do Sistema de Fila Única:
+Paciente Triado (SUS) -> Inserção no Sistema Unificado (Web/App) -> Classificação de Risco por Critério Clínico -> Consulta Pública Online (Posição
+
++ Tempo Estimado) -> Encaminhamento Automatizado para Hospital Regional ou Consórcio Local.
+5. Execução
+A execução ficará a cargo da Secretaria de Estado de Saúde (SES-MT), em articulação direta com as Secretarias Municipais de Saúde, o Conselho de Secretarias Municipais de Saúde (COSEMS-MT) e a Controladoria-Geral do Estado para fiscalização dos contratos de gestão.
+6. Financiamento
+Recursos provenientes do Orçamento Geral do Estado destinados à Saúde (mínimo constitucional de 12%), complementados por repasses do Fundo Nacional de Saúde (FNS/SUS) e emendas parlamentares direcionadas a investimentos estruturais em equipamentos de alta tecnologia.
+7. Indicadores
+●​ Tempo médio de espera na fila de regulação para cirurgias eletivas prioritárias. ●​ Taxa de ocupação e resolutividade dos leitos de UTI nos Hospitais Regionais. ●​ Índice de satisfação do usuário do sistema estadual de saúde (ouvidorias). ●​ Custo por procedimento realizado sob o regime de contrato de desempenho.
+8. Metas para quatro anos
+●​ Reduzir o tempo médio de espera para exames diagnósticos de alta complexidade em 45%.
+●​ Garantir a disponibilização pública da consulta à Fila Única Digital para 100% dos procedimentos regulados em até 180 dias do início da gestão.
+●​ Zerar o déficit de cobertura do SAMU Aero-médico nas macrorregiões Norte e Araguaia.
+
+CONSIDERAÇÕES FINAIS: O COMPROMISSO COM O FUTURO DE MATO GROSSO
+A elaboração destas Diretrizes Estratégicas de Governo para o quadriênio 2027–2030 consolida um novo paradigma para a gestão pública do Estado de Mato Grosso. Este documento afasta-se definitivamente da tradição de promessas eleitorais voluntaristas e agendas puramente retóricas para estabelecer um roteiro operacional maduro, fundamentado na racionalidade econômica, na segurança jurídica e na centralidade dos serviços prestados ao cidadão.
+A Integração Estratégica como Vetor de Desenvolvimento
+O sucesso das políticas públicas propostas não reside na execução isolada de seus componentes, mas na sinergia intrínseca entre os eixos estruturantes. A Revolução Logística e a Industrialização de Verdade atuam como o motor econômico do Estado, gerando o adensamento de valor necessário para expandir a competitividade mato-grossense e atrair investimentos globais.
+Esse incremento de eficiência e dinamismo econômico provê a sustentabilidade financeira indispensável para o financiamento robusto e contínuo da Saúde com Gestão, da Segurança Pública de controle territorial estrito e de uma Educação voltada à formação técnica, disciplinar e tecnológica das futuras gerações.
+A Governança Inegociável da Máquina Pública
+O alicerce que confere viabilidade a todo este ecossistema de metas é o binômio composto pela Responsabilidade Fiscal e pelo Corte de Privilégios. Sob a diretriz inflexível do Déficit Zero e o cumprimento das balizas rigorosas de gestão, o Estado de Mato Grosso assume o compromisso ético e técnico de gastar menos com a sua própria manutenção para investir mais na atividade-fim.
+A transição definitiva para um governo 100% digital, a transparência radical em tempo real e a redução de cargos políticos de livre nomeação sinalizam uma ruptura clara com o modelo burocrático tradicional, pavimentando o caminho para uma administração pública pautada estritamente pela meritocracia, avaliação de desempenho e governança baseada em indicadores mensuráveis.
+O FUTURO É GLORIOSO!
+Este plano de governo apresenta ao cidadão, ao servidor público e às forças produtivas um contrato de previsibilidade. Menos burocracia, mais eficiência. Menos privilégios, mais transparência. Diante dos desafios complexos que se impõem para o próximo quadriênio, o Poder Executivo apresenta-se tecnicamente preparado, financeiramente responsável e institucionalmente comprometido em liderar o Estado de Mato Grosso rumo a um patamar superior de desenvolvimento e modernidade administrativa.
+
+

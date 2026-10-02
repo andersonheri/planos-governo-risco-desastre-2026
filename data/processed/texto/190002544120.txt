@@ -1,0 +1,958 @@
+RESUMO EXECUTIVO
+PLANO DE GOVERNO | RJ
+Governador Coronel Busnello
+Vice Bombeiro Rafa Luz
+Partido Missão Rio de Janeiro 2026
+
+SUMÁRIO
+PREFÁCIO ................................................................................................................................................06 INTRODUÇÃO ......................................................................................................................................... 08
+PARTE I SEGURANÇA PÚBLICA I EIXO I — PESSOAL ..............................................................................................................................11 II EIXO II — OPERACIONAL ....................................................................................................................12 III EIXO III — SENSAÇÃO DE SEGURANÇA ..........................................................................................13 IV EIXO IV — INCLUSÃO ..........................................................................................................................14
+PARTE II SAÚDE I EIXO I — REGULAÇÃO E ACESSO ....................................................................................................17 II EIXO II — ATENÇÃO BÁSICA E COORDENAÇÃO DO CUIDADO .................................................18 III EIXO III — URGÊNCIAS, LEITOS E INTERIOR .................................................................................19 IV EIXO IV — GESTÃO, TRANSPARÊNCIA E SUSTENTABILIDADE FISCAL ..................................20
+PARTE III EDUCAÇÃO I EIXO I - VALORIZAÇÃO E GESTÃO DO PROFESSOR ...................................................................23 II EIXO II — MODELOS E INFRAESTRUTURA DE ENSINO ...............................................................24 III EIXO III — COLABORAÇÃO COM OS MUNICÍPIOS ........................................................................25 IV EIXO IV — COMUNIDADE E INCLUSÃO ...........................................................................................25
+PARTE IV TRANSPORTE E MOBILIDADE I TREM METROPOLITANO RJ: REESTRUTURAÇÃO E PADRÃO DE METRÔ DE SUPERFÍCIE ...29 II ANEL LOGÍSTICO MULTIMODAL DA BAÍA DE GUANABARA ......................................................29 III PACOTE DE PROGRAMAS DE MOBILIDADE DA REGIÃO METROPOLITANA ..........................30
+
+IV RECUPERAÇÃO E MANUTENÇÃO DAS VIAS ESTRUTURANTES ESTADUAIS ........................30 V INTEGRAÇÃO DE BILHETAGEM E HARMONIZAÇÃO DE HORÁRIOS ........................................31 VI PARCERIA COM O CONDERLAGOS: DO FERRY BOAT À AGENDA DE DESENVOLVIMENTO..31
+REGIONAL
+PARTE V EMPREGO, RENDA E DESENVOLVIMENTO I RESPONSABILIDADE FISCAL, FUNDO SOBERANO E REEQUILÍBRIO ORÇAMENTÁRIO ....34 II INDUSTRIALIZAÇÃO DO LESTE FLUMINENSE ..............................................................................34 III PENSAR NO INTERIOR: DESENVOLVIMENTO ECONÔMICO REGIONAL .................................35 IV VALE DOS FERTILIZANTES ................................................................................................................35 V RIO AZUL 2030 — FASE GUANABARA ............................................................................................36
+PARTE VI HABITAÇÃO E URBANISMO I REFORMA FUNDIÁRIA E FORTALECIMENTO DO ITERJ ..............................................................39 II ÍNDICE DE QUALIDADE URBANA ......................................................................................................39 III PROGRAMA DE REUTILIZAÇÃO E ALIENAÇÃO DE IMÓVEIS ESTADUAIS OCIOSOS ............40 IV REVITALIZAÇÃO DO PATRIMÔNIO HISTÓRICO E CULTURAL ....................................................40
+PARTE VII MEIO AMBIENTE I EIXO I — BIODIVERSIDADE E CONECTIVIDADE ECOLÓGICA ....................................................43 II EIXO II — ÁGUA, BAÍA E SANEAMENTO .........................................................................................43 III EIXO III — RESILIÊNCIA TERRITORIAL ............................................................................................44
+PARTE VIII ASSISTÊNCIA SOCIAL, DIREITOS HUMANOS E CAUSA ANIMAL I EIXO I — ASSISTÊNCIA SOCIAL .....................................................................................................47 II EIXO II — DIREITOS HUMANOS .......................................................................................................48 III EIXO III — CAUSA ANIMAL .............................................................................................................. 48
+
+PARTE IX GESTÃO PÚBLICA E TRANSPARÊNCIA I REORDENAMENTO ESTRATÉGICO DA ADMINISTRAÇÃO E..S...T..A...D...U..A...L............................................52 II GASTO SUSTENTÁVEL RJ — DESPESAS RÍGIDAS, RENÚNCIAS FISCAIS E MARCO DE MÉDIO PRAZO ...52 III INTEGRIDADE NAS CONTRATAÇÕES — EMPRESAS CONTRATADAS PELO ESTADO ........53 IV PROSAN — PROGRAMA DE MODERNIZAÇÃO E SIMPLIFICAÇÃO DO ARCABOUÇO NORMATIVO ...53
+PARTE X CIÊNCIA, TECNOLOGIA E INOVAÇÃO I FOMENTO AO DESENVOLVIMENTO DE SOFTWARES E JOGOS ..............................................56 II ESCOLA TÉCNICA 2.0 — REORGANIZAÇÃO DAS ESCOLAS TÉCNICAS ESTADUAIS (FAETEC) .......56 III RJ COMPETITIVO — PROGRAMA DE INCENTIVO À COMPETITIVIDADE EMPRESARIAL .....57 IV REDECONHECIMENTO RJ E ECOINOV-RJ — INTEGRAÇÃO ENTRE ENSINO SUPERIOR, ....57
+CIÊNCIA E DESENVOLVIMENTO ECONÔMICO
+PARTE XI HISTÓRIA, CULTURA E TURISMO I SERRA IMPERIAL 365 ..........................................................................................................................60 II RIO FUNDADOR ....................................................................................................................................60 III SELO FLUMINENSE DE MUNICÍPIOS TURÍSTICOS ....................................................................... 60
+PARTE XII AGRICULTURA E AGROINDÚSTRIA I PROAGROF — PROGRAMA FLUMINENSE DE FOMENTO À AGRICULTURA FAMILIAR E ....63
+AGROECOLOGIA II SELO TRADIÇÃO FLUMINENSE — ORIGEM REGIONAL TURÍSTICA ....................................................63 III SELO ORGÂNICO REGIONAL RJ — AGRICULTURA FAMILIAR CERTIFICADA .......................63 IV VALOR AGREGADO COOPERATIVO FLUMINENSE — AGROINDÚSTRIA FAMILIAR RJ .......64
+PARTE XIII MATRIZ ENERGÉTICA I INFRAESTRUTURA MIDSTREAM E DOWNSTREAM — O PACTO PELO REFINO ....................67 II TRANSIÇÃO ENERGÉTICA — HIDROGÊNIO E EÓLICA OFFSHORE .........................................67 III HUB DE RADIOFARMÁCIA E SAÚDE NUCLEAR ............................................................................ 67
+
+PARTE XIV ESPORTE E LAZER I PROGRAMA ESCOLA VIVA — ESPORTE NO CONTRATURNO, FIM DE SEMANA E FÉRIAS ...70 II REDE ESTADUAL DE NÚCLEOS OLÍMPICOS E DE ALTO RENDIMENTO ................................70 III BOLSA-ATLETA FLUMINENSE COM MÉRITO E CONTRAPARTIDA EDUCACIONAL ...............70 IV PLATAFORMA ÚNICA DO ESPORTE E LAZER ................................................................................71 V INCENTIVO AO ESPORTE ESTUDANTIL E UNIVERSITÁRIO COM INTEGRAÇÃO CULTURAL ..71
+PARTE EXTRA I DESFAVELIZAÇÃO I RETOMADA TERRITORIAL E UNIDADES DE CONTROLE TERRITORIAL .................................74 II GOVERNANÇA E FINANCIAMENTO DA URBANIZAÇÃO ..............................................................74 III INICIATIVA SENTINELA FLUMINENSE — DIAGNÓSTICO TÉCNICO ...........................................74 IV PLATAFORMA ÚNICA DO ESPORTE E LAZER ................................................................................75 V HABITA+ E MINHA CASA MINHA VIDA ENTIDADES — FINANCIAMENTO HABITACIONAL ..75 VI FÁBRICA DE CIDADES — QUALIFICAÇÃO TÉCNICA LOCAL ......................................................75 VII LOCAÇÃO SOCIAL EM IMÓVEIS PÚBLICOS CENTRAIS ..............................................................76 VIII FORMALIZAÇÃO PRODUTIVA COMUNITÁRIA ...............................................................................76 IX REGULARIZAÇÃO FUNDIÁRIA E CADASTRAMENTO SOCIAL SIMULTÂNEO .........................76
+CRÉDITOS ................................................................................................................................................77 POSFÁCIO .............................................................................................................................................79
+
+CARTA AOS FLUMINENSES
+NENHUM FLUMINENSE DEVERIA SAIR DE CASA COM MEDO DE NÃO VOLTAR PARA A SUA FAMÍLIA.
+PREFÁCIO
+Queridos fluminenses,
+Escrevo esta carta movido pelo mesmo sentimento que vejo diariamente nos olhos de milhões de famílias do nosso Estado: o desejo de viver em paz, criar os filhos com segurança e voltar a acreditar que o Rio de Janeiro pode oferecer um futuro melhor.
+Coloco meu nome à disposição dos fluminenses para governar o RJ porque acredito que essa mudança é possível. Não apresento promessas vazias. Apresento um plano, construído com responsabilidade, baseado em estudos técnicos e no compromisso de fazer o poder público voltar a cumprir seu papel.
+Ao lado do Rafael Luz, assumo um compromisso claro: devolver a presença do Estado, combater a criminalidade com Atividade de Inteligência, valorizar nossos profissionais da segurança e criar oportunidades para que nossos jovens escolham o caminho da educação, do trabalho e da cidadania.
+Nossa candidatura nasce diferente. Somos o primeiro partido brasileiro a apresentar um plano de governo completo em formato de livro: o Livro Amarelo do Rio de Janeiro. São 16 capítulos com diagnóstico técnico e propostas executáveis para os 92 municípios do nosso Estado.
+Os números abaixo mostram a dimensão do desafio que enfrentamos!
+
+87%
+dos fluminenses sentem que vivem em conflito armado (Quaest)
+155 km²
+da capital estão sob domínio do crime (2023)
+
+25 mil
+policiais faltando no Estado
+70%
+dos moradores têm medo de sair à noite (Datafolha)
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+6
+
+Esses dados não podem ser normalizados. Por isso, nossa prioridade número um será devolver a paz e a segurança ao povo fluminense.
+Mas governar o Rio é muito mais do que cuidar da segurança. Nosso plano contempla todas as áreas essenciais para reconstruir o Estado e melhorar a vida das pessoas: saúde, educação, emprego, transporte, habitação, meio ambiente, desfavelização, gestão pública, ciência e inovação, cultura, turismo, agricultura, matriz energética, esporte e lazer.
+
+I - VALORIZAÇÃO Novo plano de carreira e equalização do Regime Adicional de Serviço entre as forças.
+III - PRESENÇA Retomada de territórios em três fases - e um Estado que fica, não passa.
+
+II - EFICIÊNCIA Comando único de inteligência, com câmeras integradas e resposta em tempo real.
+IV - INCLUSÃO Segurança integrada à educação, à saúde e à assistência social nos territórios vulneráveis.
+
+Acredito profundamente que o Rio de Janeiro pode voltar a ser motivo de orgulho para todos nós.
+O futuro do Rio depende das escolhas que fazemos hoje. Conto com sua confiança para iniciarmos juntos essa transformação.
+Um forte abraço,
+Coronel Busnello Candidato a Governador do Estado do Rio de Janeiro
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+7
+
+INTRODUÇÃO
+UM LIVRO AMARELO PARA O RIO DE JANEIRO
+O que é o Livro Amarelo RJ e como ler este plano
+SOBRE ESTE RESUMO EXECUTIVO
+Este documento é a edição condensada do Livro Amarelo – Plano de Governo do Rio de Janeiro, a síntese de um diagnóstico profundo e de propostas concretas formuladas pelo Partido Missão para o nosso estado. Aqui reunimos a visão estratégica, os problemas centrais enfrentados pelos fluminenses e as soluções práticas da Missão para uma leitura acessível e simplificada.
+AMissão é o primeiro grupo político a entregar um plano de governo rigoroso, formulado como um verdadeiro livro programático. Como diz o provérbio romano: verba volant, scripta manent — as palavras voam, mas a escrita permanece. Este plano foi feito para cristalizar nosso compromisso com o Rio de Janeiro. Ao votar em qualquer candidato da Missão no estado, o eleitor sabe que não está escolhendo apenas nomes ou princípios abstratos, mas sim um projeto técnico, executável e corajoso para resgatar o Rio do colapso e devolvê-lo ao protagonismo nacional.
+Esta edição estadual foi diretamente balizada no Livro Amarelo nacional. Ela integra as diretrizes gerais do partido à realidade fluminense, combinando o trabalho de pesquisadores locais, especialistas em gestão pública e a vivência de nossas equipes no estado. O resultado é um discurso coeso, orgânico e com alto nível de profundidade e sistematicidade.
+O insight para o desenvolvimento da nossa agenda estadual nasceu da constatação de que o debate político no Rio de Janeiro foi capturado, há décadas, por duas vias falidas: de um lado, populismos e teorias sem respaldo na realidade; de outro, soluções simplistas que prometiam resolver a complexidade do estado com meras frases de efeito ou panaceias genéricas. O Rio foi destruído por sucessivas administrações fisiológicas e pela perda de autoridade do Estado.
+Mobilizamos dezenas de especialistas, lideranças regionais e colaboradores no Rio de Janeiro para mapear as urgências do estado: da Baixada Fluminense ao Norte/Noroeste, do Sul Fluminense à Região Metropolitana. O resultado é uma agenda dividida em três pilares fundamentais: Reforma do Estado, Segurança Pública e Ordem; Reformas de Base e Eficiência dos Serviços Públicos; e Desfavelização e Reindustrialização como Desenvolvimento Estratégico."
+O Futuro do Rio é Glorioso
+O Livro Amarelo do Rio de Janeiro é a nossa entrega aos cidadãos fluminenses que recusam o derrotismo e ainda acreditam na recuperação do nosso estado. É um plano para quem quer andar na rua sem medo, para o trabalhador que merece um transporte digno e para o empreendedor que deseja prosperar no Rio sem ser sufocado pelo crime ou pela burocracia.
+A reconstrução do Rio de Janeiro começa agora. O Futuro é Glorioso!
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+8
+
+PARTE I
+SEGURANÇA PÚBLICA
+I EIXO I — PESSOAL ESCUDO JURÍDICO RJ E MODERNIZAÇÃO DO PCCS; EQUALIZAÇÃO DO REGIME ADICIONAL DE SERVIÇO PROGRAMA ESTADUAL DE SAÚDE DO POLICIAL AMPLIAÇÃO REGIONAL DA REDE DE SAÚDE DO POLICIAL — BAIXADA FLUMINENSE E NORTE FLUMINENSE
+II MEIOXDOEIIL—OSOEPEINRFARCAIEOSNTARLUTURA DE ENSINO INVESTIMENTO EM INTELIGÊNCIA: CENTRO INTEGRADO DE COMANDO E CONTROLE; AGÊNCIAS DE INTELIGÊNCIA DISTRITAL REFORMA DA GESTÃO ORÇAMENTÁRIA; UNIFICAÇÃO ADMINISTRATIVA DA SEGURANÇA PÚBLICA REESTRUTURAÇÃO DA POLÍCIA RODOVIÁRIA ESTADUAL; MODERNIZAÇÃO DA POLÍCIA TÉCNICO-CIENTÍFICA; RECOMPOSIÇÃO DE EFETIVOS COOPERAÇÃO INTERESTADUAL CONTRA O CRIME ORGANIZADO — FRONTEIRAS E ARCO CE-RJ-ES
+III EIXO III — SENSAÇÃO DE SEGURANÇA POLICIAMENTO DE PROXIMIDADE E BASES COMUNITÁRIAS PROGRAMA DE RETOMADA DE TERRITÓRIOS UNIDADES DE CONTROLE TERRITORIAL PACTO ESTADUAL PELA SEGURANÇA PÚBLICA
+IV EIXO IV — INCLUSÃO NÚCLEOS INTEGRADOS DE ARTICULAÇÃO INTERSETORIAL PROTOCOLOS COOPERATIVOS ENTRE FORÇAS ESTADUAIS E GUARDAS MUNICIPAIS FORTALECIMENTO DOS CONSELHOS COMUNITÁRIOS DE SEGURANÇA PROGRAMA RECOMEÇO: TRABALHO PRISIONAL E REINTEGRAÇÃO PRODUTIVA
+9
+
+INTRODUÇÃO SEGURANÇA PÚBLICA
+O PROBLEMA
+O Rio de Janeiro reduziu a letalidade violenta em 9,9% e o roubo de rua em 20% no primeiro semestre de 2026, segundo o ISP-RJ, mas o roubo de veículos subiu 14,5% e o de carga, 10,1% — quadro misto que convive com déficit de cerca de 25 mil policiais entre PM, PC e Corpo de Bombeiros.
+O domínio armado sobre o território é o problema estrutural por trás desses números. Segundo o Mapa Histórico dos Grupos Armados 2025, do GENI/UFF em parceria com o Instituto Fogo Cruzado, cerca de 4 milhões de pessoas — 34,9% da população da Região Metropolitana — viviam em 2024 sob controle ou influência de grupo armado, ocupando 18,1% de toda a superfície urbanizada da região. O Comando Vermelho é a força mais estável, com domínio direto sobre 150 km² — 47,5% de todo o território controlado no Estado — e cerca de 1,6 milhão de moradores sob sua autoridade; as milícias, somadas as áreas de influência, superam o CV em extensão, com 201 km² e mais de 1,7 milhão de pessoas afetadas, embora em retração desde as operações que atingiram sua liderança histórica. Entre 2007 e 2024, a área sob domínio armado cresceu 130,4%, e a população afetada, 59,4% — sinal de que a ocupação territorial se consolidou como parte estrutural da metrópole, e não como fenômeno isolado. O investimento em inteligência policial do Estado soma R$ 15,8 milhões por ano, 0,45% do total nacional — 13º lugar entre os estados —, patamar incompatível com a escala do domínio territorial hoje mapeado, e o sistema penitenciário opera com mais de 43 mil presos para cerca de 29 mil vagas, 49% de superlotação segundo o MPRJ. Pesquisas Genial/Quaest mostram que 87% dos moradores do estado do Rio de Janeiro acreditam viver uma situação de guerra. Levantamentos do Datafolha indicam que cerca de dois terços dos brasileiros têm medo de sair à noite, evidenciando o impacto da violência sobre a sensação de segurança da população. Esse cenário demonstra o desgaste provocado pela expansão do crime organizado e pela perda do controle territorial em diversas comunidades. Nesse contexto, pesquisa AtlasIntel constatou que 80,9% dos moradores de favelas brasileiras aprovaram a operação realizada nos Complexos do Alemão e da Penha, resultado que evidencia o esgotamento da população diante do domínio exercido pelo crime organizado e a expectativa de uma resposta firme, permanente e eficaz do Estado. Este Plano de Governo assume esse compromisso, propondo uma política de segurança pública baseada na retomada do controle territorial, no enfrentamento qualificado às organizações criminosas e na garantia da presença efetiva do Estado em todo o território fluminense.
+DIRETRIZES
+Carreira e saúde do policial vêm antes de qualquer equipamento novo: sem isso resolvido, o Estado continua perdendo efetivo formado a um custo maior do que qualquer investimento em tecnologia. A retomada de território é a prioridade mais importante deste capítulo: tirar cada território do domínio do crime organizado e devolvê-lo à população é urgente, e nenhuma outra política de segurança produz efeito duradouro enquanto o Estado não estiver fisicamente presente onde hoje não está. A retomada de território segue sempre a mesma ordem — inteligência financeira, depois ocupação, depois presença permanente —, nunca uma operação isolada sem sequência que a sustente. A segurança pública estadual passa a incluir formalmente quem hoje fica de fora da política — jovens em território de risco, guardas municipais, conselhos comunitários —, e não trata apenas do aparato policial isoladamente.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+10
+
+PROPOSTAS E SOLUÇÕES
+As dezesseis propostas deste capítulo organizam-se em quatro eixos — pessoal, operacional, sensação de segurança e inclusão — e correspondem às atribuições constitucionais do Governo do Estado sobre a Polícia Militar, a Polícia Civil, o Corpo de Bombeiros Militar, o sistema penitenciário e as rodovias estaduais, nos termos do art. 144 da Constituição Federal, articuladas em estrita observância à Lei de Responsabilidade Fiscal e às condicionantes do Regime de Recuperação Fiscal.
+CAPÍTULO I
+EIXO I — PESSOAL
+Escudo Jurídico RJ e Modernização do PCCS e Equalização do Regime Adicional de Serviço
+As carreiras de segurança pública operam com plano de cargos defasado e regra de adicional de serviço distinta entre corporações, dificultando a retenção de efetivo qualificado. Ao mesmo tempo, o agente que responde por decisão tomada no exercício da função enfrenta o processo sozinho: a responsabilidade penal é pessoal, por força da pessoalidade da pena, mas isso não isenta o Estado do dever de custear defesa técnica para quem agiu em seu nome — hoje o processo corre por meses ou anos sem acompanhamento especializado, com o agente pagando advogado do próprio bolso, e o medo de responder pessoalmente por decisão correta já compromete a disposição para agir no combate ao crime organizado. Um novo Plano de Cargos, Carreiras e Salários será enviado à Assembleia Legislativa, com progressão por mérito e adicional de serviço equalizado entre PM, PC, Bombeiro e Peritos. Em paralelo, o Escudo Jurídico RJ garantirá assistência jurídica custeada pelo Estado ao agente que responder por ato praticado em serviço, no exercício da função — porque o Estado que manda agir é o mesmo que deve estar ao lado do servidor quando essa conduta for questionada.
+Programa Estadual de Saúde do Policial
+Adoecimento físico e mental atinge parcela relevante do efetivo policial fluminense, mas a rede de atendimento especializado se concentra na capital, deixando sem cobertura adequada boa parte dos policiais lotados no interior e na Baixada Fluminense. Será criado programa estadual de saúde ocupacional com check-up periódico obrigatório, suporte psicológico continuado e protocolo específico para afastamento e retorno após operações de alto estresse, com unidade de referência vinculada a cada Comando de Policiamento de Área.
+Ampliação Regional da Rede de Saúde do Policial — Baixada Fluminense e Norte Fluminense
+A concentração da estrutura de saúde ocupacional na capital obriga policiais da Baixada Fluminense e do Norte Fluminense a longos deslocamentos para atendimento especializado, o que reduz a adesão ao próprio programa de saúde e agrava quadros que poderiam ser tratados precocemente. Duas novas unidades regionais de saúde do policial serão implantadas, uma em Duque de Caxias e outra em Campos dos Goytacazes, replicando o protocolo da unidade central e compartilhando prontuário digital único com toda a rede.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+11
+
+CAPÍTULO II
+EIXO II — OPERACIONAL
+
+Investimento em Inteligência: Centro Integrado de Comando e Controle e Agências de Inteligência Distrital
+A atividade de inteligência é essencial para a tomada de decisão em segurança, mas segue em segundo plano no Rio: dado fragmentado entre forças reduz o videomonitoramento a ferramenta reativa, e a delegacia tradicional funciona só como local de registro e investigação, sem estrutura dedicada à produção de inteligência. As informações serão unificadas pelo CIICO, integrando PM, PC, Bombeiro e monitoramento municipal pelo modelo estoniano X-Road, com reconhecimento facial para foragido e desaparecido, leitura automática de placa, alerta por inteligência artificial e câmera de zoom até 400x e sensor térmico; Transformaremos delegacias estratégicas em Agências de Inteligência, produzindo relatório, mapeando liderança de facção e compartilhando informação entre si e com outros órgãos, evitando investigação isolada.
+Reforma da Gestão Orçamentária e Unificação Administrativa da Segurança Pública
+Desde 2024, o Estado reduziu o orçamento de Informação e Inteligência — a verba de 2025 se esgotou em julho, com pouco mais de R$ 1 milhão de um orçamento total de R$ 24,08 bilhões em segurança —, e o Rio investiu apenas R$ 15,8 milhões em inteligência policial em 2024 pela metodologia do Fórum Brasileiro de Segurança Pública, 13º lugar entre os estados; a verba para perícia caiu de R$ 53 para menos de R$ 30 milhões desde 2022. Essa contradição tem raiz na fragmentação institucional entre as forças, com estrutura administrativa e orçamentária inteiramente separadas. O Governo do Estado inverterá essa lógica, aumentando de forma sustentada o investimento em inteligência e informação a cada ano de mandato, com meta pública de recuperar a posição do Rio no ranking nacional. O planejamento financeiro das forças será integrado, com auditoria ampla de despesa e contrato, redirecionando recurso hoje disperso em custeio administrativo para investigação, inteligência, tecnologia e policiamento ostensivo, com monitoramento permanente e avaliação pública de eficiência do gasto.
+Reestruturação da Polícia Rodoviária Estadual, Modernização da Polícia Técnico-Científica e Recomposição de Efetivos
+A Polícia Rodoviária monitora de forma majoritariamente presencial, sem drone; a Polícia TécnicoCientífica opera com laboratório defasado, retardando laudo; e as forças somam déficit de cerca de 25 mil profissionais, com concursado já aprovado — tanto da PMERJ quanto da Polícia Civil — ainda aguardando convocação prevista em lei. A Rodoviária ganhará escâner móvel, leitura automática de placa e drone térmico; a Perícia será modernizada com laboratório de genética, correlação balística e integração ao Banco Nacional de Perfis Genéticos; os concursados aprovados de PMERJ e Polícia Civil serão convocados conforme já previsto em lei; e um plano permanente de concurso formará ao menos 3.500 novos profissionais por ano entre as três forças, priorizando carreira investigativa e pericial na PC e devolvendo policial ao patrulhamento na PM.
+Cooperação Interestadual contra o Crime Organizado — Fronteiras e ARCO CE-RJ-ES
+O tráfico que cruza a fronteira do Rio com Minas Gerais, São Paulo e Espírito Santo é enfrentado por cada estado isoladamente, e facção já opera como franquia entre estados distantes, como o Ceará, usando o Espírito Santo como elo logístico, sem estrutura conjunta que monitore essa rota.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+12
+
+O Estado firmará cooperação com os estados fronteiriços para operação conjunta contra tráfico e contrabando, e criará com o Ceará e o Espírito Santo a ARCO CE-RJ-ES, agência híbrida de inteligência formalizada por protocolo entre os três governadores, com rateio de custo, Comitê Gestor dos secretários de segurança e Gabinete de Crise integrado em Fortaleza, no Rio e em Vitória, focado em neutralizar ordem de ataque emitida por liderança presa.
+
+CAPÍTULO III
+EIXO III — SENSAÇÃO DE SEGURANÇA
+Policiamento de Proximidade e Bases Comunitárias
+O policiamento de proximidade reduz a sensação de insegurança de forma mensurável onde é aplicado de modo continuado, mas o programa Segurança Presente ainda cobre parcela limitada do território fluminense, concentrado nas áreas de maior visibilidade turística. O programa Segurança Presente será expandido para novos corredores comerciais e educacionais fora da Região Metropolitana, com base comunitária fixa por território e patrulhamento a pé como padrão operacional, não como exceção.
+Programa de Retomada de Territórios
+Territórios sob controle prolongado de facções e milícias concentram os piores indicadores de letalidade e de ausência de serviço público, e intervenções pontuais sem sequência planejada historicamente não sustentam a presença do Estado após a fase inicial de ocupação. A retomada seguirá três fases — asfixia financeira e de inteligência; intervenção judicial e operacional; e consolidação da presença estatal —, com pilotos na Baixada Fluminense, na Capital e em São Gonçalo, e articulação direta com o programa de urbanização integrada e regularização fundiária tratado em capítulo próprio deste plano de governo.
+Unidades de Controle Territorial
+A fase de consolidação da retomada de território carece hoje de estrutura permanente que suceda a ocupação inicial, repetindo o padrão de refluxo já observado em experiências anteriores de policiamento comunitário em território de risco. Cada território retomado receberá Unidade de Controle Territorial permanente, integrando policiamento, serviços sociais e regulação de serviços informais como gás e transporte, com meta de presença contínua, e não apenas operação pontual.
+Pacto Estadual pela Segurança Pública
+Municípios com maior extensão territorial sob controle de facção criminosa recebem hoje apoio estadual desproporcional ao tamanho da população, já que os critérios de priorização vigentes olham para número de habitantes, e não para extensão do território dominado pelo crime. O Pacto Estadual pela Segurança Pública passará a priorizar municípios pelo critério de maior extensão territorial sob controle de facção ou milícia, com convênio de cooperação técnica e repasse de equipamento condicionado a plano municipal de segurança compatível com a estratégia estadual.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+13
+
+CAPÍTULO IV
+EIXO IV — INCLUSÃO
+Núcleos Integrados de Articulação Intersetorial
+Jovens em território de alta vulnerabilidade raramente são atendidos por uma política que combine, ao mesmo tempo, segurança, assistência social e oportunidade de renda — cada política pública atua isoladamente, sem um ponto único de articulação local. Núcleos Integrados de Articulação Intersetorial serão instalados nos territórios prioritários da retomada, reunindo em um mesmo espaço físico policiamento comunitário, CRAS e encaminhamento a curso técnico e primeiro emprego.
+Protocolos Cooperativos entre Forças Estaduais e Guardas Municipais
+Guardas municipais atuam hoje sem protocolo formal de cooperação com as forças estaduais, o que limita o compartilhamento de informação e a resposta conjunta em municípios de menor porte. Será formalizado protocolo estadual de cooperação com guardas municipais interessadas em aderir, incluindo compartilhamento de informação operacional e treinamento conjunto, sempre respeitada a autonomia municipal sobre a própria guarda.
+Fortalecimento dos Conselhos Comunitários de Segurança
+Os Conselhos Comunitários de Segurança existem formalmente na maior parte dos municípios, mas funcionam, na prática, como espaços consultivos esvaziados, sem instrumentos efetivos de cobrança sobre a execução da política de segurança local. Os conselhos passarão a ter acesso direto ao painel estadual de indicadores de sua área e realizarão reuniões obrigatórias com o comando local, com atas públicas, fortalecendo seu papel de fiscalização social sobre a execução da política de segurança. Como Governador, participarei mensalmente de reuniões dos Conselhos Comunitários de Segurança em diferentes regiões do estado, ouvindo diretamente a população, acompanhando a execução das ações e cobrando resultados das forças de segurança e dos gestores responsáveis.
+Programa Recomeço: Trabalho Prisional e Reintegração Produtiva
+O Rio de Janeiro tem apenas 3% da população prisional em trabalho remunerado, contra média nacional de 25%, mesmo com a Lei de Execução Penal autorizando o trabalho prisional desde 1984 e a Fundação Santa Cabrini já existindo desde 1977: falta gestão e prioridade, não lei nem estrutura. O Programa Recomeço organizará o trabalho prisional em dois eixos sob a Fundação Santa Cabrini — intramuros, com oficina produtiva fabricando item que o Estado hoje compra externamente e certificação profissional ao preso; e extramuros, com força-tarefa suplementar apoiando obra pública, sempre vedada a substituição de servidor efetivo —, financiado por fundo rotativo alimentado pelo ressarcimento de despesas de custódia, com meta de 25% da população carcerária em trabalho remunerado até 2030.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+14
+
+PARTE II
+SAÚDE
+I EIXO I — REGULAÇÃO E ACESSO CENTRAL DE VAGAS RJ PRONTUÁRIO UNIFICADO RJ FILA LIMPA RJ: REGULAÇÃO AMBULATORIAL TRANSPARENTE NO SISREG/SER PAINEL SAÚDE RJ
+II MEIOXDOEIIL—OSAETEINNFÇRÃAOESBTÁRSUICTAUREACDOEOREDNESNINAOÇÃO DO CUIDADO ESF FLUMINENSE ESPECIALISTA PERTO DE VOCÊ RJ SAÚDE APP
+III EIXO III — URGÊNCIAS, LEITOS E INTERIOR UTI EM CADA REGIÃO SAMU FLUMINENSE MÃE FLUMINENSE
+IV EIXO IV — GESTÃO, TRANSPARÊNCIA E SUSTENTABILIDADE FISCAL REPASSE JUSTO RJ
+15
+
+INTRODUÇÃO SAÚDE
+O PROBLEMA
+Asaúde pública é, ao lado da segurança, o problema de governo mais sentido no cotidiano do fluminense. O diagnóstico deste capítulo organiza-se em quatro dimensões — regulação e acesso, atenção básica, urgências e leitos no interior, e sustentabilidade fiscal do sistema —, que se somam para explicar por que um Estado com rede assistencial extensa entrega resultado tão aquém do que sua estrutura permitiria.
+A regulação de leitos de alta complexidade e da fila ambulatorial permanece vulnerável a critérios que não são clínicos. Organizações Sociais e unidades da Fundação Saúde do Estado nem sempre fornecem dados de ocupação em tempo real, e a fila de consultas e exames especializados segue dividida entre o SISREG, sistema nacional operado pelos municípios para média e baixa complexidade, e o Sistema Estadual de Regulação (SER), gerido pela SES-RJ para os casos de alta complexidade — oncologia, cirurgia cardíaca, neurocirurgia —, dois sistemas sob governanças distintas, com portais e processos próprios, que operam à parte da regulação de leitos hospitalares, mantendo o acesso condicionado, em parte relevante dos casos, a conexões pessoais em vez de necessidade clínica. A informação clínica do paciente fluminense está fragmentada em mais de 40 sistemas de prontuário que não se comunicam entre si, o que leva à repetição de exames, à perda de histórico de alergias e a internações evitáveis por falta de dado acessível — desperdício estimado em centenas de milhões de reais por ano, sem contar o custo em segurança do paciente. Na atenção básica, a cobertura da Estratégia de Saúde da Família é de apenas 45% na capital e 40% na Baixada Fluminense, exatamente as regiões mais populosas do Estado. Cada pessoa sem médico de família de referência tende a se tornar usuária recorrente de UPA, atendimento que custa ao Estado cerca de sete vezes mais do que uma consulta resolutiva na atenção primária. A desigualdade se aprofunda no interior. Municípios do Noroeste e do Centro-Sul Fluminense ficam a mais de 200 quilômetros do cardiologista, do neurologista ou do endocrinologista mais próximo, e a razão de leitos de UTI por habitante nessas regiões — 1,2 no Noroeste e na Serrana, 1,1 na Baixada Litorânea — está bem abaixo do parâmetro recomendado, obrigando pacientes críticos a horas de transferência inter-hospitalar. O SAMU, por sua vez, funciona de forma consolidada na capital, mas é irregular ou inexistente em dezenas dos 92 municípios fluminenses. Esse déficit tem expressão direta em mortalidade evitável. Segundo a Secretaria de Estado de Saúde, a razão de mortalidade materna caiu de 75,5 para 61,8 por 100 mil nascidos vivos entre 2023 e 2024 — melhora real, mas ainda distante da meta nacional de 30 por 100 mil até 2030, com mulheres negras apresentando o dobro da mortalidade das brancas e a mortalidade infantil no Noroeste chegando a 14 por mil nascidos vivos, quase o dobro da média estadual. Por fim, o repasse estadual de saúde aos municípios segue sem fórmula técnica publicada — a capital recebe cerca de R$ 28,92 por habitante ao ano em repasses estaduais de saúde, e Miguel Pereira, R$ 1.021, disparidade sem critério documentado que já motivou judicialização.
+DIRETRIZES
+A regulação do acesso a leitos e a serviços de maior complexidade passará a obedecer exclusivamente a critério clínico, com dados anonimizados e auditáveis, encerrando a discricionariedade hoje observada na distribuição de vagas hospitalares. A atenção básica será tratada como a porta de entrada estruturante do sistema, e não como serviço residual: sem médico de família acessível, qualquer investimento em hospital ou tecnologia de ponta perde parte de seu efeito, pela pressão constante sobre urgências que poderiam ser evitadas. A integração de dados — prontuário único, regulação unificada, telemedicina — será tratada como infraestrutura básica da política de saúde, condição prévia para qualquer ganho de eficiência ou de equidade territorial.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+16
+
+O interior fluminense receberá padrão de acesso equivalente ao da capital em leitos críticos, cobertura de urgência e especialistas, e os repasses estaduais aos municípios seguirão critério técnico e público, e não negociação política caso a caso.
+PROPOSTAS E SOLUÇÕES
+As dez propostas deste capítulo organizam-se em quatro eixos — regulação e acesso, atenção básica e coordenação do cuidado, urgências e leitos no interior, e gestão, transparência e sustentabilidade fiscal — e correspondem às competências do Estado na gestão do Sistema Único de Saúde, nos termos da Lei nº 8.080/1990 e da Lei Complementar nº 141/2012, articuladas com os municípios por meio das Comissões Intergestores Bipartite e com a União nos programas de financiamento e regulação nacional.
+CAPÍTULO I
+EIXO I — REGULAÇÃO E ACESSO
+Central de Vagas
+A regulação do acesso a leitos de alta complexidade e a procedimentos ambulatoriais permanece fragmentada entre governanças distintas. A fila de consultas e exames especializados hoje se divide entre o SISREG, sistema nacional operado pelos municípios para média e baixa complexidade, e o Sistema Estadual de Regulação (SER), gerido pela SES-RJ para alta complexidade — cada um com portal e processo próprios, apesar de o SER já contar com painel público de consulta —, sem qualquer integração de governança com a regulação de leitos hospitalares. O Governo do Estado criará a Central de Vagas RJ, unificando sob uma só governança técnica a regulação de leitos hospitalares e a fila ambulatorial hoje dividida entre SISREG e SER, com médicos reguladores operando por critério clínico e dados anonimizados, obrigação contratual de reporte em tempo real por Organizações Sociais e unidades da Fundação Saúde, penalidade automática em caso de descumprimento e auditoria trimestral do Tribunal de Contas do Estado.
+Prontuário Unificado
+O Rio de Janeiro opera com mais de 40 sistemas de prontuário sem comunicação entre si, o que gera repetição de exames, perda de histórico clínico e internações evitáveis, com desperdício estimado em centenas de milhões de reais por ano. O Governo do Estado implantará prontuário eletrônico único, com rastreabilidade de acesso e conformidade com a Lei Geral de Proteção de Dados, em rollout faseado — hospitais estaduais de grande porte no primeiro ano, UPAs e unidades contratadas no segundo, rede municipal por adesão voluntária no terceiro —, interoperável com a Rede Nacional de Dados em Saúde e o Meu SUS Digital.
+Fila Limpa: Regulação Ambulatorial Transparente no SISREG/SER
+O sistema de regulação ambulatorial funciona — o problema é o preenchimento incorreto das guias de referência no SISREG/SER. Quando o médico não descreve com suficiente detalhe o quadro clínico, a solicitação cai em inconsistência, o regulador a devolve com exigência e, se a unidade não corrigir em 90 dias, o paciente perde a posição sem ser avisado. Pacientes que aguardam vaga de oncologista por mais de um ano, na maioria dos casos, tiveram a solicitação descartada — o prazo legal para oncologia é de três meses.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+17
+
+Quatro medidas resolverão o gargalo: checklists obrigatórios por especialidade no SER, impedindo o envio de guias incompletas; alertas automáticos ao médico, ao diretor da unidade e ao gestor municipal quando uma solicitação cair em exigência, com contador de prazo regressivo; comunicação ativa ao paciente com número de acompanhamento e acesso ao status pelo app RJ Saúde; e indicador trimestral de taxa de exigência por profissional, com capacitação obrigatória para os de maior índice de devolução.
+Painel Saúde RJ
+Cerca de R$ 3,5 bilhões por ano são repassados a Organizações Sociais para a gestão de hospitais e serviços estaduais sem que o cidadão tenha acesso simples a se as metas contratuais estão sendo cumpridas. O Governo do Estado lançará plataforma pública com indicadores mensais por unidade — atendimentos realizados, tempo médio de espera, taxa de infecção hospitalar e cumprimento de metas —, com auditoria compulsória automática para OS que descumprirem metas por dois trimestres consecutivos, respeitados o contraditório e a ampla defesa.
+
+CAPÍTULO II
+EIXO II — ATENÇÃO BÁSICA E COORDENAÇÃO DO CUIDADO
+ESF Fluminense A cobertura da Estratégia de Saúde da Família é de apenas 45% na capital e 40% na Baixada Fluminense — as regiões mais populosas do Estado —, o que empurra a população sem médico de família para a UPA, atendimento cerca de sete vezes mais caro do que uma consulta resolutiva na atenção primária. O Governo do Estado ampliará o cofinanciamento estadual de equipes de saúde da família para viabilizar 1.200 novas equipes nos municípios com cobertura abaixo de 60%, com prioridade para a Baixada Fluminense e a Zona Oeste da capital, respeitando a autonomia municipal na contratação e com adscrição nominal obrigatória de cada cidadão a um médico responsável por seu cuidado.
+Especialista Perto de Você Municípios do Noroeste e do Centro-Sul Fluminense ficam a mais de 200 quilômetros do cardiologista, do neurologista ou do endocrinologista mais próximo, o que atrasa o manejo de condições complexas e gera internações evitáveis. O Governo do Estado criará rede estadual de telemedicina integrada ao Prontuário Unificado RJ, na qual especialistas da capital e de polos regionais atendem por videoconferência pacientes encaminhados pela atenção básica do interior, com pagamento por consulta efetivamente realizada e prioridade para cardiologia, neurologia, endocrinologia, psiquiatria e dermatologia.
+RJ Saúde App Parte relevante da população não sabe identificar o nível correto de atendimento — vai à UPA quando bastaria o posto, ou ao hospital quando bastaria a UPA —, sobrecarregando o nível assistencial de maior custo.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+18
+
+O Governo do Estado desenvolverá aplicativo gratuito de triagem digital, integrado ao Prontuário Unificado RJ, que orienta o cidadão para o posto, a UPA ou a emergência conforme protocolo clínico, permite agendamento direto na unidade de referência e opera com versão simplificada offline para áreas de conectividade instável.
+CAPÍTULO III
+EIXO III — URGÊNCIAS, LEITOS E INTERIOR
+UTI em Cada Região
+A distribuição de leitos de UTI entre capital e interior é profundamente desigual: a razão por habitante é de 1,2 no Noroeste e na Região Serrana e de 1,1 na Baixada Litorânea, bem abaixo do parâmetro recomendado, obrigando pacientes críticos a horas de transferência inter-hospitalar. O Governo do Estado equipará hospitais já existentes — sem construção do zero — com UTI adulto e UTI neonatal nas quatro regiões de maior déficit, priorizando Noroeste, Serrana, Baixada Litorânea e Médio Paraíba, com integração obrigatória à Central de Vagas RJ desde o primeiro dia de operação e suporte de tele-UTI para atrair e reter intensivistas.
+SAMU Fluminense
+O SAMU opera de forma consolidada na capital, mas é irregular ou inexistente em dezenas de municípios do interior, e Bombeiros e SAMU seguem protocolos distintos e desintegrados, gerando duplicação de recursos e atraso no atendimento. O Governo do Estado ampliará a frota de suporte avançado de vida para todos os municípios acima de 15 mil habitantes, com bases regionalizadas para municípios menores, protocolo único entre SAMU e Corpo de Bombeiros Militar e integração automática à Central de Vagas RJ desde o acionamento da ambulância.
+Mãe Fluminense
+A razão de mortalidade materna estadual caiu de 75,5 para 61,8 por 100 mil nascidos vivos entre 2023 e 2024, mas segue acima da meta nacional de 30 por 100 mil até 2030, com mortalidade infantil de 14 por mil no Noroeste e mulheres negras apresentando o dobro da mortalidade das brancas — causas em grande parte evitáveis com pré-natal qualificado, transporte adequado e UTI neonatal disponível. O Governo do Estado instituirá o Mãe Fluminense em três frentes: pré-natal universal pela Estratégia de Saúde da Família, com estratificação de risco na primeira consulta; central de transporte materno-fetal permanente, integrada ao SAMU e à Central de Vagas RJ; e UTIs neonatais nas quatro regiões de maior mortalidade infantil, em alinhamento com a Rede Alyne do Ministério da Saúde.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+19
+
+CAPÍTULO IV
+EIXO IV — GESTÃO, TRANSPARÊNCIA E SUSTENTABILIDADE FISCAL
+Repasse Justo RJ O repasse estadual de saúde aos municípios segue sem fórmula técnica publicada: a capital recebe cerca de R$ 28,92 por habitante ao ano, e Miguel Pereira, R$ 1.021 — disparidade sem critério documentado, já alvo de judicialização, na qual maior necessidade nem sempre corresponde a maior recurso. O Governo do Estado enviará à Assembleia Legislativa, nos primeiros meses de mandato, projeto de lei que fixa fórmula técnica obrigatória de repasse, combinando porte populacional, perfil epidemiológico, complexidade da rede de referência e vulnerabilidade social, com transição gradual de quatro anos para os municípios que hoje recebem acima do parâmetro técnico e publicação anual auditável dos critérios.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+20
+
+PARTE III
+EDUCAÇÃO
+I EIXO I - VALORIZAÇÃO E GESTÃO DO PROFESSOR PACTO PELO PISO E GESTÃO PARA RESULTADOS PROGRAMA DESENVOLVIMENTO DO DOCENTE
+II MEIOXDOEIIL—OSMEOIDNEFLROASESETIRNUFRTUAREASTDREUETNUSRIANODE ENSINO ESCOLA ONLINE ESCOLAS CÍVICO-MILITARES, RJ TÉCNICO E ENSINO INTEGRAL
+III EIXO III — COLABORAÇÃO COM OS MUNICÍPIOS PACTO ESTADUAL PELA EDUCAÇÃO
+IV EIXO IV — COMUNIDADE E INCLUSÃO ESCOLA 360 ESCOLA PARA TODOS E RIO INCLUSIVO CALENDÁRIO FLUMINENSE DE SAÚDE NA ESCOLA
+21
+
+INTRODUÇÃO
+
+EDUCAÇÃO
+
+O PROBLEMA
+Aeducação é a área em que os resultados recentes da rede estadual são mais preocupantes. O IDEB do ensino médio caiu de 3,9, em 2021, para 3,3, em 2023 — penúltima colocação entre as 27 redes estaduais do país, à frente apenas do Rio Grande do Norte. A distorção idade-série chega a 32,6% no ensino médio, a maior do país, e a 20,9% no ensino fundamental; a cada 100 crianças que entram no sistema fluminense, apenas cerca de 74 concluem o ensino médio até os 19 anos. O retrocesso devolveu a rede ao patamar de mais de uma década atrás, mesmo o estado tendo demonstrado, entre 2009 e 2013, que é possível reverter esse quadro.
+O problema não é escassez de recursos: o Rio de Janeiro gasta cerca de R$ 19,5 mil por aluno ao ano, mais do que São Paulo (R$ 15,3 mil), mas paga remuneração média inferior ao professor — R$ 3.900 contra R$ 4.300 em São Paulo para 40 horas semanais —, indício de que parte relevante do recurso é absorvida por custeio administrativo antes de chegar à sala de aula. O congelamento salarial entre 2014 e 2021 deixou parte das categorias com vencimentos próximos ou inferiores ao salário mínimo, distantes do piso do magistério de R$ 5.130,63 fixado para 2026; a rede acumula déficit de mais de 13 mil professores e perdeu mais de 14 mil docentes entre 2012 e 2022. A gestão também carece de ciclo institucionalizado que conecte metas à sala de aula: as 14 Coordenadorias Regionais operam como estruturas administrativas, e não pedagógicas, e a seleção de diretores nem sempre segue critério técnico. O patrimônio físico é subaproveitado — dos mais de 500 CIEPs do Estado, a maioria fecha na sexta à tarde e permanece fechada no fim de semana —, e a articulação com os 92 municípios, atribuição do Estado pelo art. 211 da Constituição Federal, é historicamente frágil: o Rio de Janeiro foi um dos últimos estados a instituir a lei do ICMS Educacional exigida pela Emenda Constitucional nº 108/2020, o que por anos excluiu as redes municipais da complementação-VAAR do Fundeb. A rede atende mais de 800 mil estudantes organizados para um único perfil de aluno — entre 80 mil e 120 mil são estudantes neurodivergentes, a maioria sem diagnóstico —, e temas centrais para a adolescência, como saúde mental e prevenção ao suicídio, seguem tratados de forma pontual, sem integração entre SEEDUC e SES-RJ.
+
+DIRETRIZES
+Nenhuma reforma educacional é sustentável sem professores valorizados. A recomposição salarial e a carreira docente serão tratadas como pré-condição, não como consequência eventual, de qualquer ganho de aprendizagem. A gestão da rede será conduzida por ciclo institucionalizado de metas, diagnóstico, monitoramento e correção de rumo, com incentivos alinhados a resultados e não a critério político, tanto na carreira docente quanto na direção escolar. O Estado priorizará qualificar e ampliar a infraestrutura e os modelos pedagógicos que já existem — CIEPs, itinerários de ensino integral, escolas cívico-militares, ensino técnico — antes de criar novas estruturas, corrigindo a fragmentação e a desigualdade territorial no acesso a eles. A relação com os municípios será tratada como regime de colaboração efetivo, com instrumento financeiro técnico e pactuação de metas, e não como sobreposição de competências ou omissão mútua. A escola será tratada como ponto de contato permanente do Estado com crianças e adolescentes, para além da instrução — em prevenção à evasão, em inclusão e em saúde —, com prioridade territorial para a Baixada Fluminense, o Norte e o Noroeste Fluminense.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+22
+
+PROPOSTAS E SOLUÇÕES
+As propostas deste capítulo organizam-se em quatro eixos — valorização e gestão do professor, modelos e infraestrutura de ensino, colaboração com os municípios, e comunidade e inclusão — e correspondem à competência do Estado sobre a rede estadual de ensino médio e ao seu papel de coordenação técnica e financeira junto aos 92 municípios fluminenses, nos termos do art. 211 da Constituição Federal e da Lei de Diretrizes e Bases da Educação Nacional (Lei nº 9.394/1996).
+CAPÍTULO I
+EIXO I — VALORIZAÇÃO E GESTÃO DO PROFESSOR
+Pacto pelo Piso e Gestão para Resultados
+O Rio de Janeiro gasta mais por aluno do que São Paulo e paga menos ao professor: parte das categorias docentes tem vencimentos-base próximos ou inferiores ao salário mínimo nacional, distante do piso do magistério fixado em R$ 5.130,63 para 2026, resultado de congelamento salarial entre 2014 e 2021 — a rede já perdeu mais de 14 mil professores entre 2012 e 2022. Ao mesmo tempo, a gestão da rede carece de um ciclo institucionalizado que conecte metas à sala de aula: as Coordenadorias Regionais de Educação operam como estruturas administrativas, e não pedagógicas, e a seleção de diretores nem sempre segue critério técnico — o mesmo padrão que Espírito Santo e Mato Grosso reverteram nos últimos anos sem gastar mais do que o RJ. O Governo do Estado adequará os vencimentos de todas as categorias ao piso nacional do magistério, em cronograma plurianual compatível com a Lei de Responsabilidade Fiscal, e enviará à Assembleia Legislativa novo Plano de Cargos, Carreiras e Salários com progressão vinculada a mérito e formação continuada. Em paralelo, implantará ciclo anual de gestão por resultados: metas de aprendizagem calibradas por banda de escolas com perfil socioeconômico semelhante, quatro momentos fixos de monitoramento ao ano com correção de rumo, Coordenadorias fortalecidas como suporte pedagógico e seleção de diretores por processo misto de prova, projeto de gestão e aprovação da comunidade escolar — com bonificação, para professores e gestores, vinculada a múltiplos indicadores de desempenho da escola, e não a critério político.
+Programa Desenvolvimento do Docente
+O colapso do IDEB estadual reflete, em parte, a ausência de um mecanismo sistemático de aproveitamento dos professores de melhor desempenho já presentes na própria rede, hoje dependente de consultorias externas de formação sem evidência de impacto sistêmico. O Governo do Estado criará o Programa Professor Formador, selecionando por processo público, com critérios objetivos de desempenho e tempo de rede, professores efetivos para atuarem em regime híbrido — parte do tempo na formação de colegas de sua região, parte na regência de classe —, cada um responsável por um conjunto de 8 a 12 escolas, com prioridade para as regiões de piores indicadores de IDEB e SAERJ, modelo inspirado na experiência do Ceará.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+23
+
+CAPÍTULO II
+EIXO II — MODELOS E INFRAESTRUTURA DE ENSINO
+Escola Online
+Entre as mais de 6,7 mil escolas da rede fluminense, parcela significativa carece de conectividade estável e de equipamentos funcionais, com número de computadores por aluno abaixo da média nacional, o que impede o uso efetivo de plataformas adaptativas de aprendizagem e de recursos exigidos pela própria BNCC. O Governo do Estado firmará parcerias público-privadas com empresas de tecnologia e telecomunicações para levar conectividade de alta velocidade a todas as escolas estaduais até o fim do segundo ano de governo, renovará equipamentos por contratos com obrigação contratual de manutenção aferida por nível de serviço, e implantará laboratórios de inovação nos CIEPs e colégios de maior capacidade de gestão, com prioridade para unidades da periferia e do interior.
+Escolas Cívico-Militares, RJ Técnico e Ensino Integral
+O Rio de Janeiro já dispõe de modelos diversificados de oferta educacional — 16 escolas cívico-militares, cinco delas entre as dez melhores do Estado no IDEB, itinerários de ensino integral em línguas, empreendedorismo e tecnologia, e o maior patrimônio de CIEPs do país —, mas cada um desses modelos opera de forma fragmentada: a expansão cívico-militar não tem protocolo formal de seleção, a cobertura do ensino integral é desigual entre capital e interior, e o ensino técnico permanece desconectado das vocações econômicas regionais, num momento em que setores como petróleo e gás, tecnologia e logística enfrentam escassez de mão de obra qualificada. O Governo do Estado instituirá protocolo estadual de expansão criteriosa para as escolas cívico-militares — seleção por vulnerabilidade social do entorno, histórico documentado de violência escolar e consulta pública prévia e vinculante, sempre de adesão voluntária das famílias, com meta de 25 unidades ao final do mandato —; expandirá os itinerários de ensino integral com foco em equidade territorial, aproveitando a infraestrutura ociosa dos CIEPs; e reorganizará o ensino médio técnico em três modalidades regionalizadas pela vocação econômica de cada território, com centros regionais de laboratórios compartilhados entre escolas de uma mesma região e programa de incentivo a empresas parceiras da formação técnica.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+24
+
+CAPÍTULO III
+EIXO III — COLABORAÇÃO COM OS MUNICÍPIOS
+Pacto Estadual pela Educação
+O Estado negligencia sistematicamente seu papel de coordenação técnica e de apoio aos 92 municípios fluminenses, previsto no art. 211 da Constituição Federal; a cada 100 crianças que entram no sistema fluminense, apenas cerca de 74 concluem o ensino médio até os 19 anos. O Governo do Estado formalizará, por adesão e convênio, regime de colaboração do berço ao primeiro emprego com os municípios. O instrumento financeiro central é o ICMS Educacional, já instituído: regulamentados seus critérios de distribuição por resultados de aprendizagem e equidade, o Estado redistribuirá aos municípios a parcela da cota-parte vinculada a metas, com eixos voltados à alfabetização na idade certa, à mobilização de universitários como tutores em regiões de pior desempenho, à expansão de vagas na educação infantil e à ampliação do ensino técnico integrado em parceria com a FAETEC e o Sistema S, priorizando os 30 municípios com piores indicadores de IDEB.
+
+CAPÍTULO IV
+EIXO IV — COMUNIDADE E INCLUSÃO
+
+Escola 360
+A maioria dos mais de 500 CIEPs do Estado encerra as atividades na tarde de sexta-feira e permanece fechada no fim de semana, justamente quando o risco de evasão e de exposição à vulnerabilidade é mais alto para crianças e adolescentes das periferias e do interior. O Governo do Estado abrirá as escolas estaduais, com prioridade para os CIEPs, nos finais de semana e feriados, como centros comunitários organizados em cinco eixos — aprendizagem, cultura, esporte, saúde e trabalho —, com monitores universitários por convênio de estágio e um Conselho Comunitário Escolar de Fim de Semana responsável por coconstruir a programação local, em expansão faseada até cobrir toda a rede estadual.
+Escola para Todos e Rio Inclusivo
+A rede estadual, com mais de 800 mil estudantes, permanece organizada para um único perfil de aluno. Estudantes neurodivergentes convivem com ambientes que amplificam suas dificuldades em vez de neutralizá-las, e o diagnóstico de condições do neurodesenvolvimento raramente chega antes dos 6 ou 7 anos: entre 80 mil e 120 mil estudantes da rede estão nessa situação, a maioria ainda sem diagnóstico formal, e o atendimento terapêutico privado é fragmentado e caro para as famílias que precisam custeá-lo por conta própria. O Governo do Estado adotará o Desenho Universal para a Aprendizagem como padrão pedagógico da sala de aula comum, com formação docente em parceria com a UERJ, a UFRJ e a UFF, preservando integralmente o atendimento educacional especializado já garantido em lei. Complementarmente, instituirá equipes multidisciplinares itinerantes — fonoaudiólogo, terapeuta ocupacional e psicólogo — para triagem anual nas escolas, com prazo máximo de 60 dias até o início do atendimento, que passará a ocorrer na própria escola, em horário oposto ao das aulas, com o Plano Educacional Individualizado de cada criança incorporando habilidades para a vida autônoma e rede de apoio estruturada às famílias.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+25
+
+Calendário Fluminense de Saúde na Escola
+Temas centrais para a adolescência — gravidez precoce, uso de substâncias, saúde mental e prevenção ao suicídio — são hoje tratados de forma pontual e desarticulada, sem material padronizado nem integração entre a SEEDUC e a SES-RJ, em um momento de aumento do uso de substâncias entre jovens de 15 a 19 anos e dos índices de suicídio juvenil. O Governo do Estado instituirá ciclo anual de dez meses temáticos de prevenção e promoção da saúde integrado ao calendário letivo, com cada escola vinculada formalmente a uma UBS do entorno responsável pela abertura mensal do tema, material técnico desenvolvido em conjunto por SEEDUC e SES-RJ e adaptado por faixa etária, e participação de psicólogos e assistentes sociais da própria rede nas rodas de conversa.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+26
+
+PARTE IV
+TRANSPORTE E MOBILIDADE
+I TREM METROPOLITANO RJ: REESTRUTURAÇÃO E PADRÃO DE METRÔ DE SUPERFÍCIE II ANEL LOGÍSTICO MULTIMODAL DA BAÍA DE GUANABARA III PACOTE DE PROGRAMAS DE MOBILIDADE DA REGIÃO METROPOLITANA IV RECUPERAÇÃO E MANUTENÇÃO DAS VIAS ESTRUTURANTES ESTADUAIS V INTEGRAÇÃO DE BILHETAGEM E HARMONIZAÇÃO DE HORÁRIOS VI PARCERIA COM O CONDERLAGOS: DO FERRY BOAT À AGENDA DE DESENVOLVIMENTO REGIONAL
+27
+
+INTRODUÇÃO TRANSPORTE E MOBILIDADE
+O PROBLEMA
+ARegião Metropolitana do Rio de Janeiro registra o pior tempo médio de deslocamento do país: 58 minutos por sentido, segundo levantamento do aplicativo Moovit em 50 regiões metropolitanas de 17 países, contra 48 minutos em Porto Alegre, a mais rápida entre as capitais brasileiras pesquisadas. Onze por cento dos usuários de transporte público do Grande Rio gastam duas horas ou mais em cada trajeto, e a soma de ida e volta pode superar quatro horas diárias.
+O trem metropolitano é o único transporte de massa que penetra nos municípios mais populosos da Baixada Fluminense, onde mais de 4 milhões de pessoas dependem do transporte público coletivo. A concessionária SuperVia, que administrou o sistema por quase 30 anos, encerrou suas atividades em maio de 2026 após crise financeira e recuperação judicial, sendo substituída pelo Consórcio Nova Via Mobilidade — operando sob a marca Trens RJ —, vencedor de leilão judicial realizado em fevereiro de 2026. A rede foi herdada em estado precário: de 104 estações, apenas 23 são consideradas acessíveis, e só 40% das escadas rolantes funcionam. A malha metroviária subterrânea, por sua vez, tem apenas 58 km e 41 estações, sem conexão direta entre a capital e Niterói. A Baía de Guanabara, maior ativo logístico da região, permanece subutilizada: o sistema de barcas transporta cerca de 46 mil passageiros por dia, enquanto a Ponte Rio-Niterói opera acima da capacidade com fluxo superior a 150 mil veículos diários, e São Gonçalo — segundo maior município do Estado, com quase 900 mil habitantes — não tem conexão aquaviária direta com a capital. A Baixada Fluminense e o Leste Metropolitano, por sua vez, dependem quase exclusivamente do transporte rodoviário para deslocamentos intermunicipais, sem corredores estruturados de média ou alta capacidade.
+DIRETRIZES
+O trem metropolitano será tratado como a espinha dorsal do sistema de transporte da Região Metropolitana, com investimento físico e mudança de padrão operacional executados de forma inseparável — não basta recuperar trilhos sem também mudar o modelo de gestão que produziu décadas de degradação. A Baía de Guanabara será aproveitada como ativo logístico, com transporte aquaviário misto de passageiros e carga, reduzindo a dependência da Ponte Rio-Niterói e dos corredores rodoviários saturados. A expansão da malha metroferroviária e dos corredores de superfície na Baixada Fluminense e no Leste Metropolitano seguirá estudos técnicos prévios e modelagem financeira que mobilize capital privado, com metas contratuais de desempenho auditáveis publicamente.
+PROPOSTAS E SOLUÇÕES
+As propostas deste capítulo correspondem às competências do Estado sobre os sistemas de trens, metrô, barcas e rodovias estaduais concedidos, nos termos do art. 25, §3º, da Constituição Federal e do Estatuto da Metrópole (Lei nº 13.089/2015).
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+28
+
+CAPÍTULO I
+TREM METROPOLITANO RJ: REESTRUTURAÇÃO E PADRÃO DE METRÔ DE SUPERFÍCIE
+A malha ferroviária metropolitana — cerca de 300 km — é hoje administrada pelo Consórcio Nova Via Mobilidade, sob a marca Trens RJ, que assumiu o sistema em maio de 2026 após a saída da SuperVia por insolvência, em contrato de cinco anos remunerado por quilômetro rodado. A rede foi herdada em estado precário — apenas 23 das 104 estações são acessíveis, e só 40% das escadas rolantes funcionam —, e a SETRAM já elaborou, em 2024, plano de recuperação orçado em R$ 2,1 bilhões; falta execução. Antes de qualquer nova ampliação, o Governo do Estado priorizará a conclusão de obras interrompidas de grande relevância — as estações da Carioca, Praça XV (Linha 2 a partir do Estácio), Gávea e Morro de São João (Rio Sul) — e executará o plano de recuperação física em cinco componentes: renovação de frota (55 novos trens, priorizando a Baixada Fluminense), modernização da sinalização (intervalos de 6 minutos no pico), recuperação da via permanente, atualização elétrica e requalificação das 104 estações. Como o contrato de operação já foi definido por leilão judicial, caberá o nosso governo fiscalizar rigorosamente, pela SETRAM, o cumprimento das metas do novo contrato e preparar, desde já, os estudos técnicos para o ciclo seguinte, com metas mais exigentes de integração ao padrão de metrô de superfície.
+CAPÍTULO II
+ANEL LOGÍSTICO MULTIMODAL DA BAÍA DE GUANABARA
+A Baía de Guanabara, maior hidrovia natural da Região Metropolitana, permanece subutilizada: o sistema de barcas transporta cerca de 46 mil passageiros por dia, a Ponte Rio-Niterói opera acima da capacidade com mais de 150 mil veículos diários, e São Gonçalo não tem conexão aquaviária direta com a capital, obrigando trabalhadores a horas de trânsito rodoviário e caminhões a atravessar a Linha Vermelha e a Ponte para ligar a Baixada Fluminense ao Leste Fluminense. O Governo do Estado implantará novas rotas aquaviárias mistas — ferry-boats para carga e passageiros e catamarãs de alta frequência —, com terminais em Gradim (São Gonçalo), Duque de Caxias, Magé e Ilha do Governador, e integração física e tarifária, com meta de retirar cerca de 15 mil caminhões por mês das rodovias e transportar 50 mil passageiros por dia. O investimento inicial, estimado entre R$ 400 e R$ 550 milhões, será viabilizado por concessão ou parceria público-privada, com o Estado financiando os terminais e o operador privado a frota, e incentivo de ICMS sobre o óleo diesel marítimo condicionado ao cumprimento de metas de pontualidade.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+29
+
+CAPÍTULO III
+PACOTE DE PROGRAMAS DE MOBILIDADE DA REGIÃO METROPOLITANA
+A Baixada Fluminense e o eixo São Gonçalo–Maricá dependem quase exclusivamente de sistemas rodoviários saturados para deslocamentos intermunicipais, sem transporte estruturado de média ou alta capacidade, apesar de projetos técnicos já elaborados pelo Governo do Estado e pelo Instituto Rio Metrópole — e a ligação entre a capital, Niterói e São Gonçalo carece de conexão metroviária direta, dependendo do sistema viário e das barcas. O Governo do Estado retomará, em duas fases, o eixo metroviário do Leste Metropolitano — extensão da Linha 2 até a Estação Arariboia, em Niterói, seguida do Programa Linha 03, ligando Niterói a São Gonçalo —, após auditoria do processo licitatório hoje suspenso pelo TCE-RJ; implantará o Programa VLT Baixada entre Pavuna e Nova Iguaçu, aproveitando leito ferroviário desativado ao longo de 12,6 km; e complementará com dois corredores BRT — um ligando Duque de Caxias, São João de Meriti, Belford Roxo, Mesquita e Nilópolis, outro ao longo da RJ-106 entre São Gonçalo e Maricá —, todos por concessão ou parceria público-privada com integração tarifária à rede metropolitana.
+CAPÍTULO IV
+RECUPERAÇÃO E MANUTENÇÃO DAS VIAS ESTRUTURANTES ESTADUAIS
+As principais rodovias estaduais não contam com programa técnico permanente de manutenção, o que compromete o escoamento logístico de produtos, o acesso a polos industriais e turísticos e a segurança viária, com trechos que se deterioram até exigir obra de grande porte por falta de manutenção preventiva. A RJ-106 — Rodovia Ernani do Amaral Peixoto —, maior rodovia estadual do Rio de Janeiro, com aproximadamente 210 quilômetros de extensão, liga a Região Metropolitana à Região dos Lagos e ao Norte Fluminense, concentrando tráfego de carga, turismo e deslocamento pendular sem programa de manutenção compatível com sua importância. O Governo do Estado recuperará e ampliará a capacidade das principais ligações estruturantes das rodovias estaduais, com prioridade para a RJ-106, e instituirá programa permanente de obras públicas, técnico e com reserva orçamentária própria, para manutenção preventiva de rodovias, pontes e demais equipamentos de transporte público estaduais, substituindo a lógica reativa de intervenção emergencial por planejamento plurianual auditável.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+30
+
+CAPÍTULO V
+INTEGRAÇÃO DE BILHETAGEM E HARMONIZAÇÃO DE HORÁRIOS
+O usuário da Região Metropolitana ainda precisa alternar entre sistemas de bilhetagem distintos — o RioCard, de uso intermunicipal, e o sistema Jaé, de responsabilidade do Município do Rio de Janeiro —, sem integração tarifária plena nem harmonização de horários entre trens, metrô, BRT, VLT e ônibus, o que eleva o custo percebido do transporte público e desestimula o uso combinado dos modais. O Governo do Estado promoverá a integração da bilhetagem e a harmonização de horários entre os diferentes sistemas de transporte da Região Metropolitana, em cooperação com os municípios envolvidos, por meio de convênio que estabeleça regras únicas de transferência tarifária e sincronização dos quadros de horários entre os modais estaduais e municipais, com prioridade para os terminais de maior fluxo de integração intermodal.
+CAPÍTULO VI
+PARCERIA COM O CONDERLAGOS: DO FERRY BOAT À AGENDA DE DESENVOLVIMENTO REGIONAL
+A Lagoa de Araruama, maior lagoa hipersalina do planeta, banha seis municípios da Região dos Lagos com mais de 600 mil habitantes e recebe mais de 3 milhões de turistas por ano, mas não tem rede intermunicipal de transporte aquaviário que conecte esses municípios. O deslocamento entre eles depende exclusivamente da RJ-106 e da Via Lagos, rodovias que entram em colapso na alta temporada, quando uma viagem de 30 minutos pela lagoa pode significar de 2 a 3 horas de congestionamento na rodovia. Araruama já demonstrou a viabilidade do modal com ferry boat municipal em operação desde 2020, mas essa iniciativa segue isolada, sem conexão com os demais municípios. O Ferry Boat da Lagoa criará rede aquaviária intermunicipal permanente conectando as cidades ao redor da Lagoa de Araruama, com integração tarifária ao transporte terrestre regional. Estudo conjunto com o Conderlagos definirá as prioridades de cada fase de implantação. Esse será apenas o primeiro projeto de uma parceria estrutural entre o Governo do Estado e o consórcio, formalizada por Protocolo de Intenções nos primeiros 90 dias de mandato, com agenda que inclui o destravamento de obras estaduais paralisadas na região, a revitalização da RJ-106, o saneamento do entorno da lagoa e um plano regional de turismo.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+31
+
+PARTE V
+EMPREGO, RENDA E DESENVOLVIMENTO
+I RESPONSABILIDADE FISCAL, FUNDO SOBERANO E REEQUILÍBRIO ORÇAMENTÁRIO II INDUSTRIALIZAÇÃO DO LESTE FLUMINENSE III PENSAR NO INTERIOR: DESENVOLVIMENTO ECONÔMICO REGIONAL IV VALE DOS FERTILIZANTES V RIO AZUL 2030 — FASE GUANABARA
+32
+
+INTRODUÇÃO EMPREGO, RENDA E DESENVOLVIMENTO
+O PROBLEMA
+Aeconomia fluminense permanece dependente de receitas voláteis de petróleo e gás — entre 18% e 22% da receita corrente líquida —, enquanto a indústria de transformação retraiu nas últimas duas décadas: Construção Civil, Alimentos e Bebidas, Serviços de Utilidade, Química e Metalurgia somam cerca de 68% do emprego industrial, sem novas âncoras que diversifiquem essa base. Segundo a LOA de 2025, previdência (R$ 31,8 bilhões), segurança pública (R$ 19,33 bilhões) e dívida pública (R$ 11 bilhões) consomem a maior parte do orçamento estadual, resultado de déficits sucessivos desde a queda do petróleo em 2014.
+O Fundo Soberano do Estado, criado pela Emenda Constitucional Estadual nº 86/2021 e regulamentado pela Lei Complementar nº 200/2022, já acumulou R$ 2,1 bilhões, mas sua finalidade estratégica segue ameaçada por pressões recorrentes para uso em despesa corrente. Os incentivos industriais existentes — FUNDES, Riolog, Política de Incentivos à Cadeia de Petróleo, Gás e Energia, entre outros — operam de forma pulverizada, sem plano central, e o Leste Fluminense permanece subdesenvolvido apesar da futura Ferrovia EF-118 e da proximidade com a BR-101. O Brasil importa cerca de 85% dos fertilizantes que consome, e o Rio de Janeiro, grande produtor de gás natural — insumo principal dos fertilizantes nitrogenados —, não tem produção própria, contribuindo para a reinjeção de gás nos campos do pré-sal. Na Baía de Guanabara, o Estado concentra entre 27% e 44% do PIB da economia azul nacional, mas 47% dessa economia ainda depende do petróleo, e a baía sofre com fragmentação institucional entre secretarias, agências e municípios.
+DIRETRIZES
+A responsabilidade fiscal será tratada como pré-condição, e não como consequência eventual, de qualquer nova política de desenvolvimento: o Fundo Soberano será blindado contra uso em despesa corrente antes de qualquer expansão de gasto. A diversificação da base econômica, reduzindo a dependência de petróleo e gás, será buscada por meio de novas âncoras industriais — fertilizantes, indústria no Leste Fluminense, economia azul — que ampliem a base tributável e o emprego qualificado. Os ativos públicos, sobretudo o Fundo Soberano, serão usados prioritariamente como instrumento de garantia e alavancagem de investimento privado, e não como fonte de desembolso direto do Tesouro. O desenvolvimento econômico terá prioridade territorial fora da capital, com o Leste Fluminense e o litoral da Baía de Guanabara como eixos de um novo ciclo produtivo estadual.
+PROPOSTAS E SOLUÇÕES
+As propostas deste capítulo correspondem às competências do Estado em política fiscal, tributária e de desenvolvimento econômico regional, nos termos da Constituição Federal, da Lei de Responsabilidade Fiscal e do regime de renegociação da dívida dos Estados (Regime de Recuperação Fiscal e Programa de Pleno Pagamento de Dívidas — PROPAG).
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+33
+
+CAPÍTULO I
+RESPONSABILIDADE FISCAL, FUNDO SOBERANO E REEQUILÍBRIO ORÇAMENTÁRIO
+O Estado acumula déficits sucessivos desde a queda do petróleo em 2014, com despesas obrigatórias — previdência, segurança pública e dívida — consumindo a maior parte do orçamento e deixando pouca margem para investimento. O Fundo Soberano, com R$ 2,1 bilhões acumulados, tem sua finalidade estratégica ameaçada por pressões recorrentes para uso em custeio corrente. O Governo do Estado reforçará a blindagem legal do Fundo Soberano, vedando expressamente seu uso em folha de pessoal, serviço da dívida corrente e custeio ordinário, e o transformará em instrumento de aval e garantia para parcerias público-privadas e concessões estruturantes — sem desembolso direto —, multiplicando sua capacidade de alavancar investimento privado. Em paralelo, instituirá lei de planejamento de pagamento da dívida, revisará a folha previdenciária nos termos da Emenda Constitucional Federal nº 103/2019 e negociará com a União a revisão do pacto federativo, sempre respeitando os pisos constitucionais de saúde e educação.
+CAPÍTULO II
+INDUSTRIALIZAÇÃO DO LESTE FLUMINENSE
+A economia fluminense depende de receitas voláteis de petróleo e gás, enquanto a indústria de transformação retraiu nas últimas duas décadas, concentrada em setores tradicionais que somam 68% do emprego industrial. Os incentivos existentes operam de forma pulverizada, como medidas pontuais sem plano central. O Governo do Estado indicará Secretário de Desenvolvimento dedicado à industrialização, consolidará o levantamento de todos os incentivos vigentes em um Plano Estadual de Reindustrialização único, e constituirá zona industrial no Leste Fluminense, na região de Itaboraí e entorno — beneficiada pela futura Ferrovia EF-118 e pela proximidade com a BR-101 —, em cooperação com os municípios para redução de ISS e IPTU, estruturando novo eixo industrial em óleo e gás, construção civil, indústria de transformação, processamento de pescados e indústria automotiva de motocicletas.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+34
+
+CAPÍTULO III
+PENSAR NO INTERIOR: DESENVOLVIMENTO ECONÔMICO REGIONAL
+Os 92 municípios fluminenses raramente contam com apoio técnico do Estado para o desenvolvimento econômico local, e a aplicação municipal dos princípios da Lei federal da Liberdade Econômica (Lei nº 13.874/2019) é desigual, gerando insegurança jurídica para pequenos empreendedores fora da Região Metropolitana. Vocações produtivas regionais já consolidadas, por sua vez, carecem de política estadual que as reconheça e fortaleça de forma diferenciada. O Governo do Estado prestará assessoramento técnico às prefeituras para a implementação municipal dos princípios da Lei da Liberdade Econômica, simplificando processos para empreendedores locais, e apoiará as vocações produtivas já existentes em cada região — petroquímico e móveis na Baixada Fluminense; metalurgia, naval, cerâmica e alimentos na Baixada Litorânea; metal-mecânico e automotivo no Médio Paraíba; óleo e gás, maquinário e agricultura no Norte Fluminense; naval e energia nuclear na Costa Verde; moda, bebidas e serviços aeronáuticos na Região Serrana; papel e rochas ornamentais no Noroeste Fluminense; e alimentos e plásticos no Centro-Sul Fluminense.
+CAPÍTULO IV
+VALE DOS FERTILIZANTES
+O Brasil importa cerca de 85% dos fertilizantes que consome, tornando o agronegócio dependente de cadeias globais sujeitas a choques geopolíticos e cambiais. O Rio de Janeiro é grande produtor de gás natural — insumo principal dos fertilizantes nitrogenados — mas não tem produção própria, o que contribui para a reinjeção de gás nos campos do pré-sal e desperdiça valor econômico. O Governo do Estado criará o Vale dos Fertilizantes, polo industrial dedicado à produção de amônia e ureia ancorado no Porto do Açu e em Macaé, com incentivo de ICMS de longo prazo equiparando a carga tributária do produto nacional à do importado — condicionado a convênio no CONFAZ —, e centro de inovação em nutrição vegetal em parceria com a UFRJ, com meta de ao menos uma planta de escala mundial em operação até o final do mandato.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+35
+
+CAPÍTULO V
+RIO AZUL 2030 — FASE GUANABARA
+O Estado concentra entre 27% e 44% do PIB de economia azul, mas 47% dessa economia ainda depende do petróleo e gás. A Baía de Guanabara, seu principal ativo marítimo, sofre com fragmentação institucional entre secretarias, agências e municípios, degradação ambiental e baixa coordenação, apesar do potencial em eólica offshore, estrutura naval e pesquisa marinha. O Governo do Estado criará a Autoridade Metropolitana da Baía de Guanabara, integrada à governança metropolitana já existente, para coordenar recuperação ambiental — com meta de 1.500 hectares de manguezal recuperados em dez anos —, modernização da pesca artesanal e da maricultura, reindustrialização naval e cadeia local de eólica offshore, e capitalização do Fundo Soberano com 8% a 12% das receitas do petróleo destinadas a investimentos estruturantes da economia azul, vedado o uso para custeio corrente.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+36
+
+PARTE VI
+HABITAÇÃO E URBANISMO
+I REFORMA FUNDIÁRIA E FORTALECIMENTO DO ITERJ II ÍNDICE DE QUALIDADE URBANA III PROGRAMA DE REUTILIZAÇÃO E ALIENAÇÃO DE IMÓVEIS ESTADUAIS OCIOSOS IV REVITALIZAÇÃO DO PATRIMÔNIO HISTÓRICO E CULTURAL
+37
+
+INTRODUÇÃO HABITAÇÃO E URBANISMO
+O PROBLEMA
+O Instituto de Terras e Cartografia do Estado do Rio de Janeiro (ITERJ) já enfrentou riscos de esvaziamento institucional, em meio a ocupações irregulares, conflitos possessórios e ausência de georreferenciamento — cenário agravado por burocracia excessiva na legislação fundiária, alta judicialização e falta de titulação definitiva para pequenos produtores rurais e moradores de assentamentos informais.
+A distribuição da parcela estadual do ICMS aos municípios não considera desempenho urbano, resultando em infraestrutura precária, baixa inovação tecnológica e nenhum incentivo à eficiência na gestão municipal — e o Rio de Janeiro é hoje o único estado do país que ainda não editou a lei de critérios de distribuição exigida pela Emenda Constitucional nº 108/2020.
+Prédios administrativos desativados, galpões ociosos e terrenos sem destinação ocupam áreas valorizadas do Estado, sobretudo na Região Metropolitana, gerando custo de manutenção e degradando o entorno urbano, enquanto o déficit habitacional fluminense permanece concentrado exatamente nessas mesmas regiões. Ao mesmo tempo, um dos patrimônios históricos mais ricos do país — distribuído pela Costa Verde, a Serra Fluminense, o Vale do Paraíba e o Centro do Rio — segue deteriorado ou subutilizado, pois as regras de preservação, embora necessárias, frequentemente travam a recuperação dos imóveis por excesso de burocracia e ausência de modelo econômico compatível.
+DIRETRIZES
+A regularização fundiária será tratada como infraestrutura jurídica básica — condição para acesso a crédito e para redução de litígio —, e não como pauta acessória da política estadual. Os repasses estaduais aos municípios passarão a incorporar critério de desempenho urbano, alinhando o incentivo fiscal à melhoria efetiva de saneamento, infraestrutura e gestão local. O patrimônio imobiliário estadual será tratado como ativo produtivo a ser ativado — para habitação, uso econômico ou alienação com receita revertida a políticas públicas —, e não como inventário passivo sob manutenção contínua. A preservação do patrimônio histórico será buscada por meio de modelos economicamente viáveis de gestão e uso, e não apenas por regulação de tombamento.
+PROPOSTAS E SOLUÇÕES
+As quatro propostas deste capítulo correspondem às competências do Estado sobre terras devolutas estaduais, a distribuição da cota-parte municipal do ICMS, o patrimônio imobiliário estadual e a política estadual de preservação cultural, nos termos da Constituição Federal e da Lei Federal nº 13.465/2017 (REURB).
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+38
+
+CAPÍTULO I
+REFORMA FUNDIÁRIA E FORTALECIMENTO DO ITERJ
+A política fundiária estadual exige uma estrutura institucional capaz de conferir maior segurança jurídica à ocupação do território, reduzir conflitos e acelerar a regularização de imóveis urbanos e rurais dentro dos instrumentos previstos em lei. O fortalecimento do ITERJ e a modernização dos procedimentos administrativos são fundamentais para ampliar a capacidade técnica do Estado e dar maior efetividade às políticas de regularização fundiária. O Governo do Estado enviará à Assembleia Legislativa nova Lei Estadual de Terras que desburocratize a regularização fundiária e autorize a alienação onerosa de terras devolutas estaduais de até 50 hectares, operacionalizada por decreto dentro dos limites legais; para núcleos urbanos informais, a regularização seguirá a Lei federal de Reurbanização (Lei nº 13.465/2017), com titulação gratuita de interesse social; e o ITERJ será fortalecido por convênios com a UERJ, a UFRJ, a UFF e a UENF para apoio cartográfico e jurídico.
+CAPÍTULO II
+ÍNDICE DE QUALIDADE URBANA
+Os mecanismos de incentivo aos municípios podem desempenhar papel relevante na melhoria da infraestrutura urbana e na qualificação da gestão pública local. A adoção de critérios objetivos para a distribuição de parte dos recursos estaduais estimula investimentos contínuos promovendo maior eficiência na aplicação dos recursos públicos. O Governo do Estado instituirá, em lei, os critérios de distribuição da parcela da cota-parte municipal do ICMS cuja definição compete ao Estado, em cumprimento ao art. 158 da Constituição Federal e à Emenda Constitucional nº 108/2020. A lei criará o Índice de Qualidade Urbana (IQU), que orientará a distribuição de parte dos recursos segundo indicadores de saneamento, infraestrutura urbana, tecnologia, gestão de resíduos sólidos, drenagem, arborização e sustentabilidade, utilizando dados oficiais do Sistema Nacional de Informações sobre Saneamento (SNIS), do IBGE e de sensoriamento remoto, assegurando apoio técnico aos municípios para produção e validação das informações.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+39
+
+CAPÍTULO III
+PROGRAMA DE REUTILIZAÇÃO E ALIENAÇÃO DE IMÓVEIS ESTADUAIS OCIOSOS
+Prédios administrativos desativados, galpões ociosos e terrenos sem destinação ocupam áreas valorizadas do Estado, sobretudo na Região Metropolitana, gerando custo de manutenção e degradando o entorno urbano. O Governo do Estado instituirá o Programa de Reutilização e Alienação de Imóveis Estaduais Ociosos, com inventário digital e georreferenciado do patrimônio imobiliário a partir da base do ITERJ, Comitê permanente de Destinação Patrimonial responsável por priorizar entre habitação de interesse social, equipamentos públicos, uso econômico ou alienação com receita revertida ao fundo estadual de habitação, e licitações públicas para concessão, leilão ou parceria público-privada dos imóveis com potencial econômico, com meta de destinar ao menos 30 imóveis estaduais em quatro anos.
+CAPÍTULO IV
+REVITALIZAÇÃO DO PATRIMÔNIO HISTÓRICO E CULTURAL
+A preservação do patrimônio histórico depende da compatibilização entre proteção cultural, viabilidade econômica e uso sustentável dos imóveis. A criação de instrumentos que facilitem a recuperação e a ocupação desses espaços fortalece a identidade cultural fluminense, amplia seu potencial turístico e incentiva investimentos capazes de garantir a conservação permanente desse patrimônio. O Governo do Estado elaborará guia único de uso e ocupação compatível com a preservação, com janela única de licenciamento em convênio com o IPHAN e os municípios; lançará chamamentos públicos de concessão e parceria público-privada para grandes equipamentos históricos subutilizados; usará a Lei Estadual de Incentivo à Cultura, já consolidada, para financiar restaurações; e articulará roteiro turístico estadual integrado com a TurisRio, priorizando Petrópolis, Vassouras, Paraty, Angra dos Reis, Campos dos Goytacazes e Niterói.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+40
+
+PARTE VII
+MEIO AMBIENTE
+I EIXO I — BIODIVERSIDADE E CONECTIVIDADE ECOLÓGICA RJ ECOWAYS PARQUE ESTADUAL MARINHO DAS ILHAS CAGARRAS (PEMIC-RJ)
+II MEIOXDOEIIL—OSÁEGIUNAF,RBAAEÍSATERSUATUNREAMDEENETNOSINO PPP DA LIMPEZA DA BAÍA E GESTÃO DE RESÍDUOS — BAÍA VIVA RJ CEVAS-RJ — PROGRAMA VIGIA DAS ÁGUAS E OPERAÇÃO "ÁGUA SEGURA"
+III EIXO III — RESILIÊNCIA TERRITORIAL CORREDORES DO FUTURO RJ RESILIÊNCIA CLIMÁTICA E DEFESA CIVIL INTELIGENTE
+41
+
+INTRODUÇÃO
+
+MEIO AMBIENTE
+
+O PROBLEMA
+Amalha rodoviária estadual atravessa fragmentos relevantes de Mata Atlântica, resultando em alta taxa de atropelamento de fauna silvestre — problema já mapeado pelo INEA em trechos críticos —, sem que o Estado disponha de programa permanente de passagens de fauna. O arquipélago das Ilhas Cagarras, unidade de conservação federal e um dos principais refúgios de biodiversidade marinha do litoral fluminense, sofre com fiscalização insuficiente e subaproveitamento do potencial científico e turístico.
+A recuperação da Baía de Guanabara segue incompleta apesar do investimento em curso, pela ausência de monitoramento científico contínuo e de fiscalização territorial. Na gestão da água e do saneamento, blocos de concessão que somam cerca de R$ 30 bilhões em investimento — com meta de universalização até 2033 — seguem paralisados em áreas da Zona Norte, da Zona Oeste e da Baixada Fluminense onde facções e milícias impedem o acesso das equipes técnicas, criando um verdadeiro apartheid sanitário dentro do próprio contrato de concessão.
+Extensas áreas de risco — encostas, margens de rios e áreas alagáveis — permanecem ocupadas irregularmente, e a tragédia de Petrópolis em 2022 expôs a combinação dessa ocupação irregular com relevo acidentado e limitações institucionais na prevenção a desastres: o Estado ainda concentra sua atuação em obras estruturais reativas, com sistemas de alerta de cobertura limitada e financiamento de defesa civil marcado por picos imprevisíveis de gasto emergencial após cada evento extremo.
+
+DIRETRIZES
+A infraestrutura ambiental será tratada como fonte simultânea de valor ecológico, econômico e de segurança — naming rights, ecoturismo, economia azul —, e não como despesa de conservação isolada do restante da política estadual. A governança da água combinará execução técnica com vigilância cidadã independente e, onde o crime organizado impedir a prestação do serviço, articulação explícita com a segurança pública para garantir a presença do Estado. A prevenção a desastres climáticos deixará de depender exclusivamente de obras estruturais reativas, incorporando tecnologia de alerta antecipado, instrumentos financeiros de proteção fiscal e soluções baseadas na natureza. A ocupação de áreas de risco será enfrentada por reassentamento digno combinado com recuperação ambiental e reaproveitamento produtivo do território, priorizando as regiões com histórico comprovado de desastre.
+
+PROPOSTAS E SOLUÇÕES
+As propostas deste capítulo organizam-se em três eixos — biodiversidade e conectividade ecológica, água e saneamento, e resiliência territorial — e correspondem às competências do Estado em meio ambiente, recursos hídricos e defesa civil, nos termos do art. 23 da Constituição Federal e da Política Estadual de Meio Ambiente.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+42
+
+CAPÍTULO I
+EIXO I — BIODIVERSIDADE E CONECTIVIDADE ECOLÓGICA
+RJ EcoWays Trechos como a RJ-116, a BR-101 entre Angra dos Reis e Paraty e a RJ-106 cortam remanescentes de Mata Atlântica com índices expressivos de atropelamento de fauna silvestre, já identificados pelo INEA, mas o Estado nunca destinou orçamento estruturado a um programa permanente de passagens de fauna capaz de reduzir esse impacto. O Governo do Estado criará programa estadual de passagens de fauna — ecodutos, pontes verdes e passagens subterrâneas — financiado por concessão de naming rights a empresas patrocinadoras, com receita destinada integralmente à manutenção e expansão das estruturas, gestão compartilhada entre o INEA e as secretarias de Infraestrutura e de Transportes, e meta de 50 passagens implantadas e redução de 40% nos atropelamentos até 2030.
+Parque Estadual Marinho das Ilhas Cagarras (PEMIC-RJ) Protegido como unidade de conservação federal, o arquipélago das Ilhas Cagarras concentra parte relevante da biodiversidade marinha do litoral fluminense, mas opera com presença institucional descontínua e fiscalização aquém do necessário, sem articulação com as políticas estaduais de turismo e educação ambiental — o que mantém seu potencial científico e turístico praticamente inexplorado. O Governo do Estado buscará, em parceria com o órgão federal gestor, integração estadual de gestão do arquipélago, com monitoramento científico contínuo — incluindo rastreamento por GPS de tartarugas e raias em parceria com a UFRJ e a UFF —, fiscalização por unidade marítima especializada com drones e lanchas elétricas, e programas de turismo sustentável e educação ambiental para escolas da rede estadual.
+CAPÍTULO II
+EIXO II — ÁGUA, BAÍA E SANEAMENTO
+PPP da Limpeza da Baía e Gestão de Resíduos — Baía Viva RJ Mesmo nos trechos onde o investimento em saneamento já avança, a Baía de Guanabara permanece degradada, porque sua recuperação depende de algo que ainda falta: acompanhamento científico permanente, fiscalização efetiva do território e conexão com a cadeia do turismo. O Governo do Estado instituirá o Baía Viva RJ, com estações de monitoramento científico e rastreamento por GPS de fauna marinha em parceria com a UFRJ e a UFF, unidade marítima de fiscalização com drones e vigilância por inteligência artificial em articulação com o INEA e as forças de segurança, e programas educacionais e de turismo sustentável — com meta de melhorar em 40% a qualidade da água e gerar 25 mil empregos verdes até 2030.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+43
+
+CEVAS-RJ — Programa Vigia das Águas e Operação "Água Segura"
+A gestão da água e do saneamento no Estado carece de vigilância independente, enquanto obras de saneamento em blocos de concessão que somam cerca de R$ 30 bilhões em investimento seguem paralisadas em áreas onde facções e milícias impedem o acesso das equipes técnicas. O Governo do Estado criará o Conselho Estadual de Vigilância da Água e Saneamento (CEVAS-RJ), com participação de universidades, sociedade civil, Ministério Público e escolas públicas como polos de monitoramento cidadão, competência para requisitar auditorias e obrigatoriedade de rampas públicas de acesso a rios de grande fluxo; e instituirá a Operação Água Segura, protocolo permanente entre a Secretaria de Segurança Pública e as concessionárias de saneamento para mapear as zonas onde obras estão paralisadas por ação do crime organizado e garantir, com planejamento integrado, a retomada das frentes de obra.
+CAPÍTULO III
+EIXO III — RESILIÊNCIA TERRITORIAL
+Corredores do Futuro RJ
+Encostas, margens de rios e áreas alagáveis seguem ocupadas irregularmente em diversos pontos do Estado, alimentando um ciclo constante de degradação ambiental e risco de desastre — e essas mesmas áreas, se recuperadas, teriam potencial de geração de renda via turismo ecológico hoje inteiramente desperdiçado. O Governo do Estado transformará áreas de risco selecionadas em parques lineares multifuncionais, combinando reflorestamento e recuperação de manguezais, infraestrutura de drenagem verde, ciclovias e trilhas ecológicas, reassentamento digno das famílias residentes em áreas seguras, e formação de mão de obra local voltada ao turismo, com bases permanentes de segurança pública nas áreas recuperadas.
+Resiliência Climática e Defesa Civil Inteligente
+Tragédias como a de 2011 na Região Serrana mostraram o que acontece quando ocupação irregular, relevo acidentado e uma defesa civil ainda reativa se combinam. Anos depois, o padrão de resposta do Estado mudou pouco: alerta de cobertura limitada, obras estruturais concentradas no pós-desastre e orçamento de defesa civil que dispara de forma imprevisível a cada evento extremo, em vez de se planejar com antecedência. O Governo do Estado modernizará o sistema de alertas — com modelos meteorológicos apoiados por inteligência artificial e envio automático via Cell Broadcast, sem necessidade de cadastro prévio —, contratará seguro-catástrofe paramétrico, com liberação de recursos em poucos dias a partir de índices objetivos de chuva, e redirecionará parte dos investimentos em obras estruturais para reflorestamento técnico de encostas como infraestrutura de proteção, priorizando a Região Serrana, a Costa Verde e as encostas da capital.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+44
+
+PARTE VIII
+ASSISTÊNCIA SOCIAL, DIREITOS HUMANOS E CAUSA ANIMAL
+I EIXO I — ASSISTÊNCIA SOCIAL PROGRAMA CALIXCOCA — COOPERAÇÃO CIENTÍFICA CONTRA A DEPENDÊNCIA QUÍMICA RECUPERAR PESSOAS, PROTEGER FAMÍLIAS E RECONSTRUIR O RIO
+II MEIOXDOEIIL—OSDEIRIENIFTROASEHSUTMRUATNUORSA DE ENSINO DIREITOS HUMANOS DAS MULHERES E PROTEÇÃO ATIVA UNIVERSALIZAÇÃO DOCUMENTAL E COMBATE AOS "INVISÍVEIS"
+III EIXO III — CAUSA ANIMAL SIISA-RJ — SISTEMA INTEGRADO DE IDENTIFICAÇÃO, SAÚDE E PROTEÇÃO ANIMAL PEMHA-RJ — PROGRAMA ESTADUAL DE MANEJO HUMANITÁRIO E BEM-ESTAR ANIMAL
+45
+
+INTRODUÇÃO ASSISTÊNCIA SOCIAL, DIREITOS HUMANOS, CAUSA ANIMAL
+O PROBLEMA
+Adependência de crack e cocaína gera ciclo recorrente de internações e sobrecarga nos sistemas de saúde e segurança, sem que exista, hoje, tratamento farmacológico aprovado por agência reguladora para essa condição. O Centro do Rio de Janeiro e de Niterói, em particular, convive com degradação urbana, crescimento da população em situação de rua e aumento de crianças e adolescentes em situação de vulnerabilidade, sem resposta coordenada entre assistência social, saúde, segurança e educação.
+Mulheres com medida protetiva de urgência dependem de canais de denúncia que exigem interação verbal em momentos de risco, e o policiamento especializado no combate à violência doméstica compete por recursos com o policiamento padrão, sem orçamento próprio garantido. Parte dos cidadãos, por sua vez, ainda nasce e deixa a maternidade sem registro civil, ou perde documentos e enfrenta burocracia entre órgãos distintos para recuperá-los — barreira que impede o acesso a políticas sociais. Na causa animal, a ausência de sistema oficial de identificação torna impossível rastrear responsáveis por animais perdidos ou abandonados, com municípios operando sistemas isolados e incompatíveis entre si, e o protocolo de captura, esterilização e devolução — único método reconhecido pela Organização Mundial da Saúde como eficaz para redução sustentável de populações em situação de rua — permanece restrito a iniciativas municipais isoladas, sem coordenação estadual.
+DIRETRIZES
+A dependência química será tratada como doença crônica que exige abordagem individualizada e investimento em inovação científica, com adesão ao tratamento predominantemente voluntária. A proteção de mulheres e crianças contra a violência será viabilizada por canais tecnológicos dedicados e orçamento próprio, que não disputem recursos com o policiamento geral. A documentação básica será tratada como porta de entrada para a cidadania, disponibilizada no próprio momento em que a necessidade surge — no nascimento, ou no primeiro atendimento —, e não como ônus burocrático adicional para quem já está em situação de vulnerabilidade. O manejo de populações animais será conduzido por método reconhecido internacionalmente como humanitário e eficaz, com custo compartilhado entre a rede pública e a capacidade já instalada da rede veterinária privada.
+PROPOSTAS E SOLUÇÕES
+As propostas deste capítulo organizam-se em três eixos — assistência social, direitos humanos e causa animal — e correspondem às competências do Estado em assistência social, segurança pública, registro civil e proteção animal, nos termos da Constituição Federal, da Lei Orgânica da Assistência Social e da legislação estadual de proteção animal.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+46
+
+CAPÍTULO I
+EIXO I — ASSISTÊNCIA SOCIAL
+Programa Calixcoca — Cooperação Científica contra a Dependência Química
+A dependência de cocaína e crack gera ciclo recorrente de internações e sobrecarga nos sistemas de saúde e segurança, sem que exista, hoje, tratamento farmacológico aprovado por agência reguladora para essa condição — as opções disponíveis se limitam a abordagens comportamentais e ao manejo sintomático da abstinência. A vacina Calixcoca, desenvolvida pela UFMG desde 2015, induz a produção de anticorpos que impedem a cocaína de atravessar a barreira hematoencefálica e concluiu com resultados de segurança favoráveis os testes pré-clínicos, encontrando-se em preparação para solicitar à Anvisa autorização de estudo de fase 1 em humanos. O Governo do Estado firmará termo de cooperação técnica e científica com a UFMG para apoiar as etapas clínicas subsequentes da pesquisa — incluindo o eventual sediamento de testes no Hospital Universitário Pedro Ernesto (UERJ), articulado à rede de CAPS da Região Metropolitana —, condicionado aos resultados de segurança já obtidos e aos que vierem a ser confirmados nas fases seguintes, com participação estritamente voluntária, mediante consentimento livre e esclarecido e restrita a maiores de 18 anos.
+Recuperar Pessoas, Proteger Famílias e Reconstruir o Rio
+O Centro de algumas cidades, degradação urbana, aumento da população em situação de rua, uso problemático de drogas e crescente vulnerabilidade de crianças e adolescentes formam um quadro que nenhuma secretaria enfrenta sozinha — e que, até hoje, não recebeu do Estado uma resposta que una assistência social, saúde, segurança e educação em uma só estratégia. O Governo do Estado tratará a dependência química como doença crônica, com abordagem individualizada e ampliação da rede de acolhimento e tratamento; ordenará o espaço urbano do Centro em conjunto com os órgãos municipais; e dará proteção integral a crianças e adolescentes em situação de rua, sempre priorizando a adesão voluntária ao tratamento e reservando a internação involuntária ou compulsória aos casos e critérios já previstos na Lei federal nº 13.840/2019, mediante avaliação técnica multidisciplinar.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+47
+
+CAPÍTULO II
+EIXO II — DIREITOS HUMANOS
+Direitos Humanos das Mulheres e Proteção Ativa A proteção das mulheres em situação de violência exige políticas permanentes de prevenção, acolhimento e resposta rápida, articulando tecnologia, segurança pública e assistência social. O fortalecimento da rede estadual de proteção contribui para reduzir riscos, ampliar o acesso aos serviços especializados e garantir maior efetividade no cumprimento das medidas protetivas previstas na legislação. O Governo do Estado implantará botão de socorro silencioso no aplicativo 190 RJ, com geolocalização e gravação de áudio ambiente para mulheres com medida protetiva cadastrada; criará o Comando Especializado Patrulha Maria da Penha, com orçamento próprio e sala de situação dedicada ao monitoramento de acionamentos em tempo real; e instituirá auxílio-moradia emergencial de R$ 1.000 por três meses para mulheres que precisem deixar o lar em caráter de urgência, modelo inspirado em experiências do Paraná e de Goiás.
+Universalização Documental e Combate aos "Invisíveis" Nascer sem certidão ou perder o documento e ter que percorrer órgãos distintos para reavê-lo ainda é realidade para parte dos fluminenses — e sem documento básico, não há como acessar programa social algum, o que empurra essas pessoas para fora do radar do Estado. O Governo do Estado implantará unidades interligadas de registro civil em todas as maternidades da rede estadual, para que o recém-nascido saia do hospital já com CPF e certidão; reestruturará o Poupa Tempo e os postos do DETRAN-RJ como centros de documentação integral, reunindo RG, CPF e certidões em um único atendimento; e conduzirá mutirões de busca ativa em comunidades e unidades prisionais, com gratuidade assistida para quem comprovar renda de até um salário mínimo.
+CAPÍTULO III
+EIXO III — CAUSA ANIMAL
+SIISA-RJ — Sistema Integrado de Identificação, Saúde e Proteção Animal Cada município que adota a microchipagem hoje cria sua própria ilha de dados, inacessível a clínicas e ONGs de fora — e essa fragmentação custa caro: a chance de reencontrar um animal perdido cai de até 93%, se localizado nas primeiras 24 horas, para cerca de 60% depois desse prazo, exatamente pela falta de um sistema único e compartilhado. O Governo do Estado instituirá o SIISA-RJ como camada estadual de execução do Cadastro Nacional de Animais Domésticos (CNAD/SinPatinhas), criado pela Lei Federal nº 15.046/2024, que já atribui aos estados essa fiscalização — competência hoje não exercida no Rio de Janeiro. O sistema unificará microchipagem obrigatória, banco de dados com o PRODERJ e prontuário veterinário digital, com acesso ao cidadão pelo aplicativo RJ Animal, incluindo alerta geolocalizado de animais desaparecidos.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+48
+
+PEMHA-RJ — Programa Estadual de Manejo Humanitário e Bem-Estar Animal
+O controle populacional de cães e gatos requer planejamento contínuo, cooperação entre Estado e municípios e adoção de métodos compatíveis com as diretrizes de bem-estar animal. A coordenação estadual dessas ações permite ampliar a cobertura dos programas de esterilização, qualificar o atendimento veterinário e promover estratégias mais eficientes para reduzir o abandono e os impactos da superpopulação de animais domésticos. O Governo do Estado aprovará lei reconhecendo esse protocolo como método prioritário obrigatório em todo o território, vedando o extermínio indiscriminado; criará o Fundo Estadual de Proteção Animal, com repasses condicionados aos municípios que aderirem e remuneração de clínicas veterinárias privadas conveniadas por procedimento realizado, nos moldes do SUS; e operará Castramóveis regionais para garantir cobertura equitativa nos 92 municípios, priorizando áreas rurais e periferias sem clínica conveniada próxima.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+49
+
+PARTE IX
+GESTÃO PÚBLICA E TRANSPARÊNCIA
+I REORDENAMENTO ESTRATÉGICO DA ADMINISTRAÇÃO ESTADUAL II GASTO SUSTENTÁVEL RJ — DESPESAS RÍGIDAS, RENÚNCIAS FISCAIS E MARCO DE MÉDIO PRAZO III INTEGRIDADE NAS CONTRATAÇÕES — EMPRESAS CONTRATADAS PELO ESTADO IV PROSAN — PROGRAMA DE MODERNIZAÇÃO E SIMPLIFICAÇÃO DO ARCABOUÇO NORMATIVO
+50
+
+INTRODUÇÃO GESTÃO PÚBLICA E TRANSPARÊNCIA
+O PROBLEMA
+O Estado convive com uma das estruturas de gasto mais engessadas do país: despesas com pessoal e com o regime próprio de previdência consomem parcela dominante da receita corrente líquida, e distorções persistem há décadas — gratificações incorporadas irregularmente, acúmulo ilícito de cargos, horas extras estruturais por escala mal dimensionada. O PLOA 2025 projetou déficit de R$ 14,6 bilhões, superior ao rombo de R$ 8,5 bilhões da LOA 2024, e o governo projeta disponibilidade de caixa negativa de R$ 10,2 bilhões para 2026 — o Rio saiu do Regime de Recuperação Fiscal em 2023 com a folha formalmente equilibrada, mas sem resolver os problemas estruturais que levaram à crise.
+A estrutura administrativa é marcada por superposição de atribuições entre secretarias, ausência de coordenação intersetorial eficaz e baixa capacidade de monitorar a execução de metas — resultado de décadas de criação de órgãos sem racionalização, enquanto a qualificação dos mais de 400 mil servidores ativos e inativos permanece negligenciada como fator de melhoria dos serviços. O Estado acumula, ainda, décadas de normas superpostas, decretos contraditórios e regulamentações obsoletas que geram insegurança jurídica e oneram a atividade econômica, a ponto de o Rio de Janeiro ocupar posições desfavoráveis em rankings nacionais de facilidade de fazer negócios. Na contratação pública, empresas com histórico de corrupção, má execução contratual ou atrasos reiterados seguem aptas a contratar com o Estado desde que atendam aos requisitos formais do certame, sem avaliação sistemática de integridade e desempenho.
+DIRETRIZES
+A folha, o regime previdenciário e as renúncias fiscais serão tratados com transparência total antes de qualquer reforma — dados publicados periodicamente, custo-benefício avaliado —, porque decisão fiscal sem diagnóstico preciso é arbitrária e capturável. Reformas de despesa rígida seguirão regras de compromisso em lei, com gatilhos automáticos de contenção e reposição de pessoal condicionada a critério técnico, e não apenas metas formais que se esvaziam a cada ciclo político.
+PROPOSTAS E SOLUÇÕES
+As quatro propostas deste capítulo correspondem à competência do Estado sobre sua própria organização administrativa, o ciclo orçamentário e a política de contratações públicas, nos termos da Lei de Responsabilidade Fiscal (Lei Complementar Federal nº 101/2000) e da Lei Federal nº 14.133/2021 (Licitações e Contratos Administrativos).
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+51
+
+CAPÍTULO I
+REORDENAMENTO ESTRATÉGICO DA ADMINISTRAÇÃO ESTADUAL
+Secretarias com atribuições sobrepostas, pouca coordenação entre pastas e baixa capacidade de acompanhar se as metas de fato saem do papel: esse é o retrato de décadas de criação de órgãos sem nenhum critério de racionalização — enquanto os mais de 400 mil servidores ativos e inativos do Estado seguem sem programa de qualificação capaz de transformar essa força de trabalho em melhoria real dos serviços. O Governo do Estado criará, por decreto, o Escritório de Gerenciamento de Projetos e Metas (EGPM), vinculado ao Gabinete do Governador, para monitorar com indicadores públicos os principais programas de governo; conduzirá revisão técnica das secretarias com fusão das pastas de missão sobreposta — submetendo à Assembleia Legislativa os casos que impliquem extinção de cargos —; e instituirá, nos primeiros seis meses, programa permanente de qualificação do servidor em gestão por resultados e governança digital, com revisão do uso de imóveis, frota e contratos de terceirização.
+CAPÍTULO II
+GASTO SUSTENTÁVEL RJ — DESPESAS RÍGIDAS, RENÚNCIAS FISCAIS E MARCO DE MÉDIO PRAZO
+Pessoal e previdência absorvem a maior fatia da receita corrente líquida do Estado, e distorções antigas — gratificação incorporada de forma irregular, acúmulo ilícito de cargos, hora extra estrutural por escala mal dimensionada — nunca foram corrigidas, enquanto incentivo fiscal e contrato com fornecedor seguem sem qualquer acompanhamento sistemático de resultado. Sair do Regime de Recuperação Fiscal em 2023 equilibrou a folha no papel, mas não resolveu nada do que gerou a crise. O Governo do Estado instituirá o programa Gasto Sustentável RJ, com auditoria cruzada contínua da folha de pagamento — cruzando dados do SIAPE, do TCE-RJ e dos registros de óbito para identificar pagamentos irregulares — e publicação nominal mensal da folha; planejamento da força de trabalho por área crítica, com reposição de vacância condicionada a critério explícito de necessidade; reforma previdenciária paramétrica gradual, com atuarização pública anual e regime de previdência complementar para novos servidores; e Marco de Médio Prazo Fiscal em lei estadual, com gatilho automático de contenção quando a despesa de pessoal ultrapassar 49% da receita corrente líquida e revisão obrigatória, a cada quatro anos, de todas as renúncias fiscais vigentes.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+52
+
+CAPÍTULO III
+INTEGRIDADE NAS CONTRATAÇÕES — EMPRESAS CONTRATADAS PELO ESTADO
+Passar no crivo formal do edital ainda é suficiente para contratar com o Estado, mesmo para empresas com histórico de corrupção, execução malfeita ou atraso recorrente — porque não existe hoje uma avaliação sistemática que cruze integridade e desempenho antes da assinatura do contrato. O Governo do Estado instituirá política estadual de integridade e desempenho nas contratações públicas, complementar à Lei Federal de Licitações e à Lei Anticorrupção, com cadastro estadual integrado aos cadastros federais correlatos, critérios técnicos e objetivos de impedimento temporário — nunca permanente — e reabilitação condicionada ao afastamento dos responsáveis pela irregularidade, à adoção de programa de integridade e a histórico recente de execução satisfatória, sempre com observância do devido processo legal.
+CAPÍTULO IV
+PROSAN — PROGRAMA DE MODERNIZAÇÃO E SIMPLIFICAÇÃO DO ARCABOUÇO NORMATIVO
+Decreto contradizendo decreto, regulamentação que ninguém revisou em décadas e normas superpostas sem controle: esse acúmulo normativo gera insegurança jurídica, onera quem empreende e ajuda a explicar por que o Rio de Janeiro aparece mal posicionado nos rankings de facilidade de fazer negócios — a ponto de até o próprio gestor público ter dificuldade de saber qual regra vale em cada caso. O Governo do Estado instituirá o PROSAN, com mapeamento digital de toda a legislação estadual vigente e comissão executiva de revisão normativa vinculada à Casa Civil, com prazo de 180 dias para propor consolidação e revogação de atos obsoletos do Executivo; priorizará a revisão de decretos que incidam sobre a atividade empresarial e o licenciamento ambiental, com consulta pública obrigatória nas revisões de norma ambiental; e articulará com a Assembleia Legislativa a consolidação de leis esparsas em códigos temáticos, com toda a legislação publicada em plataforma de busca acessível ao cidadão.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+53
+
+PARTE X
+CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+I FOMENTO AO DESENVOLVIMENTO DE SOFTWARES E JOGOS II ESCOLA TÉCNICA 2.0 — REORGANIZAÇÃO DAS ESCOLAS TÉCNICAS ESTADUAIS (FAETEC) III RJ COMPETITIVO — PROGRAMA DE INCENTIVO À COMPETITIVIDADE EMPRESARIAL IV REDECONHECIMENTO RJ E ECOINOV-RJ — INTEGRAÇÃO ENTRE ENSINO SUPERIOR,
+CIÊNCIA E DESENVOLVIMENTO ECONÔMICO
+54
+
+INTRODUÇÃO
+
+CIÊNCIA, TECNOLOGIA E INOVAÇÃO
+
+O PROBLEMA
+O Brasil é um dos dez maiores mercados consumidores de jogos digitais do mundo — cerca de 123 milhões de jogadores e US$ 2,7 bilhões em receita anual —, mas não se consolidou como produtor: o mercado global de games movimentou US$ 223,8 bilhões em 2024, mais do que cinema e música somados, e o país permanece dependente de importação, com perda de talento e valor para o exterior.
+A FAETEC reúne cerca de 120 unidades em 63 municípios, mas a rede é por vezes utilizada para fins de indicação política, sem ranking de desempenho nem alinhamento sistemático com a demanda produtiva regional. Empresas que buscam se instalar ou expandir no Estado, por sua vez, enfrentam insegurança regulatória e morosidade na tramitação de processos, sem programa de competitividade equivalente ao Compete-ES do Espírito Santo. O Estado concentra o maior sistema de ensino superior do país fora de São Paulo — UFRJ, UERJ, UFF, FIOCRUZ, entre outras —, mas falta integração estruturada entre essa produção científica e o desenvolvimento econômico: talentos formados no Rio migram por falta de oportunidade compatível, empresas não encontram profissional qualificado localmente, e o ecossistema de inovação permanece concentrado na capital, sem estruturas equivalentes no interior.
+
+DIRETRIZES
+O patrimônio científico, industrial e educacional que o Estado já possui — universidades, FAETEC, Parque Tecnológico da UFRJ — será a base de qualquer política de inovação, priorizando conexão e organização desses ativos sobre a criação de estruturas novas. A educação técnica e profissionalizante será conduzida por indicadores públicos de desempenho e alinhada à vocação econômica de cada região, seguindo modelos internacionais que associam formação técnica a empregabilidade comprovada. A política de inovação e competitividade terá prioridade de descentralização para além da capital, com polos regionais vinculados à vocação produtiva de cada território.
+
+PROPOSTAS E SOLUÇÕES
+As quatro propostas deste capítulo correspondem às competências do Estado sobre a rede de educação técnica e profissionalizante, o Sistema Estadual de Ciência, Tecnologia e Inovação (Lei estadual nº 9.809/2022) e a política tributária estadual, sempre em articulação com a União nos marcos federais de inovação (Lei nº 10.973/2004) e com universidades federais mediante convênio, respeitada sua autonomia.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+55
+
+CAPÍTULO I
+FOMENTO AO DESENVOLVIMENTO DE SOFTWARES E JOGOS
+A economia digital representa um dos segmentos de maior crescimento mundial e demanda políticas capazes de transformar conhecimento em atividade produtiva de alto valor agregado. O Estado do Rio de Janeiro reúne universidades, centros de pesquisa e mão de obra qualificada que podem sustentar um ambiente favorável ao desenvolvimento de software, jogos eletrônicos e indústrias criativas, ampliando a geração de empregos especializados e a inserção internacional do setor. O Governo do Estado expandirá o modelo NAVE (Núcleo Avançado em Educação) para quatro unidades com formação técnica em programação, design e arte digital integrada ao ensino médio; incluirá formalmente o desenvolvimento de jogos no Sistema Estadual de Cultura; instituirá polos de economia digital no Centro, em Niterói e na Baixada Fluminense, com infraestrutura compartilhada de conectividade e energia; e criará banco público de assets digitais e fundo de internacionalização para reduzir a barreira de entrada de estúdios pequenos e médios.
+CAPÍTULO II
+ESCOLA TÉCNICA 2.0 — REORGANIZAÇÃO DAS ESCOLAS TÉCNICAS ESTADUAIS (FAETEC)
+A educação profissional deve responder às transformações do mercado de trabalho e acompanhar as vocações econômicas de cada região do Estado. O fortalecimento institucional da FAETEC, aliado à adoção de padrões objetivos de gestão e avaliação, permitirá ampliar a qualidade da formação técnica, elevar a empregabilidade dos estudantes e aproximar a rede estadual das demandas do setor produtivo. O Governo do Estado reorganizará a rede sob plano único de metas e indicadores, com ranking público de proficiência, evasão e empregabilidade dos egressos por unidade; ampliará a autonomia administrativa e pedagógica das escolas; adotará currículo modular e empilhável, com certificações intermediárias reconhecidas pelo Catálogo Nacional de Cursos Técnicos; e organizará a oferta por vocação regional, em parceria com a FIRJAN para antecipar a formação de mão de obra exigida pela instalação de novas indústrias, no modelo dual já consolidado na Alemanha.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+56
+
+CAPÍTULO III
+RJ COMPETITIVO — PROGRAMA DE INCENTIVO À COMPETITIVIDADE EMPRESARIAL
+Instalar ou expandir uma operação no Rio de Janeiro ainda significa lidar com regras pouco previsíveis e processos que se arrastam, num cenário em que estados vizinhos, como o Espírito Santo, já contam com um programa estruturado de competitividade que o Rio simplesmente não tem. O Governo do Estado instituirá o RJ Competitivo, programa voltado a empresas de logística e distribuição, indústria de transformação, tecnologia e agroindústria que se instalem ou ampliem operações no Estado, com portal único digital para protocolo e concessão de regimes especiais e licenças, prazo máximo de 60 dias para resposta, e estabilidade jurídica do regime concedido pelo prazo contratual, sem possibilidade de revogação unilateral imotivada.
+CAPÍTULO IV
+REDECONHECIMENTO RJ E ECOINOV-RJ — INTEGRAÇÃO ENTRE ENSINO SUPERIOR, CIÊNCIA E DESENVOLVIMENTO ECONÔMICO
+Poucos estados reúnem uma base científica do porte da fluminense — UFRJ, UERJ, UFF, FIOCRUZ, entre outras —, mas essa produção acadêmica segue desconectada da economia real: o talento formado aqui migra por falta de oportunidade, as empresas não encontram profissional qualificado por perto, e toda a estrutura de inovação, incluindo o Parque Tecnológico da UFRJ, permanece concentrada na capital, sem replicação no interior. O Governo do Estado criará o RedeConhecimento RJ, rede de adesão voluntária entre universidades estaduais, federais por convênio e setor produtivo, com fundo de cofinanciamento de pesquisa aplicada gerido pela FAPERJ e rede de núcleos de inovação tecnológica para licenciamento de patentes e transferência tecnológica; e o ECOINOV-RJ, com polos regionais de inovação vinculados a instituições de ensino do interior — a começar por um polo científico-produtivo em Campos dos Goytacazes, ancorado na UENF e no IF Fluminense —, incubadoras vinculadas à FAETEC e às universidades estaduais, e fundo de subvenção a startups de base científica em fase de validação de mercado.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+57
+
+PARTE XI
+HISTÓRIA, CULTURA E TURISMO
+I SERRA IMPERIAL 365 II RIO FUNDADOR III SELO FLUMINENSE DE MUNICÍPIOS TURÍSTICOS
+58
+
+INTRODUÇÃO
+
+HISTÓRIA, CULTURA E TURISMO
+
+O PROBLEMA
+P etrópolis já dispõe de base sólida para o turismo histórico — roteiros consolidados no Centro Histórico, o Museu Imperial como equipamento âncora e a recém-restaurada Catedral Imperial —, mas a experiência do visitante depende de ações fragmentadas, sazonalidade elevada e comunicação irregular, sem operar o patrimônio como indústria turística contínua.
+O Rio possui memorial dedicado a Estácio de Sá no Aterro do Flamengo, mas marcos e personagens do período colonial não são convertidos em narrativa pública cotidiana nem em experiência guiada para moradores, estudantes e turistas, reduzindo identidade cultural e turismo histórico em escala estadual. São Paulo já classifica seus municípios turísticos por lei, com requisitos técnicos mínimos e repasses condicionados a metas; o Rio de Janeiro organiza o turismo por regiões, mas não tem mecanismo equivalente de classificação técnica com incentivo financeiro e sanção real, o que pulveriza o investimento, politiza a distribuição de recursos e mantém o interior sem escala.
+
+DIRETRIZES
+O patrimônio histórico e cultural será operado como indústria turística contínua, com governança dedicada, calendário permanente e metas verificáveis — não como soma de ações pontuais dependentes de pico de temporada. Interpretação, sinalização e conteúdo digital serão priorizados sobre grandes obras como via de baixo custo e alta replicabilidade para converter patrimônio existente em produto turístico. O acesso municipal a investimento estadual em turismo será condicionado a critério técnico verificável e prazo definido de classificação, e não a critério político ou a status vitalício.
+
+PROPOSTAS E SOLUÇÕES
+As três propostas deste capítulo correspondem às competências do Estado em turismo e cultura, sempre em parceria com os municípios e, quando aplicável, com os órgãos federais gestores do patrimônio histórico.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+59
+
+CAPÍTULO I
+SERRA IMPERIAL 365
+O patrimônio histórico de Petrópolis possui potencial para impulsionar o desenvolvimento econômico durante todo o ano, desde que seja acompanhado por uma gestão integrada da atividade turística e por uma programação permanente de eventos. A articulação entre equipamentos culturais, calendário contínuo e promoção institucional fortalece a permanência dos visitantes, amplia a circulação econômica e reduz a dependência da sazonalidade. O Governo do Estado estruturará calendário permanente de atrações e eventos ao longo de todo o ano — não apenas na alta temporada —, com governança dedicada por comitê técnico com autonomia deliberativa, contrato de gestão com metas trimestrais e painel público mensal de indicadores, modelo inspirado na governança consolidada do Natal Luz de Gramado.
+CAPÍTULO II
+RIO FUNDADOR
+A valorização da história do Rio de Janeiro depende da integração entre preservação do patrimônio, educação e turismo cultural. A criação de roteiros interpretativos e de ferramentas de comunicação acessíveis amplia o conhecimento sobre a formação histórica do Estado, fortalece a identidade fluminense e transforma bens já existentes em experiências permanentes para moradores, estudantes e visitantes. O Governo do Estado criará a Rota Estácio de Sá, com dois circuitos sinalizados — um curto e caminhável no Aterro do Flamengo, outro pelo Centro Colonial —, cada parada com totem e QR code abrindo mapa digital, áudio-guia e microconteúdo escolar; estenderá pacote de sinalização histórica inteligente a marcos coloniais de outros municípios, com padrão visual único; e instituirá o mecanismo Adote um Marco, permitindo a empresas financiar a manutenção de pontos históricos em troca de visibilidade, vedada a marcas incompatíveis com espaço patrimonial protegido.
+CAPÍTULO III
+SELO FLUMINENSE DE MUNICÍPIOS TURÍSTICOS
+Enquanto São Paulo já opera um sistema legal de classificação de municípios turísticos, com requisitos técnicos e repasse vinculado a metas, o Rio de Janeiro ainda organiza o setor apenas por região — sem nenhum mecanismo equivalente de incentivo financeiro condicionado a desempenho, o que pulveriza investimento, abre espaço para critério político e trava a escala do turismo no interior. O Governo do Estado criará, por lei, o Sistema Fluminense de Municípios Turísticos, em dois níveis — Município de Interesse Turístico Fluminense, para destinos que precisam consolidar governança e infraestrutura básica, e Estância Turística Fluminense, para destinos maduros com investimento condicionado a metas —, com ingresso por edital técnico bienal, contrapartida municipal mínima de 30%, prazo máximo de quatro anos por classificação e perda automática do status em caso de descumprimento, corrigindo o modelo paulista com prazo definido para evitar o "título vitalício".
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+60
+
+PARTE XII
+AGRICULTURA E AGROINDÚSTRIA
+PROAGROF — PROGRAMA FLUMINENSE DE FOMENTO À AGRICULTURA FAMILIAR E I AGROECOLOGIA II SELO TRADIÇÃO FLUMINENSE — ORIGEM REGIONAL TURÍSTICA III SELO ORGÂNICO REGIONAL RJ — AGRICULTURA FAMILIAR CERTIFICADA IV VALOR AGREGADO COOPERATIVO FLUMINENSE — AGROINDÚSTRIA FAMILIAR RJ
+61
+
+INTRODUÇÃO
+
+AGRICULTURA E AGROINDÚSTRIA
+
+O PROBLEMA
+Aagricultura familiar responde por cerca de 67% dos estabelecimentos rurais fluminenses — 43.599 de um total de 65.224, segundo o Censo Agropecuário —, empregando diretamente cerca de 160 mil pessoas, com a Região Serrana concentrando 65% do faturamento agrícola estadual. Apesar disso, o setor opera muito abaixo do potencial, com problemas de logística, variação climática e baixa complexidade econômica.
+O gargalo mais crítico é cadastral: apenas cerca de 5 mil dos 39 mil agricultores familiares do Estado tinham Cadastro Nacional da Agricultura Familiar atualizado em 2023 — o que os exclui do acesso a crédito e a programas públicos —, e a EMATER-Rio, principal braço de assistência técnica estadual, enfrenta restrições de pessoal e orçamento apesar de sua presença capilar. Produtos artesanais com identidade cultural — queijos, cachaças, doces, mel, cafés especiais — são comercializados com baixo valor agregado e pouca diferenciação de mercado, sem instrumento estadual que conecte produção, origem regional e turismo; a certificação orgânica formal permanece restrita pelo custo e pela burocracia; e a produção segue majoritariamente in natura, sem infraestrutura de processamento que permita às cooperativas capturar as etapas mais rentáveis da cadeia.
+DIRETRIZES
+A regularização cadastral será tratada como pré-condição de toda a política agrícola estadual: nenhum outro programa deste capítulo funciona plenamente para o produtor sem Cadastro Nacional da Agricultura Familiar atualizado. Os instrumentos estaduais de certificação serão desenhados como complemento aos sistemas federais já existentes, nunca como autoridade certificadora paralela. O poder de compra do Estado — merenda escolar, hospitais, presídios — será tratado como instrumento estruturante de mercado para a agricultura familiar, e não como aquisição incidental.
+
+PROPOSTAS E SOLUÇÕES
+As quatro propostas deste capítulo correspondem às competências do Estado em assistência técnica rural, política agrícola estadual e compras públicas, sempre em articulação com os sistemas federais de certificação (MAPA) e crédito rural (Pronaf).
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+62
+
+CAPÍTULO I
+PROAGROF — PROGRAMA FLUMINENSE DE FOMENTO À AGRICULTURA FAMILIAR E AGROECOLOGIA
+Dos 39 mil agricultores familiares do Estado, apenas cerca de 5 mil tinham o Cadastro Nacional da Agricultura Familiar atualizado em 2023 — sem esse documento, não há acesso a crédito nem a programas públicos —, e a EMATER-Rio, principal braço de assistência técnica no território, segue lidando com restrição de pessoal e orçamento mesmo mantendo presença capilar em todo o Estado. O Governo do Estado organizará a política agrícola em torno do PROAGROF, com mutirões de regularização cadastral conduzidos pela EMATER-Rio em parceria com sindicatos rurais e prefeituras — meta de 25 mil agricultores atualizados até o final do segundo ano —, ao menos 150 novas contratações de extensionistas nas regiões Norte Fluminense, Serrana e Noroeste, ampliação das compras públicas de agricultura familiar para 45% dos recursos do PNAE estadual, apoio a sistemas participativos de certificação orgânica, circuito de feiras e mercados de proximidade, e manutenção prioritária das estradas vicinais que conectam as regiões produtoras.
+CAPÍTULO II
+SELO TRADIÇÃO FLUMINENSE — ORIGEM REGIONAL TURÍSTICA
+Queijos, cachaças, doces, mel e cafés especiais carregam identidade cultural forte, mas chegam ao mercado com pouco valor agregado: o Selo Arte federal já existe, porém tem alcance turístico limitado no Rio, e nada no plano estadual conecta hoje, de forma estruturada, produção artesanal, origem regional e turismo. O Governo do Estado criará o selo voluntário Tradição Fluminense — Região Turística de Origem, concedido por auditoria técnica simplificada de origem local e produção artesanal, com logotipo registrado como marca coletiva no INPI, certificado digital e promoção institucional em guias e feiras turísticas, posicionado como complementar — nunca concorrente — ao Selo Arte federal.
+CAPÍTULO III
+SELO ORGÂNICO REGIONAL RJ — AGRICULTURA FAMILIAR CERTIFICADA
+A certificação orgânica formal permanece limitada entre pequenos produtores fluminenses, sobretudo pelo custo, pela complexidade burocrática e pela baixa capilaridade do sistema federal de certificação para a agricultura familiar, o que faz grande parte da produção agroecológica ser vendida sem diferenciação clara no mercado metropolitano.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+63
+
+O Governo do Estado apoiará tecnicamente cooperativas na habilitação de Organismos Participativos de Avaliação da Conformidade junto ao Ministério da Agricultura, sem assumir função de autoridade certificadora paralela ao sistema federal, com rastreabilidade por QR code informando produtor, origem e data de colheita, e prioridade de integração à rede de compras públicas estaduais do PROAGROF.
+CAPÍTULO IV
+VALOR AGREGADO COOPERATIVO FLUMINENSE — AGROINDÚSTRIA FAMILIAR RJ
+A agricultura familiar fluminense é majoritariamente baseada em produção in natura, o que expõe cooperativas e produtores a forte sazonalidade, volatilidade de preços e dependência de intermediários — mesmo havendo linhas federais de crédito para agroindustrialização, muitas cooperativas enfrentam limitação técnica para estruturar projetos e atender exigências sanitárias. O Governo do Estado instituirá edital público anual de apoio à implantação e modernização de pequenas agroindústrias cooperativas — processamento de frutas e hortaliças, derivados de mandioca, mel, café e queijo —, com assistência técnica da EMATER-RJ, facilitação de crédito subsidiado para equipamentos e acompanhamento técnico pós-implantação por, no mínimo, 24 meses, com produtos processados alcançando valor até 100% superior ao in natura.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+64
+
+PARTE XIII
+MATRIZ ENERGÉTICA
+I INFRAESTRUTURA MIDSTREAM E DOWNSTREAM — O PACTO PELO REFINO II TRANSIÇÃO ENERGÉTICA — HIDROGÊNIO E EÓLICA OFFSHORE III HUB DE RADIOFARMÁCIA E SAÚDE NUCLEAR
+65
+
+INTRODUÇÃO
+
+MATRIZ ENERGÉTICA
+
+O PROBLEMA
+O Rio de Janeiro é o principal produtor de petróleo do país, mas ocupa posição paradoxal na cadeia de valor: exporta majoritariamente petróleo cru e importa parcela relevante dos derivados que consome. A Refinaria de Duque de Caxias opera com parque industrial defasado, o Polo GasLub, em Itaboraí, permanece incompleto e sem integração logística, e mesmo o Porto do Açu, ativo bem-sucedido, ainda não está plenamente integrado à cadeia de refino.
+O Estado reúne condições estratégicas para liderar a transição energética — potencial eólico offshore, base industrial em óleo e gás, estaleiros ociosos na Baía de Guanabara —, mas corre risco de perder protagonismo para o Nordeste, que avança mais rápido na estruturação institucional e na atração de investimentos em renováveis e hidrogênio. A Emenda Constitucional nº 118/2022 abriu a produção de radioisótopos de uso médico à iniciativa privada sob permissão da CNEN, mas o Rio corre risco de perder essa disputa: o Instituto de Engenharia Nuclear, referência histórica em pesquisa nuclear aplicada à saúde, está subfinanciado, enquanto São Paulo desponta como principal destino de investimento em ciclotrons — e o desabastecimento recorrente de radiofármacos já afeta filas de exames como o PET-CT.
+DIRETRIZES
+A captura de valor ao longo da cadeia produtiva será priorizada sobre a exportação de matéria-prima bruta — refino local em vez de só extrair, hidrogênio e eólica em vez de só ceder espaço a outros estados, radiofármaco produzido aqui em vez de só importado. Ativos industriais ociosos ou subutilizados que o Estado já possui — a REDUC, o Polo GasLub, os estaleiros da Baía de Guanabara, o Instituto de Engenharia Nuclear — serão o ponto de partida de qualquer novo investimento, antes de qualquer estrutura construída do zero. Incentivos tributários estaduais serão sempre instituídos por convênio no CONFAZ, condicionados a instalação física, operação produtiva e metas verificáveis, nunca como renúncia fiscal permanente e incondicionada.
+
+PROPOSTAS E SOLUÇÕES
+As três propostas deste capítulo correspondem às competências do Estado em política industrial, tributária e de saúde, sempre observados o monopólio federal sobre a exploração de petróleo e a energia nuclear (art. 177 e art. 21, XXIII, da Constituição Federal) e a regulação federal do hidrogênio e da eólica offshore.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+66
+
+CAPÍTULO I
+INFRAESTRUTURA MIDSTREAM E DOWNSTREAM — O PACTO PELO REFINO
+
+Maior produtor de petróleo do país, o Rio de Janeiro vende ao exterior o que extrai bruto e compra de fora parte do que consome refinado — um desequilíbrio que a própria infraestrutura estadual ajuda a perpetuar. A Refinaria de Duque de Caxias arrasta um parque industrial defasado, o Polo GasLub segue incompleto e desconectado da malha logística em Itaboraí, e até o Porto do Açu, um dos raros sucessos recentes do Estado, ainda opera à margem da cadeia de refino. O Governo do Estado instituirá o Regime Especial de Refino Fluminense, com crédito presumido de ICMS — mediante convênio no CONFAZ — para mini-refinarias que utilizem petróleo produzido localmente; viabilizará parceria público-privada para a conexão ferroviária do Polo GasLub; e articulará a qualificação do Porto do Açu como Zona de Processamento de Exportação de energia, regime federal autorizado por decreto presidencial, cabendo ao Estado prover infraestrutura de acesso e qualificar o ambiente de negócios.
+CAPÍTULO II
+TRANSIÇÃO ENERGÉTICA — HIDROGÊNIO E EÓLICA OFFSHORE
+
+Potencial eólico offshore, base industrial consolidada em óleo e gás e estaleiros hoje ociosos na Baía de Guanabara: poucos estados reúnem tantos ativos para liderar a transição energética quanto o Rio de Janeiro. Essa vantagem natural, porém, vem sendo desperdiçada — o Nordeste avança mais depressa na estruturação institucional e já concentra a atração de investimentos em renováveis e hidrogênio. O Governo do Estado adotará política tecnologicamente neutra para hidrogênio — incentivando tanto o verde quanto o azul, desde que atendam a critérios de baixa intensidade de carbono —, com certificação estadual harmonizada ao marco federal; lançará o programa Estaleiros da Energia, reconvertendo estaleiros ociosos em bases industriais para eólica offshore; e fortalecerá a integração com o Porto do Açu como hub energético multipropósito.
+CAPÍTULO III
+HUB DE RADIOFARMÁCIA E SAÚDE NUCLEAR
+
+Filas de exames como o PET-CT já sentem, na prática, o efeito do desabastecimento recorrente de radiofármacos no Estado. Mesmo com a Emenda Constitucional nº 118/2022 tendo aberto a produção de radioisótopos à iniciativa privada sob permissão da CNEN, o Instituto de Engenharia Nuclear — referência histórica em pesquisa nuclear aplicada à saúde — segue subfinanciado, enquanto São Paulo se consolida como o principal destino nacional de investimento em ciclotrons. O Governo do Estado dará preferência, dentro dos limites da Lei de Licitações, a fornecedores que produzam radioisótopos localmente nos editais da Secretaria de Saúde; e instituirá o Corredor Azul, protocolo logístico diferenciado para transporte rápido e seguro de material radioativo entre o Aeroporto do Galeão e o Parque Tecnológico da UFRJ, dada a meia-vida curta dos radioisótopos.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+67
+
+PARTE XIV
+ESPORTE E LAZER
+I PROGRAMA ESPORTE NA ESCOLA — NO CONTRATURNO, FIM DE SEMANA E FÉRIAS II REDE ESTADUAL DE NÚCLEOS OLÍMPICOS E DE ALTO RENDIMENTO III BOLSA-ATLETA FLUMINENSE COM MÉRITO E CONTRAPARTIDA EDUCACIONAL IV PLATAFORMA ÚNICA DO ESPORTE E LAZER V INCENTIVO AO ESPORTE ESTUDANTIL E UNIVERSITÁRIO COM INTEGRAÇÃO CULTURAL
+68
+
+INTRODUÇÃO
+
+ESPORTE E LAZER
+
+O PROBLEMA
+Aprática esportiva regular entre jovens fluminenses permanece abaixo da média nacional, com o Estado registrando um dos menores índices de atividade física no lazer do país. A rede estadual concentra adolescentes em idade crítica para evasão escolar e exposição ao recrutamento por grupos armados, mas a escola opera como ilha de quatro a cinco horas, entregando o restante do dia a fatores de risco externos, especialmente em territórios de alta vulnerabilidade.
+O Estado sustenta equipamentos esportivos de alto custo — parte do legado olímpico de 2016, como o Complexo do Maracanã e as instalações da Barra da Tijuca — com taxa de ocupação abaixo do potencial e pouca integração com a formação de base, enquanto o interior fica preso a iniciativas dispersas, sem estrutura técnica estável nem calendário competitivo. Programas de apoio ao atleta, por sua vez, costumam sofrer com regras pouco claras e baixa transparência de resultados.
+A informação sobre equipamentos, programas, vagas e resultados esportivos está dispersa entre secretarias, autarquias, contratos e municípios, o que reduz a adesão do cidadão e prejudica a coordenação estadual. Competições esportivas estudantis e universitárias existem, mas ocorrem em espaços de baixa visibilidade pública, desperdiçando o potencial dos grandes equipamentos estaduais como palco de eventos de alcance comunitário.
+DIRETRIZES
+O esporte será tratado como eixo de desenvolvimento humano e institucional, conectado a educação, saúde e segurança — e não como sucessão de eventos pontuais desarticulados entre si. Os equipamentos de alto custo já existentes serão operados com lógica de ocupação contínua e metas públicas antes de qualquer nova construção, enquanto o interior recebe estrutura técnica estável por meio de rede regional. Todo apoio a atletas e toda informação sobre equipamentos serão públicos, auditáveis e concedidos por critério de mérito, encerrando a alocação discricionária e pouco transparente hoje praticada.
+
+PROPOSTAS E SOLUÇÕES
+As cinco propostas deste capítulo correspondem às competências do Estado sobre os equipamentos esportivos estaduais, a rede de ensino estadual e o fomento ao esporte, sempre em articulação com federações esportivas, municípios e instituições de ensino superior.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+69
+
+CAPÍTULO I
+PROGRAMA ESPORTE NA ESCOLA — ESPORTE NO CONTRATURNO, FIM DE SEMANA E FÉRIAS
+A ampliação da prática esportiva entre crianças e adolescentes depende do aproveitamento contínuo da infraestrutura pública existente e da integração entre educação, esporte e comunidade. A utilização dos espaços escolares além do horário regular amplia as oportunidades de desenvolvimento físico, convivência social e formação cidadã, fortalecendo o papel da escola como centro de referência para a população local. O Governo do Estado organizará núcleos esportivos em escolas estaduais com calendário regular de treinos, ligas interescolares e oferta sistemática nos fins de semana e períodos de férias nas unidades com estrutura adequada, coordenando metodologia técnica, aquisição de materiais e credenciamento de profissionais de educação física, com meta inicial de 40 escolas-polo distribuídas por macrorregião.
+CAPÍTULO II
+REDE ESTADUAL DE NÚCLEOS OLÍMPICOS E DE ALTO RENDIMENTO
+Legado dos Jogos de 2016, o Complexo do Maracanã e as instalações da Barra da Tijuca simbolizam um investimento de alto custo que hoje roda abaixo do potencial, com pouca conexão à formação de base. No interior, o cenário se inverte: não faltam iniciativas dispersas, falta estrutura técnica estável e calendário competitivo que as sustente. O Governo do Estado criará a Rede Núcleos RJ, com ao menos um núcleo por macrorregião organizado por modalidade compatível com a vocação e a infraestrutura local — lutas e atletismo em polos urbanos, natação onde houver piscina adequada, remo e canoagem em áreas com condições naturais, esportes de areia no litoral —, com cota mínima territorial de vagas para evitar concentração na capital e participação do setor privado por naming rights e patrocínio, sob contrapartida obrigatória de acesso público.
+
+CAPÍTULO III
+BOLSA-ATLETA FLUMINENSE COM MÉRITO E CONTRAPARTIDA EDUCACIONAL
+
+Nem sempre o problema é falta de dinheiro: programas de apoio ao atleta existem em várias esferas de governo, mas tropeçam em regras pouco claras e critérios que mudam a cada gestão. O resultado é baixa transparência de resultados — o que compromete tanto a permanência do atleta no esporte quanto o retorno do investimento público em desempenho e mobilidade social. O Governo do Estado criará a Bolsa-Atleta Fluminense em três níveis — Base, de 12 a 17 anos, com frequência escolar mínima de 80% como condição de manutenção; Transição, de 18 a 23 anos; e Elite, para ranking nacional ou internacional comprovado —, por edital público com critérios objetivos, cota mínima por macrorregião e publicação integral de pagamentos e resultados no portal de transparência.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+70
+
+CAPÍTULO IV
+PLATAFORMA ÚNICA DO ESPORTE E LAZER
+Equipamento, vaga, programa, resultado: cada uma dessas informações está hoje espalhada em um lugar diferente — secretaria, autarquia, contrato ou prefeitura —, o que dificulta o planejamento estadual e afasta o cidadão do que já existe. O Governo do Estado criará plataforma estadual única com mapa georreferenciado de equipamentos estaduais e conveniados, agenda de eventos, inscrições e listas de espera por programa, e painel público de indicadores, integrando a Escola 360, a Bolsa-Atleta e a Rede de Núcleos como módulos de um mesmo ecossistema, com dados alimentados pelos municípios por convênio padronizado e atualização obrigatória.
+CAPÍTULO V
+INCENTIVO AO ESPORTE ESTUDANTIL E UNIVERSITÁRIO COM INTEGRAÇÃO CULTURAL
+Jogos estudantis e universitários já acontecem no Rio de Janeiro, mas raramente em espaços de visibilidade pública. Sem uma política que integre esporte, cultura e educação, o potencial dos grandes equipamentos esportivos estaduais como palco de eventos abertos à comunidade segue praticamente ocioso. O Governo do Estado organizará jogos estudantis e universitários em três fases anuais — municipal, regional e estadual —, com programação cultural integrada na fase final em equipamento de referência, ingresso simbólico com isenção para estudantes da rede estadual e arrecadação excedente destinada ao Fundo Estadual de Educação, financiado por orçamento das Secretarias de Esporte, Educação e Cultura e pelos instrumentos estaduais de fomento cultural já existentes.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+71
+
+PARTE EXTRA I
+DESFAVELIZAÇÃO
+I RETOMADA TERRITORIAL E UNIDADES DE CONTROLE TERRITORIAL II GOVERNANÇA E FINANCIAMENTO DA URBANIZAÇÃO III INICIATIVA SENTINELA FLUMINENSE — DIAGNÓSTICO TÉCNICO IV DIRETRIZES TÉCNICAS DE REURBANIZAÇÃO E TIPOLOGIAS V HABITA+ E MINHA CASA MINHA VIDA ENTIDADES — FINANCIAMENTO HABITACIONAL VI FÁBRICA DE CIDADES — QUALIFICAÇÃO TÉCNICA LOCAL VII LOCAÇÃO SOCIAL EM IMÓVEIS PÚBLICOS CENTRAIS VIII FORMALIZAÇÃO PRODUTIVA COMUNITÁRIA IX REGULARIZAÇÃO FUNDIÁRIA E CADASTRAMENTO SOCIAL SIMULTÂNEO
+72
+
+INTRODUÇÃO
+
+DESFAVELIZAÇÃO
+
+O PROBLEMA
+As favelas fluminenses nasceram da ausência histórica de política habitacional, e o padrão se repete em centenas de comunidades — ausência de saneamento, fiação exposta, vias estreitas que impedem ambulâncias, ocupação de encostas e margens de corpos d'água —, com custo em risco de deslizamento, alagamento e isolamento de emprego e transporte. O Rio já testou praticamente todos os modelos de intervenção — Cruzada São Sebastião, Vila Kennedy, Cidade de Deus, Favela-Bairro, Minha Casa Minha Vida —, com resultados limitados porque nenhum endereçou, ao mesmo tempo, os quatro elementos centrais: segurança territorial, titulação, infraestrutura e proximidade com emprego.
+Grupos criminosos controlavam cerca de 155,33 km² do território da capital fluminense em 2023 — cerca de 13% da área da cidade —, com estruturas paralelas consolidadas na Baixada Fluminense e em Jacarepaguá. Sem acesso pleno e permanente a essas comunidades, o Estado nunca soube ao certo quantas famílias vivem em cada território nem que riscos estão presentes — o planejamento sempre partiu de estimativa, não de dado real. O Rio de Janeiro tem 1.724 favelas e comunidades urbanas — o segundo maior número entre os estados, segundo o Censo 2022 do IBGE —, das quais 813 na capital. É esse universo que o Governo do Estado se propõe a transformar, em dez anos, em bairros formais com título de propriedade individual: não uma agenda de urbanização de favela, mas o fim da favela como modalidade de moradia popular no Rio de Janeiro.
+DIRETRIZES
+A desfavelização segue sequência lógica — retomada e presença estatal; diagnóstico técnico; cadastramento fundiário e social simultâneo; definição entre reurbanização e realocação; execução —, e cada morador recebe título de propriedade individual, sem exceção, como direito, e não como benefício discricionário. Código de postura urbana com sanção impede a reprodução do padrão construtivo que originou a precariedade, e parte das novas unidades é vendida a preço de mercado para garantir mistura social efetiva. Posto policial, escola modelo, clínica de saúde e creche são condição de entrega em cada bairro desfavelizado, e não promessa posterior.
+PROPOSTAS E SOLUÇÕES
+As nove propostas deste capítulo seguem a sequência de atuação descrita nas diretrizes e correspondem às competências do Estado em segurança pública, política fundiária, habitação e infraestrutura, sempre em coordenação com os capítulos de segurança pública, saneamento e desenvolvimento econômico deste mesmo plano de governo.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+73
+
+CAPÍTULO I
+RETOMADA TERRITORIAL E UNIDADES DE CONTROLE TERRITORIAL
+Sem retomada efetiva e estrutura permanente que suceda a ocupação, o Estado repete o padrão das UPPs — presença inicial seguida de refluxo —, inviabilizando qualquer diagnóstico ou intervenção das propostas seguintes. O Governo do Estado executará retomada em três fases — inteligência e asfixia financeira; intervenção operacional; consolidação da presença estatal —, sustentada por Unidades de Controle Territorial que integram segurança, serviços sociais e regulação econômica local, com projetospiloto na Baixada Fluminense e em Jacarepaguá.
+CAPÍTULO II
+GOVERNANÇA E FINANCIAMENTO DA URBANIZAÇÃO
+Grandes intervenções dependem quase exclusivamente de repasses federais ou do caixa estadual, com autarquias e concessionárias desarticuladas no território. O Governo do Estado atuará como articulador central, combinando captação internacional, metas de universalização embutidas nos contratos de concessão de saneamento e atuação integrada entre a CEHAB-RJ, para obras complexas e contenção de encostas, e o ITERJ, para regularização fundiária em escala.
+CAPÍTULO III
+INICIATIVA SENTINELA FLUMINENSE — DIAGNÓSTICO TÉCNICO
+O Estado sofre apagão de dados sobre as comunidades, historicamente impedido de entrar nesses territórios pelo crime organizado, e atua de forma fragmentada quando consegue. O Governo do Estado criará força-tarefa integrando CEPERJ, IBGE, ITERJ, ISP e as polícias, com monitoramento contínuo do INEA, conduzindo quatro estudos técnicos por comunidade na mesma janela operacional — geotécnico, hidrológico, ambiental e topográfico —, adaptando para uso urbano a tecnologia de satélite que o INPE usa contra o desmatamento.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+74
+
+CAPÍTULO IV
+DIRETRIZES TÉCNICAS DE REURBANIZAÇÃO E TIPOLOGIAS
+Sem diretrizes técnicas claras, qualquer intervenção corre o risco de reproduzir os erros que originaram a precariedade. A partir do diagnóstico técnico, cada característica do território recebe diretriz correspondente, organizando as intervenções em duas frentes não excludentes — reurbanização, sem remoção total, e realocação, restrita a áreas de risco real ou adensamento inviável —, com método construtivo padronizado e estilo arquitetônico aberto à identidade de cada território.
+CAPÍTULO V
+HABITA+ E MINHA CASA MINHA VIDA ENTIDADES — FINANCIAMENTO HABITACIONAL
+Programas habitacionais tendem a deslocar famílias para a periferia, distantes de emprego e serviços. O Governo do Estado manterá o Habita+, com subsídio ao longo de todo o financiamento para famílias de até R$ 8 mil, vinculado prioritariamente à desfavelização; e o Minha Casa Minha Vida Entidades, com obra em autogestão por cooperativas de moradores, financiamento do FDS para famílias de até R$ 2.640 e crédito acumulado por dia de mutirão trabalhado.
+CAPÍTULO VI
+FÁBRICA DE CIDADES — QUALIFICAÇÃO TÉCNICA LOCAL
+A juventude de áreas vulneráveis carece de qualificação técnica ligada ao próprio território, e intervenções de fora para dentro raramente geram pertencimento. O Governo do Estado instalará polos da FAETEC em comunidades prioritárias, com cursos técnicos em edificações, saneamento e topografia, enquanto a UERJ desenvolve peças de infraestrutura de baixo custo instaladas pelos próprios alunos e moradores em mutirão remunerado.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+75
+
+CAPÍTULO VII
+LOCAÇÃO SOCIAL EM IMÓVEIS PÚBLICOS
+O Estado tem passivo de imóveis ociosos em áreas centrais já servidas por metrô, barcas e trens, mas costuma alocar famílias removidas de encostas na extrema periferia. O Governo do Estado criará Programa Estadual de Locação Social, com retrofit de imóveis públicos ociosos para famílias realocadas de áreas de risco iminente mapeadas pela Defesa Civil e pelo INEA.
+CAPÍTULO VIII
+FORMALIZAÇÃO PRODUTIVA COMUNITÁRIA
+Grande parte da economia das comunidades já gira renda, mas informalmente, sem CNPJ nem acesso a crédito formal. O Governo do Estado conduzirá mutirão de formalização produtiva com Junta Comercial, Receita Estadual, AgeRio e Sebrae; capacitação em gestão financeira; linha de microcrédito produtivo pela AgeRio; e priorização territorial por presença estatal estável, intervenção urbana em curso e base econômica identificável.
+CAPÍTULO IX
+REGULARIZAÇÃO FUNDIÁRIA E CADASTRAMENTO SOCIAL SIMULTÂNEO
+O modelo de regularização fundiária vigente não reconhece a ocupação verticalizada já consolidada nas comunidades, mantendo famílias sem crédito e sujeitas a conflito fundiário. O Governo do Estado conduzirá, na mesma visita, regularização fundiária — pelo ITERJ, pela Reurb municipal, com individualização por andar — e cadastramento social pelo CRAS, com Número de Identificação Social e roteamento automático a benefícios, condicionado a permanência mínima na moradia e matrícula escolar dos filhos.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+76
+
+CRÉDITOS
+Coordenação do Plano de Governo
+Higor Borges e João Pedro Carvalho.
+Segurança Pública
+Coronel Busnello, Higor Borges, João Pedro Carvalho e Rafael Luz.
+Educação
+Dimitri Kamil Abramov, Kevin Busch , Luan Felipe Cardoso, Lucas Palhava, Rafael Luz e Thauã Moreira.
+Emprego, Renda e Desenvolvimento Econômico
+Enzo Pinotti, Leon Botelho, Luan Felipe Cardoso, Lucas Mariano, Pablo Souza e Rômulo Leão.
+Ciência, Tecnologia e Inovação
+Dimitri Kamil Abramov, Pablo Souza, Rômulo Leão e Yan Rodrigues.
+Saúde
+Everest Sardenberg, Felipe Roth, Rodrigo Sanches e Thauã Moreira.
+Habitação e Urbanismo
+Kevin Busch.
+Transporte e Mobilidade
+Luan Felipe Cardoso, Pablo Souza e Vinícius Krazo.
+Meio Ambiente e Sustentabilidade
+Lucas Arjona e Pedro Müller.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+77
+
+CRÉDITOS
+Cultura, História e Turismo
+Homero Junior e Lucas Mariano.
+Assistência Social, Direitos Humanos e Causa Animal
+Kevin Busch, Leandro Issa e Thayenne Perrier.
+Gestão Pública e Transparência
+Kevin Busch e Nicolas Regly
+Agricultura e Agroindústria
+Luan Felipe Cardoso.
+Desfavelização
+Thiago Garcia Santana, Luan Felipe Cardoso, João Pedro Carvalho, Kevin Busch, Yan Rodrigues e Homero Junior.
+Matriz Energética
+Pedro Müller.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+78
+
+POSFÁCIO
+UM CHAMADO AO FUTURO: À JUVENTUDE DO RJ.
+Uma mensagem do Bombeiro Rafael Luz
+Queridas crianças, queridos adolescentes e jovens do Estado do Rio de Janeiro, Talvez vocês ainda não votem. Talvez muitos acreditem que a política não fala com vocês. Mas a verdade é justamente o contrário: tudo o que fazemos hoje é para construir o mundo em que vocês irão viver amanhã.
+Escrevo estas palavras não apenas como candidato a vice-governador, mas como educador, como pai e como alguém que dedicou grande parte da vida a proteger pessoas. Aprendi que nenhuma sociedade se transforma apenas com leis, viaturas ou grandes obras. A verdadeira transformação começa quando uma criança entra na escola e encontra um lugar onde é respeitada, protegida, incentivada e acolhida.
+A educação é muito mais do que aprender matemática, português ou ciências. É aprender a sonhar. É descobrir talentos. É desenvolver caráter. É entender que o conhecimento abre portas que ninguém pode fechar.
+Eu sonho com um Rio de Janeiro onde nenhuma criança tenha medo de ir para a escola. Onde nenhum jovem precise abandonar seus sonhos por falta de oportunidades. Onde professores sejam valorizados, famílias caminhem ao lado das escolas e cada aluno seja tratado como alguém único, capaz de mudar a própria história.
+Sei que muitos de vocês enfrentam dificuldades que nem sempre os adultos conseguem enxergar. Alguns convivem com a violência, outros com a falta de oportunidades, outros ainda carregam silenciosamente o peso do bullying, da exclusão ou da insegurança. Quero que saibam de uma coisa: vocês não são definidos pelas circunstâncias em que nasceram. O futuro de vocês pode ser muito maior do que qualquer obstáculo do presente.
+Acredito profundamente que cada criança carrega um potencial extraordinário. Dentro de cada sala de aula pode estar o próximo médico que salvará vidas, a professora que transformará gerações, o cientista que fará grandes descobertas, o atleta que representará nosso país, o policial, o bombeiro, o artista, o empreendedor ou o governador que conduzirá o Rio de Janeiro no futuro.
+É por vocês que este plano existe.
+Cada proposta apresentada nestas páginas foi pensada olhando para o amanhã. Não queremos apenas resolver os problemas do presente. Queremos construir um estado onde vocês possam crescer com segurança, estudar com qualidade, viver com dignidade e acreditar que vale a pena sonhar.
+Nenhum governo muda um estado sozinho. A transformação acontece quando famílias, professores, escolas, comunidades e poder público caminham na mesma direção. E vocês também fazem parte dessa mudança. Nunca subestimem a força das suas escolhas, das suas atitudes e dos seus sonhos.
+Leiam. Perguntem. Estudem. Respeitem as diferenças. Sejam curiosos. Defendam a verdade. Cuidem uns dos outros. Façam do conhecimento a ferramenta mais poderosa da vida de vocês.
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+79
+
+O Rio de Janeiro não será reconstruído apenas pelos políticos de hoje. Ele será reconstruído, principalmente, pelas crianças que hoje aprendem a escrever, pelos adolescentes que descobrem seus talentos e pelos jovens que se recusam a desistir dos seus sonhos.
+Eu acredito em vocês.
+Acredito que a próxima geração será mais preparada, mais ética, mais solidária e mais comprometida com o bem comum.
+Que vocês nunca deixem que roubem a esperança dos seus corações. Porque é a esperança que nos faz estudar mais um pouco, levantar depois de uma queda, estender a mão a quem precisa e acreditar que sempre é possível construir um futuro melhor.
+Nos encontraremos nas escolas, nas universidades, nas ruas, nos projetos sociais, nos centros esportivos, nas bibliotecas e nos espaços onde a educação transforma vidas. Estarei trabalhando para que cada um de vocês tenha mais oportunidades do que a minha geração teve.
+O Rio de Janeiro que sonhamos não será construído sobre o medo, mas sobre a educação. Não será sustentado pela divisão, mas pela união. Não será lembrado pela violência, mas pela força de um povo que decidiu acreditar novamente.
+E quando esse futuro chegar, espero que vocês possam olhar para trás com orgulho e dizer:
+“Nós também fizemos parte dessa mudança.”
+Com respeito, esperança e compromisso,
+Rafa Luz Candidato a Vice-Governador do Estado do Rio de Janeiro
+
+PLANO DE GOVERNO: RESUMO EXECUTIVO - MISSÃO RJ 2026
+
+80
+
+RESUMO EXECUTIVO
+PLANO DE GOVERNO | RJ
+Governador Coronel Busnello
+Vice Bombeiro Rafa Luz
+Partido Missão Rio de Janeiro 2026
+
+

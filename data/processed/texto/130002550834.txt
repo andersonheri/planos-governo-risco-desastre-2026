@@ -1,0 +1,463 @@
+PLANO DE GOVERNO
+Flávio Roscoe Nogueira
+“Minas que Produz, Minas que Cuida”
+Minas Gerais, agosto de 2026
+
+SUMÁRIO
+Sumário Executivo Parte I — Diagnóstico de Minas Gerais em 2026
+1.1 Situação fiscal 1.2 CFEM e sonegação mineral 1.3 Segurança pública e sistema prisional 1.4 Saúde 1.5 Educação 1.6 Desigualdade regional 1.7 Habitação e saneamento 1.8 Ambiente de negócios e competitividade 1.9 Comércio exterior e agronegócio 1.10 Inovação e economia do conhecimento 1.11 Mulheres e violência de gênero 1.12 Primeira infância Parte II — Os Doze Eixos de Governo Eixo 1 Equilíbrio Fiscal e Combate à Sonegação · Eixo 2 Segurança Pública e Sistema Prisional Eixo 3 Saúde · Eixo 4 Educação · Eixo 5 Ambiente de Negócios e Tributação Eixo 6 Meio Ambiente e Sustentabilidade · Eixo 7 Energia e Minerais Estratégicos Eixo 8 Trabalho, Renda e Inclusão · Eixo 9 Infraestrutura, Habitação e Desigualdade Regional Eixo 10 Mulheres, Primeira Infância e Agenda Social · Eixo 11 Inovação e Economia do Conhecimento Eixo 12 Comércio Exterior e Relações Federativas Parte III — Fontes Consultadas
+
+SUMÁRIO EXECUTIVO
+Minas Gerais entra em 2026 diante de um paradoxo que qualquer candidato a governar o estado precisa enfrentar de frente, sem discurso pronto. Por um lado, é o estado que mais gera emprego formal, proporcionalmente, no Brasil — o desemprego caiu para 3,8% no quarto trimestre de 2025, o menor índice da série histórica iniciada em 2012 (Sedese-MG). Lidera a exportação de café do país, responde por 45% de toda a arrecadação nacional de royalties minerais (CFEM) e tem em Belo Horizonte o quarto ecossistema de tecnologia que mais cresce no mundo, segundo o Dealroom.co Global Tech Ecosystem Index 2025. Por outro lado, fechou 2025 com o pior resultado de caixa entre os 27 estados brasileiros — déficit de R$ 11,3 bilhões, segundo o Tesouro Nacional —, carrega uma dívida total que já passa de R$ 200 bilhões, tem um déficit de mais de 22 mil vagas no sistema prisional, falta moradia para 556 mil famílias e mantém, entre o Norte de Minas e o Triângulo, um fosso de renda comparável ao que separa o semiárido nordestino do Sul do país.
+O PIB mineiro cresceu 1,4% em 2025 e recuou 0,5% no primeiro trimestre de 2026 — sinal de que o fôlego recente já dá mostras de esgotamento. A indústria segue como a espinha dorsal da economia do estado: responde por 27,5% do PIB, emprega mais de 1,3 milhão de pessoas, cerca de 22% dos empregos formais mineiros, e paga 23% da massa salarial. Na cadeia mineral, que ganha nova relevância com a transição energética global, cada emprego direto na extrativa puxa outros dezenove na economia ao redor.
+Este plano parte de uma premissa distinta da que orientou o debate público mineiro nos últimos anos: Minas não precisa de mais desregulamentação para crescer — já cresce, e cresce mais que a média do país em setores estratégicos. O que falta é um Estado capaz de captar de forma justa a riqueza que essa economia já produz e devolvê-la à população em segurança, saúde, moradia e oportunidade, sem sufocar quem gera emprego pelo caminho. É esse o fio condutor das doze frentes de atuação apresentadas neste documento.
+Parte dessa conta não fecha por falta de arrecadação, e sim por arrecadação mal cobrada e por gasto mal direcionado. Estudo do Sindifisco-MG estima que Minas pode ter deixado de recolher até R$ 22,65 bilhões em CFEM — o royalty sobre a exploração mineral — só entre 2019 e 2025, dos quais R$ 6,25 bilhões já estão reconhecidos em dívida ativa e ainda não foram cobrados com a energia que a situação fiscal do estado exige. Fechar essa lacuna, mais do que criar tributo novo, é o primeiro compromisso deste plano.
+Um governo Flávio Roscoe vai tratar a recuperação fiscal e a cobrança de CFEM sonegado não como pauta técnica de segundo plano, mas como a principal fonte de recursos novos para saúde, segurança e habitação nos quatro anos de mandato — sem subir imposto para quem já paga em dia.
+O Custo Brasil, na escala mineira
+O chamado Custo Brasil — o conjunto de entraves de infraestrutura, burocracia, insegurança jurídica e crédito caro que penaliza quem produz no país, estimado em R$ 1,7 trilhão por ano, ou 19,5% do PIB
+
+nacional — tem uma tradução muito concreta em Minas: é a distância entre ser o estado com o quarto ecossistema de tecnologia mais dinâmico do mundo e, ao mesmo tempo, o pior caixa entre os 27 estados brasileiros. Reduzir essa distância é o compromisso central deste plano de governo.
+
+PARTE I. DIAGNÓSTICO DE MINAS GERAIS EM 2026
+Antes de propor, é preciso medir. As doze frentes de atuação apresentadas na Parte II deste plano nascem do diagnóstico abaixo, construído a partir de dados oficiais e de fontes técnicas independentes, listadas ao final do documento. Onde o dado é discutível — porque a metodologia varia, porque a fonte é parcial ou porque o próprio governo atual apresenta números conflitantes —, isso é dito com a mesma clareza com que se apontam os avanços reais que Minas teve nos últimos anos.
+
+1.1 Situação fiscal
+
+Indicador
+
+Valor
+
+Fonte
+
+Déficit de caixa em 2025
+
+R$ 11,30 bilhões — pior do Brasil
+
+Tesouro Nacional, fev/2026
+
+Dívida total do estado (dez/2025)
+
+R$ 201,09 bi (+63% desde 2019)
+
+SEF-MG
+
+Dívida líquida / RCL
+
+48,22% (teto da LRF: 49%)
+
+SEF-MG, jan/2026
+
+Despesa com pessoal / RCL
+
+48,22% (limite prudencial: 46,55%)
+
+SEF-MG
+
+Superávit contábil de 2025
+
+R$ 1,108 bi, mas com déficit de caixa
+
+SEF-MG
+
+Serviço da dívida pago em 2025
+
+R$ 6,57 bi (+73% sobre 2024)
+
+SEF-MG
+
+O ponto mais delicado desse quadro é o descasamento entre o resultado contábil e a liquidez real: Minas
+
+fechou 2025 em superávit no papel e em déficit no caixa, ao mesmo tempo em que colou no teto de
+
+gasto com pessoal permitido pela Lei de Responsabilidade Fiscal. A adesão ao Propag alonga a dívida com
+
+a União, mas não resolve, por si só, esse descasamento estrutural entre o que o orçamento formalmente
+
+diz e o dinheiro que efetivamente existe em caixa no fim do exercício.
+
+1.2 CFEM e sonegação mineral
+Minas concentra 45% de toda a arrecadação nacional de CFEM — o royalty pago pela exploração de recursos minerais — e é, ao mesmo tempo, o estado onde a distância entre o que deveria ser recolhido e o que efetivamente entra no caixa público é mais estudada e mais criticada. Segundo levantamento do Sindicato dos Auditores Fiscais da Receita Estadual de Minas Gerais (Sindifisco-MG), a sonegação e a elisão fiscal na cadeia mineral podem ter custado ao estado até R$ 22,65 bilhões entre 2019 e 2025, dos quais R$ 6,25 bilhões já estão reconhecidos em dívida ativa — ou seja, o próprio estado já admite que o valor é devido, mas ainda não o cobrou com a força necessária.
+Esse é o ponto de partida do Eixo 1 deste plano: antes de qualquer discussão sobre novo tributo, Minas precisa cobrar, com rigor técnico e sem excepcionalidade para nenhum setor, o que já é devido hoje.
+
+1.3 Segurança pública e sistema prisional
+
+Indicador Crimes violentos, 2022-2025 Homicídios em BH, 2024-2025
+Homicídios em MG, 2024-2025
+
+Valor
+-29,1% (18.791 → 13.317) -15,48% (142 vítimas), de base já alta -14,2% (3.124 → 2.698; taxa 14,7→12,6/100 mil)
+
+Fonte Sejusp-MG Sejusp-MG
+Sejusp-MG
+
+Indicador
+
+Valor
+
+Fonte
+
+Tráfico de drogas, 2024-2025
+
++41,7% em MG vs. +18,5% no país
+
+MPMG
+
+Déficit de vagas no sistema prisional 22.357 a 24.076 vagas
+
+MPMG/TCE-MG; Anuário Bras. Seg. Pública
+
+Unidades prisionais superlotadas
+
+66,8% (149 de 223)
+
+Senappen/MJSP
+
+A queda geral da violência é um resultado real e precisa ser reconhecido como tal. Mas a média estadual
+
+esconde dois problemas que exigem tratamento próprio: o colapso do sistema prisional, com déficit que cresceu 63,6% em um único ano, e a concentração da alta de homicídios e de tráfico em Belo Horizonte, na direção contrária à tendência do interior.
+
+1.4 Saúde
+
+Indicador
+
+Valor
+
+Fonte
+
+Investimento em saúde, 2025
+
+R$ 11,8 bi — recorde histórico
+
+SES-MG
+
+Mortalidade materna, 2019→2025
+
+44,3 → 32,9 óbitos/100 mil nascidos vivos SES-MG
+
+Pré-natal adequado, 2019→2025
+
+38% → 60% das gestantes
+
+SES-MG
+
+Cobertura vacinal, 2025
+
+2ª maior do país; 16,4 milhões de doses
+
+SES-MG
+
+A saúde é, hoje, a área em que a gestão estadual tem os melhores resultados a apresentar — e é preciso
+
+reconhecer isso com honestidade, em vez de fingir que o quadro é de caos. O que falta não é vontade, é
+
+transparência regional: não existe, hoje, dado público sobre o tempo de espera por cirurgia eletiva
+
+separado por macrorregião de saúde. Sem esse número, não há como saber se o Norte de Minas espera
+
+na fila tanto quanto a Região Metropolitana — e essa lacuna de informação já é, em si, uma proposta de
+
+governo.
+
+1.5 Educação
+
+Indicador
+
+Valor
+
+Fonte
+
+Alfabetização aos 7 anos, ranking nacional
+
+7ª → 3ª posição (2023→2024)
+
+Inep/SEE-MG
+
+Investimento em educação, 2024
+
+R$ 19,2 bi — recorde histórico
+
+SEE-MG
+
+Ideb Anos Iniciais, rede pública, 2019→2023
+
+estagnado em 5,7 — entre os que pioraram Inep, Todos Pela Educação
+
+Ideb Ensino Médio, rede estadual, 2019→2023
+
+3,9→4,1 no fluxo, mas 4,54→4,45 na aprendizagem
+
+Inep, Todos Pela Educação
+
+Proficiência Simave 2025, 1ª série do EM — Português
+
+252,3 pontos; 67,3% abaixo do nível recomendado
+
+SEE-MG, Portal das Avaliações
+
+Proficiência Simave 2025, 1ª série do EM — Matemática
+
+244,9 pontos; 90,1% abaixo do nível recomendado
+
+SEE-MG, Portal das Avaliações
+
+Minas alfabetiza bem as crianças de 7 anos — é hoje referência nacional nisso — e, ainda assim, está
+
+entre os estados que pioraram no indicador de aprendizagem do Ideb, tanto nos anos iniciais quanto no
+
+ensino médio, no mesmo período. Isso quer dizer uma coisa simples: o ganho na alfabetização inicial não
+
+está se sustentando ao longo da trajetória escolar. É esse hiato — entre alfabetizar bem no início e formar bem no fim — que o Eixo 4 deste plano se propõe a enfrentar.
+
+O Simave 2025 confirma esse hiato com números concretos: na 1ª série do Ensino Médio, 67,3% dos estudantes ficam abaixo do nível recomendado em Língua Portuguesa e 90,1% ficam abaixo do
+
+recomendado em Matemática — apenas 3,1% e 1,3%, respectivamente, alcançam o nível avançado. Os mapas por regional do Simave 2025 mostram ainda que essa defasagem não se distribui de forma uniforme pelo estado: as regionais do Norte de Minas, do Jequitinhonha e do Mucuri concentram as piores proficiências em Português e Matemática, tanto no 7º ano quanto na 1ª série do Ensino Médio, no mesmo recorte territorial já identificado como o de maior desigualdade de renda na seção 1.6 — o que confirma que a desigualdade educacional e a desigualdade regional mineira são, em boa medida, o mesmo problema visto por ângulos diferentes.
+
+1.6 Desigualdade regional
+
+Indicador
+
+Valor
+
+Fonte
+
+Participação da Região Central no PIB estadual
+
+46,6%, com cerca de um terço da população
+
+UFMG/Cedeplar
+
+Índice de Gini, Norte de Minas
+
+0,583 — patamar comparável ao Nordeste UFMG/Cedeplar
+
+Pobreza, Jequitinhonha/Mucuri vs. Triângulo
+
+24,79% vs. 5,27% dos domicílios
+
+IBGE/Fundação João Pinheiro
+
+Minas Gerais tem, dentro de si, duas economias que quase não se falam: uma região central que
+
+concentra quase metade do PIB com um terço da população, e um Norte, Jequitinhonha e Mucuri com
+
+nível de desigualdade que a literatura acadêmica compara ao do semiárido nordestino. Nenhum plano
+
+de governo para Minas está completo sem tratar essa distância como problema de Estado, não como fatalidade geográfica.
+
+1.7 Habitação e saneamento
+
+Indicador
+
+Valor
+
+Fonte
+
+Déficit habitacional de MG, 2022
+
+556 mil domicílios — 2º maior do Brasil
+
+Fundação João Pinheiro
+
+Crescimento do déficit, 2016-2022
+
++30% (3x a média nacional de 9,86%)
+
+Fundação João Pinheiro
+
+Perfil dos afetados pelo déficit
+
+62,6% chefiadas por mulheres; 74,5% até R$ 2.850/mês
+
+Fundação João Pinheiro
+
+Imóveis desocupados em MG, 2022
+
+~1,2 milhão — mais que o dobro do déficit
+
+IBGE, cit. Fundação João Pinheiro
+
+Consumo de água por setor em MG
+
+Agropecuária 72%; abastecimento 15%; indústria 9%
+
+Igam
+
+Minas tem, ao mesmo tempo, um déficit habitacional que cresce três vezes mais rápido que a média
+
+nacional e um estoque de imóveis vazios que é o dobro desse déficit — sinal de que o problema não é só
+
+falta de construção, é também especulação e má distribuição do estoque já existente. Qualquer política habitacional que ignore esse segundo dado está atacando só a metade do problema.
+
+1.8 Ambiente de negócios e competitividade
+O Ranking de Competitividade dos Estados 2025, do Centro de Liderança Pública (CLP), em parceria com a B3, a Economist Intelligence Unit e a Tendências Consultoria, ajuda a qualificar onde Minas realmente perde terreno. São Paulo lidera o ranking geral desde a primeira edição. Minas está entre os três melhores do país no pilar Educação, ao lado de São Paulo e Santa Catarina — o que confirma que o problema educacional mineiro é de aprendizagem ao longo do tempo, não de acesso ou alfabetização inicial. No Sudeste, Minas e Espírito Santo dividem posições de destaque, mas é o Espírito Santo que se sobressai
+
+especificamente em solidez fiscal, exatamente o pilar em que Minas está mais atrás. Santa Catarina lidera segurança pública e capital humano; o Paraná, sustentabilidade ambiental e eficiência da máquina pública; o Rio Grande do Sul, inovação.
+A leitura mais honesta desse ranking é a seguinte: Minas não compete mal em educação, nem em geração de emprego. Compete mal, de forma comprovada e mensurada por instituição independente, em solidez fiscal. É por isso que o equilíbrio das contas públicas está tratado neste plano como o Eixo 1 — o carrochefe —, e não como um apêndice técnico ao final do documento.
+
+1.9 Comércio exterior, agronegócio e o tarifaço americano
+O agronegócio mineiro exportou entre US$ 19,8 e 19,9 bilhões em 2025, recorde da série histórica iniciada em 1997, com o café respondendo por 57,1% dessa receita (Seapa-MG/Diário do Comércio). Só entre janeiro e abril de 2026, Minas exportou US$ 14,2 bilhões, com superávit comercial de US$ 8 bilhões no período. O tarifaço americano de 2025 — tarifas de até 50% sobre produtos brasileiros — isentou o café verde, principal item mineiro de exportação aos Estados Unidos, mas atingiu em cheio segmentos onde Minas responde por quase toda a exportação nacional, como sebo bovino, disjuntores de baixa tensão, ardósia trabalhada, magnesita e materiais refratários.
+No primeiro semestre de 2025, Minas respondeu por 80,5% de todo o café brasileiro exportado aos Estados Unidos — o estado mais exposto do país a esse item específico da tarifa, mesmo que o produto tenha ficado isento na versão final da medida. Ainda assim, Minas destina apenas 11% de suas exportações totais aos EUA, proporção menor que a do Espírito Santo (28,6%) ou de São Paulo (19%) — mas relevante em valor absoluto, dado o tamanho da economia mineira.
+
+1.10 Inovação e economia do conhecimento
+Belo Horizonte é o quarto ecossistema de tecnologia que mais cresce no mundo e o primeiro da América Latina na categoria “Rising Stars” do Global Tech Ecosystem Index 2025 (Dealroom.co), ao lado de cidades como Lagos, Istambul, Pune e Mumbai. O San Pedro Valley, criado a partir de 2011 no bairro São Pedro, é hoje referência nacional em conectar startups à indústria. O Minas Summit 2025 reuniu mais de dez mil participantes e movimentou R$ 70 milhões em negócios. É um ativo que a política pública estadual ainda trata como curiosidade, não como eixo de desenvolvimento — e é isso que este plano corrige, dedicando a esse tema um eixo próprio.
+
+1.11 Mulheres e violência de gênero
+
+Indicador
+
+Valor
+
+Feminicídios em MG, 2025
+
+177 casos (+4,4% sobre 2024)
+
+Posição de MG no ranking nacional
+
+2º estado com mais casos do país
+
+Mortes femininas totais, 2024→2025 350 → 306 (-12,9%)
+
+Medidas protetivas solicitadas, janout/2025
+Delegacias especializadas (Deams) em MG
+
+54.824 (média de 5.482/mês) 70, além do programa “PCMG Por Elas”
+
+Fonte Anuário Bras. Segurança Pública 2026 idem, cit. TVC Paracatu Anuário Bras. Segurança Pública 2026
+Polícia Civil de MG, cit. ALMG
+Governo de MG / PCMG
+
+Minas reduziu a violência letal contra mulheres em termos gerais e, ao mesmo tempo, é o segundo estado do país em número absoluto de feminicídios, categoria que segue subindo mesmo com uma rede de proteção relativamente robusta — 70 delegacias especializadas e quase 55 mil medidas protetivas solicitadas em dez meses. A leitura mais provável é que a rede identifica bem o risco, mas ainda falha em evitar o desfecho fatal quando o ciclo de violência já está em estágio avançado — e é exatamente essa fase do problema que uma nova política precisa mirar.
+
+1.12 Primeira infância e educação infantil
+
+Indicador
+
+Valor
+
+Fonte
+
+Escolarização de 0 a 3 anos, MG vs. Brasil
+
+34% vs. 39% de média nacional
+
+MEC/Gaepe-Brasil, cit. O Tempo
+
+Fila de espera por vaga em creche
+
+2ª maior do Brasil em números absolutos
+
+Gaepe-Brasil / Todos Pela Educação
+
+Municípios sem nenhuma creche pública
+
+55 municípios
+
+Censo Escolar 2024 (Inep)
+
+Municípios sem vagas suficientes (0-6 anos)
+
+94% dos municípios mineiros
+
+MPMG, Projeto Crescer Juntos
+
+A gestão da creche é constitucionalmente municipal, e o estado já repassou R$ 1,2 bilhão a 163
+
+municípios desde 2021 para a construção de 194 novas unidades. Mesmo assim, o gargalo se concentra
+
+exatamente onde a cooperação técnica e financeira do estado é mais necessária: nos municípios pequenos, sem orçamento próprio para resolver o problema sozinhos — o mesmo recorte territorial que aparece na desigualdade regional descrita na seção 1.6.
+
+PARTE II. OS DOZE EIXOS DE GOVERNO
+Os eixos abaixo não são compartimentos estanques: o equilíbrio fiscal financia a segurança, a segurança viabiliza o investimento, e o investimento só gera renda ampla se vier acompanhado de redução da desigualdade regional. Cada eixo traz o diagnóstico que o sustenta — remetendo às seções da Parte I — e as propostas concretas que um governo Flávio Roscoe se compromete a executar.
+Eixo 1 — Equilíbrio Fiscal e Combate à Sonegação
+Minas tem, hoje, o pior caixa entre os 27 estados brasileiros e pode ter deixado de arrecadar até R$ 22,65 bilhões em CFEM sonegada entre 2019 e 2025, dos quais R$ 6,25 bilhões já estão em dívida ativa reconhecida (seções 1.1 e 1.2). O desequilíbrio fiscal nos estados brasileiros, em geral, tem quatro causas recorrentes: endividamento elevado, crescimento da despesa com pessoal e previdência, baixa capacidade de investimento e rigidez orçamentária. Em Minas, a adesão ao Propag melhora o perfil da dívida com a União, mas não resolve, isoladamente, nenhuma dessas quatro causas.
+Esse desequilíbrio não é problema só do governo: pressiona por aumento de imposto, reduz investimento em infraestrutura e tecnologia, piora a qualidade dos serviços públicos e encarece o crédito para empresas e famílias mineiras. Um governo Flávio Roscoe vai tratar a recuperação fiscal como précondição para tudo o mais, e não como discurso de campanha a ser esquecido no primeiro ano de mandato.
+Compromissos deste eixo: ● Trazer a despesa com pessoal de volta ao limite prudencial de 46,55% da Receita Corrente Líquida — hoje em 48,22%, colado no teto legal de 49%. ● Instituir força-tarefa permanente de fiscalização de CFEM, com prioridade para os R$ 6,25 bilhões já reconhecidos em dívida ativa e ainda não cobrados. ● Publicar mensalmente a posição de caixa do Tesouro estadual, separada do resultado orçamentário — para que superávit contábil e déficit de caixa nunca mais coexistam sem que a população saiba. ● Criar um comitê fiscal independente, com participação de universidades mineiras (UFMG, entre outras) e do Tribunal de Contas, para auditar trimestralmente a execução orçamentária e publicar parecer técnico acessível ao cidadão — nos moldes do que já existe em países com conselhos fiscais independentes, mas ainda inexistente em qualquer estado brasileiro.
+Eixo 2 — Segurança Pública e Sistema Prisional
+A violência em geral caiu em Minas, mas dois problemas específicos crescem sob essa média favorável: o colapso do sistema prisional — déficit de 22 a 24 mil vagas, 66,8% das unidades superlotadas, 40% das vagas sob interdição judicial — e a concentração de homicídios e tráfico em Belo Horizonte, na direção contrária ao restante do estado (seção 1.3). A esse quadro se soma o retrato da violência de gênero descrito na seção 1.11: Minas é o segundo estado do país em feminicídios, mesmo com uma rede de proteção relativamente estruturada.
+
+Compromissos deste eixo: ● Plano de emergência para o déficit prisional, combinando ampliação de vagas com parcerias público-privadas de gestão, sem repetir os erros de superlotação que hoje geram interdição judicial em dois terços das unidades.
+● Reversão da alta específica de homicídios e tráfico em Belo Horizonte, com policiamento orientado por dados e integração entre as polícias Civil e Militar na capital.
+● Ampliação da rede de proteção à mulher com foco no momento de maior risco — o ciclo avançado de violência que hoje antecede a maioria dos feminicídios — e não só na porta de entrada da denúncia.
+● Criar, dentro da Polícia Civil, um protocolo de reavaliação obrigatória de risco a cada 30 dias para vítimas com medida protetiva ativa, com prioridade de acompanhamento para os casos classificados como risco extremo — hoje a medida protetiva é concedida, mas não há reavaliação periódica sistemática do risco enquanto ela está em vigor.
+Eixo 3 — Saúde
+A saúde mineira tem, hoje, investimento recorde e avanços reais e mensuráveis: queda da mortalidade materna, ampliação do pré-natal adequado, cobertura vacinal entre as duas maiores do país (seção 1.4). O problema não é a falta de resultado, é a falta de um dado essencial — não existe informação pública sobre o tempo de espera por cirurgia eletiva separada por macrorregião de saúde, o que impede saber se o Norte de Minas espera tanto quanto a Região Metropolitana.
+Compromissos deste eixo: ● Publicar, por macrorregião de saúde, o tempo médio de espera por cirurgia eletiva e por exame de diagnóstico — o primeiro passo para tratar a desigualdade de acesso como problema mensurável, não como impressão.
+● Ampliar a cobertura de atenção primária no Norte, no Jequitinhonha e no Mucuri, hoje as regiões com pior indicador de acesso a serviços básicos de saúde.
+● Manter a trajetória de queda da mortalidade materna, com meta explícita de levar o indicador abaixo de 25 óbitos por 100 mil nascidos vivos até o final do mandato.
+● Criar um painel público único, acessível pelo aplicativo do estado, em que qualquer mineiro possa consultar a fila de cirurgia eletiva do seu hospital de referência em tempo real — hoje essa informação existe internamente na SES-MG, mas não é disponibilizada ao cidadão de forma consolidada.
+Eixo 4 — Educação
+Minas subiu da sétima para a terceira posição no ranking nacional de alfabetização aos 7 anos e, no mesmo período, está entre os estados que pioraram no Ideb dos anos iniciais e do ensino médio (seção 1.5). O Simave 2025 dá a medida exata desse hiato na 1ª série do Ensino Médio: 67,3% dos estudantes abaixo do recomendado em Português e 90,1% abaixo do recomendado em Matemática, com as piores proficiências concentradas justamente nas regionais do Norte, do Jequitinhonha e do Mucuri — o mesmo recorte da desigualdade regional tratada na seção 1.6.
+
+Um diagnóstico de causas dessa baixa aprendizagem, elaborado com apoio técnico da Fundação da Cide (FDG), organiza o problema em quatro frentes que se retroalimentam: fragilidade no regime de colaboração entre estado e municípios; falhas de organização e planejamento na rede, com excesso de programas paralelos e formação deficitária de gestores escolares; problemas de qualidade da educação em sala de aula, da oferta insuficiente de tempo integral à estrutura física inadequada de muitas escolas; e uma política de valorização docente que ainda falha na formação inicial e no plano de cargos e salários. Este eixo responde a cada uma dessas quatro frentes.
+Qualidade da educação O objetivo é melhorar a aprendizagem com equidade em todas as etapas, com prioridade para o Ensino Fundamental 2 e o Ensino Médio, fortalecendo a orientação para o projeto de vida e ampliando a educação empreendedora e em tempo integral. O principal instrumento de gestão para isso é a Gestão para Resultados Pedagógicos (GRP): um modelo que identifica e ataca as causas de cada problema de aprendizagem, com metas claras, planos de ação, monitoramento contínuo, correção de rota e registro das práticas que funcionam, sempre com participação da comunidade escolar. É a partir da GRP que se torna possível identificar, escola por escola, onde recompor aprendizagem é mais urgente — com foco declarado na redução das desigualdades — e fortalecer especificamente o ensino de Língua Portuguesa e Matemática no Ensino Fundamental 2, etapa em que a defasagem começa a se consolidar.
+Dentro dessa mesma frente, três compromissos complementam o modelo de gestão: fortalecer a educação em tempo integral, hoje insuficiente diante da demanda; fortalecer a educação inclusiva, para estudantes com deficiência e necessidades específicas; e ampliar a rede de ensino profissionalizante, priorizando municípios de baixo IDH e forte presença industrial, com trilhas formativas flexíveis — do curso rápido à formação técnica completa — construídas em parceria com sindicatos patronais e arranjos produtivos locais, e com oferta híbrida para alcançar municípios mais distantes dos grandes centros.
+Valorização dos profissionais da educação Fortalecer a carreira docente passa por valorização profissional, formação continuada e melhores condições de trabalho — não como discurso, mas como política de bem-estar do educador que se reflete diretamente na qualidade da aprendizagem. As linhas de ação são a formação continuada de docentes pela Academia Cide; a ampliação de programas de desenvolvimento de lideranças escolares, com gestão de competências voltada especificamente para liderança; a ampliação da formação de mestres e doutores dentro da rede, de forma equitativa e inclusiva e com foco na solução de problemas reais da escola; o fortalecimento do processo de seleção de diretores, para que a direção escolar deixe de ser cargo apenas político e passe a exigir competência de gestão comprovada; a atualização do plano de carreira docente; e o fortalecimento de programas de saúde e bem-estar dos profissionais da educação, área historicamente negligenciada nas políticas de valorização docente.
+Tecnologia e Inovação A transformação digital da educação mineira ainda é desigual: parte da rede tem acesso pleno a plataformas e equipamentos, e parte segue com baixo letramento tecnológico, tanto de estudantes quanto de professores. O objetivo é universalizar o acesso à internet de alta velocidade nas escolas estaduais, ampliar o uso de plataformas digitais de aprendizagem, disponibilizar recursos tecnológicos a estudantes e professores e formar os profissionais da rede em metodologias ativas e tecnologias
+
+educacionais, também através da Academia Cide — de modo que a tecnologia deixe de ser vantagem de quem já tinha estrutura e passe a reduzir, e não a ampliar, a desigualdade entre regionais.
+Regime de colaboração com os municípios Boa parte da defasagem educacional mineira nasce fora da governança direta do estado: municípios pequenos, sem orçamento e sem corpo técnico próprio, carregam responsabilidades educacionais que não conseguem cumprir sozinhos. Fortalecer o regime de colaboração significa assistência técnica permanente, formação continuada, compartilhamento de boas práticas entre redes e apoio direto à gestão educacional municipal, com dois compromissos objetivos: implementar um programa de cooperação técnica que insira os municípios nos próprios sistemas de avaliação e gestão do estado — em vez de deixá-los de fora dos indicadores que orientam a política estadual — e dar continuidade ao apoio a políticas de alfabetização já em curso, como o Compromisso Nacional Criança Alfabetizada (CNCA), sem descontinuidade a cada troca de gestão.
+● Criar um índice mineiro de continuidade da aprendizagem, medido a cada dois anos, que acompanhe a mesma coorte de estudantes da alfabetização ao nono ano — hoje o Ideb mede pontos fixos da trajetória escolar, mas não acompanha a mesma turma ao longo do tempo, o que impede saber se o ganho na alfabetização de fato se sustenta para os mesmos alunos mais adiante.
+Eixo 5 — Ambiente de Negócios e Tributação
+O Ranking de Competitividade dos Estados 2025 confirma o que a seção 1.8 já mostra: Minas está bem posicionada em educação e mal posicionada em solidez fiscal. Isso recomenda enquadrar este eixo como “crescer sem repetir o erro fiscal”, e não como desregulamentação por desregulamentação — qualquer benefício tributário concedido aqui precisa estar amarrado a geração ou manutenção comprovada de emprego formal, e não ser tratado como renúncia isolada.
+A substituição tributária, técnica de arrecadação e combate à sonegação que se tornou padrão no ICMS mineiro, foi útil quando o estado não tinha como cruzar dados de venda em tempo real. Hoje, com nota fiscal eletrônica, Sped e cruzamento com dados federais e de cartões de crédito, boa parte da justificativa original perdeu força — e o instrumento passou a pesar mais sobre o capital de giro das empresas do que sobre a sonegação que deveria combater. Rio de Janeiro e São Paulo já vêm reduzindo gradualmente o uso da substituição tributária, movimento que se soma à chegada do novo Imposto sobre Bens e Serviços em 2027. Minas precisa revisar esse regime com um grupo de trabalho que inclua sociedade civil e monitore o que os demais estados já estão fazendo — não para abandonar o controle fiscal, mas para modernizá-lo.
+No crédito acumulado de ICMS, o Regulamento vigente (Decreto nº 48.589/2023, Anexo III) impõe um limite mensal global de transferência, exige pagamento mínimo em moeda corrente e condiciona a operação à apresentação de Certidão Negativa de Débitos — uma combinação que, na prática, retém indefinidamente créditos que a própria empresa já pagou ao longo da cadeia produtiva, comprometendo caixa e competitividade. A proposta é ampliar o limite mensal de transferência, dispensar a exigência de CND para essa finalidade específica e agilizar a análise dos projetos de expansão de empreendimento que hoje dependem desse crédito para sair do papel.
+
+Um problema mais estrutural aparece no comércio exterior: Minas não tem porto marítimo e seu aeroporto ainda não movimenta cargueiros no volume de São Paulo ou do Rio de Janeiro, o que obriga boa parte da indústria mineira a desembaraçar importações em outros estados. Hoje isso pode significar perda do diferimento do ICMS sobre matéria-prima e bens de capital, mesmo quando a mercadoria segue para uso em Minas. A alternativa de trânsito aduaneiro interno é lenta e cara, e a liberação ainda depende de conferência manual em boa parte dos casos. A proposta é tornar regra geral o diferimento do ICMS na importação de matéria-prima e ativo imobilizado independentemente do estado onde ocorre o desembaraço, com liberação automática da carga — alinhando Minas ao que já fazem São Paulo, Rio de Janeiro, Paraná e Pernambuco.
+● Criar um selo estadual de “empresa cumpridora”, renovável anualmente, que dê acesso facilitado a crédito de ICMS e regimes especiais para empresas com histórico comprovado de regularidade fiscal e manutenção de emprego — hoje o tratamento tributário é uniforme para bons e maus pagadores, o que trata igual quem não é igual.
+Eixo 6 — Meio Ambiente e Sustentabilidade
+Minas administra 586,5 mil quilômetros quadrados e 853 municípios — território maior que o de diversos países — com desafios que vão do combate à degradação ambiental à segurança hídrica e alimentar. O licenciamento ambiental mineiro hoje soma mais de 800 atos normativos só dentro do Sistema Estadual de Meio Ambiente (Sisema), regulando mais de 40 tipos de autorização, com conflitos frequentes entre si e com a legislação federal — o que gera insegurança jurídica tanto para o empreendedor quanto para quem fiscaliza.
+A Lei Geral de Licenciamento Ambiental (Lei Federal nº 15.190/2025), aprovada após mais de duas décadas de tramitação no Congresso Nacional, é uma oportunidade de reorganizar essa colcha de retalhos normativa em Minas. A proposta é adequar a legislação estadual — Lei nº 21.972/2016, Lei nº 20.922/2014 e os decretos e deliberações normativas correlatos — ao novo marco federal, prevendo manifestação não vinculante dos municípios no processo, licença por adesão e compromisso para empreendimentos de menor porte e potencial poluidor, exigência de nexo de causalidade real entre impacto ambiental e condicionante impostas, e redução dos prazos de análise. Ao mesmo tempo, é preciso consolidar e revisar os mais de 800 atos normativos do Sisema e criar termos de referência específicos por atividade produtiva, hoje inexistentes — o que reduziria a margem de interpretação divergente entre analistas e daria mais previsibilidade a quem investe.
+Na matriz energética, o Brasil já teve 97% de geração renovável entre 1970 e 1994; hoje está perto de 89%, com avanço das termelétricas fósseis. Simplificar o licenciamento de novas usinas hidrelétricas, sem abrir mão do rigor ambiental, é parte do caminho para retomar esse protagonismo, ao lado da energia solar e eólica que já colocam Minas na vanguarda nacional. Outro ponto pouco discutido é a regularização fundiária das unidades de conservação: em 2013, menos de 30% das áreas de posse pública das unidades mineiras estava com a situação fundiária resolvida, e o custo dessa pendência recai sobre os proprietários dentro dessas áreas e sobre empreendedores que precisam doar terras como compensação ambiental, mas enfrentam preços inflados por vendedores que sabem da urgência da compra. Regulamentar a participação do empreendedor como interveniente pagador em processos de desapropriação — com o
+
+valor arbitrado pelo Judiciário, e não negociado sob pressão — resolve os dois lados do problema ao mesmo tempo.
+● Instituir um cadastro público único de condicionantes ambientais por bacia hidrográfica, permitindo que qualquer cidadão acompanhe, pela internet, se as compensações ambientais prometidas por grandes empreendimentos foram de fato cumpridas — hoje esse acompanhamento existe, mas está disperso entre processos individuais de difícil acesso ao público em geral.
+Eixo 7 — Energia e Minerais Estratégicos
+Este eixo se conecta diretamente ao Eixo 1: a mesma cadeia mineral que deve ser incentivada para atrair investimento futuro é a que precisa estar sob fiscalização rigorosa do CFEM que já é devido hoje — incentivo e cobrança precisam caminhar juntos, não em direções opostas.
+Minas responde por 30% da produção mineral brasileira, é líder global em nióbio, tem as maiores reservas de grafite e silício do país e é o único estado produtor de lítio — exatamente os insumos que a transição energética e digital está tornando estratégicos para veículos elétricos, turbinas eólicas, painéis solares e semicondutores. O problema é que a maior parte dessa produção ainda sai do estado em estado bruto, sem agregar valor, emprego qualificado ou receita tributária proporcional. A proposta é uma Política Estadual de Incentivo à Cadeia Produtiva de Minerais Críticos e Estratégicos — lítio, nióbio, grafite, terrasraras, manganês, cobalto, níquel e titânio, entre outros —, combinando linha de crédito, modernização logística para exportação e apoio regulatório à expansão sustentável da indústria de transformação mineral, para que Minas deixe de exportar apenas a matéria-prima e passe a capturar parte do valor agregado dessa cadeia.
+A expansão acelerada da energia solar em Minas — hoje o maior polo do país — já exige instrumentos modernos de segurança energética para evitar desperdício de geração e sobrecarga da rede em horários de pico. Sistemas de armazenamento de energia em baterias (BESS) reduzem esse desperdício, aliviam a pressão tarifária nos horários de maior consumo e permitem instalar novas usinas mesmo em regiões onde a rede elétrica já está saturada. Uma política estadual específica de incentivo ao BESS pode transformar Minas também em polo de indústria de baterias e reciclagem, não só de geração — mas isso exige segurança jurídica e celeridade administrativa que hoje não existem para esse tipo de empreendimento.
+● Destinar uma fração da futura arrecadação adicional de CFEM — a que resultar da fiscalização reforçada prevista no Eixo 1 — a um fundo estadual de royalties mineral vinculado exclusivamente a infraestrutura nos municípios produtores, com prestação de contas pública trimestral: quem convive com o impacto ambiental e social da mineração precisa ver o retorno financeiro chegar antes, e não depois, do fim da vida útil da mina.
+Eixo 8 — Trabalho, Renda e Inclusão
+Minas já registra a menor taxa de desemprego da sua série histórica — 3,8% no quarto trimestre de 2025 —, o que muda a pergunta central da política de emprego estadual: não é mais como gerar vagas, é como garantir a qualidade e a distribuição regional desse emprego formal, em articulação direta com o Eixo 9.
+
+Dois programas específicos merecem estrutura própria. O primeiro é um Cadastro Estadual de Profissionais 50+, integrado ao SINE estadual e a bases federais, para enfrentar a escassez de mão de obra qualificada em setores que hoje descartam, por padrão de contratação, trabalhadores experientes que ainda têm capacidade produtiva plena — o cadastro permite mapear competências e aproximar oferta e demanda, em vez de deixar esse contingente simplesmente fora do radar das empresas que mais precisam de qualificação técnica. O segundo é um Banco de Trabalhadores com Deficiência, também vinculado ao SINE, que ajude as empresas a cumprir a cota legal de contratação com informação organizada, e não apenas com fiscalização — hoje o maior obstáculo ao cumprimento da cota não é a falta de vontade da empresa, é a dificuldade de encontrar candidatos qualificados e disponíveis.
+● Ampliar o cadastro 50+ e o Banco de Trabalhadores com Deficiência para incluir também mães solo em retorno ao mercado de trabalho após licença-maternidade estendida ou período de cuidado infantil — outro grupo com alta empregabilidade potencial e baixa visibilidade nos canais de recolocação profissional hoje disponíveis no estado.
+Eixo 9 — Infraestrutura, Saneamento, Habitação e Desigualdade Regional
+As seções 1.6 e 1.7 já mostram o quadro: déficit habitacional de 556 mil domicílios crescendo três vezes mais rápido que a média nacional, desigualdade regional comparável ao Nordeste no caso do Norte de Minas, e uma malha rodoviária em recuperação — a proporção de rodovias em estado ruim caiu de 22,1% para 13,4% entre 2022 e 2025, segundo o DER-MG, o que precisa ser reconhecido como avanço real antes de qualquer crítica.
+Infraestrutura não é fim em si mesma — é o que permite que saneamento, transporte, energia e telecomunicações cheguem a quem produz e a quem consome, reduzindo custo logístico e perda de mercadoria no caminho. O Brasil como um todo convive com estradas saturadas e em más condições, o que eleva preço para o consumidor final e reduz a margem de quem produz. Em Minas, a resposta passa por continuar ampliando a malha rodoviária e avançar de forma mais decidida na expansão ferroviária e dutoviária, hoje muito atrás do potencial de escoamento que o estado tem.
+● Priorizar, dentro do orçamento de infraestrutura, uma cota mínima anual vinculada às regiões de menor renda per capita do estado — Norte, Jequitinhonha e Mucuri — para que a melhoria da malha rodoviária e o combate ao déficit habitacional não repitam o padrão histórico de concentração de investimento na Região Central. Sem essa vinculação orçamentária explícita, a desigualdade regional descrita na seção 1.6 tende a se reproduzir a cada novo ciclo de obras.
+Eixo 10 — Mulheres, Primeira Infância e Agenda Social
+As seções 1.11 e 1.12 mostram dois problemas que, à primeira vista, parecem distantes, mas compartilham a mesma raiz: Minas é o segundo estado do país em feminicídios, mesmo com rede de proteção estruturada, e tem a segunda maior fila de espera por creche do Brasil, com cobertura de 0 a 3 anos abaixo da média nacional e 55 municípios sem nenhuma creche pública. Em ambos os casos, a política pública existe, mas não alcança quem mais precisa dela na ponta.
+Compromissos deste eixo:
+
+● Reduzir o número de feminicídios, com foco no acompanhamento de casos já classificados como risco extremo — não apenas na expansão do número de delegacias especializadas, que já são 70 no estado.
+● Ampliar crédito e capacitação para empreendedorismo feminino no interior, onde o acesso a linhas de financiamento hoje é mais restrito que na Região Metropolitana.
+● Priorizar a expansão de vagas de creche nos 55 municípios que hoje não têm nenhuma unidade pública, antes de ampliar a oferta onde já existe rede mínima instalada.
+● Criar um programa de transporte escolar específico para crianças de 0 a 3 anos em municípios pequenos, permitindo que uma única creche regional atenda mais de um município vizinho sem exigir que cada prefeitura pequena construa a sua própria unidade do zero — hoje a exigência implícita de creche própria por município é uma das razões pelas quais municípios pequenos, sem orçamento, seguem sem nenhuma vaga pública.
+Eixo 11 — Inovação e Economia do Conhecimento
+Belo Horizonte é o quarto ecossistema de tecnologia que mais cresce no mundo e o primeiro da América Latina, com o San Pedro Valley como referência nacional desde 2011 (seção 1.10). É um ativo que a política pública mineira ainda trata como fenômeno espontâneo do setor privado, quando poderia ser tratado como vetor de política industrial e de geração de emprego qualificado no interior do estado, não só na capital.
+Compromissos deste eixo: ● Consolidar Minas como um dos principais polos de inovação do interior do Brasil, e não apenas da Região Metropolitana de Belo Horizonte.
+● Criar núcleos regionais do San Pedro Valley em pelo menos três polos industriais do interior — como o Sul de Minas, o Triângulo e a região de Ipatinga —, conectando startups locais às indústrias já instaladas nessas regiões, hoje concentradas em conhecimento técnico que raramente se transforma em empresa de tecnologia própria.
+Eixo 12 — Comércio Exterior e Relações Federativas
+A seção 1.9 mostra a exposição concreta de Minas ao tarifaço americano: recorde de exportação do agronegócio (US$ 19,8-19,9 bi em 2025), superávit comercial de US$ 8 bi só no início de 2026, mas vulnerabilidade real em segmentos industriais específicos — magnesita, ardósia, disjuntores — onde Minas responde por quase toda a exportação brasileira. Esse episódio concreto e recente, com tarifas de até 50% impostas pelos Estados Unidos em 2025, expôs algo que a política comercial mineira nunca havia precisado enfrentar: a dependência de decisões unilaterais de um único parceiro comercial em setores onde não há alternativa de mercado equivalente.
+Compromissos deste eixo: ● Diversificar os mercados de destino das exportações mineiras, reduzindo a exposição a decisões unilaterais de política comercial de qualquer parceiro específico. ● Criar, dentro da Secretaria de Estado de Desenvolvimento Econômico, uma estrutura permanente de monitoramento de risco comercial internacional, com relatório trimestral público sobre a exposição de cada setor exportador mineiro a mudanças tarifárias ou
+
+regulatórias dos principais parceiros — hoje esse tipo de alerta chega ao setor produtivo apenas depois que a tarifa já foi anunciada, quando o espaço de negociação e adaptação já é muito menor.
+
+PARTE III. FONTES CONSULTADAS
+As propostas deste plano têm como base técnica estudos e diagnósticos setoriais sobre tributação, meio ambiente, energia, relações trabalhistas e educação no ambiente de negócios mineiro, com fundamentação normativa e justificativa detalhadas em cada eixo correspondente. As fontes abaixo foram consultadas entre janeiro e agosto de 2026, com dados oficiais dos órgãos públicos citados.
+Fiscal: Tesouro Nacional — Relatório de Gestão Fiscal dos Estados (fev/2026); Secretaria de Estado de Fazenda de MG (SEF-MG) — Boletim Estadual da Dívida; Assembleia Legislativa de MG (ALMG), Comissão de Fiscalização Financeira e Orçamentária.
+Mineração e CFEM: Agência Nacional de Mineração (ANM); Observatório da Mineração; Associação Brasileira dos Municípios Mineradores (AMIG Brasil); Sindicato dos Auditores Fiscais da Receita Estadual de MG (Sindifisco-MG); Sindifer.
+Segurança e sistema prisional: Secretaria de Estado de Justiça e Segurança Pública de MG (Sejusp-MG); Ministério Público de MG (MPMG); Anuário Brasileiro de Segurança Pública 2026 (Fórum Brasileiro de Segurança Pública); Senappen/Ministério da Justiça e Segurança Pública.
+Mulheres e violência de gênero: Anuário Brasileiro de Segurança Pública 2026; Polícia Civil de MG; Assembleia Legislativa de MG (ALMG), Comissão de Defesa dos Direitos da Mulher.
+Primeira infância e educação infantil: Ministério da Educação (MEC) e Gaepe-Brasil, estudo “Retrato da Educação Infantil no Brasil”; Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira (Inep), Censo Escolar da Educação Básica 2024; Ministério Público de MG (MPMG), Projeto Crescer Juntos; Todos Pela Educação; Secretaria de Estado de Educação de MG (SEE-MG); ALMG, Comissão de Educação.
+Saúde: Secretaria de Estado de Saúde de MG (SES-MG).
+Educação: Inep; Secretaria de Estado de Educação de MG (SEE-MG); Todos Pela Educação.
+Desigualdade regional: Fundação João Pinheiro (FJP); UFMG/Cedeplar; Assembleia Legislativa de MG.
+Habitação e água: Fundação João Pinheiro; Instituto Mineiro de Gestão das Águas (Igam); Comitê da Bacia Hidrográfica do Rio São Francisco (CBHSF).
+Competitividade e ambiente de negócios: Centro de Liderança Pública (CLP) — Ranking de Competitividade dos Estados 2025, em parceria com B3, Economist Intelligence Unit e Tendências Consultoria.
+Comércio exterior: Secretaria de Estado da Agricultura, Pecuária e Abastecimento de MG (Seapa-MG); Secretaria de Estado de Desenvolvimento Econômico de MG (Sede-MG); Ministério do Desenvolvimento, Indústria, Comércio e Serviços (MDIC).
+Inovação: Dealroom.co — Global Tech Ecosystem Index 2025; San Pedro Valley; Instituto Euvaldo Lodi (IEL/MG).
+
+Emprego e economia: Secretaria de Estado de Desenvolvimento Social de MG (Sedese-MG); IBGE; Fundação João Pinheiro (contas regionais).
+
+

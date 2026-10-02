@@ -6,6 +6,10 @@ data/processed/*
 !data/processed/planos_meta.csv
 !data/processed/janelas.csv
 !data/processed/janelas_ancoragem.csv
+!data/processed/trechos.csv
+!data/processed/indice_pdfs.csv
+!data/processed/dic_por_plano.csv
+!data/processed/texto/
 data/texto/
 data/ocr_tmp/
 data/pdfs_tmp/

@@ -1,0 +1,979 @@
+PLANO DE GOVERNO
+Mato Grosso do Sul · 2027-2030
+“O Governo mais transparente da história do MS.”
+O cidadão vê para onde vai cada real, em linguagem simples, no seu município. “O Estado enriqueceu. E a sua vida?”
+Tese-guia: o MS é rico, mas a riqueza não chega à vida das pessoas.
+Preparado por
+RENATO GOMES
+Economista (CORECON-MS 1297) · Pré-candidato ao Governo de MS Documento destinado à apresentação em convenção partidária, na condição de pré-candidato ao Governo de Mato
+Grosso do Sul, em respeito à legislação eleitoral. Metodologia de análise de política pública: Rumelt, Bardach, custo-benefício e indicadores. Julho de 2026.
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 1
+
+Dedicatória
+A Nossa Senhora Aparecida, Padroeira do Brasil, e a São Carlo Acutis, confio este trabalho e esta caminhada.
+Que, por sua intercessão, sejam abençoados: esta campanha, para que seja conduzida sempre na verdade; o povo de Mato Grosso do Sul, para que a riqueza da nossa terra chegue, enfim, à vida de cada família; e a conversão genuína do coração, a minha primeiro e a de toda a classe política do nosso Estado, para que o poder seja serviço, e a política,
+um caminho de bem comum e de amor ao próximo. “Senhor, fazei de mim um instrumento da Vossa paz.”
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 2
+
+Sumário Executivo
+Mato Grosso do Sul vive um paradoxo. O Estado tem um dos maiores agronegócios do país, PIB que quase triplicou em uma década e é o maior exportador de celulose do Brasil, mas a renda do seu povo cresce a uma fração dessa riqueza, o interior escoa a produção por estradas de chão e a saúde pública opera em colapso. A riqueza é gerada aqui; o dividendo não chega à vida das pessoas.
+Este plano parte de uma única política-guia, “o MS é rico, o povo é pobre”, e a transforma em governo por meio de um método auditável: cada proposta tem diagnóstico com dado, alternativas ponderadas, o mecanismo (“o como”), a meta mensurável, o custo e a fonte de recurso. É o padrão das melhores consultorias de política pública, adaptado à escala de um Estado.
+A bandeira que abre o plano é a TRANSPARÊNCIA. O compromisso é fazer do MS o governo mais transparente da sua história, porque só quem vê para onde vai o dinheiro pode cobrar que ele chegue à sua vida. Isso se traduz em cinco medidas concretas: painéis públicos e QR code em pontos estratégicos do Estado; um Portal da Transparência refeito para o cidadão comum, com dados abertos de verdade e linguagem simples; um aplicativo que leva as contas ao celular; o Canal 157 para tirar dúvidas e denunciar; e inteligência artificial no setor público, para produtividade e para flagrar o desvio. Transparência não é acessório do combate à corrupção, é a sua principal arma.
+A prova de que cabe no orçamento. Não falta dinheiro, falta reorganizar o orçamento. Cortando privilégio e propaganda (fim dos supersalários, redução dos comissionados, corte drástico da publicidade) e revendo a renúncia de ICMS de R$ 11,95 bi/ano com contrapartida, somados aos ganhos de eficiência dos Poderes buscados pela iniciativa da LDO e pelo debate público, abre-se um espaço fiscal que o Anexo D dimensiona por camadas: um piso verificado em dado oficial (cerca de R$ 0,5-0,7 bi/ano só de cortes diretos) e um teto de até cerca de R$ 20,81 bi em quatro anos, conforme a intensidade da revisão da renúncia. Descontada a desoneração do povo (R$ 3,18 bi), o saldo é investido em saúde, segurança, estradas e educação, cada real com origem declarada (Anexo D, Tabelas 1 e 2).
+Os cinco pilares. • 1. Transparência Total e Estado Honesto • 2. Saúde • 3. Educação • 4. Segurança • 5. Economia e Desenvolvimento
+O contraste que abre o jogo. O governo atual alega ter cumprido 98% de suas ações. A contagem independente das 31 promessas de 2022 mostra apenas 8 cumpridas por inteiro, 26%. A pergunta que este plano faz ao eleitor é simples: 98% ou 26%, qual número é verdade?
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 3
+
+Sumário
+Sumário Executivo .................................................................................................................................3 Sumário ..................................................................................................................................................4 1. Fundamentos e Método ...................................................................................................................10
+1.1 A tese: o MS é rico, o povo é pobre...........................................................................................10 1.2 O método (padrão de análise de política pública) .....................................................................10 2. Diagnóstico do Estado ..................................................................................................................... 11 2.1 A riqueza .................................................................................................................................... 11 2.2 O paradoxo da concentração.....................................................................................................11 2.3 As contas públicas (LDO 2026) ................................................................................................. 11 3. Os cinco pilares................................................................................................................................ 12 Pilar 1, Transparência Total e Estado Honesto...................................................................................12 4.1 Combate à Corrupção e Estado Honesto .................................................................................. 12
+4.1.1 COR-01, Teto salarial sem exceções e fim dos penduricalhos ..........................................12 4.1.2 COR-02, Concurso acima da indicação: menos 40% de comissionados ..........................12 4.1.3 COR-03, Combater fraude em atestados médicos com perícia .........................................13 4.1.4 COR-04, Painel público de toda obra, fiscalizável do celular .............................................13 4.1.5 COR-05, Quebrar o padrão Agesul/Detran de captura recorrente .....................................13 4.1.6 COR-06, Levar o pacote de obras da Agesul ao TCE e ao CADE.....................................13 4.1.7 COR-07, Benefício de ICMS auditado: não cumpriu, perde e devolve .............................. 14 4.1.8 COR-08, Auditar os contratos de TI do governo.................................................................14 4.1.9 COR-09, Teto legal para aditivos e fim das obras paradas ................................................14 4.1.10 COR-10, Rastrear o histórico de desvio em obras rodoviárias ........................................14 4.1.11 COR-11, Digitalizar o Detran-MS para estancar fraudes recorrentes ..............................15 4.1.12 COR-12, Recuperar o dinheiro da corrupção e destiná-lo à saúde .................................15 4.1.13 COR-13, Método “denúncia + desfecho criminal”, não só denúncia ................................ 15 4.1.14 COR-14, Quarentena entre cargo de confiança e a toga .................................................16 4.1.15 COR-15, Vedar o nepotismo como régua pública de integridade ....................................16 4.1.16 COR-16, Transparência total da verba de publicidade oficial ..........................................16 4.1.17 COR-17, Cartório mais barato: fé pública apoiada em tecnologia ...................................16 4.1.18 COR-18, Penduricalho não é salário: teto na base de cálculo .........................................17 4.1.19 COR-19, Painéis públicos de contas (físicos e QR) em todo o Estado............................17 4.1.20 COR-20, Portal da Transparência 2.0: dados abertos e linguagem do povo...................17 4.1.21 COR-21, App de transparência: as contas públicas no seu bolso ...................................18
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 4
+
+4.1.22 COR-22, Canal 157: tira-dúvidas de contas públicas e corrupção...................................18 4.2 Gestão, Contas e Previdência ................................................................................................... 18
+4.2.1 GES-01, Renegociar a dívida (PROPAG) e os contratos de custeio ................................. 18 4.2.2 GES-02, Orçamento dos Poderes: chamar ao debate público, não interferir ....................19 4.2.3 GES-03, Reconstruir o Fundo de Capitalização da previdência ........................................ 19 4.2.4 GES-04, Carreira e mérito: política salarial com base no DIEESE ....................................20 4.2.5 GES-05, Anexo orçamentário auditável: a prova de que cabe no orçamento ...................20 4.2.6 GES-06, Cortar privilégios e redirecionar à saúde e à educação.......................................20 4.2.7 GES-07, Governador que fiscaliza o caixa, não a inauguração ......................................... 21 4.2.8 GES-08, Efetivar o magistério: concurso e carreira contra a convocação .........................21 4.2.9 GES-09, Previdência mais justa: alíquota progressiva, não 14% linear ............................ 22 4.2.10 GES-10, O Estado indireto: empresas, autarquias e terceirizadas sob metas ................22 4.2.11 GES-11, Inteligência artificial no setor público: produtividade, transparência e integridade ...................................................................................................................................................... 23 Pilar 2, Saúde.......................................................................................................................................24 5.1 Saúde ......................................................................................................................................... 24 5.1.1 SAU-01, Hospitais regionais 24h e fixação de médicos no interior ....................................24 5.1.2 SAU-02, Plano emergencial para desafogar a Santa Casa de Campo Grande ................24 5.1.3 SAU-03, Pôr em uso a estrutura de saúde que já existe....................................................25 5.1.4 SAU-04, Normalizar as UPAs em cooperação com os municípios ....................................25 5.1.5 SAU-05, Elevar a aplicação em saúde: de 12% para 18-20% do orçamento (+2 pontos/ano) ................................................................................................................................... 25 5.1.6 SAU-06, Auditar a Cassems e conter reajustes abusivos ..................................................26 5.1.7 SAU-07, Força estadual permanente contra as arboviroses..............................................26 5.1.8 SAU-08, Regulação transparente da fila de cirurgias e laqueadura ..................................26 5.1.9 SAU-09, Merenda saudável com alimento produzido no MS .............................................26 5.1.10 SAU-10, Auditoria das PPPs de saúde, com prioridade ao interior .................................26 5.1.11 SAU-11, Método antes de privatizar: auditar a demanda e ouvir a população ................27 5.1.12 SAU-12, Gestor da saúde usa o SUS: limitar reembolso de plano privado .....................27 5.1.13 SAU-13, Pôr o ativo próprio em operação e acabar com aluguéis suspeitos ..................27 Pilar 3, Educação ................................................................................................................................. 28 6.1 Educação....................................................................................................................................28 6.1.1 EDU-01, Ensino médio técnico ligado às vagas reais do MS.............................................28 6.1.2 EDU-02, Escola em tempo integral, mérito e concurso de professores.............................28 6.1.3 EDU-03, Entregar as reformas escolares prometidas, com saneamento ..........................28
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 5
+
+6.1.4 EDU-03b, Recuperar o ensino médio: gestão por resultado e busca ativa........................28 6.1.5 EDU-04, Cofinanciar creches (0-3 anos) com os municípios .............................................29 6.1.6 EDU-05, EJA e alfabetização de idosos com igrejas e comunidades ................................ 29 6.1.7 EDU-06, Saneamento e laboratórios nas escolas de alto risco .........................................29 6.2 Cultura ........................................................................................................................................ 29 6.2.1 CUL-01, Prioridade ao artista local nos editais e eventos públicos....................................30 Pilar 4, Segurança................................................................................................................................ 31 7.1 Segurança e Fronteira ...............................................................................................................31 7.1.1 SEG-01, Mais efetivo e mais tecnologia na segurança, com prioridade na fronteira.........31 7.1.2 SEG-02, Central integrada de inteligência para “seguir o dinheiro” ...................................31 7.1.3 SEG-03, Prevenir o crime com escola integral, esporte e cultura ......................................32 7.1.4 SEG-04, Valorizar a base da PM, financiada pelo fim do desvio .......................................32 7.1.5 SEG-05, Enfrentar o colapso prisional e a entrada de facção............................................32 7.1.6 SEG-06, Política estadual de enfrentamento ao feminicídio ..............................................33 7.1.7 SEG-07, Meta de redução do crime por região, cobrada por resultado.............................33 Pilar 5, Economia e Desenvolvimento ................................................................................................. 34 8.1 Economia e Desenvolvimento Produtivo ...................................................................................34 8.1.1 ECO-01, Reorganizar orçamento e tributação em torno do bem comum ..........................34 8.1.2 ECO-02, Empresas em 3 Anéis: crédito de ICMS por contrapartida..................................34 8.1.3 ECO-03, “Compre MS”: crédito de ICMS para adensar as cadeias locais.........................34 8.1.4 ECO-04, Revisar incentivos e fazer orçamento por prioridade .......................................... 35 8.1.5 ECO-05, Banco estatal comercial e de desenvolvimento do MS .......................................35 8.1.6 ECO-06, Prioridade ao profissional liberal do MS nas contratações públicas ................... 35 8.1.7 ECO-07, Cadastro público anual dos beneficiários de ICMS ............................................. 36 8.1.8 ECO-08, Condicionar a renovação de benefício fiscal a metas verificáveis ...................... 36 8.1.9 ECO-09, Avaliação bienal de custo-benefício da renúncia de ICMS .................................36 8.1.10 ECO-10, Enfrentar a usura: crédito barato como política econômica .............................. 37 8.1.11 ECO-11, Verticalizar a produção e reter valor dentro do MS ........................................... 37 8.2 Bolso do Povo (Custo de Vida) .................................................................................................. 37 8.2.1 BP-01, ICMS zero no gás de cozinha para famílias do CadÚnico .....................................37 8.2.2 BP-02, Energia: isenção até 150 kWh e faixas progressivas de ICMS .............................. 38 8.2.3 BP-03, Carne mais barata: diferimento de ICMS e selo “Carne MS” .................................38 8.2.4 BP-04, ICMS zero na cesta básica, mirando reduzir o custo até 50% ............................... 38 8.2.5 BP-05, Desonerar remédios, internet e água/esgoto essenciais........................................38
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 6
+
+8.2.6 BP-06, Loteria estadual (Lotesul): não institucionalizar o jogo ........................................... 39 8.2.7 BP-07, Transporte coletivo: estudo técnico antes de renovar a concessão.......................39 8.3 Justiça Tributária ........................................................................................................................ 39 8.3.1 JT-01, Tributar mais o patrimônio e o supérfluo, menos o essencial .................................39 8.3.2 JT-02, ITCMD progressivo, com faixa para o latifúndio improdutivo .................................. 40 8.3.3 JT-03, Cooperar com municípios contra o latifúndio subtributado (ITBI/ITR) ....................40 8.3.4 JT-04, IPVA progressivo, alcançando lanchas e aeronaves de luxo ................................. 40 8.3.5 JT-05, Fiscalização integrada e modernização da PGE.....................................................40 8.3.6 JT-06, ICMS seletivo: aliviar o essencial, onerar o luxo .....................................................40 8.4 Interior e Infraestrutura...............................................................................................................41 8.4.1 INT-01, Pavimentar por critério de escoamento e acesso à saúde....................................41 8.4.2 INT-02, Enfrentar a precariedade viária, a 2ª maior queixa da população.........................41 8.4.3 INT-03, Interiorizar o desenvolvimento: reter a riqueza onde é gerada ............................. 42 8.4.4 INT-04, Esgoto não é luxo: metas da Sanesul por município.............................................42 8.4.5 INT-05, Concorrência na compra do boi e cooperativismo no interior ............................... 42 8.4.6 INT-06, Meta de 30% de investimento: orçamento mais banco de desenvolvimento........ 42 8.4.7 INT-07, Mediar o conflito indígena-produtor e assistir os assentamentos .........................43 8.4.8 INT-08, “Fim das pontes de madeira”: substituição faseada por concreto.........................43 8.4.9 INT-09, Definir o substituto do Fundersul para manter as estradas...................................43 8.5 Energia .......................................................................................................................................44 8.5.1 ENE-01, MSGÁS vira holding “MS Energia” com controle estatal .....................................44 8.5.2 ENE-02, “MS Solar”: energia solar sem entrada para a baixa renda ................................. 44 8.5.3 ENE-03, Energia barata como vetor de industrialização e emprego..................................45 8.6 Habitação e Moradia ..................................................................................................................45 8.6.1 HAB-01, Programa habitacional para ~30-35 mil famílias em 4 anos................................45 8.6.2 HAB-02, Regularização fundiária (REURB-S) em massa com os municípios ...................45 8.6.3 HAB-03, “Terreno do Cidadão”: autoconstrução assistida no interior ................................ 46 8.6.4 HAB-04, Bônus Moradia complementando o Minha Casa Minha Vida .............................. 46 8.6.5 HAB-05, Urbanizar as comunidades precárias via Novo PAC ...........................................46 8.6.6 HAB-06, FEHIS só em habitação, com transparência e auditoria......................................46 8.7 Turismo.......................................................................................................................................47 8.7.1 TUR-01, Dobrar a fatia do turismo no PIB, com o Pantanal à frente ................................. 47 8.7.2 TUR-02, Destravar o acesso ao Pantanal e a Corumbá .................................................... 47 8.7.3 TUR-03, Promoção internacional pela Rota Bioceânica.....................................................47
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 7
+
+8.7.4 TUR-04, Replicar o “modelo Bonito” e distribuir a demanda ..............................................48 8.7.5 TUR-05, Turismo de negócios (MICE) contra a sazonalidade ...........................................48 8.7.6 TUR-06, Ampliar o FUNDTUR e decidir a promoção por dado..........................................48 8.8 Meio Ambiente e Pantanal .........................................................................................................48 8.8.1 AMB-01, Brigada permanente e manejo do fogo, via Fundo Amazônia ............................ 49 8.8.2 AMB-02, Escalar o PSA e monetizar o carbono do Pantanal.............................................49 8.8.3 AMB-03, Qualificar o ICMS Ecológico premiando a conservação......................................49 8.8.4 AMB-04, Reestruturar o IMASUL: agilidade com fiscalização............................................50 8.8.5 AMB-05, Regulamentar a Lei do Pantanal com produtores e ambientalistas ....................50 8.8.6 AMB-06, Salvar o Cerrado: recuperar pastagem em vez de abrir área ............................. 50 8.9 Agricultura Familiar e Pequeno Produtor...................................................................................51 8.9.1 AGF-01, Favorecer o pequeno produtor: alto impacto social, baixo custo.........................51 8.9.2 AGF-02, Comprar da agricultura familiar (PNAE 60%, dobrar o PAA)...............................51 8.9.3 AGF-03, ATER de verdade: +360 técnicos no cinturão pobre ........................................... 51 8.9.4 AGF-04, Selo e mini-laticínios para o pequeno industrializar.............................................52 8.9.5 AGF-05, Fundo de garantia e compra coletiva de insumo .................................................52 9. Arcabouço Fiscal (Financiamento) ..................................................................................................53 10. Governança e Implementação.......................................................................................................53 10.1 Primeiros 100 dias (quick-wins) ............................................................................................... 53 10.2 Reformas estruturais (4 anos).................................................................................................. 54 Anexo A, Registro de Casos (Combate à Corrupção) ........................................................................ 55 Anexo B, Metas Públicas (compromissos já divulgados)....................................................................56 Anexo C, Programas faseados e orçamento (investimento × custeio) ...............................................57 Saúde ............................................................................................................................................... 57 Habitação ......................................................................................................................................... 57 Segurança ........................................................................................................................................ 58 Estradas ........................................................................................................................................... 58 Educação.......................................................................................................................................... 59 Turismo............................................................................................................................................. 59 Meio Ambiente..................................................................................................................................59 Agric Familiar....................................................................................................................................60 Anexo D, De onde vêm os recursos .................................................................................................... 61 Tabela 1, Fontes de economia (ordem de grandeza)......................................................................61 Tabela 2, Aplicação dos recursos (para onde vão) .........................................................................61
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 8
+
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 9
+
+1. Fundamentos e Método
+1.1 A tese: o MS é rico, o povo é pobre
+O ponto de partida é um diagnóstico, não um slogan. Mato Grosso do Sul gera riqueza em abundância, mas ela se concentra em poucos municípios e vaza para fora na forma de lucro de empresas de fora e de produto exportado cru. A missão do governo é fechar a distância entre a riqueza gerada e o dividendo que chega ao cidadão.
+1.2 O método (padrão de análise de política pública)
+Cada proposta deste plano segue a mesma disciplina, na linha do “Caminho Óctuplo” de Bardach (Harvard/Berkeley) e do núcleo de estratégia de Rumelt: • Diagnóstico, o problema, provado por um dado. • Alternativas e critério, os caminhos possíveis e por que este vence. • Ação (o “como”), o mecanismo concreto, com nome. • Meta (KPI), como o resultado será medido. • Custo e financiamento, quanto custa e de onde sai o recurso (pay-for). • Fonte, a origem do dado/da proposta, para rastreabilidade.
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 10
+
+2. Diagnóstico do Estado
+2.1 A riqueza
+PIB acima de R$ 184 bi (chegando a R$ 227 bi em estimativas recentes), quase o triplo do valor de 2014; maior exportador de celulose do Brasil; um dos maiores rebanhos e safras de grãos do país. O agronegócio responde por cerca de 23% do PIB estadual.
+2.2 O paradoxo da concentração
+Cinco municípios concentram 48% do PIB estadual; Campo Grande sozinha reúne um terço da população e cerca de um quarto do PIB e da receita. A desigualdade de PIB per capita entre o município mais rico e o mais pobre chega a 16,9 vezes. O interior “produz como rico e vive como pobre”: escoa bilhões por uma malha estadual em que 85% das rodovias não têm asfalto pleno e menos de 1% é duplicada.
+2.3 As contas públicas (LDO 2026)
+O Estado não está “quebrado” pelo teto de endividamento (dívida consolidada baixa frente à Receita Corrente Líquida), mas seu caixa encolhe: resultado primário deficitário sem a previdência (-R$ 207 mi), margem de expansão de despesa negativa, e despesa de pessoal em 51,97% da RCL, acima do teto prudencial. O maior reservatório de recurso é a renúncia de ICMS: R$ 11,95 bi/ano, mais da metade da receita tributária. Ver Anexo, Arcabouço Fiscal (seção 9).
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 11
+
+3. Os cinco pilares
+O plano se organiza em CINCO pilares, Transparência Total e Estado Honesto, Saúde, Educação, Segurança e Economia, para simplificar a mensagem. Dentro de cada pilar, os temas se desdobram em propostas, cada uma na estrutura do método (diagnóstico, ação, meta, custo, fonte).
+Pilar 1, Transparência Total e Estado Honesto
+O governo mais transparente da história do MS: o cidadão vê para onde vai cada real, em linguagem simples e no seu município, com painéis e QR pelo Estado, um Portal refeito para o povo, app, o Canal 157 e inteligência artificial contra o desvio. É a transparência que corta o privilégio, expõe a corrupção e faz o dinheiro chegar aos outros pilares.
+33 propostas, organizadas nos temas abaixo. Política-guia: fechar a distância entre a riqueza gerada e a vida das pessoas.
+4.1 Combate à Corrupção e Estado Honesto
+22 propostas.
+4.1.1 COR-01, Teto salarial sem exceções e fim dos penduricalhos
+Diagnóstico: Elite restrita do funcionalismo ganha acima do teto enquanto falta hospital Evidência / dado: Folha mar/2026 (Portal da Transparência): Governador = R$35.462 bruto (referência). 2.833 servidores recebem MAIS que o Governador (1.204 ativos + 1.629 aposentados); 2.003 acima do teto do STF (R$46.366). Concentração: SEFAZ/fisco (595), delegados (162), procuradores/PGE (99), oficiais PM (87). Ação (o como): Teto efetivo sem excecoes (verbas indenizatorias incluidas); lei estadual antipenduricalho; transparência nominal; auditoria retroativa do TCE-MS (5 anos) Meta / indicador (KPI): Servidores acima do teto de ~2.700 -> zero Custo e financiamento: Economia acionável = excedente dos ATIVOS acima do teto ~R$0,32-0,46 bi/ano (×13, inclui 13º). Teto teórico incluindo inativos ~R$0,6-1,0 bi/ano, mas parte é direito adquirido (não realizável de imediato). Destinar à saúde/segurança. Onde já funcionou / referência: Rigor: os extremos (PMMS R$158 mil e R$111 mil em mar/26) são 100% "outras verbas" = pagamento RETROATIVO de 1 mês, NÃO salário permanente, não usar como "PM que ganha R$158 mil". O supersalário PERMANENTE é o do fisco/PGE (base ~R$46-75 mil; líquido R$57-72 mil após abate-teto). Prioridade: Estrutural (4 anos) Fonte: Fala do candidato 04/07/2026; plano v0.7; Portal da Transparência MS, folha mar/2026
+4.1.2 COR-02, Concurso acima da indicação: menos 40% de comissionados
+Diagnóstico: Postos técnicos capturados por indicacao política; concurso esvaziado Evidência / dado: Abr/2026-302 novos cargos comissionados no TJMS numa canetada | Folha mar/2026: 3.191 comissionados ativos (5,6% dos 57.327). 2.599 estão no Administrativo (25,3% da área), contra 0,7% na educação, 1,0% na segurança e 7,2% na saúde: o comissionamento é do "meio", não da ponta. Ação (o como): Preferência pelo Concursado (min. 60% dos comissionados por efetivos em 24 meses); veda nepotismo (SV13); auditoria em 90 dias; -40% de comissionados; plano de 5.000 concursos Meta / indicador (KPI): 40% comissionados; +5.000 efetivos; nepotismo -> zero
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 12
+
+Custo e financiamento: −40% dos comissionados ≈ 1.040 cargos, concentrados no administrativo (não fragiliza o serviço-fim). Economia da folha comissionada + reposição por concurso; dimensionar em R$/ano ×13 (13º) pela folha média do grupo. Prioridade: Estrutural (4 anos) Fonte: Plano v0.7; comunicação_digital; Portal da Transparência MS, folha mar/2026
+4.1.3 COR-03, Combater fraude em atestados médicos com perícia
+Diagnóstico: Fraudes/exageros em atestados médicos geram absenteismo e custo Ação (o como): Não tolerar fraudes; pericia e juntas médicas + punição a fraude comprovada Meta / indicador (KPI): Taxa de absenteismo; % de atestados auditados Custo e financiamento: Baixo; gera economia Prioridade: Quick-win (100 dias) Fonte: Fala do candidato 04/07/2026
+4.1.4 COR-04, Painel público de toda obra, fiscalizável do celular
+Diagnóstico: Contratos públicos sem transparência (ex. MS-180 'Lama Asfaltica') Evidência / dado: Despesa 2025 (Portal Transparência): cluster de obras em 4 construtoras ~R$495mi (Vale do Rio Novo R$154mi, Perfil R$132mi, Engepar R$105mi, LCM R$103mi) - alvo do painel público de obras. | Contratos vigentes 2025: AGESUL concentra R$6,01 bi em 332 contratos = 43% de TODO o valor contratado do Estado (R$13,83 bi/3.429 contratos), a maior concentração e o principal alvo do painel público de obras. Ação (o como): Portal aberto de gastos em tempo real; painel público de toda obra de estrada (valor, empresa, medição com foto/GPS, fiscalizavel do celular); fiscal que assina medição falsa responde com o próprio bolso Prioridade: Quick-win (100 dias) Fonte: Plano v0.7; comunicação_digital
+4.1.5 COR-05, Quebrar o padrão Agesul/Detran de captura recorrente
+Diagnóstico: Mesmos dois órgãos (Agesul/Detran) com chefe preso/condenado em 3 governos seguidos - sistema, não coincidencia Evidência / dado: Puccinelli/Agesul (desvio R$5,1mi MS-357, condenado por improbidade 01/06/2026); Azambuja/Detran (Gerson Claro preso 2017; contrato Piramide R$7,4mi sem licitação); Riedel/Agesul (Rudi Fiorese preso 12/05/2026 e depois solto; contratos R$113,7mi; R$183 mil em espécie em casa) Ação (o como): Painel público de obras + responsabilizacao do fiscal (COR-04) Onde já funcionou / referência: CUIDADO: dizer 'preso em maio/2026 e depois solto', nunca 'esta preso' Prioridade: Estrutural (4 anos) Fonte: Dossie projeto; comunicação_digital
+4.1.6 COR-06, Levar o pacote de obras da Agesul ao TCE e ao CADE
+Diagnóstico: Pacote de obras da Agesul com indicios de conluio e captura do órgão Evidência / dado: R$1,9bi em 5 concorrencias (057-062); ALS/Rial/Navicon; lote 2 (Ribas, R$98,65mi) com as 3 juntas; desagio irrisorio de 0,92% (indicio de cartel); NÃO confundir com os 'R$2,1bi' de tapaburaco da imprensa
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 13
+
+Ação (o como): Representação ao TCE-MS (sem trava de prazo, pedir cautelar) + representação ao CADE por cartel; base técnica (CNPJ/QSA/desagios) Onde já funcionou / referência: O que NÃO fecha: inabilitacao por reu-preso (art.14 taxativo; CEIS/CNEP sem sancao ativa em 23/06). Peca técnica, sem moldura eleitoral (proc. TRE 060015164.2026) Prioridade: Estrutural (4 anos) Fonte: Impugnacao Agesul (analise)
+4.1.7 COR-07, Benefício de ICMS auditado: não cumpriu, perde e devolve
+Diagnóstico: Ação penal da propina JBS trancada em sigilo reforca que benefício fiscal sem transparência gera propina Evidência / dado: AP 980 trancada por Toffoli (fim/2025, revelado 02/06/2026); propina R$67,7mi; prejuizo R$209,7mi ao MS; R$277,5mi bloqueados. Reinaldo presumido inocente Ação (o como): Todo benefício de ICMS público e auditado; não cumpriu, perde e devolve (liga com 3 Anéis) Prioridade: Estrutural (4 anos) Fonte: Dossie projeto (O Jacare 02/06/2026)
+4.1.8 COR-08, Auditar os contratos de TI do governo
+Diagnóstico: Empresas de TI do governo (socios pai/filho Marinho); TAC de Reinaldo enterrou investigacao; ponte com Track Land de Bazzano via consórcio AGEMS Evidência / dado: Despesa 2025: cluster de TI ~R$207mi (DIGITHOBRASIL R$113mi + INOVVATI R$94mi) - dimensiona a auditoria dos contratos de TI. Ação (o como): Auditoria e transparência dos contratos de TI Prioridade: Estrutural (4 anos) Fonte: Dossie projeto
+4.1.9 COR-09, Teto legal para aditivos e fim das obras paradas
+Diagnóstico: Obra emblematica que consumiu muito mais que o licitado e nunca foi entregue - retrato do 'MS rico, obra parada' Evidência / dado: Aquario do Pantanal: licitado R$84mi -> gasto ~R$234mi sem inaugurar; um serviço cobrado +245% (MP aponta superfaturamento) Ação (o como): Teto legal de aditivo (ex. 25%); cancelamento de contrato que estoura sem entrega, com responsabilizacao do gestor; auditoria do estoque de obras paradas Meta / indicador (KPI): % de obras entregues no prazo/orçamento; estoque de obras paradas (nº e R$) Onde já funcionou / referência: MP-MS (indicio de superfaturamento) Prioridade: Estrutural (4 anos) Fonte: Capital News; Campo Grande News; MP-MS
+4.1.10 COR-10, Rastrear o histórico de desvio em obras rodoviárias
+Diagnóstico: Esquema de desvio em obras rodoviarias na gestão Puccinelli - munição histórica do padrão Agesul Evidência / dado: Lama Asfaltica: dano denunciado R$308,8mi; núcleo Amorim CONDENADO em 1a instância a pagar R$13,2mi por desvio de R$5,1mi (01/06/2026)
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 14
+
+Ação (o como): Painel público de obras + medição independente (ver COR-04) Onde já funcionou / referência: CUIDADO: Puccinelli foi ABSOLVIDO em uma ação; 'condenado em 1a instância' vale só p/ o núcleo Amorim; presuncao de inocencia Prioridade: Estrutural (4 anos) Fonte: MPF-MS; O Jacare 01/06/2026
+4.1.11 COR-11, Digitalizar o Detran-MS para estancar fraudes recorrentes
+Diagnóstico: Fraudes recorrentes no Detran-MS ao longo de anos - órgão que se repete no padrão de captura Evidência / dado: +4.000 fraudes em 5 anos; ~30 servidores investigados; despachante preso e depois solto; valor global Ação (o como): Digitalização e rastreabilidade dos serviços; auditoria permanente; transparência de gravames/vistorias Meta / indicador (KPI): Nº de fraudes detectadas/ano; % de serviços digitalizados Onde já funcionou / referência: CUIDADO: investigados, sem condenacao; 'preso e depois solto' Prioridade: Estrutural (4 anos) Fonte: Midiamax 2026; Capital News
+4.1.12 COR-12, Recuperar o dinheiro da corrupção e destiná-lo à saúde
+Diagnóstico: Corrupção/desperdicio não e bandeira moral - e dinheiro que deixa de virar saúde e estrada Evidência / dado: Piso DOCUMENTADO (casos com operação/denúncia, 3 governos): ~R$985mi a R$1,2bi. Estimativa de ORDEM DE GRANDEZA (percentuais de auditoria sobre obras/compras): R$350700mi/ano Ação (o como): Recuperar parte (ex. metade, R$200-350mi/ano) e destinar a saúde/estrada; central de compras; controladoria independente Meta / indicador (KPI): R$ recuperados/ano via TCE/controladoria; economia em compras; ranking de transparência Custo e financiamento: GERA recuperação de recurso Onde já funcionou / referência: REGRA DE OURO: nunca somar piso documentado + estimativa como se fossem a mesma coisa; estimativa e 'referência de auditoria', não valor desviado. Ver aba Registro Corrupção Prioridade: Estrutural (4 anos) Fonte: LOA 2026; FIESP; TCU/auditorias; registro deste eixo
+4.1.13 COR-13, Método “denúncia + desfecho criminal”, não só denúncia
+Diagnóstico: Denúncia sem desfecho vira casuismo; o povo quer justiça, não 'economia' Ação (o como): MÉTODO 'denúncia + desfecho criminal': prova nos contratos -> boletim de ocorrência > delegacia -> Ministerio Público; buscar peculato/corrupção/fraude (crimes que dao cadeia), não só repactuação Meta / indicador (KPI): Nº de casos levados a delegacia/MP com prova documental Onde já funcionou / referência: Assinatura do método 'denúncia + COMO' dele Prioridade: Estrutural (4 anos) Fonte: Videos @economistarenato
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 15
+
+4.1.14 COR-14, Quarentena entre cargo de confiança e a toga
+Diagnóstico: Escudeiro leal do governo vai direto a cargo vitalicio no Judiciário (desembargador), sem sabatina/contrapeso Ação (o como): Compromisso público de QUARENTENA: quem ocupou cargo de confianca no governo não vai, logo em seguida, ao Judiciário julgar aquele mesmo poder Meta / indicador (KPI): Regra de quarentena adotada (sim/não) Onde já funcionou / referência: 'A justiça não pode ser o butiquim do governador de plantao' Prioridade: Estrutural (4 anos) Fonte: Videos @economistarenato
+4.1.15 COR-15, Vedar o nepotismo como régua pública de integridade
+Diagnóstico: Corrupção e 'a morte de uma função' (Aristoteles): o político que emprega parente no cargo que deveria fiscalizar mata a própria função fiscalizadora Ação (o como): Vedar nomeacao de parentes (SV13/nepotismo cruzado) e usar essa definição como regua pública Meta / indicador (KPI): Nepotismo -> zero; vínculos de parentesco publicados no Portal da Transparência Prioridade: Quick-win (100 dias) Fonte: Videos @economistarenato
+4.1.16 COR-16, Transparência total da verba de publicidade oficial
+Diagnóstico: Verba de publicidade repartida entre parlamentares funciona como moeda de silencio 'preco para calar, para bater, para elogiar' Evidência / dado: Verba de publicidade ≈ R$85-95 mi/ano, triangulada por 2 fontes oficiais: (1) Concorrência 001/2020-SEGOV (Lei 12.232/2010) = R$87,4 mi em 2025 (anos cheios 2022-2025 entre R$76-87 mi/ano); (2) despesa por credor 2025 = R$95,4 mi a agências. Concentração estrutural: as MESMAS 10 agências desde 2020 (líderes Agilita e Oitenta Vinte). À parte: ~R$38 mi/ano em eventos. Ação (o como): Transparência total da verba de publicidade (quanto vai a cada veículo) + CPI/auditoria da publicidade oficial Meta / indicador (KPI): % da verba de publicidade com destino publicado Onde já funcionou / referência: Rigor: a Concorrência 001/2020 é LEGAL, a Lei 12.232/2010 permite contratar várias agências; NÃO afirmar que a licitação é fraudada. O ângulo correto é (a) o VOLUME (~R$90 mi/ano) como custo de oportunidade (≈ fechar o déficit da Polícia Civil), (b) a transparência de quanto vai a CADA veículo (a distribuição, não a licitação) e (c) o uso político da verba. Pedir a distribuição por veículo à SEGOV/SUBCOM via LAI. Prioridade: Quick-win (100 dias) Fonte: Videos @economistarenato; Portal da Transparência MS, despesa por credor 2025; Concorrência 001/2020-SEGOV (Processo 51/000.240/2020); Lei 12.232/2010
+4.1.17 COR-17, Cartório mais barato: fé pública apoiada em tecnologia
+Diagnóstico: Serviços de cartorio encarecem a vida do povo e poderiam ser substituidos por tecnologia Evidência / dado: Tabeliao pode ganhar ~R$1mi/mes Ação (o como): Substituir função cartoraria por blockchain, certificado digital e fe pública ampliada a advogados (competência parcial - normas do CNJ/federal)
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 16
+
+Meta / indicador (KPI): Custo cartorario médio ao cidadão Prioridade: Estrutural (4 anos) Fonte: Videos @economistarenato
+4.1.18 COR-18, Penduricalho não é salário: teto na base de cálculo
+Diagnóstico: Parte do supersalário não é salário: são "outras verbas" (indenizatórias/retroativas) que escapam do teto e viram base de 13º e de aposentadoria. Evidência / dado: Folha mar/2026: no grupo acima do Governador, 13,4% da remuneração é "outras verbas"; nos extremos (PMMS) chega a 100% (retroativo). O abate-teto corta o líquido de 2.003 para 215, mas o bruto alto permanece como base de cálculo. Ação (o como): Auditar as rubricas "outras verbas" das carreiras de topo; submeter o penduricalho ao teto na BASE DE CÁLCULO (não só no líquido), de modo que não infle 13º nem proventos de aposentadoria; publicar rubrica a rubrica. Meta / indicador (KPI): Nº de rubricas indenizatórias acima do teto zeradas; queda do bruto médio das carreiras de topo; % de "outras verbas" na folha. Custo e financiamento: Baixo (auditoria/normativo); GERA economia estrutural ao reduzir a base de 13º e de aposentadoria (efeito plurianual). Onde já funcionou / referência: Distinguir retroativo eventual (legítimo, pontual) de penduricalho recorrente (o alvo). Requer detalhamento de rubricas via SAD/SEFAZ (LAI). Prioridade: Estrutural (4 anos) Fonte: Portal da Transparência MS, folha mar/2026; análise própria
+4.1.19 COR-19, Painéis públicos de contas (físicos e QR) em todo o Estado
+Diagnóstico: O cidadão não vê para onde vai o dinheiro no seu dia a dia; a informação fica trancada em sistemas que só técnico entende. Evidência / dado: Hoje, achar quanto o Estado gastou numa obra ou quanto o município recebeu exige navegar um portal difícil, o povo simplesmente não acessa. Ação (o como): PAINÉIS PÚBLICOS DE CONTAS, físicos e digitais (QR code), em pontos estratégicos do Estado (rodoviárias, UBS, escolas, praças, prédios públicos), mostrando em linguagem simples as contas do Estado E as contas locais que interessam àquele público (obras, saúde e educação do próprio município), com atualização em tempo real. Meta / indicador (KPI): Nº de painéis instalados; municípios cobertos; acessos aos QR codes Custo e financiamento: CUSTO BAIXO (telas/adesivos + integração de dados). PRAZO: Fase 1 (100 dias para o piloto). Prioridade: Quick-win (100 dias) Fonte: Proposta de campanha (transparência)
+4.1.20 COR-20, Portal da Transparência 2.0: dados abertos e linguagem do povo
+Diagnóstico: O Portal da Transparência é tecnicamente inacessível ao leigo: dados em jargão contábil, busca ruim e sem download em massa, na prática, o cidadão comum NÃO consegue achar a informação. Evidência / dado: Auditoria própria (jul/2026): o 'Dados Abertos' do Portal exige login (retorna 'não autorizado'); a busca de órgão exige 3+ letras e não lista; a receita aparece como 'natureza 1.1.1.4.50', não como 'ICMS'; para ver um fundo, uma consulta por vez.
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 17
+
+Ação (o como): PORTAL DA TRANSPARÊNCIA 2.0, reconstruído para o cidadão: (a) DADOS ABERTOS DE VERDADE, API pública SEM login e download em massa (CSV/JSON) de receita, despesa, folha e contratos; (b) camada em LINGUAGEM POPULAR ('quanto o Estado gastou com merenda em Dourados'); (c) visão POR MUNICÍPIO/BAIRRO; (d) 'siga o dinheiro', da arrecadação ao repasse à obra, com foto e GPS (liga com COR-04). Meta / indicador (KPI): Nota no ranking de transparência (Atricon/CGU); % de dados em formato aberto; tempo médio para o cidadão achar uma informação Custo e financiamento: CUSTO MÉDIO (desenvolvimento + dados abertos). PRAZO: Fases 1-2. Prioridade: Estruturante Fonte: Auditoria própria do Portal MS (jul/2026)
+4.1.21 COR-21, App de transparência: as contas públicas no seu bolso
+Diagnóstico: Mesmo um portal melhor ainda exige o cidadão ir atrás; falta a transparência chegar ao bolso, ativa e fácil. Evidência / dado: A maior parte da população acessa serviços pelo celular, não pelo computador. Ação (o como): APP OFICIAL DE TRANSPARÊNCIA, gratuito, com acesso facilitado e NOTIFICAÇÕES ('nova obra contratada na sua cidade por R$ X'; 'seu município recebeu R$ Y de saúde este mês') e busca em LINGUAGEM NATURAL (assistente com IA, ver GES-11). Meta / indicador (KPI): Downloads; usuários ativos mensais; nº de municípios com dado local no app Custo e financiamento: CUSTO BAIXO-MÉDIO (app + integração). PRAZO: Fase 2. Prioridade: Estruturante Fonte: Proposta de campanha (transparência)
+4.1.22 COR-22, Canal 157: tira-dúvidas de contas públicas e corrupção
+Diagnóstico: O cidadão que quer entender uma conta pública ou denunciar uma suspeita não tem um canal simples e direto, a informação e a denúncia se perdem. Evidência / dado: Canais de ouvidoria existem, mas são pouco conhecidos e pouco resolutivos para dúvidas de transparência. Ação (o como): CANAL 157, telefônico e digital, para o cidadão TIRAR DÚVIDAS sobre as contas públicas e CONSULTAR/DENUNCIAR suspeitas de corrupção, integrado à Ouvidoria e à ControladoriaGeral (CGE), com triagem por IA e resposta rastreável (protocolo que o cidadão acompanha). Meta / indicador (KPI): Nº de atendimentos; % de dúvidas resolvidas; denúncias que viram apuração formal Custo e financiamento: CUSTO BAIXO (central + integração à Ouvidoria/CGE). PRAZO: Fase 1. Prioridade: Quick-win (100 dias) Fonte: Proposta de campanha (transparência)
+4.2 Gestão, Contas e Previdência
+11 propostas.
+4.2.1 GES-01, Renegociar a dívida (PROPAG) e os contratos de custeio
+Diagnóstico: Prioridades invertidas - 3 vetores consomem 83% da despesa Evidência / dado: Despesa 2024 R$24,9bi; Pessoal/RCL 51,97% (LDO 2026, acima do teto LRF de 49%); Previdência 20%; Duodécimos 14%; Capag caiu de A+ para B+; margem de expansão de despesa NEGATIVA
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 18
+
+Ação (o como): Revisão/renegociacao de contratos de custeio >R$5mi; adesao ao PROPAG (renegociar ~R$9,5bi da divida com a Uniao) p/ liberar investimento Meta / indicador (KPI): Custeio -10-15% (R$700mi-1bi/ano); voltar ao alerta da LRF (44,1%); Capag para A Onde já funcionou / referência: CUIDADO: MS e pouco endividado pelo teto da LRF (DCL/RCL ~25%) - o angulo e caixa que encolhe + primário deficitario, não 'estado quebrado' Prioridade: Estrutural (4 anos) Fonte: Plano v0.7; LDO 2026
+4.2.2 GES-02, Orçamento dos Poderes: chamar ao debate público, não interferir
+Diagnóstico: Os Poderes/órgãos autônomos consomem ~14% do orçamento sem que o povo participe ou observe como esse recurso é aplicado; o debate sobre eficiência e justiça orçamentária não é público. Evidência / dado: TJMS/MPMS/TCE/ALEMS/DPGE = ~R$3,5 bi/ano (14% do orçamento); TJMS recebe 6,30% da RCL e é apontado como um dos mais eficientes do país. Ação (o como): Combinar dois instrumentos legítimos, sem ferir a autonomia dos Poderes: (1) a INICIATIVA DA LDO, que é do governador (CF art. 165), para fixar diretrizes, metas e indicadores de eficiência e para explicitar, com números, cortes de improdutividade e de orçamentos mal alocados; (2) a CONVOCAÇÃO dos órgãos (TJMS/MP/TCE/ALEMS/Defensoria) ao DEBATE PÚBLICO sobre eficiência, transparência e justiça orçamentária, com participação e observação popular. O governador não dita o gasto interno de cada Poder, mas LIDERA o arcabouço orçamentário e a transparência. Meta / indicador (KPI): Cortes de improdutividade e de má alocação estimados e publicados; folhas dos Poderes comparáveis; audiências públicas de orçamento realizadas; participação popular; economia como consequência da LDO e do debate. Custo e financiamento: Economia estimável a partir da improdutividade e da má alocação orçamentária, conduzida pela INICIATIVA DA LDO (do governador) + debate público, sem ferir a autonomia (não corta o duodécimo dos outros Poderes). Resultado = diretriz orçamentária + pressão social por justiça. Onde já funcionou / referência: A iniciativa da LDO é constitucionalmente do governador (CF art. 165): propor diretrizes e metas de eficiência e apontar improdutividade/má alocação NÃO fere a autonomia, o que a feriria seria cortar o duodécimo por conta própria. O enquadramento LDO + debate público mantém a legitimidade e reduz o risco de adversário institucional. Prioridade: Estrutural (4 anos) Fonte: Plano v0.7
+4.2.3 GES-03, Reconstruir o Fundo de Capitalização da previdência
+Diagnóstico: Liquidacao do Fundo de Capitalização em 2017 (Azambuja) destruiu a previdência Evidência / dado: Lei 5.101/2017 usou R$377mi do fundo p/ despesa corrente, inconstitucional em caso análogo do RS (STF); déficit RPPS R$1,848bi (2024); aporte do Tesouro subindo até R$645mi/ano a partir de 2028; déficit anual caiu de R$1,84bi (2024) p/ R$958mi (2025); Plano de Amortização (Lei 6.339/2024) mira zerar o déficit em 2046; SEM segregação de massas desde 2017 (ver GES-09) | Folha mar/2026: 33.525 inativos (27.644 aposentados + 5.881 pensão) × 57.327 ativos = razão 0,58. Inativos consomem 45% da folha bruta (R$415,5 mi/mês ≈ R$5,4 bi/ano, ×13 com 13º). Ação (o como): Reconstruir a segregacao da massa e o Fundo de Capitalização (8-12 anos), movimento inverso ao de 2017; estudo atuarial anual público; direitos adquiridos integrais Meta / indicador (KPI): R$800mi-1,5bi/ano de espaco; Fundo reconstituido ~R$2,5bi em 4 anos
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 19
+
+Onde já funcionou / referência: Enquadramento: reconstituir e constitucional; liquidar e inconstitucional Prioridade: Estrutural (4 anos) Fonte: Plano v0.7; Portal da Transparência MS, folha mar/2026
+4.2.4 GES-04, Carreira e mérito: política salarial com base no DIEESE
+Diagnóstico: Política salarial sem estrutura de carreira; risco de achatar a base ou inchar a folha Evidência / dado: Folha mar/2026: 17.195 professores "convocados" (temporários) = 55% da força da educação, contra 13.886 efetivos. Vínculo precário como regra, não exceção, trava carreira e qualidade (ver GES-08 e EDU-02). Ação (o como): Base de referência DIEESE, com senioridade/experiência merecendo mais; priorizar planos de carreira e o concursado em detrimento do indicado; reestruturar as carreiras do estado; respeitar a estabilidade, porém com devido dimensionamento (sem excesso de contratação), alinhado a investimentos e custeio - respeito ao dinheiro do povo Meta / indicador (KPI): Folha/RCL dentro do limite; menor salário x DIEESE; % de comissionados Custo e financiamento: Neutro-a-controlado (dimensionamento evita inchaco) Prioridade: Estrutural (4 anos) Fonte: Fala do candidato 04/07/2026; Portal da Transparência MS, folha mar/2026
+4.2.5 GES-05, Anexo orçamentário auditável: a prova de que cabe no orçamento
+Diagnóstico: 'Não falta dinheiro, falta reorganizar o orçamento' (a prova que fecha a tese) Evidência / dado: Espaco fiscal R$20,81bi (4 anos) - R$3,18bi de desoneracao = R$17,63 bi de saldo líquido. LDO da lastro: renúncia de ICMS R$11,95bi/ano é o maior reservatório; realismo: primário R$207mi sem RPPS, margem de expansão negativa | LOA 2026: orçamento R$27,19 bi; investimento total apenas R$3,44 bi (~13% da despesa; a LDO prevê o investimento CAINDO a 14,46% da RCL até 2028). Distribuição do investimento: infraestrutura/estradas 65% (AGESUL R$1,07 bi + Fundersul R$1,04 bi + SEILOG R$146 mi); segurança 6,5%; habitação 6%; SAÚDE 4,6% (~R$159 mi) e EDUCAÇÃO 4,6% (~R$157 mi). O Estado investe em asfalto, não em gente, a tese "MS é rico, o povo é pobre" aplicada ao orçamento. Ação (o como): Anexo orçamentário auditável ano a ano; estimativas pelo limite inferior; destinacao: saúde, polícia, educação, previdência, infraestrutura, FDP Meta / indicador (KPI): | METAS públicas (site): despesa de pessoal < 54% da RCL; resultado primário positivo nos 4 anos Onde já funcionou / referência: RAIO-X de custos (pesquisa 04/07): elevar a aplicação em saúde para 18-20% do orçamento exige rampa de +2 pontos/ano (~R$195mi/ponto), casada com a captura da renúncia de ICMS; um salto em bloco pressionaria o saldo. Rodovias e banco de desenvolvimento são conta de capital/crédito. Prioridade: Estrutural (4 anos) Fonte: Plano v0.7; LDO 2026
+4.2.6 GES-06, Cortar privilégios e redirecionar à saúde e à educação
+Diagnóstico: A conta do desperdicio: ~10% do orçamento some em rubricas identificaveis e, com o multiplicador da corrupção, o desvio chega a ~25% Evidência / dado: Orçamento ~R$25bi. Componentes verificados (folha mar/2026, ×13 com 13º): supersalários = excedente ~R$0,3-0,46 bi/ano (ativos) até ~R$0,6-1,0 bi/ano (teórico c/ inativos);
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 20
+
+comissionados concentrados no administrativo (−40% ≈ 1.040 cargos); + recuperação de corrupção (ver COR-12). Ação (o como): Cortar comissionados/superteto/publicidade e redirecionar a saúde/educação/estradas Meta / indicador (KPI): % do orçamento em comissionados; gasto de publicidade; nº de nãoconcursados Custo e financiamento: GERA recuperação Onde já funcionou / referência: REGRA DE OURO (ver COR-12): não apresentar o multiplicador como valor comprovado || CUIDADO supersalários: número seguro = R$153mi/ano no MPMS (penduricalhos, Midiamax 2026); '2.700/R$150mi-mes' e do candidato, sem fonte - confirmar. Prioridade: Estrutural (4 anos) Fonte: Videos @economistarenato
+4.2.7 GES-07, Governador que fiscaliza o caixa, não a inauguração
+Diagnóstico: O governador prioriza inauguracao/foto e 'deixa os ratos fazerem a festa' em vez de proteger o caixa Ação (o como): Rotina do governador = fiscalizar o caixa das maiores secretarias e os principais contratos; folha analitica pública mensal (concursado x comissionado, função, produtividade) Meta / indicador (KPI): % concursados x comissionados publicado; controle direto nas secretarias de maior orçamento Onde já funcionou / referência: COMO-assinatura: 'já fiz auditoria em +300 empresas, tem como pegar' Prioridade: Quick-win (100 dias) Fonte: Videos @economistarenato
+4.2.8 GES-08, Efetivar o magistério: concurso e carreira contra a convocação
+Diagnóstico: A educação estadual funciona com maioria de professores temporários ("convocados"), não efetivos, vínculo precário como regra. Evidência / dado: Folha mar/2026: 17.195 convocados (55%) × 13.886 efetivos na educação (SED+UEMS). | Custo da conversão = diferencial efetivo (R$8.352) - convocado (R$4.866) = R$3.486/mês; efetivar ~6.955 (p/ inverter a 30%) ~ R$315 mi/ano no pleno (×13), ~R$79 mi/ano por etapa, dentro do FUNDEB/25% MDE. Ação (o como): Plano plurianual de concurso + carreira do magistério para reduzir a convocação de forma faseada (meta de inverter a proporção ao longo do mandato), respeitando o teto de despesa de pessoal (LRF) e a transição dos atuais convocados. Meta / indicador (KPI): % de convocados na educação (meta: cair de 55% para patamar mínimo); nº de efetivados por concurso; despesa de pessoal/RCL sob controle. Custo e financiamento: Controlado: trocar convocado por efetivo tem diferencial salarial e de encargos; faseado dentro dos 25% MDE/FUNDEB e do teto da LRF. CAPEX de concurso (baixo); OPEX conforme diferencial, ×13 (13º). Onde já funcionou / referência: Não é inchar a folha: é trocar precário por carreira, dentro do teto de pessoal (hoje 51,97% RCL, já alto, GES-01). Sequenciar por reposição de aposentadorias. Prioridade: Estrutural (4 anos) Fonte: Portal da Transparência MS, folha mar/2026; LDO 2026
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 21
+
+4.2.9 GES-09, Previdência mais justa: alíquota progressiva, não 14% linear
+Diagnóstico: MS cobra 14% LINEAR de contribuição previdenciária de todo servidor, inclusive o de baixo salário, o que é regressivo: o mesmo percentual pesa muito mais em quem ganha pouco. Evidência / dado: 14% linear (Lei 3.150/2005, elevado de 11% para 14% pela Lei 5.101/2017, governo Azambuja, que também liquidou o fundo capitalizado sacando R$377mi e desfez a segregação de massas). A União é PROGRESSIVA (7,5% a 22%, EC 103/2019); SP cobra 11-16% (LC 1.354/2020) e RS 7,5-22% (LC 15.429/2019). Déficit anual do RPPS-MS caiu de R$1,84bi (2024) para R$958mi (2025). Alternativas: (A) manter 14% linear; (B) tabela PROGRESSIVA (alívio na base, mais nas faixas altas); (C) baixar o linear para todos, inviável: a EC 103 impõe piso de 14% para alíquota uniforme em RPPS deficitário. Critério de escolha: Escolhe (B): a EC 103 só permite cobrar MENOS de 14% dos baixos salários se a tabela for PROGRESSIVA (a uniforme deficitária tem piso de 14%). A progressiva alivia o pequeno e mantém a arrecadação. Ação (o como): Substituir o 14% linear por uma TABELA PROGRESSIVA (espelhando União/SP/RS): faixas baixas em 7,5-11% (alívio real no contracheque de quem ganha pouco) e faixas altas até ~1619%; desenhada por estudo atuarial para ser ao menos NEUTRA (arrecadação >= a do 14% linear); reconstruir a segregação de massas e o Fundo de Capitalização (ver GES-03); proteger o provento modesto (não sobretaxar aposentadoria pequena). Resultado esperado: Alívio imediato no salário líquido do servidor de baixo e médio salário. · Sistema previdenciário mais justo e equilibrado, sem perda de arrecadação. · Justiça contributiva: quem ganha mais banca mais, o mesmo princípio do plano. Meta / indicador (KPI): Alíquota efetiva do baixo salário cai de 14% para 7,5-11%; arrecadação previdenciária mantida; déficit atuarial em queda; fundo de capitalização reconstituído. Custo e financiamento: NEUTRO para o RPPS por desenho (as faixas altas compensam o alívio da base), não é gasto novo, é redistribuição do peso. Requer LEI estadual (internalizar a EC 103) + estudo atuarial. Sem custo ao Tesouro. Onde já funcionou / referência: EC 103 art. 9º §4º permite a progressividade se o estudo atuarial comprovar que mantém o equilíbrio; o STF validou a progressividade (Tema 1.226). Modelos: SP (LC 1.354/2020) e RS (LC 15.429/2019). CUIDADO: alíquota uniforme abaixo de 14% é vedada para RPPS deficitário, só a progressiva viabiliza o alívio. Prioridade: Estrutural (4 anos) Fonte: EC 103/2019; Lei 3.150/2005 c/ Leis 5.101/2017 e 6.307/2024; AGEPREV; LC-SP 1.354/2020; LC-RS 15.429/2019; Ministério da Previdência
+4.2.10 GES-10, O Estado indireto: empresas, autarquias e terceirizadas sob metas
+Diagnóstico: O Estado atua cada vez mais por administração INDIRETA (autarquias, fundações, estatais) e por TERCEIRIZAÇÃO (contratos e organizações sociais), mas sem um raio-X do que custa e do que de fato entrega. Evidência / dado: Contratos vigentes 2025 = R$13,83 bi (AGESUL concentra 43%); na saúde, 81% do gasto estadual é contrato/OS (ex.: Instituto Acqua R$133 mi). Administração indireta: estatais (MSGÁS, Sanesul, EMGERM), autarquias (AGESUL, Detran, AGEMS, IMASUL, IAGRO, AGRAER), fundações (UEMS, FUNDECT, FCMS). Concessionárias privadas reguladas: Energisa, Águas Guariroba. Alternativas: (A) manter opaco e sem meta; (B) contrato de gestão com meta de resultado E de custo + transparência; (C) reestatizar tudo (inviável).
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 22
+
+Critério de escolha: Escolhe (B): o modelo indireto/terceirizado é legítimo, mas exige gestão de contrato e transparência, hoje frágeis, e é onde corre a maior parte do dinheiro. Ação (o como): Mapear a administração indireta e a terceirização (quanto custa, o que entrega); todo contrato e OS com meta de resultado e de custo, teto de despesa administrativa e publicação aberta; distinguir o que o Estado CONTROLA (estatais e autarquias) do que só REGULA (concessionárias, regular bem, sem fixar tarifa); auditar as OS a começar pela saúde. Resultado esperado: Gasto indireto sob controle e transparente; menos captura via contrato. · Administração indireta com meta e resultado publicados. · Eficiência sem reestatizar nem terceirizar às cegas. Meta / indicador (KPI): % do gasto via administração indireta/terceirização mapeado e com meta; nº de contratos/OS com meta publicada; economia por renegociação. Custo e financiamento: Baixo (gestão e normativo); GERA economia pela eficiência e pela renegociação dos contratos. Onde já funcionou / referência: Não confundir as naturezas: estatal (controle) x autarquia (controle) x concessionária (só regulação, não se fixa tarifa) x OS/terceirizada (contrato). Cada uma tem alavanca diferente. Prioridade: Estrutural (4 anos) Fonte: Portal da Transparência MS (contratos e despesa 2025); LOA 2026
+4.2.11 GES-11, Inteligência artificial no setor público: produtividade, transparência e integridade
+Diagnóstico: O setor público é lento, caro e opaco: processos manuais geram custeio e filas, e não se usa tecnologia nem para produtividade nem para flagrar desvio. Evidência / dado: A IA já reduz custo e tempo em administrações públicas país afora; o MS não a utiliza de forma estruturada. Ação (o como): PROGRAMA DE INTELIGÊNCIA ARTIFICIAL NO SETOR PÚBLICO em três frentes: (1) PRODUTIVIDADE, automatizar processos repetitivos, reduzir filas e custeio; (2) TRANSPARÊNCIA, busca em linguagem natural no Portal e assistente de contas públicas (liga com COR-20/21); (3) INTEGRIDADE, detecção automática de anomalias, sobrepreço e indício de cartel cruzando contratos, CNPJ/QSA e preços (liga com o padrão Agesul/Detran, COR-05/06). Com governança, LGPD e auditoria. Meta / indicador (KPI): Nº de processos automatizados; economia de custeio (R$/ano); anomalias detectadas e encaminhadas Custo e financiamento: CUSTO MÉDIO com ALTO retorno (menos custeio e menos fraude). PRAZO: Fases 1-3. Prioridade: Estruturante Fonte: Proposta de campanha (produtividade)
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 23
+
+Pilar 2, Saúde
+A prioridade nº 1 do MS: tirar a fila do lugar, levar a média e a alta complexidade ao interior e fixar médicos.
+13 propostas, organizadas nos temas abaixo. Política-guia: fechar a distância entre a riqueza gerada e a vida das pessoas.
+5.1 Saúde
+13 propostas.
+5.1.1 SAU-01, Hospitais regionais 24h e fixação de médicos no interior
+Diagnóstico: Fila que não anda; interior depende da capital; HRMS/Santa Casa superlotados; falta médico no interior Evidência / dado: Saúde e o problema nº1 do MS (32% Quaest); HRMS >500mil atend/17,6mil internacoes (2025); caso da menina de 8 anos de Camapuã (transferencia só após a morte); interior viaja 130-210 km | Pessoal: o Estado emprega direto POUCO na ponta (SES+FUNSAU = 3.329 ativos; só ~29 médicos estatutários) - a força de saúde é municipal/filantrópica (Santa Casa) e via contrato/OS (Instituto Acqua R$133mi/2025). Déficit de leitos 1.000-2.300 (OMS 3-5/mil). Alavanca estadual = fixação (bolsa/residência) + regionalização + OS auditada, não concurso em massa. | Parâmetro de leitos CORRETO: Ministério da Saúde (Portaria 1.101/2002, 2,5-3 leitos/mil), NÃO o "OMS 3-5" que circula sem fonte. MS: 1,46 SUS/mil (2,15 total). ~2/3 do problema é DISTRIBUIÇÃO e gestão (regionalizar, fortalecer a APS, destravar o giro/CORE), não falta de leito, em UTI faltam de verdade só ~4-5% (526 de ~550), o resto é maldistribuição. Meta: acesso equivalente a ~3/mil, CONSTRUINDO 2,5/mil = +~1.000 leitos no interior + ~100 UTI (Dourados, Corumbá/Pantanal, Costa Leste). Superlotação de PS (~728%) é fluxo travado, não falta de leito multiplicada. Alternativas: (A) só repasse; (B) regionalização + fixação de médico + regulação transparente; (C) só obra nova Critério de escolha: Escolhe (B): resolve a rede, não só a capital Ação (o como): Hospitais regionais 24h de alta complexidade; programa de fixação de médicos no interior (bolsa/residência); regulação com prazo legal e transparência; RENAME sem ICMS Meta / indicador (KPI): Tempo de espera; leitos abertos; médicos fixados (transparência mensal) | METAS públicas (site): cobertura de atenção básica 64,2% -> 85% em 4 anos; leitos SUS 2,1 -> 3,0/mil hab; mortalidade infantil 12,4 Custo e financiamento: CUSTEIO (OPEX): ~R$1bi/ano no pleno (todas as fontes), em rampa por fase. INVESTIMENTO (CAPEX): regionalização - UTI no interior +100-150 leitos ~R$75-113mi + conclusão de obras (HU Três Lagoas, HRD 192). PRAZO: Fases 2-3. Pay-for: +2pts/ano (~R$195mi/ponto) + Novo PAC + fundo-a-fundo federal. (ver aba 'Saúde Orçamento-Fases') Prioridade: Estrutural (4 anos) Fonte: Plano v0.7; Quaest
+5.1.2 SAU-02, Plano emergencial para desafogar a Santa Casa de Campo Grande
+Diagnóstico: Santa Casa de CG opera com superlotação critica; e independente, mas cabe ao Gov MS achar a solucao Evidência / dado: 900% de superlotação || CORRIGIR: '900%/500%' SEM fonte. Real = 728% na área verde do PS (boletim Santa Casa 21/05/2026). Usar 'mais de 700%, dado da própria Santa Casa'.
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 24
+
+Alternativas: (A) só repasse; (B) plano emergencial + ativar estruturas ociosas do interior; (C) nova estrutura Ação (o como): Plano imediato emergencial de alivio do sofrimento humano; normalizar o atendimento nos principais hospitais; investir em novas estruturas Meta / indicador (KPI): Taxa de ocupação; tempo de espera por leito Custo e financiamento: CUSTEIO (OPEX): reequilibrio ~R$150-210mi/ano. INVESTIMENTO (CAPEX): reforma/bloco de PS ~R$80-150mi one-off. Divida legada ~R$250mi = estoque renegociavel (não recorrente). PRAZO: Fase 1 (100 dias/Ano 1). Pay-for: 1o ponto do orçamento + repactuação da tabela SUS estadual. Prioridade: Quick-win (100 dias) Fonte: Fala do candidato 04/07/2026
+5.1.3 SAU-03, Pôr em uso a estrutura de saúde que já existe
+Diagnóstico: Estruturas de saúde no interior subutilizadas por desorganizacao orçamentária Ação (o como): Reorganização orçamentária para colocar em uso o que já existe, antes de construir Meta / indicador (KPI): Nº de unidades reativadas Custo e financiamento: INVESTIMENTO (CAPEX): baixo (obra já existe). CUSTEIO (OPEX): ~R$50120mi/ano p/ ativar 10-15 unidades. PRAZO: Fase 1. Pay-for: realocacao dentro da função saúde + credenciamento SUS federal (fundo-a-fundo). Prioridade: Quick-win (100 dias) Fonte: Fala do candidato 04/07/2026
+5.1.4 SAU-04, Normalizar as UPAs em cooperação com os municípios
+Diagnóstico: UPAs fora do padrão e falta de articulacao estado-município Ação (o como): Normalização das UPAs do estado em cooperação (lado a lado) com os prefeitos Meta / indicador (KPI): % de UPAs em funcionamento pleno Custo e financiamento: CUSTEIO (OPEX): cota estadual ~R$60-120mi/ano (UPA porte II ~R$69mi/ano, cofinanciamento tripartite Uniao+município+estado). INVESTIMENTO: baixo (unidades existentes). PRAZO: Fase 1. Pay-for: tripartite. Prioridade: Quick-win (100 dias) Fonte: Fala do candidato 04/07/2026
+5.1.5 SAU-05, Elevar a aplicação em saúde: de 12% para 18-20% do orçamento (+2 pontos/ano)
+Diagnóstico: O percentual do orçamento aplicado em saúde, próximo do mínimo constitucional (12%), limita a capacidade de atendimento Evidência / dado: Mínimo constitucional dos estados = 12% da receita líquida de impostos. Meta de TRAJETÓRIA: elevar a aplicação em saúde de ~12,3% para 18-20% do orçamento em 4 anos (+2 pontos/ano). Parâmetro de leitos: Portaria MS 1.101/2002, 2,5-3/mil (ver SAU-01). Ação (o como): Elevar a APLICAÇÃO em saúde (percentual do orçamento destinado à saúde, majoritariamente custeio: médicos, medicamentos, hospitais) de forma progressiva, trajetória de +2 pontos por ano, saindo do mínimo constitucional (~12%) rumo a 18-20% do orçamento ao fim do mandato, NÃO em bloco. SAU-02/03/04 estão dentro desta rampa. Custo e financiamento: 1 ponto ~R$195mi/ano (base 2025: 12,27%=R$2,39bi). TRAJETÓRIA: +2 pts/ano de ~12,3% para ~18-20% ao fim do mandato (+R$1,5-2,3bi/ano acumulado), que financia a rampa de OPEX das demais fichas. PRAZO: 4 anos. Ver aba 'Saúde Orçamento-Fases'.
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 25
+
+Prioridade: Estrutural (4 anos) Fonte: Fala do candidato 04/07/2026
+5.1.6 SAU-06, Auditar a Cassems e conter reajustes abusivos
+Diagnóstico: Reajuste abusivo da Cassems expulsa servidores; médicos descredenciando Evidência / dado: Salário +3,81% vs mensalidade +1.100-1.185%; taxa do conjuge R$35->450; servidores pedem CPI | Despesa 2025: o Estado pagou ~R$819mi à CASSEMS (maior credor "externo" da folha de saúde do servidor) - dimensiona o custo do reajuste a auditar. Ação (o como): Auditar a Cassems e travar reajuste abusivo; transparência do balanco Prioridade: Máxima Fonte: Comunicação_digital (comentarios)
+5.1.7 SAU-07, Força estadual permanente contra as arboviroses
+Diagnóstico: Combate as arboviroses fragmentado prefeitura a prefeitura Evidência / dado: 21a morte por chikungunya em 2026; alerta nos 79 municípios Ação (o como): Forca estadual permanente integrando as 79 cidades; dado em tempo real; apoio a cidades pequenas Prioridade: Estrutural (4 anos) Fonte: Comunicação_digital
+5.1.8 SAU-08, Regulação transparente da fila de cirurgias e laqueadura
+Diagnóstico: Fila longa de laqueadura gerida por repasse eleitoral Evidência / dado: R$1mi e fila de 3 mil mulheres Ação (o como): Regulação estadual transparente - a fila anda por criterio Prioridade: Estrutural (4 anos) Fonte: Comunicação_digital
+5.1.9 SAU-09, Merenda saudável com alimento produzido no MS
+Diagnóstico: Sobrepeso infantil elevado; ma alimentacao comeca no prato Evidência / dado: 3 em cada 10 criancas até 9 anos com excesso de peso Ação (o como): Merenda com alimento produzido no MS + educação alimentar (liga com Carne MS) Prioridade: Estrutural (4 anos) Fonte: Comunicação_digital
+5.1.10 SAU-10, Auditoria das PPPs de saúde, com prioridade ao interior
+Diagnóstico: PPP do HRMS e correta na direcao mas tardia e parcial (não resolve interior/UPAs) Evidência / dado: Amplia de 362 -> 577 leitos | Contratos vigentes 2025: SES = R$2,71 bi em 359 contratos (2º maior do Estado), confirma que a saúde estadual é contrato/OS-intensiva; daí priorizar a auditoria de PPPs/OS. Ação (o como): Auditoria transparente das PPPs; priorizar o interior Prioridade: Estrutural (4 anos) Fonte: Plano v0.7
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 26
+
+5.1.11 SAU-11, Método antes de privatizar: auditar a demanda e ouvir a população
+Diagnóstico: Querem privatizar/terceirizar a saúde sem saber o básico da demanda - 'receitar remedio sem conhecer o paciente' Ação (o como): MÉTODO em 3 passos antes de decidir: (1) 6 meses de auditoria da demanda (quem usa, onde, consumo de insumos); (2) consultar a população; (3) só então decidir entre gestão/parceria/privatizacao Meta / indicador (KPI): Diagnostico de demanda concluido antes de qualquer mudanca de modelo Prioridade: Quick-win (100 dias) Fonte: Videos @economistarenato
+5.1.12 SAU-12, Gestor da saúde usa o SUS: limitar reembolso de plano privado
+Diagnóstico: Políticos usam saúde privada com reembolso público e ignoram a fila do SUS - 'só resolvem no dia em que usarem o SUS' Evidência / dado: Ex: deputado que já gastou ~R$200 mil em tratamentos privados Ação (o como): Vedar/limitar reembolso de saúde privada a agente público estadual; gestor da saúde usa a rede pública Meta / indicador (KPI): R$ de reembolso de saúde privada a agentes públicos (meta: zero) Prioridade: Estrutural (4 anos) Fonte: Videos @economistarenato
+5.1.13 SAU-13, Pôr o ativo próprio em operação e acabar com aluguéis suspeitos
+Diagnóstico: Ativos públicos de saúde parados para preservar contratos de aluguel - indicio de desvio de finalidade Evidência / dado: 14 ambulancias novas (verba federal) paradas ~6 meses; contrato de aluguel de ambulancias ~R$2mi/mes Ação (o como): Por o ativo próprio em operação e extinguir o aluguel; auditar contratos de locacao na saúde/SAMU Meta / indicador (KPI): % de frota própria em operação vs alugada Prioridade: Quick-win (100 dias) Fonte: Videos @economistarenato
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 27
+
+Pilar 3, Educação
+Formar para as vagas reais do estado, com carreira e escola de qualidade, e valorizar a cultura regional.
+8 propostas, organizadas nos temas abaixo. Política-guia: fechar a distância entre a riqueza gerada e a vida das pessoas.
+6.1 Educação
+7 propostas.
+6.1.1 EDU-01, Ensino médio técnico ligado às vagas reais do MS
+Diagnóstico: Formacao desconectada das vagas reais do estado Ação (o como): Ensino médio técnico atrelado as vagas reais do MS; reformar MS Qualifica (Senai/Senac/Sebrae/universidades); fortalecer a UEMS Onde já funcionou / referência: Referência positiva: UFMS subiu 20 posicoes no ranking mundial (2026) Prioridade: Estrutural (4 anos) Fonte: Plano v0.7; comunicação_digital
+6.1.2 EDU-02, Escola em tempo integral, mérito e concurso de professores
+Diagnóstico: Educação move ~3% do voto mas e base do desenvolvimento Evidência / dado: Educação 2024 = R$4,31bi (17% do orçamento) Ação (o como): Criterios de desempenho para diretores; escolas em tempo integral; concursos de professores Custo e financiamento: +R$200mi (Ano1) -> R$1bi (Ano4) do saldo líquido Prioridade: Estrutural (4 anos) Fonte: Plano v0.7
+6.1.3 EDU-03, Entregar as reformas escolares prometidas, com saneamento
+Diagnóstico: Reforma de escolas prometida e não entregue; escolas sem saneamento básico Evidência / dado: 356 escolas prometidas (2021); MP vistoriou 60 e 45% sem saneamento; MS perdeu 38 obras (~R$11mi) por falha técnica Ação (o como): Entregar reformas com competência técnica e cronograma público; priorizar saneamento nas escolas Meta / indicador (KPI): % de escolas prometidas entregues; % com saneamento Prioridade: Estrutural (4 anos) Fonte: Videos @economistarenato
+6.1.4 EDU-03b, Recuperar o ensino médio: gestão por resultado e busca ativa
+Diagnóstico: O Ensino Médio esta em retrocesso - o problema e qualidade, não acesso Evidência / dado: IDEB médio 4,0 (abaixo da meta, retrocesso); distorcao idade-série no médio 25,6%; atendimento 4-17 e 96,7% Ação (o como): Gestão por resultado + busca ativa; foco no médio; cruzar dado de fluxo com o INEP (não só a SED) Meta / indicador (KPI): IDEB do médio; distorcao idade-série; abandono
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 28
+
+Custo e financiamento: OPEX dentro dos 25% MDE + FUNDEB (realocar p/ qualidade). PRAZO: Fase 1 Prioridade: Estrutural (4 anos) Fonte: INEP/IDEB 2023
+6.1.5 EDU-04, Cofinanciar creches (0-3 anos) com os municípios
+Diagnóstico: O maior déficit de vagas e a creche (0-3 anos) - competência municipal, mas o estado pode cofinanciar Evidência / dado: Creche: só 41,1% de atendimento (70,5 mil matriculados); ~59% da faixa fora Ação (o como): Cofinanciar creche com os municípios (PAC creche/FNDE + estadual) Meta / indicador (KPI): % de atendimento na creche Custo e financiamento: CAPEX de creches + OPEX de custeio (cofinanciamento tripartite). PRAZO: Fase 2 Prioridade: Estrutural (4 anos) Fonte: Anuario/INEP 2023
+6.1.6 EDU-05, EJA e alfabetização de idosos com igrejas e comunidades
+Diagnóstico: O analfabetismo voltou a SUBIR, puxado por idosos - lacuna de EJA Evidência / dado: 87 mil analfabetos (15+), taxa 3,9% (subiu de 3,7%); 60+ concentra 60% (53 mil) Ação (o como): EJA e alfabetização de idosos, com igrejas/comunidades (liga com a base católica) Meta / indicador (KPI): Taxa de analfabetismo; matrículas de EJA Custo e financiamento: OPEX baixo dentro do FUNDEB. PRAZO: Fase 1 (quick-win) Prioridade: Quick-win (100 dias) Fonte: IBGE/PNAD 2025
+6.1.7 EDU-06, Saneamento e laboratórios nas escolas de alto risco
+Diagnóstico: Infraestrutura escolar precaria - foco em saneamento e laboratório Evidência / dado: ~48% das escolas sem esgoto público (INEP 2023); laboratório de ciencias em só 15,5%; MPMS achou 66 escolas com problema/45 de alto risco Ação (o como): Esgoto e reforma nas escolas de alto risco (MPMS); laboratórios e conectividade pedagogica Meta / indicador (KPI): % de escolas com esgoto/laboratório Custo e financiamento: INVESTIMENTO (CAPEX): esgoto/reformas criticas ~R$100-200mi. PRAZO: Fases 1-3 Onde já funcionou / referência: CORRIGIR narrativa: dado robusto e '~48% sem esgoto público', NÃO '45% sem saneamento' (confusao com as 45 escolas de alto risco) Prioridade: Estrutural (4 anos) Fonte: INEP 2023; MPMS
+6.2 Cultura
+1 propostas.
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 29
+
+6.2.1 CUL-01, Prioridade ao artista local nos editais e eventos públicos
+Diagnóstico: Contratação de artistas de fora drena recurso público que poderia girar a economia cultural local Ação (o como): Priorizar artistas locais em eventos e editais públicos, restringindo ao máximo (dentro da lei) a contratação de artistas de fora; valorizar a cultura regional (pantaneira, sertaneja, indígena, fronteirica) Resultado esperado: Economia criativa do MS aquecida; identidade regional valorizada Meta / indicador (KPI): % do cache/edital público destinado a artistas do MS Custo e financiamento: ~NEUTRO (mesma logica da margem de preferência; ver ECO-06) Onde já funcionou / referência: Liga com priorizacao do local (Compre MS ECO-03, profissionais liberais ECO-06) Prioridade: Estrutural (4 anos) Fonte: Fala do candidato, 04/07/2026
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 30
+
+Pilar 4, Segurança
+Recompor o efetivo, blindar a fronteira e prevenir o crime, com inteligência que segue o dinheiro.
+7 propostas, organizadas nos temas abaixo. Política-guia: fechar a distância entre a riqueza gerada e a vida das pessoas.
+7.1 Segurança e Fronteira
+7 propostas.
+7.1.1 SEG-01, Mais efetivo e mais tecnologia na segurança, com prioridade na fronteira
+Diagnóstico: Estado-fronteira opera com pouco mais da metade do efetivo necessário; o crime na fronteira exige tanto mais policiais quanto mais tecnologia Evidência / dado: Déficit ~42,8% (FBSP: 7.200 de 12.600 ideais). O homicídio já cai (18,7/100 mil, 2024) e se concentra na fronteira (21% dos homicídios em ~12% da população). Reforçar o efetivo e a tecnologia, juntos, na fronteira. Ação (o como): Ampliar e reforçar o efetivo policial com novos concursos, priorizando a fronteira, com o número dimensionado pela capacidade fiscal ano a ano (sem fixar de antemão uma meta rígida de 4 mil). Em paralelo, e como MULTIPLICADOR do efetivo, investir forte em TECNOLOGIA e INTELIGÊNCIA: muralha digital na fronteira (câmeras, leitura de placa), integração de dados PM+PC+DOF e IA para seguir o dinheiro do crime (SEG-02), tudo CAPEX alavancável no FNSP. Mais policiais E mais tecnologia, com responsabilidade fiscal. Meta / indicador (KPI): Efetivo ampliado vs déficit; km de fronteira monitorada; dado integrado entre as forças; resultado do crime por região (ver SEG-07) Custo e financiamento: OPEX da ampliação do efetivo, em rampa e dimensionada pela capacidade fiscal, priorizando a fronteira (o número exato de novos policiais é calibrado ano a ano, não fixado). CAPEX de tecnologia (muralha digital ~R$30mi + viaturas/drones) e infraestrutura (delegacias, presídios), alavancáveis no FNSP. Onde já funcionou / referência: RIGOR: NÃO existe "padrão da ONU de X policiais por habitante", é mito/estatística-fantasma (Africa Check; a própria ONU não tem essa norma). MS tem ~275 policiais/100 mil (PM+PC), NA MÉDIA/acima do Brasil (~250) e perto da mediana mundial do UNODC (~300). O déficit de 42,8% é de VAGAS LEGAIS NÃO PREENCHIDAS (concurso/reposição), não de padrão por habitante, enquadrar como "cargos que a lei prevê e não foram preenchidos". Mais policial ≠ menos crime (Amapá 4,2/mil e homicídio 50,6; SC 1,3/mil e 9,1). O MAIOR ganho é GESTÃO: distribuição por mapa de risco, tirar o PM da mesa (civilinizar o administrativo), inteligência integrada (CompStat) e tecnologia na fronteira, a reposição de efetivo vem depois e em rampa. Prioridade: Estrutural (4 anos) Fonte: Plano v0.7
+7.1.2 SEG-02, Central integrada de inteligência para “seguir o dinheiro”
+Diagnóstico: Repressao tratada como evento (apreensao-foto), não como sistema; PCC x CV disputam rotas Evidência / dado: Fronteira=21% dos homicídios dolosos; 75 vitimas na faixa (2025, +27%); 1.500 km de divisa seca; DOF ~196t apreendidas Ação (o como): Central integrada de inteligência (PM+PC+DOF) em 100 dias; plataforma única tributária+criminal (Sefaz/DOF/PRF/PC/PM/RF - seguir o dinheiro); metas por território de risco; cooperação Bolivia/Paraguai; alimenta a gestão por resultado com meta por região (ver SEG-07)
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 31
+
+Meta / indicador (KPI): Queda de homicídios/roubos nas regiões criticas; tempo de resposta Custo e financiamento: INVESTIMENTO (CAPEX): muralha digital de câmeras/OCR na fronteira ~R$30mi (proxy MT, alavancável FNSP) + bases do DOF em Ponta Porã e Corumbá. PRAZO: Fase 1 (quick-win, alto retorno). Onde já funcionou / referência: Competência PARCIAL: Estado faz DOF/inteligência; cobra da Uniao PF/Exercito || CORRIGIR homicídios: 18,7/100 mil em 2024 (EM QUEDA, ~20o) - NÃO usar '28,3/6o' (dado de 2012). Munição real: 21% dos homicídios em 12% da pop (fronteira, 13 municípios); drogas 407,5t (2024); só 123 câmeras PTZ hoje (MT cobre 100% dos municípios). Prioridade: Quick-win (100 dias) Fonte: Plano v0.7; comunicação_digital
+7.1.3 SEG-03, Prevenir o crime com escola integral, esporte e cultura
+Diagnóstico: Falta prevenção ao recrutamento pelo crime nas regiões de risco Ação (o como): Escola integral, esporte e cultura nas regiões de risco como prevenção Prioridade: Estrutural (4 anos) Fonte: Plano v0.7
+7.1.4 SEG-04, Valorizar a base da PM, financiada pelo fim do desvio
+Diagnóstico: A base da PM (cabos e soldados) esta mal paga e defasada, com paliativos ('bico') em vez de valorização Evidência / dado: Vale-alimentacao de praca congelado em R$100 desde 2013; ~3.000 cabos e soldados custam ~R$200mi/ano (10x menos que os supersalários); promoções atrasadas Ação (o como): Valorizar a base (soldo, promoções em dia) financiado pelo fim do desvio/supersalários; recompor efetivo (ver SEG-01) Meta / indicador (KPI): Defasagem salarial da tropa; promoções em dia Custo e financiamento: CUSTEIO (OPEX): valorização da base (soldo/promoções) = folha, Tesouro estadual. INVESTIMENTO: baixo. PRAZO: Fases 1-2. Financiada pelo fim do desvio/supersalários. Prioridade: Estrutural (4 anos) Fonte: Videos @economistarenato
+7.1.5 SEG-05, Enfrentar o colapso prisional e a entrada de facção
+Diagnóstico: Colapso prisional: MS tem o 3o pior déficit de vagas do país; a fronteira alimenta o presídio (35% por tráfico) Evidência / dado: 17.844 presos / 9.571 vagas = déficit 8.273 (88,24%); Máxima de CG a 403%; ampliacoes previstas +1.954 não cobrem (AGEPEN 2025) Alternativas: (A) só construir vagas; (B) construir + alternativas penais + inteligência p/ reduzir a entrada; (C) status quo Critério de escolha: Escolhe (B): vaga sozinha não resolve se a fronteira segue abastecendo Ação (o como): Ampliar vagas (foco no déficit) via FUNPEN; penas alternativas p/ baixo potencial; inteligência p/ atacar a entrada de facção Meta / indicador (KPI): Taxa de ocupação dos presídios; déficit de vagas Custo e financiamento: INVESTIMENTO (CAPEX): ~R$45-70k/vaga (fechar ~metade, 4 mil vagas = R$180-280mi, alavancável FUNPEN). CUSTEIO (OPEX): ~R$23,7k/preso/ano (4 mil = ~R$95mi/ano). PRAZO: Fases 2-3.
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 32
+
+Onde já funcionou / referência: AGEPEN 2025; SENAPPEN. CUIDADO: alerta CGU de baixa execução da verba federal p/ presídios (munição + risco) Prioridade: Estrutural (4 anos) Fonte: AGEPEN Mapa Prisional 2025
+7.1.6 SEG-06, Política estadual de enfrentamento ao feminicídio
+Diagnóstico: Feminicidio elevado, contrastando com o homicídio geral em queda - lacuna de política específica Evidência / dado: 3,14 feminicidios/100 mil mulheres (44 vitimas em 2022) - entre os piores do país (média nacional ~1,2). SEJUSP Ação (o como): Política estadual de enfrentamento (proteção, delegacias da mulher, botao do pânico, dado público); ha eixo do FNSP p/ isso (~R$3,7mi) Meta / indicador (KPI): Taxa de feminicidio/100 mil mulheres Custo e financiamento: CUSTEIO baixo-médio; alavancável FNSP (eixo violência contra a mulher). PRAZO: Fase 1. Onde já funcionou / referência: Dado verdadeiro e verificável (SEJUSP) Prioridade: Quick-win (100 dias) Fonte: SEJUSP-MS (Plano Estadual)
+7.1.7 SEG-07, Meta de redução do crime por região, cobrada por resultado
+Diagnóstico: Segurança gerida sem meta e sem cobrança por resultado: a tropa é alocada por conveniência e o comandante não responde pelo indicador da sua área. A mesma política é aplicada a realidades muito diferentes (fronteira, capital, interior) Evidência / dado: Os indicadores variam enormemente por região: a fronteira concentra ~21% dos homicídios em ~12% da população; a capital puxa o crime patrimonial; o interior, a violência doméstica. Política única para realidades distintas desperdiça esforço Ação (o como): Gestão por resultado (modelo tipo CompStat estadual): definir META DE REDUÇÃO DO CRIME POR REGIÃO conforme o índice de cada uma, fronteira mira homicídio e tráfico; capital mira patrimonial; interior mira violência doméstica, com REUNIÃO MENSAL DE DADO (mapa de calor por batalhão/delegacia) e RESPONSABILIZAÇÃO DO COMANDANTE LOCAL pelo indicador da sua área. Casa com a inteligência integrada (SEG-02) e a alocação por mapa de risco Meta / indicador (KPI): Redução % do índice-alvo de cada região (homicídio na fronteira, patrimonial na capital, violência doméstica no interior); frequência da reunião de dado Custo e financiamento: CUSTO BAIXO (é gestão, não folha nova): usa o dado e o efetivo que já existem. PRAZO: Fase 1 (100 dias para montar o painel e as metas). Onde já funcionou / referência: Modelo consagrado (CompStat/NYPD; adaptações em SP e no Pacto pela Vida de PE/MG). Redução mensurável onde houve meta + cobrança por dado Prioridade: Quick-win (100 dias) Fonte: Método (gestão por resultado); dados de concentração SEJUSP-MS
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 33
+
+Pilar 5, Economia e Desenvolvimento
+Fazer a riqueza gerada chegar à vida das pessoas: bolso do povo, justiça tributária, interior, energia, moradia, turismo, meio ambiente e o pequeno produtor.
+59 propostas, organizadas nos temas abaixo. Política-guia: fechar a distância entre a riqueza gerada e a vida das pessoas.
+8.1 Economia e Desenvolvimento Produtivo
+11 propostas.
+8.1.1 ECO-01, Reorganizar orçamento e tributação em torno do bem comum
+Diagnóstico: MS gera muita riqueza mas ela se concentra e sai do estado; o povo fica pobre Evidência / dado: PIB R$184-227 bi; 5 municípios=48% do PIB; desigualdade 16,9x (Selvíria R$330mil/hab x Ladário R$19,5mil); celulose R$131bi p/ ~30 mil empregos (R$4mi/emprego); salário de admissão R$2.303 (abaixo da média nacional) Ação (o como): Reorganizar orçamento e tributação em torno do bem comum; interiorizar o desenvolvimento (ver ECO-02/03) Meta / indicador (KPI): Participação dos não-Top5 no PIB; PIB per capita do 1o quartil Prioridade: Estrutural (4 anos) Fonte: Plano v0.7; dados municípios
+8.1.2 ECO-02, Empresas em 3 Anéis: crédito de ICMS por contrapartida
+Diagnóstico: Sistema atual trata igual quem gera emprego local e quem só extrai e leva a riqueza embora Evidência / dado: Renúncia de ICMS = R$11,95 bi/ano (LDO 2026, 53,6% da receita tributária); Construção R$6bi + Agro R$3,75bi = 82% Alternativas: (A) manter renúncia linear; (B) condicionar a contrapartida auditada (3 anéis); (C) acabar com incentivos Critério de escolha: Escolhe (B): premiar quem agrega/emprega, cobrar quem só extrai Ação (o como): Classificar empresas em 3 Anéis (folha, salário, % empregados MS, % matéria-prima local, conformidade); Anel 1 e 2 = crédito outorgado até 7 p.p.; Anel 3 paga cheio e financia o FDP-MS Meta / indicador (KPI): R$14-24 bi de investimento em 4 anos; 25-38 mil empregos diretos Custo e financiamento: Capta parte da renúncia hoje não fiscalizada (realoca, não custa) Prioridade: Estrutural (4 anos) Fonte: Plano v0.7; LDO 2026
+8.1.3 ECO-03, “Compre MS”: crédito de ICMS para adensar as cadeias locais
+Diagnóstico: Matéria-prima sai in natura (celulose bruta, soja, boi vivo); cadeia local não fecha Ação (o como): Compre MS (crédito de ICMS a quem compra de fornecedor local); FDP-MS financiado pelo Anel 3; adensar 10 cadeias (carne, celulose/papel, soja/biodiesel, sucroenergia, leite, piscicultura, fruticultura, TI, turismo, energia renovavel) Meta / indicador (KPI): +30% de abate processado no estado em 4 anos -> 8-12 mil empregos Prioridade: Estrutural (4 anos) Fonte: Plano v0.7
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 34
+
+8.1.4 ECO-04, Revisar incentivos e fazer orçamento por prioridade
+Diagnóstico: Arrecadação encolhendo e crescimento não chega ao interior nem ao trabalhador Evidência / dado: Arrecadação MS -1,3% nominal / -6,5% real no 1o bim/2026 vs MT +8,8%; ICMS ~70% da receita Ação (o como): Revisar incentivos com contrapartida; desburocratizar abrir/licenciar empresa (Junta Comercial, Imasul); orçamento por prioridade (cortar custeio/privilegio, blindar investimento) Meta / indicador (KPI): Tempo p/ abrir empresa; % orçamento em investimento vs custeio; CAGED interior Custo e financiamento: Não exige gasto novo - realocacao + eficiência Prioridade: Quick-win (100 dias) Fonte: Comunicação_digital; plano v0.7
+8.1.5 ECO-05, Banco estatal comercial e de desenvolvimento do MS
+Diagnóstico: Crédito caro (juros ~300% a.a.) sufoca quem gera emprego; o estado não concorre no sistema financeiro Ação (o como): Criar um BANCO COMERCIAL ESTATAL do MS e um BANCO DE DESENVOLVIMENTO do MS para impor concorrência ao sistema financeiro, baratear o crédito produtivo e reduzir o custo de produção (inclui financiar o portfolio de energia - ver Energia). É também o VETOR da meta de 30% de investimento do Estado (ver INT-06): amplia o investimento público além do capital direto do orçamento, alavancando crédito para infraestrutura e produção. Meta / indicador (KPI): Volume de crédito orientado ao pequeno/médio; taxa média vs mercado Custo e financiamento: APORTE DE CAPITAL (não custeio) R$300-500mi; com Basileia ~20-25% alavanca 4-5x -> carteira R$1,2-2,5bi. Priorizar o Banco de DESENVOLVIMENTO (menor risco) sobre o comercial. Pay-for: ativos/participacoes do estado, securitizacao da divida ativa, transformar a agência de fomento existente. Onde já funcionou / referência: Modelos BRDE, BDMG, Banco do Nordeste Prioridade: Estrutural (4 anos) Fonte: Fala do candidato, 04/07/2026
+8.1.6 ECO-06, Prioridade ao profissional liberal do MS nas contratações públicas
+Diagnóstico: Contratação de serviços profissionais externos pelo estado drena renda que poderia ficar com profissionais do MS Alternativas: (A) contratação aberta sem preferência; (B) margem de preferência regional + credenciamento local; (C) exclusão de quem e de fora (ilegal - fere isonomia) Critério de escolha: Escolhe (B). Instrumento legal: margem de preferência regional da Lei 14.133 e credenciamento; não e exclusão pura Ação (o como): Priorizar profissionais liberais internos (advogados, contadores, engenheiros, etc.) sobre os externos nas contratações, credenciamentos e convenios do estado, dentro da Lei 14.133 Resultado esperado: Renda dos serviços profissionais girando dentro do MS Meta / indicador (KPI): % de contratos/honorarios de serviço com profissionais e empresas do MS Custo e financiamento: ~NEUTRO: margem de preferência (até 10%, Lei 14.133) redireciona compra já orcada; sobrepreco < 1% da rubrica. Retorno via ICMS local. Onde já funcionou / referência: Liga com Compre MS (ECO-03) e artistas locais (eixo Cultura) Prioridade: Estrutural (4 anos)
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 35
+
+Fonte: Fala do candidato, 04/07/2026
+8.1.7 ECO-07, Cadastro público anual dos beneficiários de ICMS
+Diagnóstico: MS renúncia muito ICMS mas não mostra o retorno: não ha lista pública de beneficiários nem relatório de emprego/investimento gerado (MG e MT publicam, MS não) Evidência / dado: Renúncia de ICMS R$11,95 bi/ano (LDO 2026, 53,6% da receita tributária); Construção R$6,01bi + Agro R$3,75bi = 82% Alternativas: (A) manter opaco; (B) cadastro público de beneficiários (CNPJ, valor, contrapartida pactuada x cumprida); (C) só auditoria interna Critério de escolha: Escolhe (B): transparência com dado que a Sefaz já tem; espelha MG e MT Ação (o como): Cadastro público anual de beneficiários de ICMS com contrapartida pactuada e cumprida; próximo passo: LAI a Sefaz/Semadesc/TCE Meta / indicador (KPI): % da renúncia (R$) com beneficiário e contrapartida publicados (meta 100% em 12 meses) Custo e financiamento: ~zero (transparência de dado existente); ganho = benefícios indevidos recuperados Onde já funcionou / referência: CUIDADO: não usar o caso Fungefaz R$18,5mi - e de MT, não de MS. MG divulgou R$19,4bi de beneficiários (jun/2026) ||. Prioridade: Quick-win (100 dias) Fonte: LDO 2026; SEFAZ-MS; comparativos MG/MT
+8.1.8 ECO-08, Condicionar a renovação de benefício fiscal a metas verificáveis
+Diagnóstico: Em 2026 MS andou para tras: dispensou a guia específica de benefícios (GIA-BF) e renovou 77 benefícios em 12 setores por decreto, sem contrapartida declarada Evidência / dado: Fim da GIA-BF (2026); 77 benefícios renovados até dez/2026 (SEMADESC 30/03/2026). Lei 4.049/2011 (MS Forte) Art.5 e 8 permitem exigir e CANCELAR contrapartida Ação (o como): Condicionar toda renovação de benefício a metas verificáveis de emprego/investimento + verificacao anual por amostragem + cláusula automática de suspensão (Art.8, sem lei nova) Meta / indicador (KPI): Nº de benefícios com meta verificável assinada / total; valor suspenso por descumprimento Custo e financiamento: Administrativo marginal; pay-for = imposto recuperado de quem não cumpre Prioridade: Estrutural (4 anos) Fonte: Lei 4.049/2011; Midiamax 2026; SEMADESC 2026
+8.1.9 ECO-09, Avaliação bienal de custo-benefício da renúncia de ICMS
+Diagnóstico: O maior gasto tributário do estado passa sem avaliação de resultado: o TCE-MS só recomendou 'melhorar a informação na LDO', não auditou custo-benefício Evidência / dado: TCE-MS aprovou contas 2024 com recomendacao branda sobre renúncia; nenhuma auditoria operacional de eficacia localizada Ação (o como): Avaliação bienal de custo-benefício da renúncia por setor (emprego/PIB/arrecadação futura por R$1 renunciado), publicada junto a LDO Meta / indicador (KPI): Relatório bienal publicado (sim/não); empregos gerados por R$1mi renunciado, por setor Custo e financiamento: Baixo (estudo técnico); realoca renúncia de baixo retorno
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 36
+
+Prioridade: Estrutural (4 anos) Fonte: TCE-MS (contas 2024); LDO 2026
+8.1.10 ECO-10, Enfrentar a usura: crédito barato como política econômica
+Diagnóstico: O maior inimigo da economia não e o gasto público nem a Previdência - e o sistema financeiro/juros que drena a riqueza (angulo-assinatura do economista) Evidência / dado: Juros+divida ~50-55% do orçamento federal (~R$3,3tri); Selic 15% a.a.; 'bolsa esmola dos ricos': R$1tri/ano a aplicadores = ~200x o custo do botijão gratuito (R$5bi) Alternativas: (A) só cortar gasto (liberal); (B) enfrentar o custo do dinheiro e induzir crédito barato via banco estadual Critério de escolha: 'Existe teto de gastos, mas não existe teto de juros' Ação (o como): No plano estadual: banco público (ECO-05) p/ baratear crédito + priorizar a renda do trabalho; nomear a usura como problema Meta / indicador (KPI): Taxa média de juros do sul-mato-grossense; crédito produtivo vs consumo Onde já funcionou / referência: Tema em parte federal; ANGULO próprio dele Prioridade: Estrutural (4 anos) Fonte: Videos @economistarenato
+8.1.11 ECO-11, Verticalizar a produção e reter valor dentro do MS
+Diagnóstico: MS exporta cru (grão, boiada, celulose bruta) e o valor/emprego/tecnologia ficam fora 'produz como rico, vive como pobre' Evidência / dado: Industria do MS ~1% da nacional; 75% do excedente vira lucro externo (IBGE); PIB/hab 30% acima da média mas renda popular só 6% acima; UFN3 (fertilizantes, Três Lagoas) atendera 16% da demanda nacional Ação (o como): Verticalizar: esmagar soja (farelo/óleo/biodiesel), frigorífico com produto acabado, fertilizante local, data centers de IA; incentivo só com contrapartida de emprego/salário Meta / indicador (KPI): % da cadeia industrializada dentro do estado; empregos de alto salário Onde já funcionou / referência: Liga com 3 Anéis (ECO-02) e Compre MS (ECO-03) Prioridade: Estrutural (4 anos) Fonte: Videos @economistarenato; plano v0.7
+8.2 Bolso do Povo (Custo de Vida)
+7 propostas.
+8.2.1 BP-01, ICMS zero no gás de cozinha para famílias do CadÚnico
+Diagnóstico: Carga tributária pesa no gas de cozinha; pobre paga ICMS de 17% Evidência / dado: ~R$19,11 de ICMS por botijão de 13kg Ação (o como): ICMS zero no GLP para famílias do CadUnico, via revendedores credenciados Resultado esperado: ~R$230/ano de alivio; ~350 mil famílias Custo e financiamento: R$80-120 mi/ano Prioridade: Quick-win (100 dias) Fonte: Plano v0.7
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 37
+
+8.2.2 BP-02, Energia: isenção até 150 kWh e faixas progressivas de ICMS
+Diagnóstico: Em MT o pobre e isento até 100kWh; em MS paga desde o 1o kWh, com a 2a luz mais cara do Brasil Evidência / dado: ICMS-energia arrecadou R$948,6mi (2024); residencial 25-30% || CORRIGIR o enquadramento: falar '2o maior REAJUSTE do país em 2025' e reajustes acima da inflacao, NÃO '2a luz mais cara'. ICMS-energia arrecadou R$948,6mi (2024). Ação (o como): Isenção total até 150 kWh; 7% de 151-250; 12% de 251-350; 17% acima de 350 Resultado esperado: 600-700 mil famílias Custo e financiamento: Perda de R$145-175 mi/ano Prioridade: Quick-win (100 dias) Fonte: Plano v0.7
+8.2.3 BP-03, Carne mais barata: diferimento de ICMS e selo “Carne MS”
+Diagnóstico: Maior rebanho do país e a carne e cara aqui (>60% exportada, indexada ao dolar) Evidência / dado: ~18 mi de cabecas; 3o maior abate do país || CORRIGIR: rebanho 18,7mi (IBGE PPM 2024, 5o do país); ponto de partida foi ~21mi (pico 2013-15), NÃO 25mi. Carne tem BASE REDUZIDA (carga efetiva ~2%), não alíquota cheia de 12%. Ação (o como): Diferimento de ICMS no boi/suino/frango que entra em frigorífico peq/médio com SIE p/ consumo interno; alíquota 5% no varejo de cortes populares; selo Carne MS; prioridade a acougue de bairro no Compre MS Resultado esperado: Redução 15-20% no preco; 2-3 mil empregos no interior Custo e financiamento: R$30-50 mi/ano Prioridade: Estrutural (4 anos) Fonte: Plano v0.7
+8.2.4 BP-04, ICMS zero na cesta básica, mirando reduzir o custo até 50%
+Diagnóstico: O custo da cesta básica compromete parcela alta da renda dos mais pobres Evidência / dado: || CONFIRMADO (DIEESE mai/2026): cesta básica em CG = R$841,19; compromete 56,10% do salário mínimo líquido; +8,41% no acumulado do ano. Alternativas: (A) ICMS zero nos essenciais; (B) além disso, priorizar produção DENTRO do MS com incentivo tributário (liga com Compre MS); (C) subsídio direto Critério de escolha: Escolhe (A)+(B). META de -50% marcada, depende de cadeia/logística Ação (o como): ICMS zero em 30+ itens essenciais + incentivo para que a produção da cesta fique no MS; norte de reduzir até 50% do custo Meta / indicador (KPI): Preco da cesta (DIEESE) no MS; % da renda mínima comprometida Custo e financiamento: Renúncia R$200-300 mi/ano; compensar via seletividade (Justiça Tributária) Prioridade: Quick-win (100 dias) Fonte: Plano v0.7; Fala do candidato 04/07/2026
+8.2.5 BP-05, Desonerar remédios, internet e água/esgoto essenciais
+Diagnóstico: Itens essenciais além da cesta também são onerados Ação (o como): Medicamentos da RENAME sem ICMS; internet residencial até R$100 e pré-pago até R$50 a 7%; água/esgoto Sanesul até 15 m3 isentos
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 38
+
+Custo e financiamento: RENAME R$100-150mi; internet R$80-120mi; água R$30-50mi. TOTAL Pilar 1: R$1,6-2,2 bi/ano (~700 mil famílias) Prioridade: Estrutural (4 anos) Fonte: Plano v0.7
+8.2.6 BP-06, Loteria estadual (Lotesul): não institucionalizar o jogo
+Diagnóstico: Reativar a loteria estadual (Lotesul) institucionaliza o jogo e extrai renda de quem menos pode - 'imposto voluntario sobre o vicio' Evidência / dado: Expectativa de a população perder ~R$10bi em 10 anos (R$1bi/ano); repasse de só ~20% (~R$200mi/ano) ao estado Ação (o como): Não institucionalizar; se existir, restringir a beneficiários de programas sociais e cobrar imposto alto (vies católico + fiscal) Prioridade: Estrutural (4 anos) Fonte: Videos @economistarenato
+8.2.7 BP-07, Transporte coletivo: estudo técnico antes de renovar a concessão
+Diagnóstico: O transporte coletivo e um monopolio de longo prazo (consórcio) que reajusta tarifa sem alternativa estudada Evidência / dado: Tarifa +~25-26%; divida da prefeitura com o consórcio R$377mi; retorno declarado 4%/ano x patrimônio subindo ~20%/ano (indicio) Ação (o como): Antes de renovar, estudo técnico (técnicos + UFMS) comparando modelos - vans, apps, concorrência, VLT/trilho, bike/patinete - com preco, investimento, margem e qualidade Meta / indicador (KPI): Nº de modelos avaliados antes da renovação; tarifa Onde já funcionou / referência: Competência municipal em parte; ANGULO de método Prioridade: Estrutural (4 anos) Fonte: Videos @economistarenato
+8.3 Justiça Tributária
+6 propostas.
+8.3.1 JT-01, Tributar mais o patrimônio e o supérfluo, menos o essencial
+Diagnóstico: Sistema estadual pesa sobre consumo/produção (regressivo), onerando mais quem tem menos Evidência / dado: Repasse de ICMS aos municípios (cota de 25%) = R$4,385 bi em 2025 -> ICMS arrecadado derivado ~R$17,5 bi (aproximado); com renúncia de R$11,95 bi, o "ICMS potencial" é muito maior, base aritmética da justiça tributária. Critério de escolha: Principio 'a quem mais e dado, mais e cobrado' (Lucas 12:48), preservando a arrecadação Ação (o como): Reorientar a arrecadação: mais sobre alto patrimônio e supérfluo, menos sobre produção/consumo essencial. Instrumentos estaduais: ITCMD, IPVA progressivo, seletividade do ICMS (IR e IGF são federais) Meta / indicador (KPI): % da arrecadação vinda de patrimônio x consumo Custo e financiamento: Desenho NEUTRO em arrecadação Prioridade: Estrutural (4 anos)
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 39
+
+Fonte: Fala do candidato 04/07/2026; plano v0.7
+8.3.2 JT-02, ITCMD progressivo, com faixa para o latifúndio improdutivo
+Diagnóstico: ITCMD e o imposto estadual mais subutilizado e regressivo; EC 132/2023 obriga progressividade e MS não cumpriu Evidência / dado: Alíquota hoje ~6% sem progressividade; SP/RJ/PE já vao a 8% ||. Ação (o como): Tabela 3/5/7/8% por faixa; faixa extra p/ imóvel rural >15 modulos fiscais (1.200-1.500 ha) com avaliação anti-subavaliacao Custo e financiamento: +R$200-400 mi/ano (estado) Onde já funcionou / referência: SP, RJ, PE Prioridade: Estrutural (4 anos) Fonte: Plano v0.7
+8.3.3 JT-03, Cooperar com municípios contra o latifúndio subtributado (ITBI/ITR)
+Diagnóstico: ITBI (municipal) e ITR (federal) subtributam o latifundio improdutivo; o estado pode cooperar Ação (o como): MS Cooperação Tributária Municipal: georreferenciamento por satelite/drone, PGV atualizada, minuta de ITBI progressivo; apoiar adesao ao convenio do ITR com a Receita (município fica com 100%), foco no improdutivo (até 20%) Meta / indicador (KPI): Se 50% aderirem: ITR R$50->200-350mi; ITBI +R$100-200mi (municípios) Custo e financiamento: Cooperação R$30-50mi/ano (estado); saldo líquido estadual +R$170-370mi Prioridade: Estrutural (4 anos) Fonte: Plano v0.7
+8.3.4 JT-04, IPVA progressivo, alcançando lanchas e aeronaves de luxo
+Diagnóstico: IPVA não capta o consumo de luxo Evidência / dado: ||. Ação (o como): IPVA progressivo por valor, alcancando embarcacoes e aeronaves de luxo Custo e financiamento: +R$50-150 mi/ano Prioridade: Estrutural (4 anos) Fonte: Plano v0.7
+8.3.5 JT-05, Fiscalização integrada e modernização da PGE
+Diagnóstico: Privilegio e sonegacao drenam receita que poderia desonerar o pobre Evidência / dado: Metas Ano1->4: pente-fino renúncias regressivas (TARE) R$400mi->1,5bi; Divida Ativa (PGE) R$200mi->1bi; sonegacao (fronteira/boi/combustível) R$300mi->1,2bi; royalties R$100>400mi Ação (o como): Fiscalização integrada; modernização da PGE Prioridade: Estrutural (4 anos) Fonte: Plano v0.7
+8.3.6 JT-06, ICMS seletivo: aliviar o essencial, onerar o luxo
+Diagnóstico: O ICMS de MS pune o essencial e alivia o luxo - 'o pobre financia o luxo do rico' (o achado mais 'plano de governo' dos videos)
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 40
+
+Evidência / dado: Carne/pao ~17%, gasolina ~25-28%; carro de luxo importado ~2-4%; herança/ITCD ~3-6% || CONFIRMADO/CORRIGIR (SEFAZ-MS): padrão 17%; gasolina 12%; carne base reduzida (~2% efetiva); ITCMD 6% (causa mortis)/3% (doação); IPVA ÚNICO 2% - NÃO ha alíquota extra p/ luxo. Logo a progressividade e PROPOSTA, não ha hoje 'luxo pagando menos que o pao' via IPVA. Alternativas: (A) manter; (B) devolver progressividade: menos no essencial, mais no supérfluo/patrimônio Critério de escolha: 'A quem mais e dado, mais e cobrado' (ver JT-01); comeca por baixo Ação (o como): Reduzir ICMS do essencial (liga com Bolso do Povo) e elevar sobre luxo/patrimônio (ITCD/IPVA progressivo, JT-02/04) Meta / indicador (KPI): Alíquota efetiva sobre cesta essencial x luxo Prioridade: Estrutural (4 anos) Fonte: Videos @economistarenato
+8.4 Interior e Infraestrutura
+9 propostas.
+8.4.1 INT-01, Pavimentar por critério de escoamento e acesso à saúde
+Diagnóstico: A riqueza do agro sai por estradas de terra; a rede estadual e majoritariamente não pavimentada Evidência / dado: Das 146 estaduais, só 20 (14%) 100% pavimentadas; 39 em leito natural (0%); pavimentação média ~35% vs ~82% das federais | Só <1% das rodovias do MS são duplicadas (MT 6%, GO 12%); 48% 'pessimas ou ruins' || || | LOA 2026: estradas/infraestrutura levam 65% de TODO o investimento do Estado (AGESUL R$1,07 bi + Fundersul R$1,04 bi), de longe a maior rubrica de investimento, e a de maior histórico de corrupção (daí o painel público de obras, COR-04). Ação (o como): Plano de pavimentação/manutenção por criterio de escoamento produtivo e acesso a saúde, comecando pelos 39 trechos de terra que ligam municípios habitados PRIORIDADE: restaurar (~R$0,9mi/km) antes de pavimentar do zero (2x mais km-bom por real); 'estradas que salvam vidas' = pavimentar leito natural que liga município a polo de saúde. | 'Estradas que salvam vidas': as 39 de terra concentram-se em Corumbá/Pantanal, Porto Murtinho, Caracol, Bela Vista, Paranhos (mesmas regiões descobertas em saúde) - recupera-las e acesso a UTI. Meta / indicador (KPI): % da malha estadual pavimentada (base 35% -> meta); nº de estaduais 0%-pav (de 39) | META pública (site): 100% de acesso pavimentado ao perimetro urbano até 2030 (28.400 km hoje não pavimentados) Custo e financiamento: INVESTIMENTO (CAPEX): pavimentação R$1,27-2,0mi/km; RESTAURAÇÃO ~R$0,9mi/km (2x mais eficiente); duplicação R$5-10mi/km. CUSTEIO (OPEX): conservação ~R$90k/km/ano (DNIT); necessidade ~R$1bi/ano (CNA). Pay-for: concessão/crédito (BIRD/BNDES)/Novo PAC p/ CAPEX; fonte pós-Fundersul p/ OPEX. Ver 'Estradas Orçamento-Fases'. Prioridade: Estrutural (4 anos) Fonte: Dados estradas (AGESUL/OSM)
+8.4.2 INT-02, Enfrentar a precariedade viária, a 2ª maior queixa da população
+Diagnóstico: A precariedade viaria e a 2a maior queixa espontanea da população Evidência / dado: Quaest 'principal problema': Saúde 32% / Estradas 11% (2o) / Violência 9%; 11% tanto na capital quanto no interior Ação (o como): (casa com INT-01)
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 41
+
+Onde já funcionou / referência: Coincide com o dado duro: 85% da malha estadual sem asfalto pleno Prioridade: Estrutural (4 anos) Fonte: Quaest mar/26 (5 municípios, +-4pp)
+8.4.3 INT-03, Interiorizar o desenvolvimento: reter a riqueza onde é gerada
+Diagnóstico: Os municípios que mais produzem riqueza per capita não ficam com a qualidade de vida a riqueza passa, não fica Evidência / dado: 5 municípios=48% do PIB; Campo Grande=32,6% da pop e ~1/4 do PIB/receita; NE industrial PIB/hab R$104mil x Pantanal R$40,9mil; desigualdade 16,9x Ação (o como): Interiorizacao do desenvolvimento; agregar valor onde a riqueza é gerada; painel público de obras (ver Corrupção) Prioridade: Estrutural (4 anos) Fonte: Dados municípios
+8.4.4 INT-04, Esgoto não é luxo: metas da Sanesul por município
+Diagnóstico: Déficit de esgoto no interior enquanto o governo anuncia universalização Evidência / dado: Governo anuncia R$722mi e '1o estado a universalizar'; bairros ainda com esgoto a ceu aberto Ação (o como): Metas da Sanesul por município, comecando pelo bairro esquecido, com cobranca de resultado (esgoto não e luxo, e saúde) Meta / indicador (KPI): % de domicilios com esgoto tratado por município Prioridade: Estrutural (4 anos) Fonte: Plano v0.7; comunicação_digital
+8.4.5 INT-05, Concorrência na compra do boi e cooperativismo no interior
+Diagnóstico: Produtor espremido: frigorífico compra o boi, gigantes da celulose compram/arrendam a terra Evidência / dado: Rebanho caiu de 25 -> 18,7 mi de cabecas; eucalipto +123%; soja +133% Ação (o como): Concorrência na compra do boi, transparência de preco, cooperativismo Onde já funcionou / referência: CUIDADO: não dizer 'a celulose matou o gado' (soja é o maior conversor de pasto); confirmar participação dos frigoríficos antes de usar 'oligopsônio' com número || CORRIGIR: rebanho caiu de ~21mi (pico 2013-15) para 18,7mi (IBGE 2024), NÃO de 25mi. Prioridade: Estrutural (4 anos) Fonte: Plano v0.7 (dossie agro)
+8.4.6 INT-06, Meta de 30% de investimento: orçamento mais banco de desenvolvimento
+Diagnóstico: O Estado investe pouco frente ao que arrecada, e de forma concentrada no leste; a execução fica abaixo do planejado Evidência / dado: Investimento direto do orçamento (grupo 4) hoje em torno de 12-14%, e execução ~8% real vs 12,4% planejado; 70% do investimento privado (celulose) no leste. O banco de desenvolvimento (ECO-05) alavanca ~R$300-500mi de capital em R$1,2-2,5bi de carteira (4-5x, Basileia). Ação (o como): Meta de 30% de INVESTIMENTO no Estado ao fim do mandato, medida de forma AMPLIADA: (1) investimento direto do orçamento, com piso de 15% da RCL; MAIS (2) aplicação de recursos alavancada pelo BANCO DE DESENVOLVIMENTO PÚBLICO do MS (ECO-05); MAIS (3)
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 42
+
+crédito (BID, BNDES, Novo PAC). O banco de desenvolvimento é o vetor que amplia o investimento além do capital do orçamento, sem onerar o custeio corrente. Inclui auditoria das PPPs (Rota da Celulose). Meta / indicador (KPI): Investimento público total (orçamento + banco de desenvolvimento + crédito) como % do orçamento; execução realizada vs planejada Onde já funcionou / referência: Suspeita de pagamento duplo por rodovias concedidas em PPP e também custeadas pelo Rodar MS-BIRD (MS-395/141/473/475) - em apuracao via LAI || A estrada boa e a estrada PAGA: concessões Rota da Celulose (870km/R$10,1bi, questionada no TJMS/STJ) e Way-112 (412km). Cobrar contrapartida de duplicação nos prazos + transparência. Prioridade: Estrutural (4 anos) Fonte: Plano v0.7; LDO
+8.4.7 INT-07, Mediar o conflito indígena-produtor e assistir os assentamentos
+Diagnóstico: O estado não média o conflito indígena-produtor nem da infraestrutura mínima aos assentamentos Evidência / dado: Ex: Dourados ~2.500 m2/pessoa em terra indígena, entre as maiores taxas de suicidio do mundo; assentamentos sem infra básica Ação (o como): Inteligência/mediação preventiva; respeito as decisões judiciais; garantir direitos dos dois lados; infra mínima nos assentamentos Onde já funcionou / referência: CUIDADO (rigor): tema sensivel; falar em mediação e direitos, não tomar lado; não usar número sem fonte Prioridade: Estrutural (4 anos) Fonte: Videos @economistarenato
+8.4.8 INT-08, “Fim das pontes de madeira”: substituição faseada por concreto
+Diagnóstico: MS tem centenas de pontes de MADEIRA na malha estadual - gargalo de segurança e de carga (limite de peso trava o escoamento do agro) Evidência / dado: 697 pontes de madeira (69% das obras de arte estaduais; 12.886 m) - AGESUL SREMS 2025 Ação (o como): Programa 'Fim das pontes de madeira' - substituicao faseada por concreto, priorizando eixos de escoamento e de acesso a saúde Meta / indicador (KPI): Nº de pontes de madeira substituidas; % de OAES em concreto Custo e financiamento: INVESTIMENTO (CAPEX): custo/ponte de concreto (~44m/ponte média); programa próprio. PRAZO: Fases 1-3. Alavancável PAC/crédito. Onde já funcionou / referência: Munição 'MS é rico, o povo atravessa em ponte de madeira' - dado oficial verificável Prioridade: Estrutural (4 anos) Fonte: AGESUL SRE-MS 2025
+8.4.9 INT-09, Definir o substituto do Fundersul para manter as estradas
+Diagnóstico: A manutenção das estradas custa ~R$1bi/ano e vem do Fundersul - que a Reforma Tributária vai EXTINGUIR (base ICMS). Sem fonte substituta, asfalto novo não se mantem: RISCO FISCAL Nº1 do tema Evidência / dado: Fundersul R$1,08bi/ano (2024), mas só 21,75% foi p/ estradas em 2025; manutenção necessária ~R$1bi/ano (CNA) | Repasse Fundersul aos municípios em 2025 = R$261,9 mi (Portal
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 43
+
+Transparência), parte do que a Reforma Tributária extingue; dimensiona a fonte substituta a vincular à manutenção viária. Alternativas: (A) ignorar; (B) criar fonte substituta vinculada + garantir que o recurso va p/ a estrada; (C) só pedagio Critério de escolha: Escolhe (B): definir o CUSTEIO da conservação ANTES de prometer pavimentação Ação (o como): Definir a fonte substituta do Fundersul na Reforma Tributária e vincula-la a manutenção viaria; transparência da destinacao (hoje só 21,75% vai p/ estrada) Meta / indicador (KPI): % da nova fonte aplicado em conservação; km conservados/ano Custo e financiamento: CUSTEIO (OPEX): ~R$1bi/ano de conservação a garantir. PRAZO: Fase 1 (decisão estrutural urgente). Onde já funcionou / referência: Fundersul só aplicou 21,75% em estradas em 2025 - munição de gestão + risco real Prioridade: Estrutural (4 anos) Fonte: Fundersul/Correio do Estado; Reforma Tributária
+8.5 Energia
+3 propostas.
+8.5.1 ENE-01, MSGÁS vira holding “MS Energia” com controle estatal
+Diagnóstico: 2a tarifa de energia mais cara do Brasil apesar de o estado ser superavitario em geracao; Energisa (ex-Enersul, privatizada 1997) extrai riqueza desproporcional do MS Evidência / dado: Reajuste 8,90% em 2025 (2o maior do país); projecao +9% em 2026; concessão até 2027 || CORRIGIR: MS NÃO e a 2a tarifa mais cara (ranking R$/kWh tem RJ/PA/PI/TO na frente). Defensavel: 2o MAIOR REAJUSTE do país em 2025 (+R$18,03/MWh); reajuste 2026 = 12,11% (ANEEL 22/04/2026); lucro Energisa-MS ~R$3,4bi em 6 anos. Ação (o como): Reposicionar a MSGAS como holding MS Energia S.A.; subsidiaria de renovaveis (solar, biomassa, hidrelétricas/PCH, biogas), controle estatal >=51%, via parcerias e Banco de Desenvolvimento do MS (ECO-05); impor concorrência a Energisa Meta / indicador (KPI): 800-1.200 MW próprios; tarifa 15-25% menor p/ industria Anel 2; dividendos ao Tesouro do 5o ano Custo e financiamento: R$4-6bi total; aporte direto do Tesouro <R$1bi em 4 anos (resto BNDES/debentures/banco de desenvolvimento) Onde já funcionou / referência: CUIDADO: usa desapropriacao por utilidade pública (DL 3.365/41) p/ latifundio ocioso - delicado no agro; calibrar exposição. Modelos CEMIG/COPEL/CELESC Prioridade: Estrutural (4 anos) Fonte: Plano v0.7; Fala do candidato 04/07/2026
+8.5.2 ENE-02, “MS Solar”: energia solar sem entrada para a baixa renda
+Diagnóstico: Família de baixa renda não tem capital para instalar energia solar Ação (o como): MS Solar: paineis em casas de baixa renda sem capex inicial; cidadão paga 70-80% da economia e fica com 20-30% de redução já no 1o mes; propriedade após 8-10 anos Meta / indicador (KPI): 50 mil instalacoes / 200 mil pessoas; conta -20-30%; 4-6 mil empregos Custo e financiamento: Capital inicial ~R$200mi; autossustentavel do 3o ano Prioridade: Estrutural (4 anos)
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 44
+
+Fonte: Plano v0.7
+8.5.3 ENE-03, Energia barata como vetor de industrialização e emprego
+Diagnóstico: O estado não usa a energia como vetor de industrialização e emprego, apesar de ter patrimônio para isso Ação (o como): Usar o patrimônio imobiliario do estado (terras) para entrar em até 50% de sociedade em usinas (solar/biomassa/hidrogenio) e dirigir energia barata a projetos industriais que paguem alto salário Meta / indicador (KPI): MW próprios dirigidos a industria; empregos industriais atraidos Custo e financiamento: Aporte via patrimônio + parcerias/banco de desenvolvimento (ECO-05) Prioridade: Estrutural (4 anos) Fonte: Videos @economistarenato; plano v0.7
+8.6 Habitação e Moradia
+6 propostas.
+8.6.1 HAB-01, Programa habitacional para ~30-35 mil famílias em 4 anos
+Diagnóstico: MS tem déficit habitacional relevante, mas o componente dominante e ônus com aluguel + coabitacao - nem tudo e 'falta de casa' Evidência / dado: ~72 mil moradias (FJP 2022); Campo Grande 25.681; fila EMHA ~36 mil famílias Alternativas: (A) só construir casa nova; (B) MIX: regularização + autoconstrucao assistida + subsídio ao MCMV + urbanização de favela; (C) só subsídio Critério de escolha: Escolhe (B): casar cada família ao instrumento de menor custo que resolve o caso Ação (o como): Programa habitacional de instrumentos combinados, com meta de ~30-35 mil famílias em 4 anos (ver aba 'Habitação Orçamento-Fases') Meta / indicador (KPI): Nº de famílias atendidas/ano; déficit reduzido Custo e financiamento: INVESTIMENTO/aporte estadual ~R$0,8-1,2 bi em 4 anos (~metade cofinanciada federal). CUSTEIO recorrente BAIXO (habitação e CAPEX/subsídio, não folha) Prioridade: Estrutural (4 anos) Fonte: FJP; AGEHAB; Estudo Habitação
+8.6.2 HAB-02, Regularização fundiária (REURB-S) em massa com os municípios
+Diagnóstico: Informalidade/posse sem título trava patrimônio e crédito; favelas espraiando (2->8 municípios entre 2010-2022) Evidência / dado: Regularização custa ~R$1,7k/título e valoriza o imóvel 30-50%; AGEHAB já fez 8.307 títulos Alternativas: (A) status quo; (B) REURB-S em massa com os municípios; (C) só casos pontuais Critério de escolha: Escolhe (B): maior alavancagem por real de todo o eixo Ação (o como): Escalar a regularização fundiaria (REURB-S) para dezenas de milhares de títulos, em cooperação com os 79 municípios Meta / indicador (KPI): Nº de títulos/ano Custo e financiamento: INVESTIMENTO baixo: ~R$1,7k/título (40 mil títulos = ~R$68mi em 4 anos). Sem custeio recorrente Prioridade: Quick-win (100 dias)
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 45
+
+Fonte: AGEHAB; Prefeitura CG (Sonho Seguro)
+8.6.3 HAB-03, “Terreno do Cidadão”: autoconstrução assistida no interior
+Diagnóstico: A casa pronta custa R$90-110k; a família pode construir com aporte menor se receber base + infra Evidência / dado: Aporte estadual ~R$20k/família (base, hidraulica, contrapiso, 1a fiada); o município doa o lote com infra Ação (o como): Ampliar o Lote Urbanizado / Terreno do Cidadão como principal via de 'construir' no interior (autoconstrucao assistida) Meta / indicador (KPI): Nº de famílias/ano iniciando a casa própria Custo e financiamento: INVESTIMENTO ~R$20k/família (15 mil famílias = ~R$300mi em 4 anos); contrapartida municipal (terreno/infra). 5x mais barato que casa pronta Prioridade: Estrutural (4 anos) Fonte: AGEHAB (Lote Urbanizado)
+8.6.4 HAB-04, Bônus Moradia complementando o Minha Casa Minha Vida
+Diagnóstico: O grosso do volume de moradia e federal (MCMV); o estado alavanca com subsídio a entrada Evidência / dado: Subsídio estadual R$25-32k/família sobre o federal (~R$55k); MCMV contratou 31,2 mil unidades em MS (R$4,68 bi, 2023-25) Ação (o como): Manter/ampliar o Bonus Moradia complementando o MCMV, priorizando a Faixa 1 (baixa renda) Meta / indicador (KPI): Nº de famílias com subsídio/ano Custo e financiamento: INVESTIMENTO/subsídio R$25-32k/família (aporte) - alavanca recurso federal + FGTS Prioridade: Estrutural (4 anos) Fonte: AGEHAB (Bonus Moradia); MCMV
+8.6.5 HAB-05, Urbanizar as comunidades precárias via Novo PAC
+Diagnóstico: MS tem o menor % de favelas do país (0,6%), mas o problema espraia para o interior e concentra precariedade Evidência / dado: 16.678 pessoas em favelas (IBGE 2022); urbanização completa ~R$103k/família (caso Novo Samambaia, co-financiado Novo PAC Periferia Viva) Ação (o como): Urbanizar as comunidades precarias (infra + equipamentos + regularização) via Novo PAC, comecando pelas maiores (Homex/CG, Santa Felicidade/Dourados) Meta / indicador (KPI): Nº de famílias/comunidades urbanizadas Custo e financiamento: INVESTIMENTO ~R$103k/família (~3.500 famílias = ~R$360mi); majoritariamente co-financiado Novo PAC Prioridade: Estrutural (4 anos) Fonte: Novo PAC Periferia Viva; IBGE 2022
+8.6.6 HAB-06, FEHIS só em habitação, com transparência e auditoria
+Diagnóstico: Ha registro de transferencia de recurso do fundo de habitação para o Tesouro - o fundo pode não estar cumprindo a finalidade
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 46
+
+Evidência / dado: R$17,5 mi transferidos do fundo de habitação para o Tesouro Estadual Ação (o como): Garantir que o FEHIS seja usado só em habitação, com transparência e auditoria; vincular a execução a metas Meta / indicador (KPI): % do FEHIS aplicado em habitação Onde já funcionou / referência: Munica de transparência; confirmar em fonte documental antes de peca Prioridade: Quick-win (100 dias) Fonte: Midiamax 2026
+8.7 Turismo
+6 propostas.
+8.7.1 TUR-01, Dobrar a fatia do turismo no PIB, com o Pantanal à frente
+Diagnóstico: MS tem dois ativos de classe mundial (Bonito e Pantanal), mas o turismo pesa só 2,46% do PIB - o 'MS é rico, o povo é pobre' aplicado ao turismo Evidência / dado: Turismo 2,46% do PIB; R$2,36bi valor adicionado; ~88 mil empregos; R$21,6bi de movimento na cadeia (Matriz FundturMS, base ~2019) Ação (o como): Meta de DOBRAR a fatia do turismo no PIB, com o Pantanal como maior potencial não realizado (ver aba de fases) Meta / indicador (KPI): % do turismo no PIB; empregos; fluxo de turistas Custo e financiamento: CAPEX de infraestrutura (federal/BID/crédito) + OPEX de promoção (hoje subdimensionado). Ver 'Turismo Orçamento-Fases' Prioridade: Estrutural (4 anos) Fonte: Matriz FundturMS; Observatório do Turismo MS
+8.7.2 TUR-02, Destravar o acesso ao Pantanal e a Corumbá
+Diagnóstico: O Pantanal/Corumbá e ativo UNESCO subexplorado - capta uma fracao de Bonito, apesar de ser maior; e onde cada real rende mais Evidência / dado: Bonito 293-313 mil turistas/ano; Corumbá (PIB R$4,19bi) recebe fluxo proporcionalmente muito menor; +73 mil estrangeiros em MS (2024) Ação (o como): Destravar o acesso ao Pantanal/Corumbá (estrada-parque, aeroporto) + promoção internacional Meta / indicador (KPI): Fluxo de turistas em Corumbá/Pantanal Custo e financiamento: INVESTIMENTO (CAPEX): acesso ~R$100-300mi (alavancável BID/PRODETUR). PRAZO: Fase 2 Onde já funcionou / referência: Bonito e o modelo de eficiência; o Pantanal é o maior retorno marginal Prioridade: Estrutural (4 anos) Fonte: Observatório Turismo MS; mapa_cidades
+8.7.3 TUR-03, Promoção internacional pela Rota Bioceânica
+Diagnóstico: 73 mil estrangeiros e pouco para um estado fronteirico com dois icones globais; falta promoção internacional Evidência / dado: Rota Bioceânica (ponte US$102,6mi federal, fim 2026): projecao oficial de +30% no turismo no 1o ano, +70% no 2o
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 47
+
+Ação (o como): Ampliar a promoção internacional via Rota Bioceânica (eixo andino/asiático + Paraguai) - o CAPEX pesado (ponte) e federal Meta / indicador (KPI): Nº de turistas estrangeiros; ocupação na baixa temporada Custo e financiamento: OPEX de promoção (barato); alavanca CAPEX federal já em curso. PRAZO: Fase 1 (maior retorno/custo) Prioridade: Quick-win (100 dias) Fonte: Gov-MS / Rota Bioceânica
+8.7.4 TUR-04, Replicar o “modelo Bonito” e distribuir a demanda
+Diagnóstico: Dependencia de um só destino (Bonito, que já recuou 7% em 2024); o modelo de gestão de fluxo não foi replicado Ação (o como): Replicar o 'modelo Bonito' (governanca + voucher/observatório) em Jardim, Bodoquena, Miranda e Costa Leste - distribui a demanda Meta / indicador (KPI): Nº de destinos com gestão de fluxo estruturada Custo e financiamento: CAPEX baixo (sinalizacao, centros de visitantes); OPEX de estruturacao. PRAZO: Fase 1 Prioridade: Estrutural (4 anos) Fonte: OTEB (modelo Bonito)
+8.7.5 TUR-05, Turismo de negócios (MICE) contra a sazonalidade
+Diagnóstico: Sazonalidade gera ociosidade hoteleira na baixa temporada Ação (o como): Calendário de eventos + turismo de negocios (MICE) em Campo Grande - o MICE gasta ~3x o lazer e usa a hotelaria ociosa Meta / indicador (KPI): Ocupação hoteleira na baixa; nº de eventos/ano Custo e financiamento: OPEX puro (editais); retorno rapido. PRAZO: Fase 2 Prioridade: Estrutural (4 anos) Fonte: Observatório Turismo MS
+8.7.6 TUR-06, Ampliar o FUNDTUR e decidir a promoção por dado
+Diagnóstico: O fundo estadual de promoção (FUNDTUR ~R$12,7mi/ano) e pequeno demais para o tamanho do patrimônio Ação (o como): Ampliar o OPEX de promoção e decidir por dado (Observatório/Alumia/Matriz - base acima da média nacional) Meta / indicador (KPI): Orçamento de promoção/ano; ROI de marketing Custo e financiamento: OPEX de promoção (hoje ~R$12,7mi, subdimensionado). PRAZO: Fase 1 Onde já funcionou / referência: O Observatório/Alumia são ativo raro - diferencial técnico do 'economista que traduz' Prioridade: Estrutural (4 anos) Fonte: FUNDTUR-MS
+8.8 Meio Ambiente e Pantanal
+6 propostas.
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 48
+
+8.8.1 AMB-01, Brigada permanente e manejo do fogo, via Fundo Amazônia
+Diagnóstico: O Pantanal queimou catastroficamente (2020 ~4,5mi ha/17mi animais; 2024 ~1,9mi ha, junho recorde, pior seca do rio Paraguai em 124 anos) - a resposta tem que ser PREVENÇÃO, não só apagar Evidência / dado: Corumbá o mais atingido; prejuizo 2020 ~US$123mi. Com prevenção, área queimada CAIU 91% em 2025 (MMA) Alternativas: (A) só combate emergencial; (B) brigada permanente + manejo integrado do fogo (prevenção); (C) depender do federal Critério de escolha: Escolhe (B): prevenir sai mais barato que remediar (prejuizo 2020 > pacote federal inteiro) Ação (o como): Brigada estadual PERMANENTE + manejo integrado do fogo; acessar o Fundo Amazonia (que passou a financiar o Pantanal) Meta / indicador (KPI): Área queimada/ano; focos de calor; nº de brigadistas permanentes Custo e financiamento: INVESTIMENTO (CAPEX): equipamento/aeronaves ~R$30-60mi. CUSTEIO (OPEX): brigada + fiscais ~R$30-60mi/ano. Pay-for: FUNDO AMAZONIA (R$150mi p/ Cerrado/Pantanal, MS incluido, 2025) + Fundo Clima. PRAZO: Fase 1 Onde já funcionou / referência: 91% de área queimada em 2025 = prevenção funciona Prioridade: Quick-win (100 dias) Fonte: MapBiomas; MMA/Fundo Amazonia
+8.8.2 AMB-02, Escalar o PSA e monetizar o carbono do Pantanal
+Diagnóstico: A conservação já comecou a pagar, mas o valor não compete com a conversão e o carbono e subexplorado Evidência / dado: PSA Pantanal lancado 2025: R$55,47/ha/ano (teto R$100k/propriedade), meta R$1,4bi até 2030 (Fundo Clima Pantanal). Potencial de carbono >1,2mi ha (REDD+ Serra do Amolar já certificou 135 mil ha, Verra) Ação (o como): Escalar o PSA para valor que compita com a renda da conversão (financiado por carbono, não só pelo tesouro); o Estado como FACILITADOR da certificação de carbono nos 1,2mi ha Meta / indicador (KPI): Nº de ha em PSA; R$/ha; toneladas de CO2e certificadas Custo e financiamento: OPEX do PSA (Fundo Clima Pantanal R$1,4bi/2030) + receita de carbono. Alavancável Floresta Viva (BNDES+Petrobras, R$42mi inclui MS) Onde já funcionou / referência: 'Conservação que paga': PSA + carbono + turismo (liga com eixo 13) Prioridade: Estrutural (4 anos) Fonte: SEMADESC (PSA Pantanal); IHP (REDD+)
+8.8.3 AMB-03, Qualificar o ICMS Ecológico premiando a conservação
+Diagnóstico: MS distribui ICMS Ecológico, mas com desenho inferior ao do Parana (que premia melhor biodiversidade e mananciais) Evidência / dado: MS distribui ~R$154,7mi/ano de ICMS Ecológico a ~73 municípios; o PR (menor, sem Pantanal) distribui ~R$255mi com 2,5% biodiversidade + 2,5% mananciais | O ICMS Ecológico é uma fatia da cota municipal de ICMS (R$4,385 bi repassados em 2025), qualificar o critério ambiental redistribui DENTRO dessa base, sem custo novo ao Tesouro. Ação (o como): Qualificar o ICMS Ecológico: elevar o peso do criterio ambiental, premiar manejo do fogo e UCs efetivas, vincular parte a água
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 49
+
+Meta / indicador (KPI): R$ do ICMS Ecológico condicionado a resultado ambiental Custo e financiamento: NEUTRO (e redistribuicao da cota municipal do ICMS, não gasto novo) Onde já funcionou / referência: Modelo Parana (LC 59/1991) Prioridade: Estrutural (4 anos) Fonte: IMASUL; AEN-PR
+8.8.4 AMB-04, Reestruturar o IMASUL: agilidade com fiscalização
+Diagnóstico: O IMASUL esta sucateado - trava tanto o agro (lentidao no licenciamento) quanto a fiscalização (permissividade) Evidência / dado: 106 fiscais/analistas para todo o estado (18 anos sem concurso); concurso de 99 vagas em 2024 Ação (o como): Empossar o concurso, manter o licenciamento digital e definir prazos maximos agilidade COM fiscalização Meta / indicador (KPI): Tempo médio de licença; nº de fiscais em campo; backlog de processos Custo e financiamento: CUSTEIO (OPEX): folha dos novos servidores. PRAZO: Fase 1 Prioridade: Quick-win (100 dias) Fonte: IMASUL 2024
+8.8.5 AMB-05, Regulamentar a Lei do Pantanal com produtores e ambientalistas
+Diagnóstico: A Lei do Pantanal precisa de regulamentação completa - o zoneamento agroecologicoeconômico e o elo frouxo (risco de judicializacao); MS ficou atras de MT em proteção Evidência / dado: Lei 6.160/2023 (CORRIGIR: não e 5.867/2022), em vigor desde fev/2024; criou o Fundo Clima Pantanal (base do PSA); regulamentação do zoneamento pendente Ação (o como): Concluir a regulamentação com produtores e ambientalistas; pecuária extensiva sustentável e agricultura familiar permitidas; fogo só com licença Meta / indicador (KPI): Zoneamento publicado; % da AUR-Pantanal zoneada Custo e financiamento: Baixo (gestão/normatizacao) Onde já funcionou / referência: CUIDADO: usar 'Lei 6.160/2023', nunca '5.867/2022' (adversario exploraria o erro) Prioridade: Estrutural (4 anos) Fonte: Lei 6.160/2023 (DO-MS)
+8.8.6 AMB-06, Salvar o Cerrado: recuperar pastagem em vez de abrir área
+Diagnóstico: O Cerrado - não o Pantanal - e o bioma mais devastado de MS, e o mais esquecido no debate Evidência / dado: Cerrado e 61% de MS e só ~25% ainda nativo (2o pior do país); eucalipto explodiu (1,5mi ha, +436% em 14 anos, o que mais cresce no Brasil, no 'Vale da Celulose' Três Lagoas-RibasÁgua Clara); soja 4,5mi ha Ação (o como): Monitorar e conter conversão ilegal; RECUPERAR PASTAGEM DEGRADADA (produtivo) em vez de abrir área nova; PSA/carbono para o Cerrado remanescente Meta / indicador (KPI): Ha de Cerrado nativo conservado; ha de pastagem recuperada Custo e financiamento: Recuperar pastagem ~R$1-2k/ha (produtivo, barato) vs restaurar nativa ~R$515k/ha. Alavancável crédito/carbono/Floresta Viva
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 50
+
+Onde já funcionou / referência: MS já e o estado que menos desmata ilegalmente - a pressão e a conversão LEGAL de Cerrado Prioridade: Estrutural (4 anos) Fonte: MapBiomas; SEMADESC
+8.9 Agricultura Familiar e Pequeno Produtor
+5 propostas.
+8.9.1 AGF-01, Favorecer o pequeno produtor: alto impacto social, baixo custo
+Diagnóstico: 6 em cada 10 propriedades de MS são pequenas/familiares, mas o discurso e o orçamento vao para o grande agro; o pequeno de MS e pecuarista/leiteiro - o elo mais espremido Evidência / dado: 43.223 estabelecimentos familiares = 61% (Censo Agro 2017); MS GANHOU +2.969 (contra queda nacional); pecuária familiar 26.473 estab. Ação (o como): Programa de favorecimento do pequeno com instrumentos combinados (ver aba de fases) - alto impacto social, baixo custo Meta / indicador (KPI): Nº de famílias atendidas; renda do pequeno Custo e financiamento: Eixo BARATO: sobretudo OPEX de ATER + compras públicas; CAPEX pontual. Ver 'Agricultura Familiar Orçamento-Fases' Prioridade: Estrutural (4 anos) Fonte: IBGE Censo Agro 2017; SEMADESC
+8.9.2 AGF-02, Comprar da agricultura familiar (PNAE 60%, dobrar o PAA)
+Diagnóstico: O pequeno é refém do oligopsônio (frigorífico/laticínio dita o preco); recebe menos e vende cru Evidência / dado: Leite R$2,38/litro vs R$2,80 'Média Brasil' (-15%); produção de leite -11,2% (2023); MS exporta boi e importa leite Alternativas: (A) status quo; (B) comprar do pequeno com dinheiro público (PNAE/PAA) - renda garantida sem depender do oligopsônio; (C) só subsídio Critério de escolha: Escolhe (B): a alavanca mais barata e poderosa Ação (o como): Travar o PNAE no teto (>=45%, mirar 60%) e DOBRAR o PAA estadual (Ponte Inclusiva); meta pública auditável de % comprado da AF por município Meta / indicador (KPI): % comprado da agricultura familiar (PNAE/PAA) Custo e financiamento: OPEX quase custo zero: +R$15-25mi/ano (PAA); PNAE e federal (FNDE). PRAZO: Fase 1 Onde já funcionou / referência: PAA Ponte Inclusiva já executou >R$21,8mi desde 2021 - estrutura pronta Prioridade: Quick-win (100 dias) Fonte: FNDE/PNAE; SEMADESC (PAA)
+8.9.3 AGF-03, ATER de verdade: +360 técnicos no cinturão pobre
+Diagnóstico: A assistencia técnica (ATER) não chega: sem ela não ha produtividade nem acesso a crédito Evidência / dado: AGRAER ~500 profissionais para 43 mil famílias = 1 técnico: 86 famílias (metade do padrão 1:50)
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 51
+
+Ação (o como): ATER de verdade: ~360 técnicos de campo a mais (1:50), priorizando o cinturao pobre (Aquidauana, Miranda, Ladário, fronteira sul, assentamentos) Meta / indicador (KPI): Relacao técnico:família; nº de famílias assistidas Custo e financiamento: CUSTEIO (OPEX): ~360 técnicos x R$150k = ~R$54mi/ano. PRAZO: Fase 2. Alavancável ANATER Prioridade: Estrutural (4 anos) Fonte: AGRAER-MS
+8.9.4 AGF-04, Selo e mini-laticínios para o pequeno industrializar
+Diagnóstico: Sem selo de inspeccao agil, o queijo/embutido/mel familiar e informal e não entra na merenda nem no mercado Evidência / dado: SIE/IAGRO com equivalencia SISBI/SUASA permite vender em todo o Brasil - mas depende de SIE agil Ação (o como): Rede de mini-laticínios/agroindustrias cooperativas + SIE rapido, para o pequeno INDUSTRIALIZAR e vender direto (merenda, mercado nacional) em vez de entregar leite cru barato Meta / indicador (KPI): Nº de agroindustrias familiares com SIE; % de produção industrializada localmente Custo e financiamento: INVESTIMENTO (CAPEX): ~R$8mi (10 mini-laticínios) + SIE (CAPEX baixo, alto retorno). PRAZO: Fase 2 Onde já funcionou / referência: Quebra o oligopsônio pela verticalização (liga com Economia ECO-11) Prioridade: Estrutural (4 anos) Fonte: IAGRO (SIE/SISBI)
+8.9.5 AGF-05, Fundo de garantia e compra coletiva de insumo
+Diagnóstico: O pequeno paga caro no insumo (fertilizante ~40% do custo) e não tem crédito/garantia Ação (o como): Fundo estadual de garantia + compra coletiva de insumo via cooperativa (escala coletiva atacando o custo do fertilizante) Meta / indicador (KPI): Volume de crédito ao pequeno; custo de insumo por cooperativa Custo e financiamento: CAPEX (capital do fundo) + OPEX ~R$10-20mi/ano. PRAZO: Fase 3. Complementa PRONAF federal Prioridade: Estrutural (4 anos) Fonte: PRONAF; cooperativas
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 52
+
+9. Arcabouço Fiscal (Financiamento)
+De onde sai o dinheiro. As âncoras da LDO 2026 e o fechamento das contas do plano.
+
+Item
+Receita Total 2026 (exceto RPPS) Receita Tributária (LOA 2026) Receita Corrente Liquida (RCL) 2026 RENÚNCIA de ICMS 2026
+
+Valor R$ 23,86 bi
+R$ 22,31 bi R$ 22,59 bi
+R$ 11,95 bi/ano
+
+Pessoal / RCL 2026 Duodécimos (órgãos de controle) Déficit RPPS 2024 Resultado Primário 2026 (sem RPPS) Resultado Nominal 2026 (sem RPPS) Margem de expansão de despesa (DOCC) Divida Consolidada Liquida (DCL) FECHAMENTO DO PLANO (v0.7) --Espaco fiscal bruto (4 anos)
+
+51,97% ~R$ 3,5 bi/ano (14%) R$ 1,842 bi R$ 207,3 mi R$ 879,9 mi R$ 44,5 mi R$ 5,66 bi
+R$ 20,81 bi
+
+(-) Desoneracao popular (Pilar 1) (=) SALDO LÍQUIDO p/ investir
+
+R$ 3,18 bi R$ 17,63 bi
+
+Observação / uso Tamanho do bolo
+Base da arrecadação Referência dos limites (LRF, duodécimos)
+MAIOR pay-for: Construção R$6bi + Agro R$3,75bi = 82%. Capturar só a parcela regressiva/não fiscalizada Acima do teto LRF (49%) - pressão a atacar GES-02: devolucao de saldo por eficiência
+GES-03: aporte do Tesouro ~R$1bi/ano REALISMO: deficitario sem a previdência
+Estado se endivida ~R$880mi/ano
+NEGATIVA: nova despesa exige cortar antes
+Baixa vs teto LRF (DCL/RCL ~25%)
+(soma das reformas, 4 anos)
+Supersalários + duodécimos + custeio + progressividade + pentefino Gas, luz, carne, cesta, RENAME, internet, água
+Saúde, polícia, educação, previdência, infraestrutura, FDP
+
+Leitura: as duas grandes rampas do plano não brigam pelo custeio corrente. A aplicação em saúde sobe por trajetória, de ~12% para 18-20% do orçamento (+2 pontos/ano, cada ponto ~R$ 195 mi/ano), financiada capturando fração da renúncia de ICMS e dos cortes; um salto em bloco é que seria inviável. E o investimento do Estado, ampliado pelo banco de desenvolvimento público (ECO-05, INT-06), mira 30% somando orçamento e crédito, que é conta de capital e não disputa o custeio.
+O que o orçamento oficial revela:
+Dos R$ 3,44 bilhões de investimento do Estado, 65% vão para estradas e infraestrutura (AGESUL R$ 1,07 bi + Fundersul R$ 1,04 bi), enquanto saúde e educação recebem apenas cerca de 4,6% cada (~R$ 157-159 mi). O Estado investe em asfalto, não em gente, e a própria LDO projeta o investimento encolhendo (de 15,1% para 14,5% da RCL até 2028), com pessoal travado em ~52%. É a tese deste plano, o MS é rico, o povo é pobre, escrita no orçamento oficial.
+
+10. Governança e Implementação
+A execução separa vitórias rápidas (primeiros 100 dias) de reformas estruturais (horizonte de 4 anos).
+10.1 Primeiros 100 dias (quick-wins)
+• ECO-04, Revisar incentivos e fazer orçamento por prioridade • ECO-07, Cadastro público anual dos beneficiários de ICMS • BP-01, ICMS zero no gás de cozinha para famílias do CadÚnico
+
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 53
+
+• BP-02, Energia: isenção até 150 kWh e faixas progressivas de ICMS • BP-04, ICMS zero na cesta básica, mirando reduzir o custo até 50% • SAU-02, Plano emergencial para desafogar a Santa Casa de Campo Grande • SAU-03, Pôr em uso a estrutura de saúde que já existe • SAU-04, Normalizar as UPAs em cooperação com os municípios • SAU-11, Método antes de privatizar: auditar a demanda e ouvir a população • SAU-13, Pôr o ativo próprio em operação e acabar com aluguéis suspeitos • SEG-02, Central integrada de inteligência para “seguir o dinheiro” • SEG-06, Política estadual de enfrentamento ao feminicídio • SEG-07, Meta de redução do crime por região, cobrada por resultado • COR-03, Combater fraude em atestados médicos com perícia • COR-04, Painel público de toda obra, fiscalizável do celular • COR-15, Vedar o nepotismo como régua pública de integridade • COR-16, Transparência total da verba de publicidade oficial • COR-19, Painéis públicos de contas (físicos e QR) em todo o Estado • COR-22, Canal 157: tira-dúvidas de contas públicas e corrupção • GES-07, Governador que fiscaliza o caixa, não a inauguração • EDU-05, EJA e alfabetização de idosos com igrejas e comunidades • HAB-02, Regularização fundiária (REURB-S) em massa com os municípios • HAB-06, FEHIS só em habitação, com transparência e auditoria • TUR-03, Promoção internacional pela Rota Bioceânica • AMB-01, Brigada permanente e manejo do fogo, via Fundo Amazônia • AMB-04, Reestruturar o IMASUL: agilidade com fiscalização • AGF-02, Comprar da agricultura familiar (PNAE 60%, dobrar o PAA)
+10.2 Reformas estruturais (4 anos)
+As demais propostas seguem sequenciadas por dependência e impacto fiscal, ancoradas no arcabouço da seção 9. O corte de privilégios (supersalários, comissionados, propaganda) financia a expansão de saúde, segurança e infraestrutura.
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 54
+
+Anexo A, Registro de Casos (Combate à Corrupção)
+Munição verificada. Presunção de inocência; usar sempre “investigado / réu / condenado em 1ª instância / preso e depois solto”. Nunca somar valor documentado com estimativa.
+
+Caso
+Vostok - propina JBS
+
+Órgão / Gestão
+Governo (R. Azambuja)
+
+Lama Asfaltica
+
+SEINFRA (Puccinelli)
+
+Aquario do Pantanal
+
+SEINFRA (Puccinelli)
+
+Buraco Sem Fim
+
+Agesul (Fiorese)
+
+Cascalhos de Areia
+
+Obras / ALS
+
+Pacote Agesul R$1,9bi
+
+Agesul (Riedel)
+
+TI
+
+Governo
+
+GEOI2/Imagetech (Azambuja)
+
+MSPrev 2017
+
+Governo (Azambuja)
+
+Fraudes DetranMS
+
+Detran-MS
+
+ESTIMATIVA: piso documentado (3 governos) ~R$985miR$1,2bi. Ordem de grandeza (auditoria 10-20% sobre obras/compras) = R$350700mi/ano. NUNCA somar os dois.
+
+Ano 201416
+201114
+200817+
+201825
+2023
+2026
+201521
+2017
+201924
+
+Valor R$
+R$67,7mi propina + R$209,7mi incentivo; R$277mi bloqueados
+Dano denunciado R$308,8mi; núcleo Amorim: desvio R$5,1mi
+Licitado R$84mi -> ~R$234mi sem inaugurar; +245% num serviço Rial R$113,7mi; 3,7% executado num trecho; R$429mil em espécie Prejuizo denunciado R$7,3mi
+R$1,9bi em 5 concorrencias; indicio de simulacao (desagio 0,92%) R$117,9mi em contratos de TI (mesmas empresas/endereco) Fundo ~R$400mi extinto; alíquota 11>14%
++4.000 fraudes em 5 anos; valor global
+
+Status
+Reu; AP 980 trancada por Toffoli (revelada 02/06/2026); sem condenacao Puccinelli absolvido em uma ação; núcleo Amorim condenado 1a inst. Bloqueios; superfaturamento apontado pelo MP
+7 presos maio/2026 e depois soltos; Rial proibida de licitar Andre L. Santos condenado 5 anos (2025, não transitado), solto Habilitação; representação TCE/CADE; sem ilicito provado TAC enterrou investigacoes; sem ação penal
+Ato de GESTÃO NÃO e corrupção; usar como munição fiscal Operações; despachante preso e depois solto; sem condenacao
+
+Marca
+VER (fato) / ALEG (propina)
+VER / ALEG
+VER (custo) / indicio
+VER / ALEG
+VER (cond. 1a inst.)
+VER (valores) / ALEG (cartel) VER / ALEG
+VER (gestão)
+VER / ALEG
+
+Fonte MPF/PGR; O Jacare
+MPF-MS; O Jacare
+Capital News; MP-MS Correio do Estado
+Dossie/imprensa MPE Impugnacao Agesul Midiamax 2021
+MS Noticias
+Midiamax 2026
+
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 55
+
+Anexo B, Metas Públicas (compromissos já divulgados)
+Metas públicas do candidato (site). Onde conflita com a LDO 2026, prevalece a LDO.
+
+Área Estradas
+
+Indicador atual
+71% dos municípios com >50% de estrada de chao; 28.400 km não pavimentados
+
+Meta / compromisso
+100% de acesso pavimentado ao perimetro urbano até 2030
+
+Saúde - cobertura Saúde - leitos Saúde mortalidade Segurança
+Finanças - pessoal
+
+Atenção básica 64,2% 2,1 leitos SUS / mil hab Mortalidade infantil 12,4
+Homicídio 18,7/100k (2024, EM QUEDA, ~20o); 21% dos homicídios na fronteira (12% da pop); feminicidio 3,14/100k mulheres; déficit prisional 88% 51,8% da RCL (abr/2025)
+
+85% em 4 anos 3,0 / mil hab (reduzir) (reduzir homicídios)
+Manter < 54% da RCL
+
+Finanças primário Finanças - divida
+Finanças - receita
+Agro
+
+R$0,34 bi (2024)
+
+Positivo nos 4 anos
+
+DCL R$8,7 bi (abr/2025)
+
+Receita liquida R$14,2 bi (2024)
+
+PIB agropecuário R$31,4 bi (cerca de 13-14% do PIB estadual); a cadeia ampla do agronegócio chega a ~23%; exportações US$5,8 bi
+
+Obs Coerente com dados de estradas (85% da malha estadual sem asfalto pleno)
+LDO 2026: 51,97% (mais atual); atenção ao teto LRF de 49% LDO 2026: -R$207mi sem RPPS (mais atual) USAR LDO 2026: DCL R$5,66 bi USAR LDO 2026: RCL R$22,59 bi Base da tese 'MS é rico'
+
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 56
+
+Anexo C, Programas faseados e orçamento (investimento × custeio)
+Cada estudo temático vira um programa orçado e faseado, separando investimento (CAPEX) de custeio (OPEX), com prazo, respeitando o orçamento anual limitado. Fundamentação nos estudos: Saúde, Habitação, Segurança, Estradas, Educação, Turismo, Meio Ambiente/Pantanal e Agricultura Familiar.
+
+Saúde
+Por que faseado: o orçamento anual é limitado; elevar a aplicação em saúde para 18-20% de uma vez pressionaria demais o saldo. A trajetória de +2 pontos/ano (~R$195mi por ponto) casa a rampa de CUSTEIO com a capacidade fiscal; o INVESTIMENTO pesado (leitos/oncologia) sai de crédito/Novo PAC, não do custeio corrente. Fundamentação: Estudo_Saúde_MS_demanda_custeio.md.
+
+Fase / Prazo
+Fase 1-100 dias / Ano 1 (emergência + base)
+Fase 2, Anos 2-3 (APS plena + UTI regional)
+Fase 3, Ano 4 + legado (alta complexidade descentralizada) TOTAL (4 anos)
+
+Ação
+Reequilibrio dos hospitaisancora (Santa Casa CG + Corumbá); ativar estruturas ociosas do interior; normalizar UPAs com municípios; renegociar divida legada (~R$250mi, estoque) Universalizar APS (85%>100%, ~138 equipes ESF + 50-100 UBS); UTI no interior (+100-150 leitos, foco Pantanal/Dourados/Costa Leste); concluir obras iniciadas (HU Três Lagoas, HRD 192) Fechar déficit de leitos rumo a 2,5-3/mil (co-financiado Novo PAC); oncologia no interior (1-2 aceleradores); consolidar rede 24h regionalizada Programa Saúde completo (Fases 1-3)
+
+Investimento (CAPEX) ~R$100-200 mi (reformas / reativacao)
+~R$200-400 mi (UBS + UTI + conclusão de obras)
+~R$0,5-1,2 bi (leitos + oncologia; plurianual, maioria Novo PAC/crédito)
+~R$0,8-1,8 bi CAPEX
+
+Custeio (OPEX)/ano +R$250-380 mi/ano
++R$300-500 mi/ano
++R$200-350 mi/ano
+~R$0,8-1,0 bi/ano OPEX no pleno
+
+Financiamento
+1o ponto do orçamento (~R$195mi) + fundoa-fundo federal + repactuação SUS
+2o/3o pontos (~R$390-585mi acum.) + capitacao federal (APS) + Novo PAC (obras)
+4o ponto (~R$780mi acum.) + Novo PAC + crédito (BNDES/FINISA)
+Estadual (trajetoria +2pts/ano) + federal fundo-a-fundo + Novo PAC + crédito
+
+Habitação
+Habitação difere de saúde/segurança: e quase toda INVESTIMENTO/SUBSÍDIO pontual, com custeio recorrente mínimo (não pesa na rigidez futura). O aporte estadual alavanca o federal (cada R$25-32k mobiliza ~R$55k MCMV + FGTS). Regularização (Fase 1) entrega número alto a custo baixissimo. Fonte: Estudo_Habitação_MS_demanda_custeio.md.
+
+Fase / Prazo
+
+Ação
+
+Fase 1, Ano 1 Fase 2, Anos 2-3 Fase 3, Ano 4
+
+Regularização fundiaria em massa (barata, quick-win) + ampliar Lote Urbanizado; integrar cadastro Habix ao MCMV
+Escalar autoconstrucao assistida + subsídio complementar ao MCMV; iniciar urbanização de favelas
+Consolidar urbanização de comunidades + fechar meta de redução do déficit
+
+Investimento (CAPEX) ~R$150-250 mi
+~R$350-550 mi
+~R$300-400 mi
+
+Custeio (OPEX)/ano
+Baixo (operação AGEHAB)
+
+Financiamento
+Estadual (FEHIS) + municipal (terra)
+
+Baixo
+
+FEHIS + MCMV (federal) + Novo PAC
+
+Baixo
+
+Novo PAC + FEHIS + crédito
+
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 57
+
+TOTAL (4 anos)
+
+~30-35 mil famílias atendidas (~metade do déficit)
+
+~R$0,8-1,2 bi (aporte estadual; ~metade co-financiada)
+
+Recorrente mínimo
+
+Estadual + MCMV + PAC + municipal
+
+Segurança
+Segurança e o INVERSO da habitação: majoritariamente CUSTEIO PERMANENTE (folha) que recai no Tesouro estadual (FNSP/FUNPEN não pagam folha) - logo gera rigidez futura (RPPS). Sequência: primeiro o barato/altoretorno (muralha digital na fronteira, ~R$30mi, alavancável FNSP); depois a folha em rampa; o prisional (CAPEX) via FUNPEN. Fonte: Estudo_Segurança_MS_demanda_custeio.md.
+
+Fase / Prazo Fase 1, Ano 1
+Fase 2, Anos 23 Fase 3, Ano 4 + legado TOTAL (4 anos)
+
+Ação
+Concurso emergencial (1o lote +500-1.000); MURALHA DIGITAL na fronteira; bases do DOF em Ponta Porã e Corumbá; política de feminicidio Escalar concursos rumo aos 4 mil; ampliar vagas prisionais (+2-4 mil); renovar frota Completar efetivo; consolidar inteligência integrada (PM+PC+DOF) e o sistema prisional Déficit de efetivo e prisional atacados
+
+Investimento (CAPEX) ~R$100-200 mi
+~R$300-500 mi
+~R$100-300 mi
+~R$0,6-1,2 bi CAPEX
+
+Custeio (OPEX)/ano
++R$150-200 mi/ano (folha inicial)
+
+Financiamento
+Tesouro (folha) + FNSP (câmeras/viaturas)
+
++R$300-400 mi/ano
++R$500-700 mi/ano (no pleno)
+
+Tesouro (folha) + FUNPEN (vagas) + FNSP
+Tesouro (folha) + federal (investimento)
+
+~R$500-700 mi/ano OPEX no pleno
+
+Tesouro estadual (folha) + FNSP + FUNPEN
+
+Estradas
+Estradas tem CAPEX pesado (pavimentar/duplicar), financiavel por concessão/crédito/PAC, E um OPEX recorrente alto de conservação (~R$1bi/ano) que hoje vem do Fundersul - que a Reforma Tributária EXTINGUE. Definir a fonte substituta e a decisão estrutural nº1. Regra: restaurar (R$0,9mi/km) rende 2x mais que pavimentar (R$1,5-2mi/km). Fonte: Estudo_Estradas_MS_demanda_custeio.md.
+
+Fase / Prazo Fase 1, Ano 1
+Fase 2, Anos 2-3
+Fase 3, Ano 4 + legado
+TOTAL
+
+Ação
+Restaurar antes de pavimentar (corredores degradados); iniciar 'Fim das pontes de madeira'; DEFINIR a fonte substituta do Fundersul (critico) 'Estradas que salvam vidas': pavimentar leito natural que liga município a polo de saúde/escoamento; ampliar pontes de concreto Duplicação de corredores criticos (concessão transparente/crédito); consolidar manutenção sustentável Malha recuperada + custeio garantido
+
+Investimento (CAPEX)
+~R$300-600 mi (restauração + pontes)
+
+Custeio (OPEX)/ano
+Manter ~R$1 bi/ano (transição Fundersul)
+
+~R$1-2 bi (pavimentação priorizada)
+
+~R$1 bi/ano
+
+Via concessão/crédito (bilhões, fora do custeio)
+
+~R$1 bi/ano
+
+CAPEX plurianual (bilhões, majoritariamente concessão/crédito/PAC)
+
+~R$1 bi/ano de conservação
+
+Financiamento Fundersul (enquanto existir) + Novo PAC + crédito
+BIRD/BNDES + PAC + nova fonte de custeio
+Concessão + crédito + fonte pós-Fundersul
+Fonte substituta do Fundersul (estrutural) + federal + concessão
+
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 58
+
+Educação
+Educação já tem piso vinculado (25% MDE + FUNDEB) - o esforco e REALOCAR dentro do vinculado para qualidade (médio, integral, EJA) e cofinanciar creche, não criar despesa nova. O gargalo e resultado, não gasto. Fonte: Estudo_Educação_MS.
+
+Fase / Prazo Fase 1, Ano 1
+Fase 2, Anos 2-3 Fase 3, Ano 4 TOTAL
+
+Ação
+Atacar o Ensino Médio (IDEB 4,0) c/ gestão por resultado + busca ativa; EJA/alfabetização de idosos; esgoto nas escolas de alto risco Expandir tempo integral; técnico atrelado a vaga real; cofinanciar creche c/ municípios Consolidar rede integral + laboratórios/conectividade IDEB médio sobe, creche cofinanciada, analfabetismo cai
+
+Investimento (CAPEX) ~R$100-200 mi
+~R$300-500 mi
+~R$200-300 mi ~R$0,6-1,0 bi CAPEX
+
+Custeio (OPEX)/ano
++R$100-200 mi/ano
+
+Financiamento
+25% MDE + FUNDEB + salário-educação
+
++R$200-400 mi/ano
++R$300-400 mi/ano Rampa dentro dos 25% MDE + FUNDEB
+
+FUNDEB + FNDE/PAC creche + estadual
+FUNDEB + estadual
+25% constitucional + FUNDEB + FNDE
+
+Turismo
+Turismo tem custeio de promoção baixo (o gargalo e subinvestir em marketing) + CAPEX de infraestrutura alavancável com federal/BID/crédito. Maior retorno: promoção (OPEX barato) + destravar o acesso ao Pantanal. Fonte: Estudo_Turismo_MS.
+
+Fase / Prazo Fase 1, Ano 1
+Fase 2, Anos 2-3 Fase 3, Ano 4 TOTAL
+
+Ação
+Ampliar promoção internacional via Rota Bioceânica; decisão por dado (Observatório/Alumia); replicar modelo Bonito no entorno Destravar acesso ao Pantanal/Corumbá (estradaparque, aeroporto); MICE em CG Consolidar rede + hotelaria (crédito FUNGETUR); marketing andino/asiático Dobrar a fatia do turismo no PIB
+
+Investimento (CAPEX) ~R$20-50 mi
+~R$100-300 mi
+Via crédito privado (fora do orçamento) CAPEX moderado (federal/BID/crédito)
+
+Custeio (OPEX)/ano
++R$20-40 mi/ano (promoção)
+
+Financiamento
+FUNDTUR + Min.Turismo + privado
+
++R$30-50 mi/ano
+
+BID/PRODETUR + estadual + concessão
+
+Manutenção da promoção
+Promoção a ampliar (hoje ~R$12,7mi)
+
+FUNGETUR (privado) + PPP
+FUNDTUR + FUNGETUR + BID + Min.Turismo
+
+Meio Ambiente
+Conservação que paga: o custo estadual e baixo, o pesado e federal/multilateral/privado (Fundo Amazonia, Fundo Clima, BID Pantanal, carbono, Floresta Viva). Prevenir sai mais barato que remediar (prejuizo 2020 ~US$123mi > pacote federal R$150mi; área queimada -91% em 2025). Fonte: Estudo_MeioAmbiente_Pantanal_MS.
+
+Fase / Prazo Ação
+
+Fase 1, Ano 1 Fase 2, Anos 2-
+
+Brigada estadual PERMANENTE + manejo integrado do fogo; empossar o concurso do IMASUL; acessar Fundo Amazonia
+Escalar o PSA Pantanal
+
+Investimento (CAPEX) ~R$30-60 mi (equip/aeronaves)
+Baixo (estruturacao)
+
+Custeio (OPEX)/ano +R$30-60 mi/ano (brigada+fiscais)
++R$20-50 mi/ano
+
+Financiamento Fundo Amazonia (R$150mi) + Fundo Clima + estadual
+Fundo Clima Pantanal
+
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 59
+
+3 Fase 3, Ano 4 TOTAL
+
+(R$55/ha -> competitivo) + monetizar carbono (>1,2mi ha); qualificar o ICMS Ecológico
+Regulamentar a Lei 6.160/2023 (zoneamento); recuperar pastagem degradada
+Fogo prevenido, conservação remunerada, Cerrado monitorado
+
+Via crédito/carbono
+CAPEX moderado (federal/Fundo Amazonia/BID)
+
+(PSA) Manutenção
+
++ carbono + ICMS Ecológico (neutro) + Floresta Viva
+BID Pantanal + crédito + carbono
+
+OPEX ~R$50-110 mi/ano
+
+Fundo Amazonia + Clima + PSA + carbono
+
+Agric Familiar
+Eixo barato e de alto impacto social: sobretudo OPEX de ATER e compras públicas (renda garantida) + CAPEX pontual (agroindustria/cooperativa). Instrumentos já existem - ampliar, não inventar. Favorece o MENOR, não o grande agro. Fonte: Estudo_AgriculturaFamiliar_MS.
+
+Fase / Prazo Ação
+
+Fase 1, Ano 1
+Fase 2, Anos 23
+Fase 3, Ano 4 TOTAL
+
+Comprar do pequeno (PNAE >=45%, mirar 60%; dobrar o PAA estadual); agilizar o SIE
+ATER de verdade (~360 técnicos, 1:50, cinturao pobre); rede de minilaticínios/cooperativas
+Fundo estadual de garantia + compra coletiva de insumo
+Pequeno com assistencia, mercado e selo
+
+Investimento (CAPEX) ~R$5-10 mi (SIE)
+~R$8-15 mi (agroindustrias)
+Capital do fundo
+CAPEX baixo (~R$20-40 mi)
+
+Custeio (OPEX)/ano +R$15-25 mi/ano (PAA)
++R$54 mi/ano (ATER)
+
+Financiamento
+PNAE/FNDE (federal) + PAA estadual + CONAB
+Estadual + ANATER + PRONAF
+
++R$10-20 mi/ano Estadual + crédito
+
+OPEX ~R$80-100 mi/ano
+
+Federal (PNAE/PRONAF) + estadual
+
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 60
+
+Anexo D, De onde vêm os recursos
+A regra do plano: cada real de investimento tem uma origem declarada. Este anexo mostra primeiro DE ONDE viriam as economias e quanto representam; a aplicação desses recursos (Tabela 2) será detalhada em seguida.
+
+Tabela 1, Fontes de economia (ordem de grandeza)
+Valores em regime anual, já com 13º (×13). Estimativas conservadoras, ancoradas na folha (mar/2026) e na despesa executada (2025). Em linguagem condicional: descrevem o que um governo poderia poupar reorganizando o gasto, não promessa de campanha.
+
+Fonte da economia
+Fim dos supersalários (teto sem exceções)
+Redução de 40% dos cargos comissionados Redução drástica da publicidade
+Enxugamento de eventos e patrocínios SUBTOTAL, cortes diretos de despesa Revisão da renúncia de ICMS (com contrapartida)
+
+Economia (R$/ano) R$ 0,30-0,46 bi
+R$ 0,12-0,13 bi R$ 0,05-0,06 bi
+R$ 0,02 bi ~R$ 0,5-0,7 bi/ano R$ 0,6-1,8 bi
+
+Recuperação de corrupção e desperdício
+Improdutividade e má alocação (LDO + debate)
+
+R$ 0,2-0,35 bi
+R$ 0,1-0,3 bi (estimado)
+
+SUBTOTAL, renúncia + recuperação + má alocação
+TOTAL POTENCIAL (no pleno)
+
+~R$ 0,9-2,5 bi/ano ~R$ 1,4-3,1 bi/ano
+
+Como se chega
+Excedente dos servidores ATIVOS acima do teto (folha mar/2026, ×13). Parte teórica maior inclui inativos com direito adquirido. ~1.170-1.276 cargos, concentrados no 'meio' administrativo, × folha média (R$ 8.102), ×13. De ~R$ 90 mi/ano para um piso de utilidade pública (~R$ 30 mi: saúde, segurança, campanhas essenciais). ~Metade dos ~R$ 38 mi/ano gastos com eventos. Corte de privilégio e propaganda; efeito já no 1º ano. Por setor, não linear: Construção R$ 6 bi × ~10%, Agro R$ 3,75 bi × ~5%, demais ~R$ 2,2 bi × ~15%. Prioriza o benefício SEM contrapartida verificada; faseado conforme o cadastro e a auditoria (ECO-07/08/09). Recuperar ~metade do piso documentado; destinar a saúde e estrada. Estimar e cortar improdutividade e orçamentos mal alocados. Instrumentos: a INICIATIVA DA LDO (do governador, CF art. 165) + debate público com os Poderes, sem ferir a autonomia (não corta duodécimo). Maior porte; exige lei, prazo e debate; entra em rampa no mandato. Soma conservadora, com dado verificado; cresce ao longo dos 4 anos.
+
+Nível Verificado
+Verificado Verificado
+Verificado
+Requer lei / faseado
+Meta LDO + debate
+
+Nota de rigor: os quatro primeiros itens são medidos em dado oficial (folha e despesa). A revisão da renúncia e a recuperação de desvio são de maior porte, mas exigem lei, negociação e prazo, por isso o plano é FASEADO e não conta com o total no primeiro ano. Esta tabela é o PISO verificado; a âncora de R$ 20,81 bi em 4 anos do Arcabouço Fiscal (seção 9) é o TETO, que assume captura mais agressiva da renúncia de ICMS. O plano trabalha entre o piso e o teto, escalando conforme a capacidade fiscal.
+
+Tabela 2, Aplicação dos recursos (para onde vão)
+Cada real aplicado tem origem na Tabela 1. Custeio permanente (saúde, segurança, educação) financiado por cortes + fração da renúncia; estrada corre por conta de capital/crédito, sem disputar o custeio corrente; a desoneração é a devolução do excedente ao cidadão. Valores anuais no pleno (4º ano), em rampa.
+
+Aplicação
+Saúde, trajetória de +2 pontos/ano
+Segurança, mais efetivo e
+
+Quanto (R$/ano)
+R$ 0,39 bi/ano (incremental)
+R$ 0,3-0,5 bi/ano
+
+O que entrega
+Leitos e UTI no interior, regionalização e fixação de médicos (SAU-01/05). ~R$ 195 mi por ponto do orçamento. Novos concursos, com o número calibrado
+
+Origem (Tabela 1) Cortes + renúncia
+Cortes + FNSP
+
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 61
+
+tecnologia
+Educação, efetivar o magistério Interior, estradas e pontes
+Infraestrutura e tecnologia (saúde e segurança)
+Bolso do povo, desoneração TOTAL aplicado (no pleno, faseado)
+
+R$ 0,3 bi/ano
+Capital/crédito (não custeio) Capital/crédito + ~R$ 0,2 bi/ano
+~R$ 0,8 bi/ano (R$ 3,18 bi/4 anos) ~R$ 2,0 bi/ano + capital
+
+pela capacidade fiscal e prioridade na fronteira, mais muralha digital e integração de dados (SEG-01/02), CAPEX alavancável no FNSP.
+Trocar o professor convocado (hoje 55%) por carreira; tempo integral (GES-08, EDU-02). Dentro do FUNDEB.
+Pavimentar os 39 trechos de terra e o 'fim das pontes de madeira' (INT-01/08); via crédito e Fundersul substituto.
+Leitos e equipamentos de saúde, delegacias e presídios, muralha digital e IA (SAU-01/03, SEG-01/02, GES-11). CAPEX prioritário, alavancável em FNSP/Novo PAC/crédito, casado com a meta de 30% de investimento (INT-06).
+Devolver ao cidadão: ICMS zero na cesta e no gás, faixa social de energia (Eixo Bolso do Povo).
+Custeio permanente em saúde, segurança e educação; mais efetivo e tecnologia na segurança; devolução ao povo; e estrada/infra por crédito e capital, com a tecnologia como prioridade de investimento.
+
+Cortes Capital/crédito Cortes + crédito/FNSP
+Espaço fiscal
+
+O fecho da tese: corta-se o privilégio (supersalário, comissionado, propaganda) e a renúncia sem contrapartida, e leva-se o resultado para saúde, segurança, educação e para o bolso do povo, a distância entre a riqueza gerada e a vida das pessoas, fechada em contas.
+
+Plano de Governo · Mato Grosso do Sul 2027-2030 · pág. 62
+
+
